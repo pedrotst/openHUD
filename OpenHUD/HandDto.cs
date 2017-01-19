@@ -8,9 +8,15 @@ namespace OpenHud
 {
     class HandDto
     {
-        double number;
-        DateTime dateTime;
-        TimeZone timeZone;
+        private String tableName { get; set; }
+        private String tableType { get; set; }
+
+        private float smallBlindValue { get; set; }
+        private float bigBlindValue { get; set; }
+
+        private double handNumber { get; set; }
+        DateTime dateTime { get; set; }
+        TimeZone timeZone { get; set; }
 
     }
 }
