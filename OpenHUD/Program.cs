@@ -10,7 +10,7 @@ namespace OpenHud
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GamesParser fileParser = new GamesParser(@"P:\Desv\PokerStars\HandHistory\pedroabreu1");
             Console.ReadLine();
         }
     }
