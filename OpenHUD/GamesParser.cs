@@ -27,24 +27,39 @@ namespace OpenHud
 
        private void parseHand(StreamReader file)
         {
+
             var hand = getHand(file);
-            if (!hand.Any())
-                return;
-
-            var fstLine = hand.FirstOrDefault();
-            hand.RemoveAt(0);
-
-            //get hand number
-            var regex = new Regex("#\\d*:");
-            var handNo = regex.Match(fstLine).ToString().Trim('#',':');
-            Console.WriteLine(handNo);
-
-            //get poker type
-            //get blinds value
-            //get date
-            foreach(var line in hand)
+            while (hand.Any())
             {
-                //get game
+                if (!hand.Any())
+                    return;
+
+                var fstLine = hand.First();
+                hand.RemoveAt(0);
+
+                //get hand number
+                var regex = new Regex("#\\d*:");
+                var handNo = regex.Match(fstLine).ToString().Trim('#', ':');
+
+                //get poker type
+                regex = new Regex(":.*\\(");
+                var pokerType = regex.Match(fstLine).ToString().Trim(':', '(');
+
+                //get blinds value
+                regex = new Regex("\\(.*\\)");
+                var blinds = regex.Match(fstLine).ToString().Trim('(', ')');
+
+                //get date
+                regex = new Regex("-.*");
+                var date = regex.Match(fstLine).ToString().Trim('-');
+
+                Console.WriteLine(handNo + pokerType + blinds + date);
+
+                foreach (var line in hand)
+                {
+                    //get game
+                }
+                hand = getHand(file);
             }
 
         }
