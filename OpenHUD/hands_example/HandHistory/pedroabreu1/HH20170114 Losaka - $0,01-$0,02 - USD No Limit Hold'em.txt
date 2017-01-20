@@ -1,0 +1,4787 @@
+﻿PokerStars Hand #164594424466:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:10:12 BRT [2017/01/14 22:10:12 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: rixiiXCIII ($2 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($2.15 in chips) 
+Seat 4: Samuel0124 ($2.32 in chips) 
+Seat 5: jtr1p ($0.34 in chips) 
+Seat 6: pedroabreu1 ($4.37 in chips) 
+pedroabreu1: posts small blind $0.01
+rixiiXCIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 6c]
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: raises $0.04 to $0.06
+jtr1p: calls $0.06
+pedroabreu1: folds 
+rixiiXCIII: folds 
+EggmanTuna: calls $0.04
+*** FLOP *** [Qs Ks Ts]
+EggmanTuna: checks 
+Samuel0124: bets $0.20
+jtr1p: folds 
+EggmanTuna: calls $0.20
+*** TURN *** [Qs Ks Ts] [Td]
+EggmanTuna: checks 
+Samuel0124: bets $0.59
+EggmanTuna: folds 
+Uncalled bet ($0.59) returned to Samuel0124
+Samuel0124 collected $0.59 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Qs Ks Ts Td]
+Seat 1: rixiiXCIII (big blind) folded before Flop
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna folded on the Turn
+Seat 4: Samuel0124 collected ($0.59)
+Seat 5: jtr1p (button) folded on the Flop
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594466284:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:11:49 BRT [2017/01/14 22:11:49 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: rixiiXCIII ($1.98 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($1.89 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: jtr1p ($0.28 in chips) 
+Seat 6: pedroabreu1 ($4.36 in chips) 
+rixiiXCIII: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d 2d]
+EggmanTuna: folds 
+Samuel0124: raises $0.04 to $0.06
+jtr1p: calls $0.06
+pedroabreu1: calls $0.06
+rixiiXCIII: folds 
+Miracle16: folds 
+*** FLOP *** [4d 3s 8s]
+Samuel0124: checks 
+jtr1p: checks 
+pedroabreu1: checks 
+*** TURN *** [4d 3s 8s] [Kc]
+Samuel0124: bets $0.20
+jtr1p: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.20) returned to Samuel0124
+Samuel0124 collected $0.20 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4d 3s 8s Kc]
+Seat 1: rixiiXCIII (small blind) folded before Flop
+Seat 2: Miracle16 (big blind) folded before Flop
+Seat 3: EggmanTuna folded before Flop (didn't bet)
+Seat 4: Samuel0124 collected ($0.20)
+Seat 5: jtr1p folded on the Turn
+Seat 6: pedroabreu1 (button) folded on the Turn
+
+
+
+PokerStars Hand #164594496857:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:13:01 BRT [2017/01/14 22:13:01 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: rixiiXCIII ($1.97 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($1.89 in chips) 
+Seat 4: Samuel0124 ($2.79 in chips) 
+Seat 5: jtr1p ($0.22 in chips) 
+Seat 6: pedroabreu1 ($4.30 in chips) 
+Miracle16: posts small blind $0.01
+EggmanTuna: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 8c]
+Samuel0124: raises $0.04 to $0.06
+jtr1p: folds 
+pedroabreu1: folds 
+rixiiXCIII: folds 
+Miracle16: raises $0.14 to $0.20
+EggmanTuna: folds 
+Samuel0124: raises $2.59 to $2.79 and is all-in
+Miracle16: calls $1.80 and is all-in
+Uncalled bet ($0.79) returned to Samuel0124
+*** FLOP *** [5d Ah Ac]
+*** TURN *** [5d Ah Ac] [2c]
+*** RIVER *** [5d Ah Ac 2c] [8d]
+*** SHOW DOWN ***
+Miracle16: shows [Jd Js] (two pair, Aces and Jacks)
+Samuel0124: shows [Qd Qc] (two pair, Aces and Queens)
+Samuel0124 collected $3.88 from pot
+*** SUMMARY ***
+Total pot $4.02 | Rake $0.14 
+Board [5d Ah Ac 2c 8d]
+Seat 1: rixiiXCIII (button) folded before Flop (didn't bet)
+Seat 2: Miracle16 (small blind) showed [Jd Js] and lost with two pair, Aces and Jacks
+Seat 3: EggmanTuna (big blind) folded before Flop
+Seat 4: Samuel0124 showed [Qd Qc] and won ($3.88) with two pair, Aces and Queens
+Seat 5: jtr1p folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594516576:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:13:47 BRT [2017/01/14 22:13:47 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: rixiiXCIII ($1.97 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($1.87 in chips) 
+Seat 4: Samuel0124 ($4.67 in chips) 
+Seat 5: jtr1p ($0.22 in chips) 
+Seat 6: pedroabreu1 ($4.30 in chips) 
+EggmanTuna: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 7s]
+jtr1p: calls $0.02
+pedroabreu1: folds 
+rixiiXCIII: raises $0.04 to $0.06
+Miracle16: folds 
+EggmanTuna: calls $0.05
+Samuel0124: folds 
+jtr1p: calls $0.04
+*** FLOP *** [Ah Jh 4s]
+EggmanTuna: checks 
+jtr1p: checks 
+rixiiXCIII: checks 
+*** TURN *** [Ah Jh 4s] [Ac]
+EggmanTuna: bets $0.02
+jtr1p: folds 
+rixiiXCIII: calls $0.02
+*** RIVER *** [Ah Jh 4s Ac] [9s]
+EggmanTuna: bets $0.02
+rixiiXCIII: calls $0.02
+*** SHOW DOWN ***
+EggmanTuna: shows [6d 4h] (two pair, Aces and Fours)
+rixiiXCIII: mucks hand 
+EggmanTuna collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ah Jh 4s Ac 9s]
+Seat 1: rixiiXCIII mucked [Kd Tc]
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: EggmanTuna (small blind) showed [6d 4h] and won ($0.27) with two pair, Aces and Fours
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: jtr1p folded on the Turn
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594557490:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:15:24 BRT [2017/01/14 22:15:24 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: rixiiXCIII ($1.87 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($2.04 in chips) 
+Seat 4: Samuel0124 ($4.65 in chips) 
+Seat 5: jtr1p ($0.16 in chips) 
+Seat 6: pedroabreu1 ($4.30 in chips) 
+Samuel0124: posts small blind $0.01
+jtr1p: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 9d]
+pedroabreu1: folds 
+rixiiXCIII: folds 
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: calls $0.01
+jtr1p: checks 
+*** FLOP *** [Ks 3s Qd]
+Samuel0124: checks 
+jtr1p: checks 
+EggmanTuna: bets $0.02
+Samuel0124: calls $0.02
+jtr1p: folds 
+*** TURN *** [Ks 3s Qd] [Qs]
+Samuel0124: checks 
+EggmanTuna: bets $0.14
+Samuel0124: calls $0.14
+*** RIVER *** [Ks 3s Qd Qs] [Jh]
+Samuel0124: checks 
+EggmanTuna: bets $1
+Samuel0124: calls $1
+*** SHOW DOWN ***
+EggmanTuna: shows [Qh Th] (three of a kind, Queens)
+Samuel0124: mucks hand 
+EggmanTuna collected $2.30 from pot
+*** SUMMARY ***
+Total pot $2.38 | Rake $0.08 
+Board [Ks 3s Qd Qs Jh]
+Seat 1: rixiiXCIII folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna (button) showed [Qh Th] and won ($2.30) with three of a kind, Queens
+Seat 4: Samuel0124 (small blind) mucked [Kc 3c]
+Seat 5: jtr1p (big blind) folded on the Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594596590:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:16:45 BRT [2017/01/14 22:16:45 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: rixiiXCIII ($1.87 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($3.16 in chips) 
+Seat 4: Samuel0124 ($3.47 in chips) 
+Seat 5: jtr1p ($0.14 in chips) 
+Seat 6: pedroabreu1 ($4.30 in chips) 
+jtr1p: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 5d]
+rixiiXCIII: folds 
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: raises $0.04 to $0.06
+jtr1p: folds 
+pedroabreu1: folds 
+EggmanTuna: calls $0.04
+*** FLOP *** [Qd 5c 6c]
+EggmanTuna: checks 
+Samuel0124: bets $0.14
+EggmanTuna: calls $0.14
+*** TURN *** [Qd 5c 6c] [6d]
+EggmanTuna: bets $0.02
+Samuel0124: calls $0.02
+*** RIVER *** [Qd 5c 6c 6d] [Qs]
+EggmanTuna: bets $0.02
+Samuel0124: calls $0.02
+*** SHOW DOWN ***
+EggmanTuna: shows [Js As] (two pair, Queens and Sixes)
+Samuel0124: shows [Kc Ad] (two pair, Queens and Sixes)
+EggmanTuna collected $0.25 from pot
+Samuel0124 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Qd 5c 6c 6d Qs]
+Seat 1: rixiiXCIII folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna showed [Js As] and won ($0.25) with two pair, Queens and Sixes
+Seat 4: Samuel0124 (button) showed [Kc Ad] and won ($0.24) with two pair, Queens and Sixes
+Seat 5: jtr1p (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594616825:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:17:32 BRT [2017/01/14 22:17:32 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: rixiiXCIII ($1.87 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($3.17 in chips) 
+Seat 4: Samuel0124 ($3.47 in chips) 
+Seat 5: jtr1p ($0.13 in chips) 
+Seat 6: pedroabreu1 ($4.28 in chips) 
+pedroabreu1: posts small blind $0.01
+rixiiXCIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 7c]
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: raises $0.04 to $0.06
+jtr1p: calls $0.06
+pedroabreu1: calls $0.05
+rixiiXCIII: folds 
+EggmanTuna: calls $0.04
+*** FLOP *** [Ts Td 5s]
+pedroabreu1: checks 
+EggmanTuna: bets $0.02
+Samuel0124: raises $0.15 to $0.17
+jtr1p: folds 
+pedroabreu1: folds 
+EggmanTuna: calls $0.15
+*** TURN *** [Ts Td 5s] [6c]
+EggmanTuna: checks 
+Samuel0124: bets $0.29
+EggmanTuna: calls $0.29
+*** RIVER *** [Ts Td 5s 6c] [6h]
+EggmanTuna: bets $0.02
+Samuel0124: calls $0.02
+*** SHOW DOWN ***
+EggmanTuna: shows [As 5c] (two pair, Tens and Sixes)
+Samuel0124: mucks hand 
+EggmanTuna collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.04 
+Board [Ts Td 5s 6c 6h]
+Seat 1: rixiiXCIII (big blind) folded before Flop
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna showed [As 5c] and won ($1.18) with two pair, Tens and Sixes
+Seat 4: Samuel0124 mucked [Qd Ks]
+Seat 5: jtr1p (button) folded on the Flop
+Seat 6: pedroabreu1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164594649144:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:18:49 BRT [2017/01/14 22:18:49 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: rixiiXCIII ($1.85 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($3.81 in chips) 
+Seat 4: Samuel0124 ($2.93 in chips) 
+Seat 5: jtr1p ($0.07 in chips) 
+Seat 6: pedroabreu1 ($4.22 in chips) 
+rixiiXCIII: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c Jd]
+EggmanTuna: calls $0.02
+Samuel0124: folds 
+jtr1p: calls $0.02
+pedroabreu1: folds 
+rixiiXCIII: folds 
+Miracle16: checks 
+*** FLOP *** [2c Jh 4c]
+Miracle16: checks 
+EggmanTuna: checks 
+jtr1p: checks 
+*** TURN *** [2c Jh 4c] [Ks]
+Miracle16: checks 
+EggmanTuna: checks 
+jtr1p: checks 
+*** RIVER *** [2c Jh 4c Ks] [Jc]
+Miracle16: checks 
+EggmanTuna: bets $0.02
+jtr1p: calls $0.02
+Miracle16: folds 
+*** SHOW DOWN ***
+EggmanTuna: shows [2d 5d] (two pair, Jacks and Deuces)
+jtr1p: mucks hand 
+EggmanTuna collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c Jh 4c Ks Jc]
+Seat 1: rixiiXCIII (small blind) folded before Flop
+Seat 2: Miracle16 (big blind) folded on the River
+Seat 3: EggmanTuna showed [2d 5d] and won ($0.11) with two pair, Jacks and Deuces
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: jtr1p mucked [6d Qs]
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594678368:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:19:58 BRT [2017/01/14 22:19:58 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: rixiiXCIII ($1.84 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($3.88 in chips) 
+Seat 4: Samuel0124 ($2.93 in chips) 
+Seat 5: jtr1p ($0.03 in chips) 
+Seat 6: pedroabreu1 ($4.22 in chips) 
+Miracle16: posts small blind $0.01
+EggmanTuna: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Jc]
+Samuel0124: folds 
+jtr1p: folds 
+pedroabreu1: raises $0.04 to $0.06
+rixiiXCIII: folds 
+Miracle16: folds 
+EggmanTuna: calls $0.04
+*** FLOP *** [Kc Js 7s]
+jtr1p leaves the table
+EggmanTuna: bets $0.02
+xRUNAxRUNAx joins the table at seat #5 
+pedroabreu1: raises $0.10 to $0.12
+EggmanTuna: calls $0.10
+*** TURN *** [Kc Js 7s] [5c]
+EggmanTuna: bets $0.02
+pedroabreu1: raises $0.28 to $0.30
+EggmanTuna: calls $0.28
+*** RIVER *** [Kc Js 7s 5c] [7h]
+EggmanTuna: bets $1
+pedroabreu1: calls $1
+*** SHOW DOWN ***
+EggmanTuna: shows [4s Ks] (two pair, Kings and Sevens)
+pedroabreu1: mucks hand 
+EggmanTuna collected $2.87 from pot
+*** SUMMARY ***
+Total pot $2.97 | Rake $0.10 
+Board [Kc Js 7s 5c 7h]
+Seat 1: rixiiXCIII (button) folded before Flop (didn't bet)
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: EggmanTuna (big blind) showed [4s Ks] and won ($2.87) with two pair, Kings and Sevens
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: jtr1p folded before Flop (didn't bet)
+Seat 6: pedroabreu1 mucked [Ah Jc]
+
+
+
+PokerStars Hand #164594720678:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:21:40 BRT [2017/01/14 22:21:40 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: rixiiXCIII ($1.84 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.27 in chips) 
+Seat 4: Samuel0124 ($2.93 in chips) 
+Seat 6: pedroabreu1 ($2.74 in chips) 
+EggmanTuna: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+xRUNAxRUNAx: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d Qc]
+pedroabreu1: folds 
+rixiiXCIII: raises $0.04 to $0.06
+Miracle16: calls $0.06
+EggmanTuna: calls $0.05
+Samuel0124: folds 
+*** FLOP *** [2c Jh 3c]
+EggmanTuna: checks 
+rixiiXCIII: bets $0.10
+Miracle16: folds 
+EggmanTuna: calls $0.10
+*** TURN *** [2c Jh 3c] [8c]
+EggmanTuna: checks 
+rixiiXCIII: checks 
+*** RIVER *** [2c Jh 3c 8c] [8d]
+EggmanTuna: checks 
+rixiiXCIII: bets $0.20
+EggmanTuna: folds 
+Uncalled bet ($0.20) returned to rixiiXCIII
+rixiiXCIII collected $0.39 from pot
+rixiiXCIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2c Jh 3c 8c 8d]
+Seat 1: rixiiXCIII collected ($0.39)
+Seat 2: Miracle16 (button) folded on the Flop
+Seat 3: EggmanTuna (small blind) folded on the River
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594743274:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:22:34 BRT [2017/01/14 22:22:34 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: rixiiXCIII ($2.07 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.11 in chips) 
+Seat 4: Samuel0124 ($2.91 in chips) 
+Seat 5: xRUNAxRUNAx ($2 in chips) 
+Seat 6: pedroabreu1 ($2.74 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s 5c]
+pedroabreu1: folds 
+rixiiXCIII: raises $0.04 to $0.06
+Miracle16: folds 
+EggmanTuna: calls $0.06
+Samuel0124: calls $0.05
+xRUNAxRUNAx: folds 
+*** FLOP *** [7c Kd 6s]
+Samuel0124: checks 
+rixiiXCIII: checks 
+EggmanTuna: checks 
+*** TURN *** [7c Kd 6s] [Ks]
+Samuel0124: bets $0.19
+rixiiXCIII: calls $0.19
+EggmanTuna: folds 
+*** RIVER *** [7c Kd 6s Ks] [3s]
+Samuel0124: bets $2.66 and is all-in
+rixiiXCIII said, "such a stupid over bet, you only really get called by better..."
+rixiiXCIII: folds 
+Uncalled bet ($2.66) returned to Samuel0124
+Samuel0124 collected $0.56 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [7c Kd 6s Ks 3s]
+Seat 1: rixiiXCIII folded on the River
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna (button) folded on the Turn
+Seat 4: Samuel0124 (small blind) collected ($0.56)
+Seat 5: xRUNAxRUNAx (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594774360:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:23:49 BRT [2017/01/14 22:23:49 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: rixiiXCIII ($1.82 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.05 in chips) 
+Seat 4: Samuel0124 ($3.22 in chips) 
+Seat 5: xRUNAxRUNAx ($1.98 in chips) 
+Seat 6: pedroabreu1 ($2.74 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd Ad]
+rixiiXCIII: folds 
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: calls $0.01
+pedroabreu1: raises $0.06 to $0.08
+EggmanTuna: calls $0.06
+xRUNAxRUNAx: calls $0.06
+*** FLOP *** [8h Qc 5c]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+EggmanTuna: checks 
+*** TURN *** [8h Qc 5c] [Kd]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+EggmanTuna: checks 
+*** RIVER *** [8h Qc 5c Kd] [8s]
+xRUNAxRUNAx: bets $0.12
+pedroabreu1: folds 
+EggmanTuna: calls $0.12
+*** SHOW DOWN ***
+xRUNAxRUNAx: shows [9s Ks] (two pair, Kings and Eights)
+EggmanTuna: mucks hand 
+xRUNAxRUNAx collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [8h Qc 5c Kd 8s]
+Seat 1: rixiiXCIII folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna mucked [7h 7d]
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) showed [9s Ks] and won ($0.46) with two pair, Kings and Eights
+Seat 6: pedroabreu1 (big blind) folded on the River
+
+
+
+PokerStars Hand #164594806499:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:25:06 BRT [2017/01/14 22:25:06 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: rixiiXCIII ($1.82 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($4.85 in chips) 
+Seat 4: Samuel0124 ($3.22 in chips) 
+Seat 5: xRUNAxRUNAx ($2.24 in chips) 
+Seat 6: pedroabreu1 ($2.66 in chips) 
+pedroabreu1: posts small blind $0.01
+rixiiXCIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 9d]
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: raises $0.10 to $0.12
+rixiiXCIII: folds 
+EggmanTuna: calls $0.10
+*** FLOP *** [4s 2d 8d]
+pedroabreu1: checks 
+EggmanTuna: checks 
+*** TURN *** [4s 2d 8d] [5d]
+pedroabreu1: checks 
+EggmanTuna: checks 
+*** RIVER *** [4s 2d 8d 5d] [4h]
+pedroabreu1: checks 
+EggmanTuna: bets $0.02
+pedroabreu1: calls $0.02
+*** SHOW DOWN ***
+EggmanTuna: shows [Ks 2h] (two pair, Fours and Deuces)
+pedroabreu1: mucks hand 
+EggmanTuna collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4s 2d 8d 5d 4h]
+Seat 1: rixiiXCIII (big blind) folded before Flop
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna showed [Ks 2h] and won ($0.29) with two pair, Fours and Deuces
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) mucked [Ac 9d]
+
+
+
+PokerStars Hand #164594837217:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:26:19 BRT [2017/01/14 22:26:19 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: rixiiXCIII ($1.80 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5 in chips) 
+Seat 4: Samuel0124 ($3.22 in chips) 
+Seat 5: xRUNAxRUNAx ($2.24 in chips) 
+Seat 6: pedroabreu1 ($2.52 in chips) 
+rixiiXCIII: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc 5c]
+EggmanTuna: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+rixiiXCIII: folds 
+Miracle16: folds 
+Uncalled bet ($0.03) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: rixiiXCIII (small blind) folded before Flop
+Seat 2: Miracle16 (big blind) folded before Flop
+Seat 3: EggmanTuna folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594846723:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:26:42 BRT [2017/01/14 22:26:42 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: rixiiXCIII ($1.79 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5 in chips) 
+Seat 4: Samuel0124 ($3.22 in chips) 
+Seat 5: xRUNAxRUNAx ($2.27 in chips) 
+Seat 6: pedroabreu1 ($2.52 in chips) 
+Miracle16: posts small blind $0.01
+EggmanTuna: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c Qd]
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: raises $0.11 to $0.17
+pedroabreu1: folds 
+rixiiXCIII: raises $0.23 to $0.40
+Miracle16: folds 
+EggmanTuna: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: raises $1.87 to $2.27 and is all-in
+rixiiXCIII: calls $1.39 and is all-in
+Uncalled bet ($0.48) returned to xRUNAxRUNAx
+*** FLOP *** [Td Ad 6c]
+*** TURN *** [Td Ad 6c] [3h]
+*** RIVER *** [Td Ad 6c 3h] [4d]
+*** SHOW DOWN ***
+xRUNAxRUNAx: shows [Kc As] (a pair of Aces)
+rixiiXCIII: shows [Js Jh] (a pair of Jacks)
+xRUNAxRUNAx collected $3.54 from pot
+*** SUMMARY ***
+Total pot $3.67 | Rake $0.13 
+Board [Td Ad 6c 3h 4d]
+Seat 1: rixiiXCIII (button) showed [Js Jh] and lost with a pair of Jacks
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: EggmanTuna (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop
+Seat 5: xRUNAxRUNAx showed [Kc As] and won ($3.54) with a pair of Aces
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594863566:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:27:23 BRT [2017/01/14 22:27:23 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($4.98 in chips) 
+Seat 4: Samuel0124 ($3.16 in chips) 
+Seat 5: xRUNAxRUNAx ($4.02 in chips) 
+Seat 6: pedroabreu1 ($2.52 in chips) 
+EggmanTuna: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks 2c]
+xRUNAxRUNAx: folds 
+rixiiXCIII leaves the table
+pedroabreu1 has timed out
+pedroabreu1: folds 
+Miracle16: folds 
+EggmanTuna: calls $0.01
+Samuel0124: raises $0.04 to $0.06
+EggmanTuna: calls $0.04
+*** FLOP *** [3c 2h Qs]
+EggmanTuna: checks 
+slabb812 joins the table at seat #1 
+Samuel0124: bets $0.12
+EggmanTuna: calls $0.12
+*** TURN *** [3c 2h Qs] [4c]
+EggmanTuna: bets $0.02
+Samuel0124: calls $0.02
+*** RIVER *** [3c 2h Qs 4c] [3s]
+EggmanTuna: bets $1
+Samuel0124: folds 
+Uncalled bet ($1) returned to EggmanTuna
+EggmanTuna collected $0.39 from pot
+EggmanTuna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [3c 2h Qs 4c 3s]
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: EggmanTuna (small blind) collected ($0.39)
+Seat 4: Samuel0124 (big blind) folded on the River
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594907589:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:29:11 BRT [2017/01/14 22:29:11 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.17 in chips) 
+Seat 4: Samuel0124 ($2.96 in chips) 
+Seat 5: xRUNAxRUNAx ($4.02 in chips) 
+Seat 6: pedroabreu1 ($2.52 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+slabb812: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s Qh]
+pedroabreu1: folds 
+Miracle16: folds 
+EggmanTuna: folds 
+Samuel0124: folds 
+Uncalled bet ($0.01) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594918579:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:29:38 BRT [2017/01/14 22:29:38 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.17 in chips) 
+Seat 4: Samuel0124 ($2.95 in chips) 
+Seat 5: xRUNAxRUNAx ($4.03 in chips) 
+Seat 6: pedroabreu1 ($2.52 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+slabb812: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h 6h]
+Miracle16: raises $0.04 to $0.06
+EggmanTuna: calls $0.06
+Samuel0124: folds 
+xRUNAxRUNAx: calls $0.05
+pedroabreu1: calls $0.04
+*** FLOP *** [9h 8c 5s]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+Miracle16: checks 
+EggmanTuna: checks 
+*** TURN *** [9h 8c 5s] [Ad]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+Miracle16: checks 
+EggmanTuna: bets $0.20
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+Miracle16: folds 
+Uncalled bet ($0.20) returned to EggmanTuna
+EggmanTuna collected $0.23 from pot
+EggmanTuna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h 8c 5s Ad]
+Seat 2: Miracle16 folded on the Turn
+Seat 3: EggmanTuna collected ($0.23)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded on the Turn
+Seat 6: pedroabreu1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164594958769:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:31:17 BRT [2017/01/14 22:31:17 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: slabb812 ($2 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.34 in chips) 
+Seat 4: Samuel0124 ($2.95 in chips) 
+Seat 5: xRUNAxRUNAx ($3.97 in chips) 
+Seat 6: pedroabreu1 ($2.46 in chips) 
+pedroabreu1: posts small blind $0.01
+slabb812: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 7h]
+Miracle16: folds 
+EggmanTuna: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: checks 
+*** FLOP *** [Kc 6s As]
+slabb812: checks 
+EggmanTuna: bets $0.02
+slabb812: folds 
+Uncalled bet ($0.02) returned to EggmanTuna
+EggmanTuna collected $0.05 from pot
+EggmanTuna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kc 6s As]
+Seat 1: slabb812 (big blind) folded on the Flop
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: EggmanTuna collected ($0.05)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594979745:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:31:53 BRT [2017/01/14 22:31:53 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: slabb812 ($1.98 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.37 in chips) 
+Seat 4: Samuel0124 ($2.95 in chips) 
+Seat 5: xRUNAxRUNAx ($3.97 in chips) 
+Seat 6: pedroabreu1 ($2.45 in chips) 
+slabb812: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s Js]
+EggmanTuna: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: raises $0.04 to $0.06
+slabb812: calls $0.05
+Miracle16: folds 
+*** FLOP *** [9h 9c 8h]
+slabb812: checks 
+pedroabreu1: bets $0.08
+slabb812: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9h 9c 8h]
+Seat 1: slabb812 (small blind) folded on the Flop
+Seat 2: Miracle16 (big blind) folded before Flop
+Seat 3: EggmanTuna folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.14)
+
+
+
+PokerStars Hand #164595000548:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:32:45 BRT [2017/01/14 22:32:45 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: slabb812 ($1.92 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 3: EggmanTuna ($5.37 in chips) 
+Seat 4: Samuel0124 ($2.95 in chips) 
+Seat 5: xRUNAxRUNAx ($3.97 in chips) 
+Seat 6: pedroabreu1 ($2.53 in chips) 
+Miracle16: posts small blind $0.01
+EggmanTuna: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d As]
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: calls $0.02
+slabb812: calls $0.02
+Miracle16: folds 
+EggmanTuna: checks 
+*** FLOP *** [Tc 9c 3d]
+EggmanTuna: checks 
+pedroabreu1: checks 
+slabb812: checks 
+*** TURN *** [Tc 9c 3d] [9h]
+EggmanTuna: checks 
+pedroabreu1: checks 
+slabb812: checks 
+*** RIVER *** [Tc 9c 3d 9h] [4h]
+EggmanTuna: checks 
+pedroabreu1: checks 
+slabb812: bets $0.08
+EggmanTuna: folds 
+EggmanTuna leaves the table
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to slabb812
+22alex88 joins the table at seat #3 
+slabb812 collected $0.07 from pot
+slabb812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Tc 9c 3d 9h 4h]
+Seat 1: slabb812 (button) collected ($0.07)
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: EggmanTuna (big blind) folded on the River
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded on the River
+
+
+
+PokerStars Hand #164595063760:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:35:25 BRT [2017/01/14 22:35:25 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: slabb812 ($1.97 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 4: Samuel0124 ($2.95 in chips) 
+Seat 5: xRUNAxRUNAx ($3.97 in chips) 
+Seat 6: pedroabreu1 ($2.51 in chips) 
+22alex88 will be allowed to play after the button
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c 3d]
+pedroabreu1: folds 
+slabb812: calls $0.02
+Miracle16: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: checks 
+*** FLOP *** [Ad Ks 9s]
+xRUNAxRUNAx: checks 
+slabb812: checks 
+*** TURN *** [Ad Ks 9s] [Qs]
+xRUNAxRUNAx: checks 
+slabb812: checks 
+*** RIVER *** [Ad Ks 9s Qs] [8s]
+xRUNAxRUNAx: checks 
+slabb812: checks 
+*** SHOW DOWN ***
+xRUNAxRUNAx: shows [3h Jc] (high card Ace)
+slabb812: mucks hand 
+xRUNAxRUNAx collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad Ks 9s Qs 8s]
+Seat 1: slabb812 mucked [6d 5c]
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) showed [3h Jc] and won ($0.05) with high card Ace
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595077243:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:35:59 BRT [2017/01/14 22:35:59 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: slabb812 ($1.95 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 4: Samuel0124 ($2.94 in chips) 
+Seat 5: xRUNAxRUNAx ($4 in chips) 
+Seat 6: pedroabreu1 ($2.51 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+22alex88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh 7d]
+slabb812: calls $0.02
+Miracle16: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: calls $0.01
+pedroabreu1: checks 
+*** FLOP *** [2d 2h Td]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+slabb812: checks 
+*** TURN *** [2d 2h Td] [4h]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+slabb812: checks 
+*** RIVER *** [2d 2h Td 4h] [9h]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+slabb812: bets $0.12
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.12) returned to slabb812
+slabb812 collected $0.06 from pot
+slabb812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2d 2h Td 4h 9h]
+Seat 1: slabb812 collected ($0.06)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded on the River
+Seat 6: pedroabreu1 (big blind) folded on the River
+
+
+
+PokerStars Hand #164595123062:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:37:55 BRT [2017/01/14 22:37:55 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: slabb812 ($1.99 in chips) 
+Seat 2: Miracle16 ($2 in chips) 
+Seat 4: Samuel0124 ($2.94 in chips) 
+Seat 5: xRUNAxRUNAx ($3.98 in chips) 
+Seat 6: pedroabreu1 ($2.49 in chips) 
+pedroabreu1: posts small blind $0.01
+slabb812: posts big blind $0.02
+22alex88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 6s]
+Miracle16: folds 
+Samuel0124: folds 
+Miracle16 leaves the table
+xRUNAxRUNAx: folds 
+vfhreif.olga joins the table at seat #2 
+pedroabreu1: raises $0.04 to $0.06
+slabb812: calls $0.04
+*** FLOP *** [4c Qh As]
+pedroabreu1: bets $0.10
+slabb812: calls $0.10
+*** TURN *** [4c Qh As] [Qc]
+pedroabreu1: checks 
+slabb812: checks 
+*** RIVER *** [4c Qh As Qc] [3h]
+pedroabreu1: checks 
+slabb812: bets $0.10
+pedroabreu1: calls $0.10
+*** SHOW DOWN ***
+slabb812: shows [Ad 7h] (two pair, Aces and Queens)
+pedroabreu1: mucks hand 
+slabb812 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [4c Qh As Qc 3h]
+Seat 1: slabb812 (big blind) showed [Ad 7h] and won ($0.50) with two pair, Aces and Queens
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) mucked [6c 6s]
+
+
+
+PokerStars Hand #164595143652:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:38:48 BRT [2017/01/14 22:38:48 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: slabb812 ($2.23 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 4: Samuel0124 ($2.94 in chips) 
+Seat 5: xRUNAxRUNAx ($3.98 in chips) 
+Seat 6: pedroabreu1 ($2.23 in chips) 
+slabb812: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+22alex88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs Kc]
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: calls $0.05
+slabb812: calls $0.04
+vfhreif.olga: folds 
+*** FLOP *** [9d 8c 3c]
+slabb812: bets $0.08
+xRUNAxRUNAx: calls $0.08
+pedroabreu1: calls $0.08
+*** TURN *** [9d 8c 3c] [Ks]
+slabb812: checks 
+xRUNAxRUNAx: checks 
+pedroabreu1: bets $0.26
+slabb812: folds 
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.26) returned to pedroabreu1
+pedroabreu1 collected $0.40 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [9d 8c 3c Ks]
+Seat 1: slabb812 (small blind) folded on the Turn
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded on the Turn
+Seat 6: pedroabreu1 (button) collected ($0.40)
+
+
+
+PokerStars Hand #164595167485:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:39:49 BRT [2017/01/14 22:39:49 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: slabb812 ($2.10 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2.94 in chips) 
+Seat 5: xRUNAxRUNAx ($3.85 in chips) 
+Seat 6: pedroabreu1 ($2.50 in chips) 
+vfhreif.olga: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd As]
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: raises $0.14 to $0.20
+slabb812: calls $0.20
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: calls $0.14
+*** FLOP *** [Js 3c 2d]
+Samuel0124: checks 
+pedroabreu1: bets $0.44
+slabb812: folds 
+Samuel0124: folds 
+Uncalled bet ($0.44) returned to pedroabreu1
+pedroabreu1 collected $0.61 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [Js 3c 2d]
+Seat 1: slabb812 (button) folded on the Flop
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 22alex88 (big blind) folded before Flop
+Seat 4: Samuel0124 folded on the Flop
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 collected ($0.61)
+
+
+
+PokerStars Hand #164595189751:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:40:46 BRT [2017/01/14 22:40:46 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: slabb812 ($1.90 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2.74 in chips) 
+Seat 5: xRUNAxRUNAx ($3.85 in chips) 
+Seat 6: pedroabreu1 ($2.91 in chips) 
+22alex88: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h Td]
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: calls $0.02
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: checks 
+*** FLOP *** [9s 8s Ah]
+Samuel0124: checks 
+slabb812: bets $0.02
+Samuel0124: folds 
+Uncalled bet ($0.02) returned to slabb812
+slabb812 collected $0.05 from pot
+slabb812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s 8s Ah]
+Seat 1: slabb812 collected ($0.05)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 22alex88 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded on the Flop
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595197175:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:41:06 BRT [2017/01/14 22:41:06 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: slabb812 ($1.93 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2.72 in chips) 
+Seat 5: xRUNAxRUNAx ($3.85 in chips) 
+Seat 6: pedroabreu1 ($2.91 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ts 4d]
+pedroabreu1: folds 
+slabb812: calls $0.02
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: calls $0.04
+slabb812: calls $0.04
+*** FLOP *** [2s 5c 8c]
+Samuel0124: bets $0.17
+xRUNAxRUNAx: calls $0.17
+slabb812: calls $0.17
+*** TURN *** [2s 5c 8c] [6s]
+Samuel0124: bets $0.67
+xRUNAxRUNAx: calls $0.67
+slabb812: calls $0.67
+*** RIVER *** [2s 5c 8c 6s] [Qh]
+Samuel0124: bets $1.82 and is all-in
+xRUNAxRUNAx: calls $1.82
+slabb812: folds 
+*** SHOW DOWN ***
+Samuel0124: shows [2h 2c] (three of a kind, Deuces)
+xRUNAxRUNAx: shows [7c 9c] (a straight, Five to Nine)
+xRUNAxRUNAx collected $6.12 from pot
+*** SUMMARY ***
+Total pot $6.34 | Rake $0.22 
+Board [2s 5c 8c 6s Qh]
+Seat 1: slabb812 folded on the River
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) showed [2h 2c] and lost with three of a kind, Deuces
+Seat 5: xRUNAxRUNAx (big blind) showed [7c 9c] and won ($6.12) with a straight, Five to Nine
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595221605:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:42:09 BRT [2017/01/14 22:42:09 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: slabb812 ($1.03 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.25 in chips) 
+Seat 6: pedroabreu1 ($2.91 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 7h]
+slabb812: calls $0.02
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: checks 
+*** FLOP *** [Ah 5c 6s]
+pedroabreu1: checks 
+slabb812: checks 
+*** TURN *** [Ah 5c 6s] [8s]
+pedroabreu1: bets $0.05
+slabb812: folds 
+Uncalled bet ($0.05) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 5c 6s 8s]
+Seat 1: slabb812 folded on the Turn
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164595235919:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:42:46 BRT [2017/01/14 22:42:46 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: slabb812 ($1.01 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.94 in chips) 
+pedroabreu1: posts small blind $0.01
+slabb812: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c Js]
+vfhreif.olga: folds 
+22alex88: raises $0.04 to $0.06
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: folds 
+Uncalled bet ($0.04) returned to 22alex88
+22alex88 collected $0.05 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: slabb812 (big blind) folded before Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 collected ($0.05)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595243439:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:43:06 BRT [2017/01/14 22:43:06 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: slabb812 ($0.99 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.03 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.93 in chips) 
+slabb812: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d 6s]
+22alex88: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: calls $0.01
+vfhreif.olga: checks 
+*** FLOP *** [8c 8h Qc]
+slabb812: checks 
+vfhreif.olga: bets $0.02
+slabb812: folds 
+Uncalled bet ($0.02) returned to vfhreif.olga
+vfhreif.olga collected $0.04 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8c 8h Qc]
+Seat 1: slabb812 (small blind) folded on the Flop
+Seat 2: vfhreif.olga (big blind) collected ($0.04)
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595255291:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:43:36 BRT [2017/01/14 22:43:36 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: slabb812 ($0.97 in chips) 
+Seat 2: vfhreif.olga ($2.02 in chips) 
+Seat 3: 22alex88 ($2.03 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.93 in chips) 
+vfhreif.olga: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c Td]
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: calls $0.02
+vfhreif.olga: folds 
+22alex88: checks 
+*** FLOP *** [2h 8h 9c]
+22alex88: checks 
+slabb812: bets $0.14
+22alex88: folds 
+Uncalled bet ($0.14) returned to slabb812
+slabb812 collected $0.05 from pot
+slabb812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2h 8h 9c]
+Seat 1: slabb812 (button) collected ($0.05)
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 22alex88 (big blind) folded on the Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595267329:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:44:07 BRT [2017/01/14 22:44:07 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: slabb812 ($1 in chips) 
+Seat 2: vfhreif.olga ($2.01 in chips) 
+Seat 3: 22alex88 ($2.01 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.93 in chips) 
+22alex88: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd 9d]
+xRUNAxRUNAx: folds 
+pedroabreu1: raises $0.04 to $0.06
+slabb812: calls $0.06
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: folds 
+*** FLOP *** [3h Kc Js]
+pedroabreu1: checks 
+slabb812: checks 
+*** TURN *** [3h Kc Js] [Kh]
+pedroabreu1: checks 
+slabb812: bets $0.10
+pedroabreu1: calls $0.10
+*** RIVER *** [3h Kc Js Kh] [4s]
+pedroabreu1: checks 
+slabb812: bets $0.10
+pedroabreu1: calls $0.10
+*** SHOW DOWN ***
+slabb812: shows [Ah Qd] (a pair of Kings)
+pedroabreu1: shows [Jd 9d] (two pair, Kings and Jacks)
+pedroabreu1 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3h Kc Js Kh 4s]
+Seat 1: slabb812 showed [Ah Qd] and lost with a pair of Kings
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 22alex88 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 showed [Jd 9d] and won ($0.53) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #164595289495:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:45:05 BRT [2017/01/14 22:45:05 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: slabb812 ($0.74 in chips) 
+Seat 2: vfhreif.olga ($2.01 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($1.98 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s 2d]
+pedroabreu1: folds 
+slabb812: folds 
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.04 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: slabb812 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) collected ($0.04)
+Seat 5: xRUNAxRUNAx (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595294550:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:45:18 BRT [2017/01/14 22:45:18 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: slabb812 ($0.74 in chips) 
+Seat 2: vfhreif.olga ($2.01 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 9c]
+slabb812: folds 
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: slabb812 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164595304689:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:45:44 BRT [2017/01/14 22:45:44 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: slabb812 ($0.74 in chips) 
+Seat 2: vfhreif.olga ($2.01 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($3.21 in chips) 
+pedroabreu1: posts small blind $0.01
+slabb812: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 5h]
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to slabb812
+slabb812 collected $0.02 from pot
+slabb812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: slabb812 (big blind) collected ($0.02)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595310787:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:00 BRT [2017/01/14 22:46:00 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: slabb812 ($0.75 in chips) 
+Seat 2: vfhreif.olga ($2.01 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+slabb812: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 7s]
+22alex88: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: folds 
+vfhreif.olga: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: slabb812 (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 collected ($0.05)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595323723:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:34 BRT [2017/01/14 22:46:34 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: slabb812 ($0.74 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2.03 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+vfhreif.olga: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 8c]
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: calls $0.06
+vfhreif.olga: folds 
+22alex88: folds 
+*** FLOP *** [5s 6s 5c]
+Samuel0124: checks 
+slabb812: bets $0.02
+Samuel0124: calls $0.02
+*** TURN *** [5s 6s 5c] [Kd]
+Samuel0124: bets $0.18
+slabb812: folds 
+Uncalled bet ($0.18) returned to Samuel0124
+Samuel0124 collected $0.18 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5s 6s 5c Kd]
+Seat 1: slabb812 (button) folded on the Turn
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 22alex88 (big blind) folded before Flop
+Seat 4: Samuel0124 collected ($0.18)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595348393:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:47:39 BRT [2017/01/14 22:47:39 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: slabb812 ($0.66 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2 in chips) 
+Seat 4: Samuel0124 ($2.13 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+22alex88: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d Jh]
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: folds 
+vfhreif.olga: raises $0.04 to $0.06
+22alex88: raises $0.14 to $0.20
+Samuel0124: folds 
+vfhreif.olga: folds 
+Uncalled bet ($0.14) returned to 22alex88
+22alex88 collected $0.14 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: slabb812 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (button) folded before Flop
+Seat 3: 22alex88 (small blind) collected ($0.14)
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595367668:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:48:29 BRT [2017/01/14 22:48:29 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: slabb812 ($0.66 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.08 in chips) 
+Seat 4: Samuel0124 ($2.11 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 7s]
+pedroabreu1: folds 
+slabb812: folds 
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: folds 
+Uncalled bet ($0.01) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.02 from pot
+xRUNAxRUNAx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: slabb812 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595375136:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:48:49 BRT [2017/01/14 22:48:49 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: slabb812 ($0.66 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.08 in chips) 
+Seat 4: Samuel0124 ($2.10 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($3.20 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Jh]
+slabb812: folds 
+vfhreif.olga: folds 
+22alex88: raises $0.04 to $0.06
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: calls $0.04
+*** FLOP *** [Tc 2s Qh]
+pedroabreu1: checks 
+22alex88: bets $0.10
+pedroabreu1: calls $0.10
+*** TURN *** [Tc 2s Qh] [Td]
+pedroabreu1: checks 
+22alex88: bets $0.16
+pedroabreu1: calls $0.16
+*** RIVER *** [Tc 2s Qh Td] [6s]
+pedroabreu1: checks 
+22alex88: bets $0.30
+pedroabreu1: folds 
+Uncalled bet ($0.30) returned to 22alex88
+22alex88 collected $0.63 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Tc 2s Qh Td 6s]
+Seat 1: slabb812 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 collected ($0.63)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded on the River
+
+
+
+PokerStars Hand #164595400743:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:49:56 BRT [2017/01/14 22:49:56 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: slabb812 ($0.66 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.39 in chips) 
+Seat 4: Samuel0124 ($2.10 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($2.88 in chips) 
+pedroabreu1: posts small blind $0.01
+slabb812: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s Qc]
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+slabb812: calls $0.04
+*** FLOP *** [Kd Ts 6h]
+slabb812: bets $0.60 and is all-in
+Samuel0124: calls $0.60
+*** TURN *** [Kd Ts 6h] [2h]
+*** RIVER *** [Kd Ts 6h 2h] [7c]
+*** SHOW DOWN ***
+slabb812: shows [Ks 4d] (a pair of Kings)
+Samuel0124: shows [6c Kc] (two pair, Kings and Sixes)
+Samuel0124 collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [Kd Ts 6h 2h 7c]
+Seat 1: slabb812 (big blind) showed [Ks 4d] and lost with a pair of Kings
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 showed [6c Kc] and won ($1.28) with two pair, Kings and Sixes
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595415499:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:50:35 BRT [2017/01/14 22:50:35 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.39 in chips) 
+Seat 4: Samuel0124 ($2.72 in chips) 
+Seat 5: xRUNAxRUNAx ($7.21 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+vfhreif.olga: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 6s]
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+vfhreif.olga: folds 
+22alex88: folds 
+Uncalled bet ($0.03) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.05 from pot
+xRUNAxRUNAx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 22alex88 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595421031:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:50:49 BRT [2017/01/14 22:50:49 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.37 in chips) 
+Seat 4: Samuel0124 ($2.72 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+22alex88: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 4s]
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+vfhreif.olga: folds 
+22alex88: folds 
+Uncalled bet ($0.01) returned to Samuel0124
+Samuel0124 collected $0.02 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 22alex88 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) collected ($0.02)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595425531:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:51:01 BRT [2017/01/14 22:51:01 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.36 in chips) 
+Seat 4: Samuel0124 ($2.73 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+Samuel0124: posts small blind $0.01
+slabb812 leaves the table
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js 5d]
+ElliottMitch joins the table at seat #1 
+pedroabreu1: folds 
+vfhreif.olga: folds 
+22alex88: raises $0.02 to $0.04
+Samuel0124: folds 
+xRUNAxRUNAx: calls $0.02
+*** FLOP *** [Kh Td Ah]
+xRUNAxRUNAx: checks 
+22alex88: checks 
+*** TURN *** [Kh Td Ah] [8s]
+xRUNAxRUNAx: checks 
+22alex88: checks 
+*** RIVER *** [Kh Td Ah 8s] [Ad]
+xRUNAxRUNAx: checks 
+22alex88: checks 
+*** SHOW DOWN ***
+xRUNAxRUNAx: shows [Jc Ts] (two pair, Aces and Tens)
+22alex88: shows [7c Ks] (two pair, Aces and Kings)
+22alex88 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kh Td Ah 8s Ad]
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 (button) showed [7c Ks] and won ($0.09) with two pair, Aces and Kings
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) showed [Jc Ts] and lost with two pair, Aces and Tens
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595435466:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:51:27 BRT [2017/01/14 22:51:27 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.41 in chips) 
+Seat 4: Samuel0124 ($2.72 in chips) 
+Seat 5: xRUNAxRUNAx ($7.20 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+ElliottMitch: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 5s]
+vfhreif.olga: folds 
+22alex88: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+Uncalled bet ($0.03) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) collected ($0.04)
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164595450362:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:51:49 BRT [2017/01/14 22:51:49 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.41 in chips) 
+Seat 4: Samuel0124 ($2.72 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.85 in chips) 
+pedroabreu1: posts small blind $0.01
+ElliottMitch: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 7d]
+vfhreif.olga: folds 
+22alex88: raises $0.04 to $0.06
+Samuel0124: calls $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+ElliottMitch: folds 
+*** FLOP *** [4c 7c Jc]
+22alex88: checks 
+Samuel0124: checks 
+*** TURN *** [4c 7c Jc] [7h]
+22alex88: bets $0.07
+Samuel0124: calls $0.07
+*** RIVER *** [4c 7c Jc 7h] [Ks]
+22alex88: checks 
+Samuel0124: checks 
+*** SHOW DOWN ***
+22alex88: shows [Ts Th] (two pair, Tens and Sevens)
+Samuel0124: mucks hand 
+22alex88 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [4c 7c Jc 7h Ks]
+Seat 1: ElliottMitch (big blind) folded before Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 22alex88 showed [Ts Th] and won ($0.28) with two pair, Tens and Sevens
+Seat 4: Samuel0124 mucked [2c 2h]
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595470801:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:52:43 BRT [2017/01/14 22:52:43 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 22alex88 ($2.56 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.84 in chips) 
+ElliottMitch: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Ad]
+22alex88: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: calls $0.05
+ElliottMitch: folds 
+vfhreif.olga: folds 
+*** FLOP *** [Js Qd 5d]
+xRUNAxRUNAx: checks 
+pedroabreu1: bets $0.08
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.13 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js Qd 5d]
+Seat 1: ElliottMitch (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 22alex88 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded on the Flop
+Seat 6: pedroabreu1 (button) collected ($0.13)
+
+
+
+PokerStars Hand #164595484381:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:53:20 BRT [2017/01/14 22:53:20 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.17 in chips) 
+Seat 6: pedroabreu1 ($2.92 in chips) 
+vfhreif.olga: posts small blind $0.01
+22alex88: is sitting out 
+22alex88 leaves the table
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d 3s]
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: calls $0.05
+ElliottMitch: folds 
+vfhreif.olga: folds 
+Samuel0124: folds 
+*** FLOP *** [Ac 5s Tc]
+xRUNAxRUNAx: checks 
+4752212 joins the table at seat #3 
+pedroabreu1: checks 
+*** TURN *** [Ac 5s Tc] [7d]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+*** RIVER *** [Ac 5s Tc 7d] [7s]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+*** SHOW DOWN ***
+xRUNAxRUNAx: shows [Th 8h] (two pair, Tens and Sevens)
+pedroabreu1: mucks hand 
+xRUNAxRUNAx collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ac 5s Tc 7d 7s]
+Seat 1: ElliottMitch (button) folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: xRUNAxRUNAx showed [Th 8h] and won ($0.13) with two pair, Tens and Sevens
+Seat 6: pedroabreu1 mucked [3d 3s]
+
+
+
+PokerStars Hand #164595506048:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:54:17 BRT [2017/01/14 22:54:17 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 4: Samuel0124 ($2.57 in chips) 
+Seat 5: xRUNAxRUNAx ($7.25 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+4752212 will be allowed to play after the button
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s Ac]
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.04 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) collected ($0.04)
+Seat 5: xRUNAxRUNAx (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595511056:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:54:31 BRT [2017/01/14 22:54:31 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($1.60 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.23 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 2c]
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: checks 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: checks 
+*** FLOP *** [6c 4d Ac]
+pedroabreu1: checks 
+4752212: checks 
+*** TURN *** [6c 4d Ac] [Jh]
+pedroabreu1: checks 
+4752212: checks 
+*** RIVER *** [6c 4d Ac Jh] [2s]
+pedroabreu1: checks 
+4752212: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [7d 2c] (a pair of Deuces)
+4752212: shows [8h 6d] (a pair of Sixes)
+4752212 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c 4d Ac Jh 2s]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 showed [8h 6d] and won ($0.05) with a pair of Sixes
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) showed [7d 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #164595527880:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:55:17 BRT [2017/01/14 22:55:17 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($1.63 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.85 in chips) 
+pedroabreu1: posts small blind $0.01
+ElliottMitch: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s 9s]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to ElliottMitch
+ElliottMitch collected $0.02 from pot
+ElliottMitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ElliottMitch (big blind) collected ($0.02)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595531075:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:55:27 BRT [2017/01/14 22:55:27 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: ElliottMitch ($2.01 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($1.63 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.84 in chips) 
+ElliottMitch: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d 8s]
+4752212: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: checks 
+*** FLOP *** [Tc Kd Qs]
+vfhreif.olga: bets $0.03
+4752212: raises $0.03 to $0.06
+vfhreif.olga: calls $0.03
+*** TURN *** [Tc Kd Qs] [3d]
+vfhreif.olga: bets $0.10
+4752212: folds 
+Uncalled bet ($0.10) returned to vfhreif.olga
+vfhreif.olga collected $0.16 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc Kd Qs 3d]
+Seat 1: ElliottMitch (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) collected ($0.16)
+Seat 3: 4752212 folded on the Turn
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595546738:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:56:15 BRT [2017/01/14 22:56:15 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.08 in chips) 
+Seat 3: 4752212 ($1.55 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.84 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 5h]
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+ElliottMitch: raises $0.04 to $0.06
+vfhreif.olga: raises $0.12 to $0.18
+4752212: calls $0.16
+ElliottMitch: calls $0.12
+*** FLOP *** [2s 8d 3h]
+vfhreif.olga: bets $0.29
+4752212: folds 
+ElliottMitch: folds 
+Uncalled bet ($0.29) returned to vfhreif.olga
+vfhreif.olga collected $0.52 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [2s 8d 3h]
+Seat 1: ElliottMitch (button) folded on the Flop
+Seat 2: vfhreif.olga (small blind) collected ($0.52)
+Seat 3: 4752212 (big blind) folded on the Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595566400:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:57:14 BRT [2017/01/14 22:57:14 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.42 in chips) 
+Seat 3: 4752212 ($1.37 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.84 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks Kd]
+xRUNAxRUNAx: folds 
+pedroabreu1: raises $0.04 to $0.06
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: calls $0.05
+Samuel0124: folds 
+*** FLOP *** [3h 2d Js]
+4752212: checks 
+pedroabreu1: bets $0.08
+4752212: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3h 2d Js]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded on the Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 collected ($0.14)
+
+
+
+PokerStars Hand #164595577725:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:57:48 BRT [2017/01/14 22:57:48 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.42 in chips) 
+Seat 3: 4752212 ($1.31 in chips) 
+Seat 4: Samuel0124 ($2.57 in chips) 
+Seat 5: xRUNAxRUNAx ($7.22 in chips) 
+Seat 6: pedroabreu1 ($2.92 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 4d]
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: checks 
+*** FLOP *** [6s 2h Jh]
+xRUNAxRUNAx: checks 
+4752212: checks 
+*** TURN *** [6s 2h Jh] [Ad]
+xRUNAxRUNAx: checks 
+4752212: checks 
+*** RIVER *** [6s 2h Jh Ad] [Kh]
+xRUNAxRUNAx: bets $0.04
+4752212: folds 
+Uncalled bet ($0.04) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.05 from pot
+xRUNAxRUNAx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s 2h Jh Ad Kh]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded on the River
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) collected ($0.05)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595589534:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:58:24 BRT [2017/01/14 22:58:24 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.42 in chips) 
+Seat 3: 4752212 ($1.29 in chips) 
+Seat 4: Samuel0124 ($2.56 in chips) 
+Seat 5: xRUNAxRUNAx ($7.25 in chips) 
+Seat 6: pedroabreu1 ($2.92 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 6c]
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) collected ($0.05)
+Seat 5: xRUNAxRUNAx (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164595595840:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:58:43 BRT [2017/01/14 22:58:43 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.42 in chips) 
+Seat 3: 4752212 ($1.29 in chips) 
+Seat 4: Samuel0124 ($2.59 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.90 in chips) 
+pedroabreu1: posts small blind $0.01
+ElliottMitch: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh 2s]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+ElliottMitch: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ElliottMitch (big blind) folded before Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 collected ($0.05)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595600806:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:58:58 BRT [2017/01/14 22:58:58 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.42 in chips) 
+Seat 3: 4752212 ($1.29 in chips) 
+Seat 4: Samuel0124 ($2.62 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.89 in chips) 
+ElliottMitch: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 3s]
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ElliottMitch (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 collected ($0.05)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595605036:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:11 BRT [2017/01/14 22:59:11 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.40 in chips) 
+Seat 3: 4752212 ($1.29 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.24 in chips) 
+Seat 6: pedroabreu1 ($2.89 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c Qs]
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: calls $0.04
+4752212: folds 
+*** FLOP *** [5h Tc 9h]
+vfhreif.olga: checks 
+xRUNAxRUNAx: checks 
+*** TURN *** [5h Tc 9h] [Td]
+vfhreif.olga: bets $0.08
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.08) returned to vfhreif.olga
+vfhreif.olga collected $0.12 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5h Tc 9h Td]
+Seat 1: ElliottMitch (button) folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (small blind) collected ($0.12)
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded on the Turn
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595614127:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:38 BRT [2017/01/14 22:59:38 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.47 in chips) 
+Seat 3: 4752212 ($1.27 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.19 in chips) 
+Seat 6: pedroabreu1 ($2.89 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 2d]
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Uncalled bet ($0.01) returned to Samuel0124
+Samuel0124 collected $0.02 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) collected ($0.02)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595617723:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:49 BRT [2017/01/14 22:59:49 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.47 in chips) 
+Seat 3: 4752212 ($1.26 in chips) 
+Seat 4: Samuel0124 ($2.66 in chips) 
+Seat 5: xRUNAxRUNAx ($7.19 in chips) 
+Seat 6: pedroabreu1 ($2.89 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 8c]
+pedroabreu1: raises $0.04 to $0.06
+ElliottMitch: folds 
+vfhreif.olga: calls $0.06
+4752212: folds 
+Samuel0124: folds 
+xRUNAxRUNAx: calls $0.04
+*** FLOP *** [Qd Ac 7d]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+vfhreif.olga: checks 
+*** TURN *** [Qd Ac 7d] [Ah]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+vfhreif.olga: bets $0.11
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.11) returned to vfhreif.olga
+vfhreif.olga collected $0.18 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qd Ac 7d Ah]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga collected ($0.18)
+Seat 3: 4752212 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) folded on the Turn
+Seat 6: pedroabreu1 folded on the Turn
+
+
+
+PokerStars Hand #164595634574:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:00:39 BRT [2017/01/14 23:00:39 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.59 in chips) 
+Seat 3: 4752212 ($1.26 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.13 in chips) 
+Seat 6: pedroabreu1 ($2.83 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4s Tc]
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: calls $0.01
+pedroabreu1: checks 
+*** FLOP *** [5c Kh 2h]
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+4752212: bets $0.02
+xRUNAxRUNAx: calls $0.02
+pedroabreu1: folds 
+*** TURN *** [5c Kh 2h] [8d]
+xRUNAxRUNAx: checks 
+4752212: bets $0.10
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.10) returned to 4752212
+4752212 collected $0.10 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5c Kh 2h 8d]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 collected ($0.10)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (small blind) folded on the Turn
+Seat 6: pedroabreu1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164595653010:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:01:31 BRT [2017/01/14 23:01:31 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.59 in chips) 
+Seat 3: 4752212 ($1.32 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.09 in chips) 
+Seat 6: pedroabreu1 ($2.81 in chips) 
+pedroabreu1: posts small blind $0.01
+ElliottMitch: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 7c]
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.09 to $0.11
+pedroabreu1: folds 
+ElliottMitch: folds 
+4752212: folds 
+Uncalled bet ($0.09) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: ElliottMitch (big blind) folded before Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) collected ($0.07)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595662396:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:01:56 BRT [2017/01/14 23:01:56 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.59 in chips) 
+Seat 3: 4752212 ($1.30 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.14 in chips) 
+Seat 6: pedroabreu1 ($2.80 in chips) 
+ElliottMitch: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s 6s]
+4752212: calls $0.02
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: calls $0.05
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: calls $0.03
+*** FLOP *** [7h Ad 2c]
+4752212: checks 
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+*** TURN *** [7h Ad 2c] [2h]
+4752212: checks 
+xRUNAxRUNAx: checks 
+pedroabreu1: checks 
+*** RIVER *** [7h Ad 2c 2h] [3s]
+4752212: checks 
+xRUNAxRUNAx: checks 
+pedroabreu1: bets $0.10
+4752212: folds 
+xRUNAxRUNAx: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.17 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7h Ad 2c 2h 3s]
+Seat 1: ElliottMitch (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 4752212 folded on the River
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded on the River
+Seat 6: pedroabreu1 (button) collected ($0.17)
+
+
+
+PokerStars Hand #164595688137:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:03:06 BRT [2017/01/14 23:03:06 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.57 in chips) 
+Seat 3: 4752212 ($1.25 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.09 in chips) 
+Seat 6: pedroabreu1 ($2.92 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 9d]
+Samuel0124: folds 
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Uncalled bet ($0.03) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ElliottMitch (button) folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx collected ($0.05)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595700291:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:03:39 BRT [2017/01/14 23:03:39 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.56 in chips) 
+Seat 3: 4752212 ($1.23 in chips) 
+Seat 4: Samuel0124 ($2.65 in chips) 
+Seat 5: xRUNAxRUNAx ($7.12 in chips) 
+Seat 6: pedroabreu1 ($2.92 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s 4d]
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+ElliottMitch: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+Uncalled bet ($0.03) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.05 from pot
+xRUNAxRUNAx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: xRUNAxRUNAx collected ($0.05)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595706770:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:03:57 BRT [2017/01/14 23:03:57 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2.56 in chips) 
+Seat 3: 4752212 ($1.22 in chips) 
+Seat 4: Samuel0124 ($2.63 in chips) 
+Seat 5: xRUNAxRUNAx ($7.15 in chips) 
+Seat 6: pedroabreu1 ($2.92 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 3d]
+pedroabreu1: raises $0.04 to $0.06
+ElliottMitch: folds 
+vfhreif.olga: raises $0.12 to $0.18
+4752212: calls $0.18
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: calls $0.12
+*** FLOP *** [8c 7s 3s]
+pedroabreu1: checks 
+vfhreif.olga: bets $0.30
+4752212: raises $0.74 to $1.04 and is all-in
+pedroabreu1: calls $1.04
+vfhreif.olga: calls $0.74
+*** TURN *** [8c 7s 3s] [Kd]
+pedroabreu1: bets $1.70 and is all-in
+vfhreif.olga: folds 
+Uncalled bet ($1.70) returned to pedroabreu1
+*** RIVER *** [8c 7s 3s Kd] [As]
+*** SHOW DOWN ***
+pedroabreu1: shows [3c 3d] (three of a kind, Threes)
+4752212: shows [9h 9s] (a pair of Nines)
+pedroabreu1 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.69 | Rake $0.13 
+Board [8c 7s 3s Kd As]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded on the Turn
+Seat 3: 4752212 (button) showed [9h 9s] and lost with a pair of Nines
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) folded before Flop
+Seat 6: pedroabreu1 showed [3c 3d] and won ($3.56) with three of a kind, Threes
+
+
+
+PokerStars Hand #164595735997:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:05:17 BRT [2017/01/14 23:05:17 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: ElliottMitch ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 4: Samuel0124 ($2.62 in chips) 
+Seat 5: xRUNAxRUNAx ($7.13 in chips) 
+Seat 6: pedroabreu1 ($5.26 in chips) 
+xRUNAxRUNAx: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Js]
+ElliottMitch: folds 
+vfhreif.olga: folds 
+Samuel0124: raises $0.04 to $0.06
+xRUNAxRUNAx: folds 
+pedroabreu1: calls $0.04
+*** FLOP *** [3d 8d 9s]
+pedroabreu1: checks 
+Samuel0124: bets $0.13
+pedroabreu1: calls $0.13
+*** TURN *** [3d 8d 9s] [4s]
+pedroabreu1: checks 
+Samuel0124: bets $0.38
+pedroabreu1: calls $0.38
+*** RIVER *** [3d 8d 9s 4s] [Ts]
+pedroabreu1: bets $0.70
+Samuel0124: calls $0.70
+*** SHOW DOWN ***
+pedroabreu1: shows [Ad Js] (high card Ace)
+Samuel0124: shows [3s 9d] (two pair, Nines and Threes)
+Samuel0124 collected $2.46 from pot
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.09 
+Board [3d 8d 9s 4s Ts]
+Seat 1: ElliottMitch folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) showed [3s 9d] and won ($2.46) with two pair, Nines and Threes
+Seat 5: xRUNAxRUNAx (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) showed [Ad Js] and lost with high card Ace
+
+
+
+PokerStars Hand #164595769651:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:06:49 BRT [2017/01/14 23:06:49 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($2 in chips) 
+Seat 4: Samuel0124 ($3.81 in chips) 
+Seat 5: xRUNAxRUNAx ($7.12 in chips) 
+Seat 6: pedroabreu1 ($3.99 in chips) 
+pedroabreu1: posts small blind $0.01
+ElliottMitch: is sitting out 
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 9d]
+4752212: raises $0.02 to $0.04
+ElliottMitch leaves the table
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+vfhreif.olga: calls $0.02
+*** FLOP *** [Ts 5c Kd]
+vfhreif.olga: checks 
+4752212: checks 
+*** TURN *** [Ts 5c Kd] [7c]
+vfhreif.olga: bets $0.05
+4752212: calls $0.05
+*** RIVER *** [Ts 5c Kd 7c] [Qh]
+vfhreif.olga: bets $0.14
+4752212: folds 
+Uncalled bet ($0.14) returned to vfhreif.olga
+vfhreif.olga collected $0.18 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ts 5c Kd 7c Qh]
+Seat 2: vfhreif.olga (big blind) collected ($0.18)
+Seat 3: 4752212 folded on the River
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595781811:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:07:23 BRT [2017/01/14 23:07:23 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 2: vfhreif.olga ($2.09 in chips) 
+Seat 3: 4752212 ($1.91 in chips) 
+Seat 4: Samuel0124 ($3.81 in chips) 
+Seat 5: xRUNAxRUNAx ($7.12 in chips) 
+Seat 6: pedroabreu1 ($3.98 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc 3c]
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+pedroabreu1: folds 
+vfhreif.olga: raises $0.04 to $0.06
+4752212: folds 
+Uncalled bet ($0.04) returned to vfhreif.olga
+vfhreif.olga collected $0.04 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: vfhreif.olga (small blind) collected ($0.04)
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: xRUNAxRUNAx folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595787453:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:07:38 BRT [2017/01/14 23:07:38 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 2: vfhreif.olga ($2.11 in chips) 
+Seat 3: 4752212 ($1.89 in chips) 
+Seat 4: Samuel0124 ($3.81 in chips) 
+Seat 5: xRUNAxRUNAx ($7.12 in chips) 
+Seat 6: pedroabreu1 ($3.98 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Kd]
+xRUNAxRUNAx: raises $0.03 to $0.05
+pedroabreu1: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+Uncalled bet ($0.03) returned to xRUNAxRUNAx
+xRUNAxRUNAx collected $0.05 from pot
+xRUNAxRUNAx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: xRUNAxRUNAx collected ($0.05)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595792935:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:07:53 BRT [2017/01/14 23:07:53 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 2: vfhreif.olga ($2.11 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($3.79 in chips) 
+Seat 5: xRUNAxRUNAx ($7.15 in chips) 
+Seat 6: pedroabreu1 ($3.98 in chips) 
+Samuel0124: posts small blind $0.01
+xRUNAxRUNAx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 7h]
+pedroabreu1: raises $0.05 to $0.07
+vfhreif.olga: folds 
+4752212: calls $0.07
+Samuel0124: folds 
+xRUNAxRUNAx: folds 
+*** FLOP *** [5c 2d 8s]
+pedroabreu1: checks 
+4752212: checks 
+*** TURN *** [5c 2d 8s] [4h]
+pedroabreu1: checks 
+4752212: checks 
+*** RIVER *** [5c 2d 8s 4h] [4s]
+pedroabreu1: checks 
+4752212: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [Ac 7h] (a pair of Fours)
+4752212: shows [Ad 7d] (a pair of Fours)
+pedroabreu1 collected $0.08 from pot
+4752212 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5c 2d 8s 4h 4s]
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) showed [Ad 7d] and won ($0.08) with a pair of Fours
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: xRUNAxRUNAx (big blind) folded before Flop
+Seat 6: pedroabreu1 showed [Ac 7h] and won ($0.08) with a pair of Fours
+
+
+
+PokerStars Hand #164595806069:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:08:29 BRT [2017/01/14 23:08:29 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 2: vfhreif.olga ($2.11 in chips) 
+Seat 3: 4752212 ($1.89 in chips) 
+Seat 4: Samuel0124 ($3.78 in chips) 
+Seat 6: pedroabreu1 ($3.99 in chips) 
+pedroabreu1: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks 6h]
+4752212: raises $0.02 to $0.04
+Samuel0124: folds 
+pedroabreu1: folds 
+vfhreif.olga: folds 
+Uncalled bet ($0.02) returned to 4752212
+4752212 collected $0.05 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 4752212 collected ($0.05)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595809257:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:08:38 BRT [2017/01/14 23:08:38 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 2: vfhreif.olga ($2.09 in chips) 
+Seat 3: 4752212 ($1.92 in chips) 
+Seat 4: Samuel0124 ($3.78 in chips) 
+Seat 6: pedroabreu1 ($3.98 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Qh]
+Samuel0124: folds 
+pedroabreu1: raises $0.04 to $0.06
+vfhreif.olga: folds 
+4752212: raises $0.04 to $0.10
+pedroabreu1: calls $0.04
+*** FLOP *** [Kh Kc 5h]
+4752212: bets $0.20
+pedroabreu1: folds 
+Uncalled bet ($0.20) returned to 4752212
+4752212 collected $0.20 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Kh Kc 5h]
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 4752212 (big blind) collected ($0.20)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded on the Flop
+
+
+
+PokerStars Hand #164595824159:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:20 BRT [2017/01/14 23:09:20 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 2: vfhreif.olga ($2.08 in chips) 
+Seat 3: 4752212 ($2.02 in chips) 
+Seat 4: Samuel0124 ($3.78 in chips) 
+Seat 6: pedroabreu1 ($3.88 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 8d]
+pedroabreu1: folds 
+vfhreif.olga: raises $0.04 to $0.06
+4752212: folds 
+Samuel0124: raises $0.24 to $0.30
+vfhreif.olga: raises $0.33 to $0.63
+Samuel0124: raises $3.15 to $3.78 and is all-in
+lawrence0920 joins the table at seat #1 
+vfhreif.olga: calls $1.45 and is all-in
+Uncalled bet ($1.70) returned to Samuel0124
+*** FLOP *** [3c 5h 4d]
+*** TURN *** [3c 5h 4d] [7c]
+*** RIVER *** [3c 5h 4d 7c] [2c]
+*** SHOW DOWN ***
+Samuel0124: shows [Jc Ac] (a flush, Ace high)
+vfhreif.olga: shows [8s 8c] (a pair of Eights)
+Samuel0124 collected $4.02 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.15 
+Board [3c 5h 4d 7c 2c]
+Seat 2: vfhreif.olga (button) showed [8s 8c] and lost with a pair of Eights
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) showed [Jc Ac] and won ($4.02) with a flush, Ace high
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595838271:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:58 BRT [2017/01/14 23:09:58 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($2.01 in chips) 
+Seat 4: Samuel0124 ($5.72 in chips) 
+Seat 6: pedroabreu1 ($3.88 in chips) 
+Samuel0124: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+lawrence0920: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 6h]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: calls $0.04
+*** FLOP *** [6s 9d Kd]
+Samuel0124: checks 
+pedroabreu1: bets $0.08
+Samuel0124: calls $0.08
+*** TURN *** [6s 9d Kd] [8h]
+Samuel0124: checks 
+pedroabreu1: checks 
+*** RIVER *** [6s 9d Kd 8h] [3c]
+Samuel0124: checks 
+pedroabreu1: checks 
+*** SHOW DOWN ***
+Samuel0124: shows [Qs Td] (high card King)
+pedroabreu1: shows [5h 6h] (a pair of Sixes)
+pedroabreu1 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6s 9d Kd 8h 3c]
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) showed [Qs Td] and lost with high card King
+Seat 6: pedroabreu1 (big blind) showed [5h 6h] and won ($0.27) with a pair of Sixes
+
+
+
+PokerStars Hand #164595854059:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:10:42 BRT [2017/01/14 23:10:42 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: lawrence0920 ($2 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($2.01 in chips) 
+Seat 4: Samuel0124 ($5.58 in chips) 
+Seat 6: pedroabreu1 ($4.01 in chips) 
+pedroabreu1: posts small blind $0.01
+lawrence0920: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 3h]
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: calls $0.05
+lawrence0920: calls $0.04
+4752212: calls $0.04
+*** FLOP *** [Td 2c Jc]
+pedroabreu1: checks 
+lawrence0920: checks 
+4752212: checks 
+Samuel0124: bets $0.12
+pedroabreu1: folds 
+lawrence0920: folds 
+4752212: folds 
+Uncalled bet ($0.12) returned to Samuel0124
+Samuel0124 collected $0.23 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Td 2c Jc]
+Seat 1: lawrence0920 (big blind) folded on the Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded on the Flop
+Seat 4: Samuel0124 (button) collected ($0.23)
+Seat 6: pedroabreu1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164595869886:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:11:27 BRT [2017/01/14 23:11:27 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: lawrence0920 ($1.94 in chips) 
+Seat 2: vfhreif.olga ($2 in chips) 
+Seat 3: 4752212 ($1.95 in chips) 
+Seat 4: Samuel0124 ($5.75 in chips) 
+Seat 6: pedroabreu1 ($3.95 in chips) 
+lawrence0920: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As Td]
+4752212: calls $0.02
+Samuel0124: folds 
+pedroabreu1: raises $0.08 to $0.10
+lawrence0920: folds 
+vfhreif.olga: raises $0.14 to $0.24
+4752212: folds 
+pedroabreu1: calls $0.14
+*** FLOP *** [Ks Qc 6s]
+vfhreif.olga: bets $0.37
+pedroabreu1: folds 
+Uncalled bet ($0.37) returned to vfhreif.olga
+vfhreif.olga collected $0.49 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Ks Qc 6s]
+Seat 1: lawrence0920 (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) collected ($0.49)
+Seat 3: 4752212 folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded on the Flop
+
+
+
+PokerStars Hand #164595901704:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:12:56 BRT [2017/01/14 23:12:56 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: lawrence0920 ($1.93 in chips) 
+Seat 2: vfhreif.olga ($2.25 in chips) 
+Seat 3: 4752212 ($1.93 in chips) 
+Seat 4: Samuel0124 ($5.75 in chips) 
+Seat 6: pedroabreu1 ($3.71 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 6h]
+Samuel0124: folds 
+pedroabreu1: folds 
+lawrence0920: calls $0.02
+vfhreif.olga: folds 
+4752212: checks 
+*** FLOP *** [Ad 4c 7s]
+4752212: bets $0.02
+lawrence0920: folds 
+Uncalled bet ($0.02) returned to 4752212
+4752212 collected $0.05 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 4c 7s]
+Seat 1: lawrence0920 (button) folded on the Flop
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 4752212 (big blind) collected ($0.05)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595909627:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:13:19 BRT [2017/01/14 23:13:19 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: lawrence0920 ($1.91 in chips) 
+Seat 2: vfhreif.olga ($2.24 in chips) 
+Seat 3: 4752212 ($1.96 in chips) 
+Seat 4: Samuel0124 ($5.75 in chips) 
+Seat 6: pedroabreu1 ($3.71 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 8d]
+pedroabreu1: raises $0.04 to $0.06
+lawrence0920: folds 
+vfhreif.olga: folds 
+4752212: calls $0.05
+Samuel0124: folds 
+*** FLOP *** [Ah 7h 6d]
+4752212: checks 
+pedroabreu1: bets $0.08
+4752212: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ah 7h 6d]
+Seat 1: lawrence0920 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded on the Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 6: pedroabreu1 collected ($0.14)
+
+
+
+PokerStars Hand #164595920227:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:13:48 BRT [2017/01/14 23:13:48 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: lawrence0920 ($1.91 in chips) 
+Seat 2: vfhreif.olga ($2.24 in chips) 
+Seat 3: 4752212 ($1.90 in chips) 
+Seat 4: Samuel0124 ($5.73 in chips) 
+Seat 6: pedroabreu1 ($3.79 in chips) 
+Samuel0124: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h 9h]
+lawrence0920: calls $0.02
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+pedroabreu1: checks 
+*** FLOP *** [Th Ah As]
+pedroabreu1: checks 
+lawrence0920: bets $0.02
+4752212: folds 
+pedroabreu1: calls $0.02
+*** TURN *** [Th Ah As] [Jc]
+pedroabreu1: checks 
+lawrence0920: bets $0.02
+pedroabreu1: calls $0.02
+*** RIVER *** [Th Ah As Jc] [Js]
+pedroabreu1: checks 
+lawrence0920 is connected 
+lawrence0920: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [6h 9h] (two pair, Aces and Jacks)
+lawrence0920: shows [Ts 2s] (two pair, Aces and Jacks)
+pedroabreu1 collected $0.07 from pot
+lawrence0920 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Th Ah As Jc Js]
+Seat 1: lawrence0920 showed [Ts 2s] and won ($0.07) with two pair, Aces and Jacks
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded on the Flop
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) showed [6h 9h] and won ($0.07) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #164595947143:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:14:50 BRT [2017/01/14 23:14:50 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: lawrence0920 ($1.92 in chips) 
+Seat 2: vfhreif.olga ($2.24 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($5.72 in chips) 
+Seat 6: pedroabreu1 ($3.80 in chips) 
+pedroabreu1: posts small blind $0.01
+lawrence0920: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc 6s]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to lawrence0920
+lawrence0920 collected $0.02 from pot
+lawrence0920: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawrence0920 (big blind) collected ($0.02)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595950913:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:15:01 BRT [2017/01/14 23:15:01 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: lawrence0920 ($1.93 in chips) 
+Seat 2: vfhreif.olga ($2.24 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($5.72 in chips) 
+Seat 6: pedroabreu1 ($3.79 in chips) 
+lawrence0920: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s Ad]
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: folds 
+lawrence0920: folds 
+vfhreif.olga: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawrence0920 (small blind) folded before Flop
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595956487:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:15:16 BRT [2017/01/14 23:15:16 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: lawrence0920 ($1.92 in chips) 
+Seat 2: vfhreif.olga ($2.22 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($5.75 in chips) 
+Seat 6: pedroabreu1 ($3.79 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 9h]
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: folds 
+lawrence0920: folds 
+vfhreif.olga: raises $0.12 to $0.18
+4752212: folds 
+Samuel0124: calls $0.12
+*** FLOP *** [9s 3s As]
+vfhreif.olga: bets $0.29
+Samuel0124: folds 
+Uncalled bet ($0.29) returned to vfhreif.olga
+vfhreif.olga collected $0.37 from pot
+vfhreif.olga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [9s 3s As]
+Seat 1: lawrence0920 (button) folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (small blind) collected ($0.37)
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded on the Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595966281:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:15:44 BRT [2017/01/14 23:15:44 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: lawrence0920 ($1.92 in chips) 
+Seat 2: vfhreif.olga ($2.41 in chips) 
+Seat 3: 4752212 ($1.86 in chips) 
+Seat 4: Samuel0124 ($5.57 in chips) 
+Seat 6: pedroabreu1 ($3.79 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah 9h]
+pedroabreu1: raises $0.04 to $0.06
+lawrence0920: calls $0.06
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+*** FLOP *** [7s 3c Jc]
+pedroabreu1: checks 
+lawrence0920: bets $0.02
+pedroabreu1: calls $0.02
+*** TURN *** [7s 3c Jc] [4h]
+pedroabreu1: checks 
+lawrence0920: bets $0.08
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to lawrence0920
+lawrence0920 collected $0.18 from pot
+lawrence0920: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7s 3c Jc 4h]
+Seat 1: lawrence0920 collected ($0.18)
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 6: pedroabreu1 folded on the Turn
+
+
+
+PokerStars Hand #164595982821:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:16:31 BRT [2017/01/14 23:16:31 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: lawrence0920 ($2.02 in chips) 
+Seat 2: vfhreif.olga ($2.41 in chips) 
+Seat 3: 4752212 ($1.85 in chips) 
+Seat 4: Samuel0124 ($5.55 in chips) 
+Seat 6: pedroabreu1 ($3.71 in chips) 
+Samuel0124: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 6h]
+lawrence0920: folds 
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+pedroabreu1: checks 
+*** FLOP *** [Qc 9s 6c]
+pedroabreu1: checks 
+4752212: checks 
+*** TURN *** [Qc 9s 6c] [5c]
+pedroabreu1: checks 
+4752212: checks 
+*** RIVER *** [Qc 9s 6c 5c] [Ad]
+pedroabreu1: checks 
+4752212: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [4c 6h] (a pair of Sixes)
+4752212: shows [Kc 6s] (a pair of Sixes - Ace+King kicker)
+4752212 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc 9s 6c 5c Ad]
+Seat 1: lawrence0920 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) showed [Kc 6s] and won ($0.05) with a pair of Sixes
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) showed [4c 6h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #164596001461:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:17:23 BRT [2017/01/14 23:17:23 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: lawrence0920 ($2.02 in chips) 
+Seat 2: vfhreif.olga ($2.41 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($5.54 in chips) 
+Seat 6: pedroabreu1 ($3.69 in chips) 
+pedroabreu1: posts small blind $0.01
+lawrence0920: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td 3d]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: folds 
+lawrence0920: calls $0.04
+*** FLOP *** [5s 5d Kd]
+lawrence0920: checks 
+Samuel0124: bets $0.13
+lawrence0920: folds 
+Uncalled bet ($0.13) returned to Samuel0124
+Samuel0124 collected $0.13 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5s 5d Kd]
+Seat 1: lawrence0920 (big blind) folded on the Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) collected ($0.13)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596011387:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:17:52 BRT [2017/01/14 23:17:52 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: lawrence0920 ($1.96 in chips) 
+Seat 2: vfhreif.olga ($2.41 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($5.61 in chips) 
+Seat 6: pedroabreu1 ($3.68 in chips) 
+lawrence0920: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 3d]
+4752212: folds 
+Samuel0124: folds 
+pedroabreu1: folds 
+lawrence0920: calls $0.01
+vfhreif.olga: checks 
+*** FLOP *** [Ac Th Qd]
+lawrence0920: bets $0.02
+vfhreif.olga: folds 
+Uncalled bet ($0.02) returned to lawrence0920
+lawrence0920 collected $0.04 from pot
+lawrence0920: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ac Th Qd]
+Seat 1: lawrence0920 (small blind) collected ($0.04)
+Seat 2: vfhreif.olga (big blind) folded on the Flop
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596017535:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:18:09 BRT [2017/01/14 23:18:09 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: lawrence0920 ($1.98 in chips) 
+Seat 2: vfhreif.olga ($2.39 in chips) 
+Seat 3: 4752212 ($1.88 in chips) 
+Seat 4: Samuel0124 ($5.61 in chips) 
+Seat 6: pedroabreu1 ($3.68 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Ks]
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: raises $0.14 to $0.20
+lawrence0920: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+Uncalled bet ($0.14) returned to pedroabreu1
+pedroabreu1 collected $0.15 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: lawrence0920 (button) folded before Flop (didn't bet)
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop
+Seat 6: pedroabreu1 collected ($0.15)
+
+
+
+PokerStars Hand #164596026089:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:18:34 BRT [2017/01/14 23:18:34 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: lawrence0920 ($1.98 in chips) 
+Seat 2: vfhreif.olga ($2.38 in chips) 
+Seat 3: 4752212 ($1.86 in chips) 
+Seat 4: Samuel0124 ($5.55 in chips) 
+Seat 6: pedroabreu1 ($3.77 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac Kd]
+pedroabreu1: raises $0.04 to $0.06
+lawrence0920: calls $0.06
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+*** FLOP *** [3d 9s 6c]
+pedroabreu1: bets $0.08
+lawrence0920: calls $0.08
+*** TURN *** [3d 9s 6c] [7h]
+pedroabreu1: bets $0.18
+lawrence0920: calls $0.18
+*** RIVER *** [3d 9s 6c 7h] [Qd]
+pedroabreu1: checks 
+lawrence0920: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [Ac Kd] (high card Ace)
+lawrence0920: mucks hand 
+pedroabreu1 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [3d 9s 6c 7h Qd]
+Seat 1: lawrence0920 mucked [Jc 8c]
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 6: pedroabreu1 showed [Ac Kd] and won ($0.65) with high card Ace
+
+
+
+PokerStars Hand #164596040440:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:19:15 BRT [2017/01/14 23:19:15 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: lawrence0920 ($1.66 in chips) 
+Seat 2: vfhreif.olga ($2.38 in chips) 
+Seat 3: 4752212 ($1.85 in chips) 
+Seat 4: Samuel0124 ($5.53 in chips) 
+Seat 6: pedroabreu1 ($4.10 in chips) 
+Samuel0124: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s Ts]
+lawrence0920: calls $0.02
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+pedroabreu1: checks 
+*** FLOP *** [3h Tc 5c]
+pedroabreu1: checks 
+lawrence0920: checks 
+*** TURN *** [3h Tc 5c] [6s]
+pedroabreu1: bets $0.05
+lawrence0920: folds 
+Uncalled bet ($0.05) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h Tc 5c 6s]
+Seat 1: lawrence0920 folded on the Turn
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164596053811:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:19:53 BRT [2017/01/14 23:19:53 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: lawrence0920 ($1.64 in chips) 
+Seat 2: vfhreif.olga ($2.38 in chips) 
+Seat 3: 4752212 ($1.85 in chips) 
+Seat 4: Samuel0124 ($5.52 in chips) 
+Seat 6: pedroabreu1 ($4.13 in chips) 
+pedroabreu1: posts small blind $0.01
+lawrence0920: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 2d]
+vfhreif.olga: folds 
+4752212: raises $0.02 to $0.04
+Samuel0124: calls $0.04
+pedroabreu1: folds 
+lawrence0920: folds 
+*** FLOP *** [4s 9c 7c]
+4752212: checks 
+Samuel0124: bets $0.11
+4752212: folds 
+Uncalled bet ($0.11) returned to Samuel0124
+Samuel0124 collected $0.11 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4s 9c 7c]
+Seat 1: lawrence0920 (big blind) folded before Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded on the Flop
+Seat 4: Samuel0124 (button) collected ($0.11)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596062405:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:20:18 BRT [2017/01/14 23:20:18 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: lawrence0920 ($1.62 in chips) 
+Seat 2: vfhreif.olga ($2.38 in chips) 
+Seat 3: 4752212 ($1.81 in chips) 
+Seat 4: Samuel0124 ($5.59 in chips) 
+Seat 6: pedroabreu1 ($4.12 in chips) 
+lawrence0920: posts small blind $0.01
+vfhreif.olga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs Qd]
+4752212: folds 
+Samuel0124: folds 
+pedroabreu1: raises $0.04 to $0.06
+lawrence0920: calls $0.05
+vfhreif.olga: folds 
+*** FLOP *** [Tc 8h 3s]
+lawrence0920: checks 
+pedroabreu1: bets $0.08
+lawrence0920: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Tc 8h 3s]
+Seat 1: lawrence0920 (small blind) folded on the Flop
+Seat 2: vfhreif.olga (big blind) folded before Flop
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.14)
+
+
+
+PokerStars Hand #164596073065:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:20:48 BRT [2017/01/14 23:20:48 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: lawrence0920 ($1.56 in chips) 
+Seat 2: vfhreif.olga ($2.36 in chips) 
+Seat 3: 4752212 ($1.81 in chips) 
+Seat 4: Samuel0124 ($5.59 in chips) 
+Seat 6: pedroabreu1 ($4.20 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+xRUNAxRUNAx: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc Ts]
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: calls $0.06
+lawrence0920: calls $0.06
+vfhreif.olga: folds 
+4752212: folds 
+*** FLOP *** [4c 2s Js]
+Samuel0124: checks 
+pedroabreu1: checks 
+lawrence0920: bets $0.02
+Samuel0124: calls $0.02
+pedroabreu1: calls $0.02
+*** TURN *** [4c 2s Js] [6d]
+Samuel0124: checks 
+pedroabreu1: checks 
+lawrence0920: bets $0.12
+xRUNAxRUNAx leaves the table
+Samuel0124: calls $0.12
+pedroabreu1: folds 
+*** RIVER *** [4c 2s Js 6d] [6s]
+Samuel0124: checks 
+Soldat7fanat joins the table at seat #5 
+lawrence0920: checks 
+*** SHOW DOWN ***
+Samuel0124: shows [3d 3h] (two pair, Sixes and Threes)
+lawrence0920: mucks hand 
+Samuel0124 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [4c 2s Js 6d 6s]
+Seat 1: lawrence0920 (button) mucked [5d Ac]
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 showed [3d 3h] and won ($0.49) with two pair, Sixes and Threes
+Seat 6: pedroabreu1 folded on the Turn
+
+
+
+PokerStars Hand #164596098894:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:22:02 BRT [2017/01/14 23:22:02 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: lawrence0920 ($1.36 in chips) 
+Seat 2: vfhreif.olga ($2.35 in chips) 
+Seat 3: 4752212 ($1.79 in chips) 
+Seat 4: Samuel0124 ($5.88 in chips) 
+Seat 6: pedroabreu1 ($4.12 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+Soldat7fanat: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 3c]
+pedroabreu1: raises $0.04 to $0.06
+lawrence0920: calls $0.06
+vfhreif.olga: folds 
+4752212: calls $0.05
+Samuel0124: calls $0.04
+*** FLOP *** [Td 7d 7h]
+4752212: checks 
+Samuel0124: bets $0.23
+pedroabreu1: folds 
+lawrence0920: folds 
+4752212: folds 
+Uncalled bet ($0.23) returned to Samuel0124
+Samuel0124 collected $0.23 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Td 7d 7h]
+Seat 1: lawrence0920 folded on the Flop
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded on the Flop
+Seat 4: Samuel0124 (big blind) collected ($0.23)
+Seat 6: pedroabreu1 folded on the Flop
+
+
+
+PokerStars Hand #164596110800:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:22:36 BRT [2017/01/14 23:22:36 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: lawrence0920 ($1.30 in chips) 
+Seat 2: vfhreif.olga ($2.35 in chips) 
+Seat 3: 4752212 ($1.73 in chips) 
+Seat 4: Samuel0124 ($6.05 in chips) 
+Seat 5: Soldat7fanat ($2 in chips) 
+Seat 6: pedroabreu1 ($4.06 in chips) 
+Samuel0124: posts small blind $0.01
+Soldat7fanat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 3s]
+pedroabreu1: folds 
+lawrence0920: folds 
+vfhreif.olga: folds 
+4752212: raises $0.02 to $0.04
+Samuel0124: calls $0.03
+Soldat7fanat: folds 
+*** FLOP *** [7c 3h 6h]
+Samuel0124: checks 
+4752212: checks 
+*** TURN *** [7c 3h 6h] [7d]
+Samuel0124: bets $0.05
+4752212: calls $0.05
+*** RIVER *** [7c 3h 6h 7d] [Jc]
+Samuel0124: checks 
+4752212: checks 
+*** SHOW DOWN ***
+Samuel0124: shows [Kc Ts] (a pair of Sevens)
+4752212: shows [Kd Qh] (a pair of Sevens - King+Queen kicker)
+4752212 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7c 3h 6h 7d Jc]
+Seat 1: lawrence0920 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) showed [Kd Qh] and won ($0.19) with a pair of Sevens
+Seat 4: Samuel0124 (small blind) showed [Kc Ts] and lost with a pair of Sevens
+Seat 5: Soldat7fanat (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596124642:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:23:15 BRT [2017/01/14 23:23:15 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: lawrence0920 ($1.30 in chips) 
+Seat 2: vfhreif.olga ($2.35 in chips) 
+Seat 3: 4752212 ($1.83 in chips) 
+Seat 4: Samuel0124 ($5.96 in chips) 
+Seat 5: Soldat7fanat ($2 in chips) 
+Seat 6: pedroabreu1 ($4.06 in chips) 
+Soldat7fanat: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd 4h]
+lawrence0920: folds 
+vfhreif.olga: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+Soldat7fanat: calls $0.01
+pedroabreu1: checks 
+*** FLOP *** [Th Tc 7h]
+Soldat7fanat: checks 
+pedroabreu1: checks 
+4752212: checks 
+*** TURN *** [Th Tc 7h] [4d]
+Soldat7fanat: bets $0.06
+pedroabreu1: folds 
+4752212: calls $0.06
+*** RIVER *** [Th Tc 7h 4d] [4c]
+Soldat7fanat: bets $0.17
+4752212: folds 
+Uncalled bet ($0.17) returned to Soldat7fanat
+Soldat7fanat collected $0.17 from pot
+Soldat7fanat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Th Tc 7h 4d 4c]
+Seat 1: lawrence0920 folded before Flop (didn't bet)
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded on the River
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: Soldat7fanat (small blind) collected ($0.17)
+Seat 6: pedroabreu1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164596143197:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:24:08 BRT [2017/01/14 23:24:08 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: lawrence0920 ($1.30 in chips) 
+Seat 2: vfhreif.olga ($2.35 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.96 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($4.04 in chips) 
+pedroabreu1: posts small blind $0.01
+lawrence0920: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Ts]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: folds 
+Soldat7fanat: folds 
+pedroabreu1: raises $0.04 to $0.06
+lawrence0920: calls $0.04
+*** FLOP *** [4h 9d Th]
+pedroabreu1: checks 
+lawrence0920: checks 
+*** TURN *** [4h 9d Th] [8c]
+pedroabreu1: bets $0.12
+lawrence0920: raises $0.12 to $0.24
+pedroabreu1: raises $0.36 to $0.60
+lawrence0920: raises $0.64 to $1.24 and is all-in
+pedroabreu1: calls $0.64
+*** RIVER *** [4h 9d Th 8c] [3c]
+*** SHOW DOWN ***
+pedroabreu1: shows [Tc Ts] (three of a kind, Tens)
+lawrence0920: shows [Kd Qh] (high card King)
+pedroabreu1 collected $2.51 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.09 
+Board [4h 9d Th 8c 3c]
+Seat 1: lawrence0920 (big blind) showed [Kd Qh] and lost with high card King
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Soldat7fanat (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) showed [Tc Ts] and won ($2.51) with three of a kind, Tens
+
+
+
+PokerStars Hand #164596169049:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:25:23 BRT [2017/01/14 23:25:23 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 2: vfhreif.olga ($2.35 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.96 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($5.25 in chips) 
+vfhreif.olga: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ts 5c]
+Samuel0124: raises $0.04 to $0.06
+Soldat7fanat: folds 
+pedroabreu1: folds 
+vfhreif.olga: folds 
+4752212: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+lawrence0920 leaves the table
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: vfhreif.olga (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 collected ($0.05)
+Seat 5: Soldat7fanat folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596173495:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:25:36 BRT [2017/01/14 23:25:36 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 2: vfhreif.olga ($2.34 in chips) 
+Seat 3: 4752212 ($1.73 in chips) 
+Seat 4: Samuel0124 ($5.99 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($5.25 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 5c]
+Soldat7fanat: folds 
+Soldat7fanat leaves the table
+pedroabreu1: folds 
+vfhreif.olga: folds 
+4752212: raises $0.04 to $0.06
+Samuel0124: calls $0.04
+*** FLOP *** [Jc 4d 4h]
+4752212: bets $0.12
+Samuel0124: folds 
+Uncalled bet ($0.12) returned to 4752212
+4752212 collected $0.12 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc 4d 4h]
+Seat 2: vfhreif.olga (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) collected ($0.12)
+Seat 4: Samuel0124 (big blind) folded on the Flop
+Seat 5: Soldat7fanat folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596183492:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:26:05 BRT [2017/01/14 23:26:05 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 2: vfhreif.olga ($2.34 in chips) 
+Seat 3: 4752212 ($1.79 in chips) 
+Seat 4: Samuel0124 ($5.93 in chips) 
+Seat 6: pedroabreu1 ($5.25 in chips) 
+Samuel0124: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Ad]
+vfhreif.olga: folds 
+4752212: raises $0.02 to $0.04
+GaDStan joins the table at seat #1 
+Samuel0124: folds 
+pedroabreu1: raises $0.10 to $0.14
+4752212: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.09 from pot
+pedroabreu1: doesn't show hand 
+Soldat7fanat joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded before Flop
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #164596190626:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:26:25 BRT [2017/01/14 23:26:25 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: vfhreif.olga ($2.34 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.92 in chips) 
+Seat 6: pedroabreu1 ($5.30 in chips) 
+Soldat7fanat will be allowed to play after the button
+pedroabreu1: posts small blind $0.01
+GaDStan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th 6h]
+vfhreif.olga: folds 
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+pedroabreu1: folds 
+GaDStan: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan (big blind) folded before Flop
+Seat 2: vfhreif.olga folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) collected ($0.05)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596196813:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:26:43 BRT [2017/01/14 23:26:43 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.95 in chips) 
+Seat 6: pedroabreu1 ($5.29 in chips) 
+GaDStan: posts small blind $0.01
+vfhreif.olga: is sitting out 
+4752212: posts big blind $0.02
+Soldat7fanat: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js Ks]
+vfhreif.olga leaves the table
+Samuel0124: folds 
+pedroabreu1: raises $0.04 to $0.06
+GaDStan: folds 
+4752212: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164596202325:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:26:59 BRT [2017/01/14 23:26:59 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 3: 4752212 ($1.73 in chips) 
+Seat 4: Samuel0124 ($5.95 in chips) 
+Seat 6: pedroabreu1 ($5.32 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+Soldat7fanat: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 8s]
+pedroabreu1: folds 
+GaDStan: raises $0.04 to $0.06
+4752212: calls $0.05
+Samuel0124: folds 
+*** FLOP *** [5d 8d 6d]
+4752212: checks 
+goez123 joins the table at seat #2 
+GaDStan: bets $0.10
+4752212: calls $0.10
+*** TURN *** [5d 8d 6d] [9h]
+4752212: checks 
+GaDStan: bets $0.28
+4752212: calls $0.28
+*** RIVER *** [5d 8d 6d 9h] [Qd]
+4752212: bets $0.86
+GaDStan: folds 
+Uncalled bet ($0.86) returned to 4752212
+4752212 collected $0.87 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [5d 8d 6d 9h Qd]
+Seat 1: GaDStan (button) folded on the River
+Seat 3: 4752212 (small blind) collected ($0.87)
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596218111:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:27:46 BRT [2017/01/14 23:27:46 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 3: 4752212 ($2.16 in chips) 
+Seat 4: Samuel0124 ($5.93 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($5.32 in chips) 
+Samuel0124: posts small blind $0.01
+Soldat7fanat: posts big blind $0.02
+goez123: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah 5d]
+pedroabreu1: folds 
+GaDStan: folds 
+4752212: folds 
+Samuel0124: folds 
+Uncalled bet ($0.01) returned to Soldat7fanat
+Soldat7fanat collected $0.02 from pot
+Soldat7fanat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: Soldat7fanat (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596223219:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:28:00 BRT [2017/01/14 23:28:00 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 3: 4752212 ($2.16 in chips) 
+Seat 4: Samuel0124 ($5.92 in chips) 
+Seat 5: Soldat7fanat ($2.10 in chips) 
+Seat 6: pedroabreu1 ($5.32 in chips) 
+Soldat7fanat: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+goez123: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 6d]
+GaDStan: folds 
+4752212: folds 
+Samuel0124: folds 
+Soldat7fanat: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: Soldat7fanat (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164596228281:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:28:15 BRT [2017/01/14 23:28:15 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 3: 4752212 ($2.16 in chips) 
+Seat 4: Samuel0124 ($5.92 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($5.33 in chips) 
+pedroabreu1: posts small blind $0.01
+GaDStan: posts big blind $0.02
+goez123: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As Qs]
+4752212: raises $0.02 to $0.04
+Samuel0124: folds 
+Soldat7fanat: folds 
+pedroabreu1: raises $0.12 to $0.16
+GaDStan: folds 
+4752212: folds 
+Uncalled bet ($0.12) returned to pedroabreu1
+pedroabreu1 collected $0.10 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GaDStan (big blind) folded before Flop
+Seat 3: 4752212 folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Soldat7fanat (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #164596237285:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:28:42 BRT [2017/01/14 23:28:42 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($2.12 in chips) 
+Seat 4: Samuel0124 ($5.92 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($5.39 in chips) 
+GaDStan: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc Jd]
+4752212: calls $0.02
+Samuel0124: folds 
+Soldat7fanat: folds 
+pedroabreu1: raises $0.06 to $0.08
+GaDStan: folds 
+goez123: folds 
+4752212: calls $0.06
+*** FLOP *** [Ks Td 6h]
+4752212: bets $0.08
+pedroabreu1: calls $0.08
+*** TURN *** [Ks Td 6h] [7h]
+4752212: bets $0.16
+pedroabreu1: calls $0.16
+*** RIVER *** [Ks Td 6h 7h] [5h]
+4752212: checks 
+pedroabreu1: checks 
+*** SHOW DOWN ***
+4752212: shows [Jh Ac] (high card Ace)
+pedroabreu1: shows [Jc Jd] (a pair of Jacks)
+pedroabreu1 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Ks Td 6h 7h 5h]
+Seat 1: GaDStan (small blind) folded before Flop
+Seat 2: goez123 (big blind) folded before Flop
+Seat 3: 4752212 showed [Jh Ac] and lost with high card Ace
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Soldat7fanat folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) showed [Jc Jd] and won ($0.65) with a pair of Jacks
+
+
+
+PokerStars Hand #164596255444:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:29:35 BRT [2017/01/14 23:29:35 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.80 in chips) 
+Seat 4: Samuel0124 ($5.92 in chips) 
+Seat 5: Soldat7fanat ($2.09 in chips) 
+Seat 6: pedroabreu1 ($5.72 in chips) 
+goez123: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 3h]
+Samuel0124: folds 
+Soldat7fanat: raises $0.04 to $0.06
+pedroabreu1: folds 
+GaDStan: folds 
+goez123: folds 
+4752212: folds 
+Uncalled bet ($0.04) returned to Soldat7fanat
+Soldat7fanat collected $0.05 from pot
+Soldat7fanat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan (button) folded before Flop (didn't bet)
+Seat 2: goez123 (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Soldat7fanat collected ($0.05)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596261240:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:29:52 BRT [2017/01/14 23:29:52 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.78 in chips) 
+Seat 4: Samuel0124 ($5.92 in chips) 
+Seat 5: Soldat7fanat ($2.12 in chips) 
+Seat 6: pedroabreu1 ($5.72 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c Jd]
+Soldat7fanat: folds 
+pedroabreu1: folds 
+GaDStan: folds 
+goez123: folds 
+4752212: calls $0.01
+Soldat7fanat leaves the table
+Samuel0124: checks 
+*** FLOP *** [Ts 2d Qc]
+4752212: bets $0.02
+Samuel0124: calls $0.02
+*** TURN *** [Ts 2d Qc] [6h]
+4752212: bets $0.08
+Samuel0124: folds 
+Uncalled bet ($0.08) returned to 4752212
+4752212 collected $0.08 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ts 2d Qc 6h]
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 2: goez123 (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) collected ($0.08)
+Seat 4: Samuel0124 (big blind) folded on the Turn
+Seat 5: Soldat7fanat folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596269397:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:30:16 BRT [2017/01/14 23:30:16 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.82 in chips) 
+Seat 4: Samuel0124 ($5.88 in chips) 
+Seat 6: pedroabreu1 ($5.72 in chips) 
+Samuel0124: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 7c]
+GaDStan: folds 
+goez123: folds 
+4752212: folds 
+Sergirk79 joins the table at seat #5 
+Samuel0124: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 (button) folded before Flop (didn't bet)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164596274295:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:30:29 BRT [2017/01/14 23:30:29 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.82 in chips) 
+Seat 4: Samuel0124 ($5.87 in chips) 
+Seat 6: pedroabreu1 ($5.73 in chips) 
+Sergirk79 will be allowed to play after the button
+pedroabreu1: posts small blind $0.01
+GaDStan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h 9d]
+goez123: folds 
+4752212: raises $0.04 to $0.06
+Samuel0124: folds 
+pedroabreu1: folds 
+GaDStan: folds 
+Uncalled bet ($0.04) returned to 4752212
+4752212 collected $0.05 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan (big blind) folded before Flop
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 collected ($0.05)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596279283:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:30:44 BRT [2017/01/14 23:30:44 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.85 in chips) 
+Seat 4: Samuel0124 ($5.87 in chips) 
+Seat 6: pedroabreu1 ($5.72 in chips) 
+GaDStan: posts small blind $0.01
+goez123: posts big blind $0.02
+Sergirk79: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kd 3d]
+4752212: folds 
+Samuel0124: folds 
+pedroabreu1: raises $0.04 to $0.06
+GaDStan: calls $0.05
+goez123: folds 
+*** FLOP *** [Qh As Ac]
+GaDStan: checks 
+pedroabreu1: bets $0.10
+GaDStan: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qh As Ac]
+Seat 1: GaDStan (small blind) folded on the Flop
+Seat 2: goez123 (big blind) folded before Flop
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.14)
+
+
+
+PokerStars Hand #164596290104:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:31:15 BRT [2017/01/14 23:31:15 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.85 in chips) 
+Seat 4: Samuel0124 ($5.87 in chips) 
+Seat 6: pedroabreu1 ($5.80 in chips) 
+goez123: posts small blind $0.01
+4752212: posts big blind $0.02
+Sergirk79: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d 5c]
+Samuel0124: folds 
+pedroabreu1: folds 
+GaDStan: folds 
+goez123: folds 
+Uncalled bet ($0.01) returned to 4752212
+4752212 collected $0.02 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: GaDStan (button) folded before Flop (didn't bet)
+Seat 2: goez123 (small blind) folded before Flop
+Seat 3: 4752212 (big blind) collected ($0.02)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596293273:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:31:25 BRT [2017/01/14 23:31:25 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: GaDStan ($2 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.86 in chips) 
+Seat 4: Samuel0124 ($5.87 in chips) 
+Seat 6: pedroabreu1 ($5.80 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+Sergirk79: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Th]
+pedroabreu1: raises $0.04 to $0.06
+GaDStan: calls $0.06
+goez123: folds 
+4752212: folds 
+Samuel0124: folds 
+*** FLOP *** [5s 7s As]
+pedroabreu1: checks 
+GaDStan: checks 
+*** TURN *** [5s 7s As] [Qs]
+pedroabreu1: checks 
+GaDStan: bets $0.08
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to GaDStan
+GaDStan collected $0.14 from pot
+GaDStan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5s 7s As Qs]
+Seat 1: GaDStan collected ($0.14)
+Seat 2: goez123 (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 6: pedroabreu1 folded on the Turn
+
+
+
+PokerStars Hand #164596329236:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:32:50 BRT [2017/01/14 23:32:50 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: GaDStan ($2.08 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.85 in chips) 
+Seat 4: Samuel0124 ($5.85 in chips) 
+Seat 5: Sergirk79 ($2 in chips) 
+Seat 6: pedroabreu1 ($5.74 in chips) 
+Samuel0124: posts small blind $0.01
+Sergirk79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah 2h]
+pedroabreu1: folds 
+GaDStan: folds 
+goez123: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+Sergirk79: checks 
+*** FLOP *** [7c 5s 8h]
+Sergirk79: checks 
+4752212: checks 
+*** TURN *** [7c 5s 8h] [3c]
+Sergirk79: checks 
+4752212: checks 
+*** RIVER *** [7c 5s 8h 3c] [Ks]
+Sergirk79: checks 
+4752212: checks 
+*** SHOW DOWN ***
+Sergirk79: shows [2c 8d] (a pair of Eights)
+4752212: mucks hand 
+Sergirk79 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 5s 8h 3c Ks]
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 (button) mucked [7s Qd]
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: Sergirk79 (big blind) showed [2c 8d] and won ($0.05) with a pair of Eights
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596342285:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:33:29 BRT [2017/01/14 23:33:29 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: GaDStan ($2.08 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.83 in chips) 
+Seat 4: Samuel0124 ($5.84 in chips) 
+Seat 5: Sergirk79 ($2.03 in chips) 
+Seat 6: pedroabreu1 ($5.74 in chips) 
+Sergirk79: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Ts]
+GaDStan: folds 
+goez123: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+Sergirk79: folds 
+pedroabreu1: raises $0.06 to $0.08
+4752212: calls $0.06
+*** FLOP *** [2d 2c Ks]
+pedroabreu1: bets $0.10
+4752212: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.16 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2d 2c Ks]
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 folded on the Flop
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: Sergirk79 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.16)
+
+
+
+PokerStars Hand #164596359822:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:34:21 BRT [2017/01/14 23:34:21 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: GaDStan ($2.08 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.84 in chips) 
+Seat 5: Sergirk79 ($2.02 in chips) 
+Seat 6: pedroabreu1 ($5.82 in chips) 
+pedroabreu1: posts small blind $0.01
+GaDStan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 3d]
+goez123: folds 
+4752212: folds 
+Samuel0124: raises $0.04 to $0.06
+Sergirk79: folds 
+pedroabreu1: folds 
+GaDStan: folds 
+Uncalled bet ($0.04) returned to Samuel0124
+Samuel0124 collected $0.05 from pot
+Samuel0124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan (big blind) folded before Flop
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 collected ($0.05)
+Seat 5: Sergirk79 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596368643:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:34:47 BRT [2017/01/14 23:34:47 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: GaDStan ($2.06 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.87 in chips) 
+Seat 5: Sergirk79 ($2.02 in chips) 
+Seat 6: pedroabreu1 ($5.81 in chips) 
+GaDStan: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Kd]
+4752212: folds 
+Samuel0124: folds 
+Sergirk79: folds 
+pedroabreu1: raises $0.04 to $0.06
+GaDStan: raises $0.12 to $0.18
+goez123: raises $0.42 to $0.60
+pedroabreu1: folds 
+GaDStan: calls $0.42
+*** FLOP *** [As Js Qc]
+GaDStan: bets $0.70
+goez123: raises $0.70 to $1.40 and is all-in
+GaDStan: calls $0.70
+*** TURN *** [As Js Qc] [4c]
+*** RIVER *** [As Js Qc 4c] [8s]
+*** SHOW DOWN ***
+GaDStan: shows [Qs Qh] (three of a kind, Queens)
+goez123: shows [Ah Kh] (a pair of Aces)
+GaDStan collected $3.92 from pot
+*** SUMMARY ***
+Total pot $4.06 | Rake $0.14 
+Board [As Js Qc 4c 8s]
+Seat 1: GaDStan (small blind) showed [Qs Qh] and won ($3.92) with three of a kind, Queens
+Seat 2: goez123 (big blind) showed [Ah Kh] and lost with a pair of Aces
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Sergirk79 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop
+
+
+
+PokerStars Hand #164596391011:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:35:55 BRT [2017/01/14 23:35:55 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: GaDStan ($3.98 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($5.87 in chips) 
+Seat 5: Sergirk79 ($2.02 in chips) 
+Seat 6: pedroabreu1 ($5.75 in chips) 
+goez123: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d Kd]
+Samuel0124: raises $0.04 to $0.06
+Sergirk79: folds 
+pedroabreu1: calls $0.06
+GaDStan: folds 
+goez123: folds 
+4752212: folds 
+*** FLOP *** [4d 9s 8c]
+Samuel0124: bets $0.14
+pedroabreu1: raises $0.26 to $0.40
+Samuel0124: calls $0.26
+*** TURN *** [4d 9s 8c] [5c]
+Samuel0124: checks 
+pedroabreu1: checks 
+*** RIVER *** [4d 9s 8c 5c] [Ad]
+Samuel0124: bets $0.46
+pedroabreu1: calls $0.46
+*** SHOW DOWN ***
+Samuel0124: shows [Jh Th] (high card Ace)
+pedroabreu1: shows [8d Kd] (a pair of Eights)
+pedroabreu1 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [4d 9s 8c 5c Ad]
+Seat 1: GaDStan (button) folded before Flop (didn't bet)
+Seat 2: goez123 (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 showed [Jh Th] and lost with high card Ace
+Seat 5: Sergirk79 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 showed [8d Kd] and won ($1.80) with a pair of Eights
+
+
+
+PokerStars Hand #164596413723:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:37:03 BRT [2017/01/14 23:37:03 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: GaDStan ($3.98 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.73 in chips) 
+Seat 4: Samuel0124 ($4.95 in chips) 
+Seat 5: Sergirk79 ($2.02 in chips) 
+Seat 6: pedroabreu1 ($6.63 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h Ts]
+Sergirk79: raises $0.04 to $0.06
+pedroabreu1: folds 
+GaDStan: raises $0.12 to $0.18
+goez123: calls $0.18
+4752212: folds 
+Samuel0124: folds 
+Sergirk79: calls $0.12
+*** FLOP *** [9s 4s 2c]
+Sergirk79: checks 
+GaDStan: bets $0.36
+goez123: folds 
+Sergirk79: folds 
+Uncalled bet ($0.36) returned to GaDStan
+GaDStan collected $0.55 from pot
+GaDStan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [9s 4s 2c]
+Seat 1: GaDStan collected ($0.55)
+Seat 2: goez123 (button) folded on the Flop
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: Sergirk79 folded on the Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596436889:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:38:12 BRT [2017/01/14 23:38:12 ET]
+Table 'Losaka' 6-max Seat #3 is the button
+Seat 1: GaDStan ($4.35 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.72 in chips) 
+Seat 4: Samuel0124 ($4.93 in chips) 
+Seat 5: Sergirk79 ($2 in chips) 
+Seat 6: pedroabreu1 ($6.63 in chips) 
+Samuel0124: posts small blind $0.01
+Sergirk79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd 5h]
+pedroabreu1: folds 
+GaDStan: folds 
+goez123: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+Sergirk79: checks 
+*** FLOP *** [4s 5c Tc]
+Sergirk79: checks 
+4752212: bets $0.02
+Sergirk79: folds 
+Uncalled bet ($0.02) returned to 4752212
+4752212 collected $0.05 from pot
+4752212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4s 5c Tc]
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 (button) collected ($0.05)
+Seat 4: Samuel0124 (small blind) folded before Flop
+Seat 5: Sergirk79 (big blind) folded on the Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596454617:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:39:06 BRT [2017/01/14 23:39:06 ET]
+Table 'Losaka' 6-max Seat #4 is the button
+Seat 1: GaDStan ($4.35 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($4.92 in chips) 
+Seat 5: Sergirk79 ($2 in chips) 
+Seat 6: pedroabreu1 ($6.63 in chips) 
+Sergirk79: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 7c]
+GaDStan: folds 
+goez123: raises $0.05 to $0.07
+4752212: folds 
+Samuel0124: folds 
+Sergirk79: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.05) returned to goez123
+goez123 collected $0.05 from pot
+goez123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan folded before Flop (didn't bet)
+Seat 2: goez123 collected ($0.05)
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 (button) folded before Flop (didn't bet)
+Seat 5: Sergirk79 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164596461970:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:39:28 BRT [2017/01/14 23:39:28 ET]
+Table 'Losaka' 6-max Seat #5 is the button
+Seat 1: GaDStan ($4.35 in chips) 
+Seat 2: goez123 ($2.03 in chips) 
+Seat 3: 4752212 ($1.75 in chips) 
+Seat 4: Samuel0124 ($4.92 in chips) 
+Seat 5: Sergirk79 ($2 in chips) 
+Seat 6: pedroabreu1 ($6.61 in chips) 
+pedroabreu1: posts small blind $0.01
+GaDStan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h 8c]
+goez123: folds 
+4752212: calls $0.02
+Samuel0124: folds 
+Sergirk79: raises $0.06 to $0.08
+pedroabreu1: folds 
+GaDStan: folds 
+4752212: calls $0.06
+*** FLOP *** [5c 8h 2d]
+4752212: checks 
+Sergirk79: bets $0.10
+4752212: folds 
+Uncalled bet ($0.10) returned to Sergirk79
+Sergirk79 collected $0.18 from pot
+Sergirk79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5c 8h 2d]
+Seat 1: GaDStan (big blind) folded before Flop
+Seat 2: goez123 folded before Flop (didn't bet)
+Seat 3: 4752212 folded on the Flop
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Sergirk79 (button) collected ($0.18)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596475199:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:40:08 BRT [2017/01/14 23:40:08 ET]
+Table 'Losaka' 6-max Seat #6 is the button
+Seat 1: GaDStan ($4.33 in chips) 
+Seat 2: goez123 ($2.03 in chips) 
+Seat 3: 4752212 ($1.67 in chips) 
+Seat 4: Samuel0124 ($4.92 in chips) 
+Seat 5: Sergirk79 ($2.10 in chips) 
+Seat 6: pedroabreu1 ($6.60 in chips) 
+GaDStan: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 5h]
+4752212: folds 
+Samuel0124: folds 
+Sergirk79: folds 
+pedroabreu1: raises $0.04 to $0.06
+GaDStan: folds 
+goez123: calls $0.04
+*** FLOP *** [2s 5s 4c]
+goez123: checks 
+pedroabreu1: bets $0.08
+goez123: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.13 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s 5s 4c]
+Seat 1: GaDStan (small blind) folded before Flop
+Seat 2: goez123 (big blind) folded on the Flop
+Seat 3: 4752212 folded before Flop (didn't bet)
+Seat 4: Samuel0124 folded before Flop (didn't bet)
+Seat 5: Sergirk79 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.13)
+
+
+
+PokerStars Hand #164596495000:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:41:08 BRT [2017/01/14 23:41:08 ET]
+Table 'Losaka' 6-max Seat #1 is the button
+Seat 1: GaDStan ($4.32 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.67 in chips) 
+Seat 4: Samuel0124 ($4.92 in chips) 
+Seat 5: Sergirk79 ($2.10 in chips) 
+Seat 6: pedroabreu1 ($6.67 in chips) 
+goez123: posts small blind $0.01
+4752212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 8h]
+Samuel0124: raises $0.04 to $0.06
+Sergirk79: folds 
+pedroabreu1: folds 
+GaDStan: raises $0.12 to $0.18
+goez123: folds 
+4752212: folds 
+Samuel0124: calls $0.12
+*** FLOP *** [7h 7c Qc]
+Samuel0124: checks 
+GaDStan: bets $0.24
+Samuel0124: folds 
+Uncalled bet ($0.24) returned to GaDStan
+GaDStan collected $0.38 from pot
+GaDStan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7h 7c Qc]
+Seat 1: GaDStan (button) collected ($0.38)
+Seat 2: goez123 (small blind) folded before Flop
+Seat 3: 4752212 (big blind) folded before Flop
+Seat 4: Samuel0124 folded on the Flop
+Seat 5: Sergirk79 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596511620:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:42:00 BRT [2017/01/14 23:42:00 ET]
+Table 'Losaka' 6-max Seat #2 is the button
+Seat 1: GaDStan ($4.52 in chips) 
+Seat 2: goez123 ($2 in chips) 
+Seat 3: 4752212 ($1.65 in chips) 
+Seat 4: Samuel0124 ($4.74 in chips) 
+Seat 5: Sergirk79 ($2.10 in chips) 
+Seat 6: pedroabreu1 ($6.67 in chips) 
+4752212: posts small blind $0.01
+Samuel0124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8h Jd]
+Sergirk79: folds 
+pedroabreu1: folds 
+GaDStan: raises $0.04 to $0.06
+goez123: folds 
+4752212: folds 
+Samuel0124: folds 
+Uncalled bet ($0.04) returned to GaDStan
+GaDStan collected $0.05 from pot
+GaDStan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GaDStan collected ($0.05)
+Seat 2: goez123 (button) folded before Flop (didn't bet)
+Seat 3: 4752212 (small blind) folded before Flop
+Seat 4: Samuel0124 (big blind) folded before Flop
+Seat 5: Sergirk79 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,3349 @@
+﻿PokerStars Hand #164794367983:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:57:03 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2 in chips) 
+Seat 2: twinol ($3.77 in chips) 
+Seat 3: Mmik143 ($4.88 in chips) 
+Seat 4: blazyboi ($2.02 in chips) 
+Seat 5: Mindfield806 ($2.02 in chips) 
+Mindfield806: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s 2h]
+twinol: folds 
+Mmik143: raises $0.05 to $0.07
+blazyboi: folds 
+Mindfield806: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.05) returned to Mmik143
+Mmik143 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Mmik143 collected ($0.05)
+Seat 4: blazyboi (button) folded before Flop (didn't bet)
+Seat 5: Mindfield806 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164794393804:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:57:35 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2 in chips) 
+Seat 2: twinol ($3.77 in chips) 
+Seat 3: Mmik143 ($4.91 in chips) 
+Seat 4: blazyboi ($2.02 in chips) 
+Seat 5: Mindfield806 ($2.01 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 6h]
+Mmik143: folds 
+blazyboi: raises $0.04 to $0.06
+Mindfield806: folds 
+pedroabreu1: folds 
+twinol: calls $0.04
+*** FLOP *** [Td 8s 8d]
+twinol: checks 
+blazyboi: bets $0.08
+twinol: calls $0.08
+*** TURN *** [Td 8s 8d] [5h]
+twinol: checks 
+blazyboi: bets $0.22
+twinol: folds 
+Uncalled bet ($0.22) returned to blazyboi
+blazyboi collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Td 8s 8d 5h]
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded on the Turn
+Seat 3: Mmik143 folded before Flop (didn't bet)
+Seat 4: blazyboi collected ($0.28)
+Seat 5: Mindfield806 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794442105:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:58:34 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2 in chips) 
+Seat 2: twinol ($3.63 in chips) 
+Seat 3: Mmik143 ($4.91 in chips) 
+Seat 4: blazyboi ($2.16 in chips) 
+Seat 5: Mindfield806 ($2.01 in chips) 
+twinol: posts small blind $0.01
+Mmik143: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js Th]
+blazyboi: raises $0.04 to $0.06
+Mindfield806: folds 
+pedroabreu1: calls $0.06
+twinol: folds 
+Mmik143: calls $0.04
+*** FLOP *** [7d Kd 9s]
+Mmik143: bets $0.10
+blazyboi: calls $0.10
+pedroabreu1: folds 
+*** TURN *** [7d Kd 9s] [6h]
+Mmik143: checks 
+blazyboi: checks 
+*** RIVER *** [7d Kd 9s 6h] [8d]
+Mmik143: checks 
+blazyboi: bets $0.20
+Mmik143: folds 
+Uncalled bet ($0.20) returned to blazyboi
+blazyboi collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7d Kd 9s 6h 8d]
+Seat 1: pedroabreu1 (button) folded on the Flop
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Mmik143 (big blind) folded on the River
+Seat 4: blazyboi collected ($0.38)
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794512313:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:00:00 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2 in chips) 
+Seat 2: twinol ($3.62 in chips) 
+Seat 3: Mmik143 ($4.75 in chips) 
+Seat 4: blazyboi ($2.38 in chips) 
+Seat 5: Mindfield806 ($2.01 in chips) 
+Mmik143: posts small blind $0.01
+blazyboi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd Ac]
+Mindfield806: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Mmik143: folds 
+blazyboi: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 collected ($0.05)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Mmik143 (small blind) folded before Flop
+Seat 4: blazyboi (big blind) folded before Flop
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794542236:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:00:34 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.03 in chips) 
+Seat 2: twinol ($3.62 in chips) 
+Seat 3: Mmik143 ($4.74 in chips) 
+Seat 4: blazyboi ($2.36 in chips) 
+Seat 5: Mindfield806 ($2.01 in chips) 
+blazyboi: posts small blind $0.01
+Mindfield806: posts big blind $0.02
+origato 87: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h Qh]
+pedroabreu1: folds 
+twinol: raises $0.02 to $0.04
+Mmik143: folds 
+blazyboi: folds 
+Mindfield806: raises $0.08 to $0.12
+twinol: calls $0.08
+*** FLOP *** [9h 8s 6c]
+Mindfield806: bets $0.16
+twinol: folds 
+Uncalled bet ($0.16) returned to Mindfield806
+Mindfield806 collected $0.24 from pot
+Mindfield806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h 8s 6c]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded on the Flop
+Seat 3: Mmik143 (button) folded before Flop (didn't bet)
+Seat 4: blazyboi (small blind) folded before Flop
+Seat 5: Mindfield806 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #164794598931:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:01:37 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.03 in chips) 
+Seat 2: twinol ($3.50 in chips) 
+Seat 3: Mmik143 ($4.74 in chips) 
+Seat 4: blazyboi ($2.35 in chips) 
+Seat 5: Mindfield806 ($2.13 in chips) 
+Seat 6: origato 87 ($2.37 in chips) 
+Mindfield806: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 9c]
+pedroabreu1: folds 
+twinol: folds 
+Mmik143: raises $0.04 to $0.06
+blazyboi: folds 
+Mindfield806: folds 
+origato 87: calls $0.04
+*** FLOP *** [Ad 6h Kh]
+origato 87: checks 
+Mmik143: bets $0.09
+origato 87: raises $0.13 to $0.22
+Mmik143: folds 
+Uncalled bet ($0.13) returned to origato 87
+origato 87 collected $0.30 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ad 6h Kh]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Mmik143 folded on the Flop
+Seat 4: blazyboi (button) folded before Flop (didn't bet)
+Seat 5: Mindfield806 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) collected ($0.30)
+
+
+
+PokerStars Hand #164794646442:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:02:25 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.03 in chips) 
+Seat 2: twinol ($3.50 in chips) 
+Seat 3: Mmik143 ($4.59 in chips) 
+Seat 4: blazyboi ($2.35 in chips) 
+Seat 5: Mindfield806 ($2.12 in chips) 
+Seat 6: origato 87 ($2.52 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 8s]
+twinol: folds 
+Mmik143: folds 
+blazyboi: folds 
+Mindfield806: raises $0.03 to $0.05
+origato 87: folds 
+pedroabreu1: raises $0.13 to $0.18
+Mindfield806: folds 
+Uncalled bet ($0.13) returned to pedroabreu1
+pedroabreu1 collected $0.11 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: pedroabreu1 (big blind) collected ($0.11)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Mmik143 folded before Flop (didn't bet)
+Seat 4: blazyboi folded before Flop (didn't bet)
+Seat 5: Mindfield806 (button) folded before Flop
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164794672139:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:02:50 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.09 in chips) 
+Seat 2: twinol ($3.50 in chips) 
+Seat 3: Mmik143 ($4.59 in chips) 
+Seat 4: blazyboi ($2.35 in chips) 
+Seat 5: Mindfield806 ($2.07 in chips) 
+Seat 6: origato 87 ($2.51 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 3c]
+Mmik143: folds 
+blazyboi: raises $0.04 to $0.06
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Uncalled bet ($0.04) returned to blazyboi
+blazyboi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded before Flop
+Seat 3: Mmik143 folded before Flop (didn't bet)
+Seat 4: blazyboi collected ($0.05)
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794700403:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:03:18 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.08 in chips) 
+Seat 2: twinol ($3.48 in chips) 
+Seat 4: blazyboi ($2.38 in chips) 
+Seat 5: Mindfield806 ($2.07 in chips) 
+Seat 6: origato 87 ($2.51 in chips) 
+twinol: posts small blind $0.01
+Mmik143: is sitting out 
+blazyboi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Ts]
+Mmik143 leaves the table
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+blazyboi: calls $0.04
+*** FLOP *** [Qc Qd 9d]
+blazyboi: checks 
+pedroabreu1: bets $0.08
+blazyboi: calls $0.08
+*** TURN *** [Qc Qd 9d] [6s]
+blazyboi: checks 
+pedroabreu1: bets $0.20
+blazyboi: folds 
+Uncalled bet ($0.20) returned to pedroabreu1
+Friday1503 joins the table at seat #3 
+pedroabreu1 collected $0.28 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qc Qd 9d 6s]
+Seat 1: pedroabreu1 (button) collected ($0.28)
+Seat 2: twinol (small blind) folded before Flop
+Seat 4: blazyboi (big blind) folded on the Turn
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794731273:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:03:49 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.22 in chips) 
+Seat 2: twinol ($3.47 in chips) 
+Seat 4: blazyboi ($2.24 in chips) 
+Seat 5: Mindfield806 ($2.07 in chips) 
+Seat 6: origato 87 ($2.51 in chips) 
+Friday1503 will be allowed to play after the button
+blazyboi: posts small blind $0.01
+Mindfield806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 7d]
+origato 87 has timed out
+origato 87: folds 
+pedroabreu1: folds 
+twinol: raises $0.04 to $0.06
+blazyboi: folds 
+Mindfield806: folds 
+Uncalled bet ($0.04) returned to twinol
+twinol collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol (button) collected ($0.05)
+Seat 4: blazyboi (small blind) folded before Flop
+Seat 5: Mindfield806 (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794760891:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:04:18 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.22 in chips) 
+Seat 2: twinol ($3.50 in chips) 
+Seat 3: Friday1503 ($1.60 in chips) 
+Seat 4: blazyboi ($2.23 in chips) 
+Seat 5: Mindfield806 ($2.05 in chips) 
+Seat 6: origato 87 ($2.51 in chips) 
+Mindfield806: posts small blind $0.01
+origato 87: posts big blind $0.02
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs As]
+pedroabreu1: raises $0.06 to $0.08
+twinol: folds 
+Friday1503: calls $0.06
+blazyboi: folds 
+Mindfield806: folds 
+origato 87: folds 
+*** FLOP *** [2h Qd 8d]
+pedroabreu1: bets $0.10
+Friday1503: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.18 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2h Qd 8d]
+Seat 1: pedroabreu1 collected ($0.18)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 folded on the Flop
+Seat 4: blazyboi (button) folded before Flop (didn't bet)
+Seat 5: Mindfield806 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164794818981:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:05:15 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.32 in chips) 
+Seat 2: twinol ($3.50 in chips) 
+Seat 3: Friday1503 ($1.52 in chips) 
+Seat 4: blazyboi ($2.23 in chips) 
+Seat 5: Mindfield806 ($2.04 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td 7s]
+twinol: folds 
+Friday1503: calls $0.02
+blazyboi: folds 
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: checks 
+*** FLOP *** [4d 6d 8c]
+pedroabreu1: checks 
+Friday1503: checks 
+*** TURN *** [4d 6d 8c] [5d]
+pedroabreu1: checks 
+Friday1503: checks 
+*** RIVER *** [4d 6d 8c 5d] [Ks]
+pedroabreu1: checks 
+Friday1503: bets $0.05
+pedroabreu1: folds 
+Uncalled bet ($0.05) returned to Friday1503
+Friday1503 collected $0.05 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d 6d 8c 5d Ks]
+Seat 1: pedroabreu1 (big blind) folded on the River
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 collected ($0.05)
+Seat 4: blazyboi folded before Flop (didn't bet)
+Seat 5: Mindfield806 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164794895443:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:06:31 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.30 in chips) 
+Seat 2: twinol ($3.50 in chips) 
+Seat 3: Friday1503 ($1.55 in chips) 
+Seat 4: blazyboi ($2.23 in chips) 
+Seat 5: Mindfield806 ($2.04 in chips) 
+Seat 6: origato 87 ($2.48 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c Qh]
+Friday1503: calls $0.02
+blazyboi: folds 
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: checks 
+*** FLOP *** [4s Kd Qs]
+twinol: checks 
+Friday1503: checks 
+*** TURN *** [4s Kd Qs] [9s]
+twinol: checks 
+Friday1503: checks 
+*** RIVER *** [4s Kd Qs 9s] [Qd]
+twinol: checks 
+Friday1503: bets $0.05
+twinol: folds 
+Uncalled bet ($0.05) returned to Friday1503
+Friday1503 collected $0.05 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4s Kd Qs 9s Qd]
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded on the River
+Seat 3: Friday1503 collected ($0.05)
+Seat 4: blazyboi folded before Flop (didn't bet)
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794964490:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:07:38 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.29 in chips) 
+Seat 2: twinol ($3.48 in chips) 
+Seat 3: Friday1503 ($1.58 in chips) 
+Seat 4: blazyboi ($2.23 in chips) 
+Seat 5: Mindfield806 ($2.04 in chips) 
+Seat 6: origato 87 ($2.48 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd Jc]
+blazyboi: folds 
+blazyboi leaves the table
+Mindfield806: raises $0.04 to $0.06
+origato 87: folds 
+pedroabreu1: calls $0.06
+twinol: folds 
+lola201329 joins the table at seat #4 
+Friday1503: calls $0.04
+*** FLOP *** [6d 6h 3c]
+Friday1503: bets $0.09
+Mindfield806: folds 
+pedroabreu1: calls $0.09
+*** TURN *** [6d 6h 3c] [4c]
+Friday1503: checks 
+pedroabreu1: bets $0.22
+Friday1503: folds 
+Uncalled bet ($0.22) returned to pedroabreu1
+pedroabreu1 collected $0.36 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [6d 6h 3c 4c]
+Seat 1: pedroabreu1 (button) collected ($0.36)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Friday1503 (big blind) folded on the Turn
+Seat 4: blazyboi folded before Flop (didn't bet)
+Seat 5: Mindfield806 folded on the Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795023117:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:08:37 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.50 in chips) 
+Seat 2: twinol ($3.47 in chips) 
+Seat 3: Friday1503 ($1.43 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.98 in chips) 
+Seat 6: origato 87 ($2.48 in chips) 
+Friday1503: posts small blind $0.01
+lola201329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Qs]
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Friday1503: calls $0.05
+lola201329: calls $0.04
+*** FLOP *** [3d Td 2h]
+Friday1503: checks 
+lola201329: checks 
+pedroabreu1: checks 
+*** TURN *** [3d Td 2h] [Ts]
+Friday1503: checks 
+lola201329: checks 
+pedroabreu1: checks 
+*** RIVER *** [3d Td 2h Ts] [8s]
+Friday1503: bets $0.09
+lola201329: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.09) returned to Friday1503
+Friday1503 collected $0.17 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3d Td 2h Ts 8s]
+Seat 1: pedroabreu1 folded on the River
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) collected ($0.17)
+Seat 4: lola201329 (big blind) folded on the River
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795068816:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:09:22 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.44 in chips) 
+Seat 2: twinol ($3.47 in chips) 
+Seat 3: Friday1503 ($1.54 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.98 in chips) 
+Seat 6: origato 87 ($2.48 in chips) 
+lola201329: posts small blind $0.01
+Mindfield806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s Kc]
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+lola201329: folds 
+Mindfield806: checks 
+*** FLOP *** [Ad Jc 5c]
+Mindfield806: checks 
+Friday1503: checks 
+*** TURN *** [Ad Jc 5c] [6s]
+Mindfield806: checks 
+Friday1503: bets $0.02
+Mindfield806: folds 
+Uncalled bet ($0.02) returned to Friday1503
+Friday1503 collected $0.05 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad Jc 5c 6s]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) collected ($0.05)
+Seat 4: lola201329 (small blind) folded before Flop
+Seat 5: Mindfield806 (big blind) folded on the Turn
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795112198:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:10:04 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.44 in chips) 
+Seat 2: twinol ($3.47 in chips) 
+Seat 3: Friday1503 ($1.57 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.96 in chips) 
+Seat 6: origato 87 ($2.48 in chips) 
+Mindfield806: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 7h]
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+lola201329: folds 
+Mindfield806: folds 
+origato 87: checks 
+*** FLOP *** [As 5c 3c]
+origato 87: checks 
+Friday1503: bets $0.02
+origato 87: calls $0.02
+*** TURN *** [As 5c 3c] [9s]
+origato 87: checks 
+Friday1503: checks 
+*** RIVER *** [As 5c 3c 9s] [Qc]
+origato 87: checks 
+Friday1503: checks 
+*** SHOW DOWN ***
+origato 87: shows [Qd 2c] (a pair of Queens)
+Friday1503: shows [Qh 6c] (a pair of Queens - Ace+Nine+Six kicker)
+Friday1503 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [As 5c 3c 9s Qc]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 showed [Qh 6c] and won ($0.09) with a pair of Queens
+Seat 4: lola201329 (button) folded before Flop (didn't bet)
+Seat 5: Mindfield806 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) showed [Qd 2c] and lost with a pair of Queens
+
+
+
+PokerStars Hand #164795178281:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:11:09 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.44 in chips) 
+Seat 2: twinol ($3.47 in chips) 
+Seat 3: Friday1503 ($1.62 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.95 in chips) 
+Seat 6: origato 87 ($2.44 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d Jd]
+twinol: raises $0.04 to $0.06
+Friday1503: calls $0.06
+lola201329: folds 
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+*** FLOP *** [2d 8s Js]
+twinol: bets $0.06
+Friday1503: calls $0.06
+*** TURN *** [2d 8s Js] [6d]
+twinol: bets $0.12
+Friday1503: folds 
+Uncalled bet ($0.12) returned to twinol
+twinol collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2d 8s Js 6d]
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol collected ($0.26)
+Seat 3: Friday1503 folded on the Turn
+Seat 4: lola201329 folded before Flop (didn't bet)
+Seat 5: Mindfield806 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795218944:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:11:49 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.42 in chips) 
+Seat 2: twinol ($3.61 in chips) 
+Seat 3: Friday1503 ($1.50 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.95 in chips) 
+Seat 6: origato 87 ($2.43 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 6d]
+Friday1503: folds 
+lola201329: folds 
+Mindfield806: folds 
+origato 87: raises $0.04 to $0.06
+pedroabreu1: folds 
+twinol: folds 
+Uncalled bet ($0.04) returned to origato 87
+origato 87 collected $0.05 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded before Flop
+Seat 3: Friday1503 folded before Flop (didn't bet)
+Seat 4: lola201329 folded before Flop (didn't bet)
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164795247981:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:12:18 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.41 in chips) 
+Seat 2: twinol ($3.59 in chips) 
+Seat 3: Friday1503 ($1.50 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.95 in chips) 
+Seat 6: origato 87 ($2.46 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks Jc]
+lola201329: folds 
+Mindfield806: raises $0.04 to $0.06
+origato 87: folds 
+pedroabreu1: calls $0.06
+twinol: folds 
+Friday1503: folds 
+*** FLOP *** [3s 2s Kc]
+Mindfield806: bets $0.09
+pedroabreu1: calls $0.09
+*** TURN *** [3s 2s Kc] [8h]
+Mindfield806: checks 
+pedroabreu1: bets $0.20
+Mindfield806: folds 
+Uncalled bet ($0.20) returned to pedroabreu1
+pedroabreu1 collected $0.32 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [3s 2s Kc 8h]
+Seat 1: pedroabreu1 (button) collected ($0.32)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Friday1503 (big blind) folded before Flop
+Seat 4: lola201329 folded before Flop (didn't bet)
+Seat 5: Mindfield806 folded on the Turn
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795301673:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:13:11 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.58 in chips) 
+Seat 2: twinol ($3.58 in chips) 
+Seat 3: Friday1503 ($1.48 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($2 in chips) 
+Seat 6: origato 87 ($2.46 in chips) 
+Friday1503: posts small blind $0.01
+lola201329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh Jc]
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Friday1503: folds 
+lola201329: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 collected ($0.05)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) folded before Flop
+Seat 4: lola201329 (big blind) folded before Flop
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795328574:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:13:37 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.61 in chips) 
+Seat 2: twinol ($3.58 in chips) 
+Seat 3: Friday1503 ($1.47 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($2 in chips) 
+Seat 6: origato 87 ($2.46 in chips) 
+lola201329: posts small blind $0.01
+Mindfield806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah 7c]
+origato 87: raises $0.02 to $0.04
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: folds 
+lola201329: folds 
+Mindfield806: folds 
+Uncalled bet ($0.02) returned to origato 87
+origato 87 collected $0.05 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) folded before Flop (didn't bet)
+Seat 4: lola201329 (small blind) folded before Flop
+Seat 5: Mindfield806 (big blind) folded before Flop
+Seat 6: origato 87 collected ($0.05)
+
+
+
+PokerStars Hand #164795356572:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:14:04 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.61 in chips) 
+Seat 2: twinol ($3.58 in chips) 
+Seat 3: Friday1503 ($1.47 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.98 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+Mindfield806: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d 9h]
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+lola201329: folds 
+Mindfield806: folds 
+origato 87: checks 
+*** FLOP *** [6s 2d Ts]
+origato 87: checks 
+Friday1503: checks 
+*** TURN *** [6s 2d Ts] [6h]
+origato 87: checks 
+Friday1503: checks 
+*** RIVER *** [6s 2d Ts 6h] [8s]
+origato 87: checks 
+Friday1503: bets $0.02
+origato 87: calls $0.02
+*** SHOW DOWN ***
+Friday1503: shows [4c Td] (two pair, Tens and Sixes)
+origato 87: mucks hand 
+Friday1503 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6s 2d Ts 6h 8s]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 showed [4c Td] and won ($0.09) with two pair, Tens and Sixes
+Seat 4: lola201329 (button) folded before Flop (didn't bet)
+Seat 5: Mindfield806 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) mucked [7d 8c]
+
+
+
+PokerStars Hand #164795395505:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:14:43 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.61 in chips) 
+Seat 2: twinol ($3.58 in chips) 
+Seat 3: Friday1503 ($1.52 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.97 in chips) 
+Seat 6: origato 87 ($2.45 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 7d]
+twinol: folds 
+Friday1503: folds 
+lola201329: folds 
+Mindfield806: raises $0.03 to $0.05
+origato 87: calls $0.04
+pedroabreu1: folds 
+*** FLOP *** [8s Jc Tc]
+origato 87: checks 
+Mindfield806: checks 
+*** TURN *** [8s Jc Tc] [7c]
+origato 87: checks 
+Mindfield806: checks 
+*** RIVER *** [8s Jc Tc 7c] [Qc]
+origato 87: checks 
+Mindfield806: checks 
+*** SHOW DOWN ***
+origato 87: shows [3c 3s] (a flush, Queen high)
+Mindfield806: mucks hand 
+origato 87 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s Jc Tc 7c Qc]
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 folded before Flop (didn't bet)
+Seat 4: lola201329 folded before Flop (didn't bet)
+Seat 5: Mindfield806 (button) mucked [3d Kd]
+Seat 6: origato 87 (small blind) showed [3c 3s] and won ($0.12) with a flush, Queen high
+
+
+
+PokerStars Hand #164795438644:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:15:25 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.59 in chips) 
+Seat 2: twinol ($3.58 in chips) 
+Seat 3: Friday1503 ($1.52 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.92 in chips) 
+Seat 6: origato 87 ($2.52 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s Qd]
+Friday1503: raises $0.02 to $0.04
+lola201329: folds 
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Uncalled bet ($0.02) returned to Friday1503
+Friday1503 collected $0.05 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded before Flop
+Seat 3: Friday1503 collected ($0.05)
+Seat 4: lola201329 folded before Flop (didn't bet)
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795450925:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:15:37 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.58 in chips) 
+Seat 2: twinol ($3.56 in chips) 
+Seat 3: Friday1503 ($1.55 in chips) 
+Seat 4: lola201329 ($2 in chips) 
+Seat 5: Mindfield806 ($1.92 in chips) 
+Seat 6: origato 87 ($2.52 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Ks]
+lola201329: raises $0.03 to $0.05
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.03
+*** FLOP *** [3c Qs 9d]
+Friday1503: checks 
+lola201329: checks 
+*** TURN *** [3c Qs 9d] [2s]
+Friday1503: checks 
+lola201329: checks 
+*** RIVER *** [3c Qs 9d 2s] [7s]
+Friday1503: bets $0.06
+lola201329: folds 
+Uncalled bet ($0.06) returned to Friday1503
+Friday1503 collected $0.11 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3c Qs 9d 2s 7s]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Friday1503 (big blind) collected ($0.11)
+Seat 4: lola201329 folded on the River
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795506158:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:16:31 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.58 in chips) 
+Seat 2: twinol ($3.55 in chips) 
+Seat 3: Friday1503 ($1.61 in chips) 
+Seat 5: Mindfield806 ($1.92 in chips) 
+Seat 6: origato 87 ($2.52 in chips) 
+Friday1503: posts small blind $0.01
+lola201329: is sitting out 
+Mindfield806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Kd]
+lola201329 leaves the table
+origato 87: folds 
+SuperFurry69 joins the table at seat #4 
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.01
+Mindfield806: checks 
+*** FLOP *** [3s 6s Tc]
+Friday1503: checks 
+Mindfield806: checks 
+*** TURN *** [3s 6s Tc] [2c]
+Friday1503: checks 
+Mindfield806: checks 
+*** RIVER *** [3s 6s Tc 2c] [9d]
+Friday1503: bets $0.02
+Mindfield806: folds 
+Uncalled bet ($0.02) returned to Friday1503
+Friday1503 collected $0.04 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3s 6s Tc 2c 9d]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) collected ($0.04)
+Seat 5: Mindfield806 (big blind) folded on the River
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795562107:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:17:26 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.58 in chips) 
+Seat 2: twinol ($3.55 in chips) 
+Seat 3: Friday1503 ($1.63 in chips) 
+Seat 5: Mindfield806 ($1.90 in chips) 
+Seat 6: origato 87 ($2.52 in chips) 
+SuperFurry69 will be allowed to play after the button
+Mindfield806: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs Ah]
+pedroabreu1: raises $0.04 to $0.06
+twinol: calls $0.06
+Friday1503: folds 
+Mindfield806: folds 
+origato 87: folds 
+*** FLOP *** [6s 3c 8d]
+pedroabreu1: checks 
+twinol: checks 
+*** TURN *** [6s 3c 8d] [2s]
+pedroabreu1: checks 
+twinol: bets $0.06
+pedroabreu1: calls $0.06
+*** RIVER *** [6s 3c 8d 2s] [7s]
+pedroabreu1: checks 
+twinol: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [Qs Ah] (high card Ace)
+twinol: shows [5h 5s] (a pair of Fives)
+twinol collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6s 3c 8d 2s 7s]
+Seat 1: pedroabreu1 showed [Qs Ah] and lost with high card Ace
+Seat 2: twinol showed [5h 5s] and won ($0.26) with a pair of Fives
+Seat 3: Friday1503 (button) folded before Flop (didn't bet)
+Seat 5: Mindfield806 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164795604095:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:18:07 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.46 in chips) 
+Seat 2: twinol ($3.69 in chips) 
+Seat 3: Friday1503 ($1.63 in chips) 
+Seat 5: Mindfield806 ($1.89 in chips) 
+Seat 6: origato 87 ($2.50 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+SuperFurry69: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h Jh]
+twinol: raises $0.04 to $0.06
+Friday1503: calls $0.06
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+*** FLOP *** [8s 8h 3d]
+twinol: bets $0.02
+Friday1503: calls $0.02
+*** TURN *** [8s 8h 3d] [Tc]
+twinol: bets $0.12
+Friday1503: folds 
+Uncalled bet ($0.12) returned to twinol
+twinol collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8s 8h 3d Tc]
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol collected ($0.18)
+Seat 3: Friday1503 folded on the Turn
+Seat 5: Mindfield806 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795635559:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:18:38 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.44 in chips) 
+Seat 2: twinol ($3.79 in chips) 
+Seat 3: Friday1503 ($1.55 in chips) 
+Seat 5: Mindfield806 ($1.89 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+SuperFurry69: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 3d]
+Friday1503: calls $0.02
+Mindfield806: raises $0.04 to $0.06
+origato 87: folds 
+pedroabreu1: folds 
+twinol: calls $0.04
+Friday1503: calls $0.04
+*** FLOP *** [Th Jc 2h]
+twinol: checks 
+Friday1503: checks 
+Mindfield806: bets $0.14
+twinol: folds 
+Friday1503: calls $0.14
+*** TURN *** [Th Jc 2h] [6c]
+Friday1503: checks 
+Mindfield806: bets $0.30
+Friday1503: folds 
+Uncalled bet ($0.30) returned to Mindfield806
+Mindfield806 collected $0.45 from pot
+Mindfield806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Th Jc 2h 6c]
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded on the Flop
+Seat 3: Friday1503 folded on the Turn
+Seat 5: Mindfield806 collected ($0.45)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795690551:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:19:33 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.43 in chips) 
+Seat 2: twinol ($3.73 in chips) 
+Seat 3: Friday1503 ($1.35 in chips) 
+Seat 5: Mindfield806 ($2.14 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+SuperFurry69: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 5h]
+Mindfield806: folds 
+origato 87 has timed out
+origato 87: folds 
+pedroabreu1: folds 
+twinol: raises $0.02 to $0.04
+Friday1503: raises $0.02 to $0.06
+twinol: calls $0.02
+*** FLOP *** [6c Ks 2h]
+twinol: checks 
+Friday1503: checks 
+*** TURN *** [6c Ks 2h] [Ts]
+twinol: bets $0.04
+Friday1503: calls $0.04
+*** RIVER *** [6c Ks 2h Ts] [Qc]
+twinol: checks 
+Friday1503: checks 
+*** SHOW DOWN ***
+twinol: shows [8s Td] (a pair of Tens)
+Friday1503: mucks hand 
+twinol collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6c Ks 2h Ts Qc]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: twinol (small blind) showed [8s Td] and won ($0.19) with a pair of Tens
+Seat 3: Friday1503 (big blind) mucked [8d 8h]
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795753092:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:20:36 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.43 in chips) 
+Seat 2: twinol ($3.82 in chips) 
+Seat 3: Friday1503 ($1.25 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: Mindfield806 ($2.14 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+Friday1503: posts small blind $0.01
+SuperFurry69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 8d]
+Mindfield806: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: raises $0.02 to $0.04
+Mindfield806 leaves the table
+Friday1503: raises $0.02 to $0.06
+SuperFurry69: folds 
+pokersito84 joins the table at seat #5 
+twinol: calls $0.02
+*** FLOP *** [Ts 7s 2c]
+Friday1503: checks 
+twinol: bets $0.02
+Friday1503: calls $0.02
+*** TURN *** [Ts 7s 2c] [Ac]
+Friday1503: checks 
+twinol: bets $0.10
+Friday1503: calls $0.10
+*** RIVER *** [Ts 7s 2c Ac] [7h]
+Friday1503: checks 
+twinol: checks 
+*** SHOW DOWN ***
+Friday1503: shows [Ks Ad] (two pair, Aces and Sevens)
+twinol: mucks hand 
+Friday1503 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Ts 7s 2c Ac 7h]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol (button) mucked [8s 9s]
+Seat 3: Friday1503 (small blind) showed [Ks Ad] and won ($0.37) with two pair, Aces and Sevens
+Seat 4: SuperFurry69 (big blind) folded before Flop
+Seat 5: Mindfield806 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795802555:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:21:25 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.43 in chips) 
+Seat 2: twinol ($3.64 in chips) 
+Seat 3: Friday1503 ($1.44 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+SuperFurry69: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 7s]
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Friday1503: calls $0.06
+SuperFurry69: folds 
+pokersito84: folds 
+*** FLOP *** [2d Ts 3c]
+pedroabreu1: checks 
+Friday1503: checks 
+*** TURN *** [2d Ts 3c] [Kc]
+pedroabreu1: checks 
+Friday1503: checks 
+*** RIVER *** [2d Ts 3c Kc] [6h]
+pedroabreu1: checks 
+Friday1503: bets $0.07
+pedroabreu1: folds 
+Uncalled bet ($0.07) returned to Friday1503
+Friday1503 collected $0.14 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d Ts 3c Kc 6h]
+Seat 1: pedroabreu1 folded on the River
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) collected ($0.14)
+Seat 4: SuperFurry69 (small blind) folded before Flop
+Seat 5: pokersito84 (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795854360:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:22:16 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.37 in chips) 
+Seat 2: twinol ($3.64 in chips) 
+Seat 3: Friday1503 ($1.52 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.49 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc Qd]
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Friday1503: folds 
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: calls $0.04
+*** FLOP *** [Ks Kh 5d]
+origato 87: checks 
+pedroabreu1: bets $0.08
+origato 87: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.13 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks Kh 5d]
+Seat 1: pedroabreu1 collected ($0.13)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 folded before Flop (didn't bet)
+Seat 4: SuperFurry69 (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164795895659:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:22:57 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.44 in chips) 
+Seat 2: twinol ($3.64 in chips) 
+Seat 3: Friday1503 ($1.52 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.43 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 2d]
+twinol: raises $0.04 to $0.06
+Friday1503: folds 
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: calls $0.04
+*** FLOP *** [5d 8h Th]
+pedroabreu1: checks 
+twinol: checks 
+*** TURN *** [5d 8h Th] [7c]
+pedroabreu1: checks 
+twinol: checks 
+*** RIVER *** [5d 8h Th 7c] [3c]
+pedroabreu1: checks 
+twinol: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [2s 2d] (a pair of Deuces)
+twinol: mucks hand 
+pedroabreu1 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 8h Th 7c 3c]
+Seat 1: pedroabreu1 (big blind) showed [2s 2d] and won ($0.13) with a pair of Deuces
+Seat 2: twinol mucked [Ad Qs]
+Seat 3: Friday1503 folded before Flop (didn't bet)
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795942113:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:23:43 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.51 in chips) 
+Seat 2: twinol ($3.58 in chips) 
+Seat 3: Friday1503 ($1.52 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.42 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh Ah]
+Friday1503: raises $0.02 to $0.04
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: calls $0.03
+twinol: calls $0.02
+*** FLOP *** [9s Ac 3c]
+pedroabreu1: checks 
+twinol: checks 
+Friday1503: checks 
+*** TURN *** [9s Ac 3c] [3h]
+pedroabreu1: bets $0.08
+twinol: folds 
+Friday1503: calls $0.08
+*** RIVER *** [9s Ac 3c 3h] [8h]
+pedroabreu1: bets $0.27
+Friday1503: folds 
+Uncalled bet ($0.27) returned to pedroabreu1
+pedroabreu1 collected $0.27 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [9s Ac 3c 3h 8h]
+Seat 1: pedroabreu1 (small blind) collected ($0.27)
+Seat 2: twinol (big blind) folded on the Turn
+Seat 3: Friday1503 folded on the River
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795999658:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:24:40 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.66 in chips) 
+Seat 2: twinol ($3.54 in chips) 
+Seat 3: Friday1503 ($1.40 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.42 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 7d]
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: raises $0.06 to $0.08
+Friday1503: calls $0.06
+*** FLOP *** [Td 8d 5h]
+twinol: bets $0.12
+Friday1503: calls $0.12
+*** TURN *** [Td 8d 5h] [Jh]
+twinol: bets $0.20
+Friday1503: folds 
+Uncalled bet ($0.20) returned to twinol
+twinol collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Td 8d 5h Jh]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: twinol (small blind) collected ($0.39)
+Seat 3: Friday1503 (big blind) folded on the Turn
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796050020:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:25:31 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.66 in chips) 
+Seat 2: twinol ($3.73 in chips) 
+Seat 3: Friday1503 ($1.20 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.42 in chips) 
+Friday1503: posts small blind $0.01
+SuperFurry69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 7d]
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: raises $0.02 to $0.04
+SuperFurry69: calls $0.02
+*** FLOP *** [9c 4d Qd]
+Friday1503: bets $0.08
+SuperFurry69: folds 
+Uncalled bet ($0.08) returned to Friday1503
+Friday1503 collected $0.08 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9c 4d Qd]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) collected ($0.08)
+Seat 4: SuperFurry69 (big blind) folded on the Flop
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796075955:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:25:56 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.66 in chips) 
+Seat 2: twinol ($3.73 in chips) 
+Seat 3: Friday1503 ($1.24 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.42 in chips) 
+SuperFurry69: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s 6s]
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: calls $0.01
+pokersito84: checks 
+*** FLOP *** [Qc 7c 2c]
+SuperFurry69: checks 
+pokersito84: bets $0.06
+Friday1503: folds 
+SuperFurry69: folds 
+Uncalled bet ($0.06) returned to pokersito84
+pokersito84 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc 7c 2c]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) folded on the Flop
+Seat 4: SuperFurry69 (small blind) folded on the Flop
+Seat 5: pokersito84 (big blind) collected ($0.06)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796122100:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:26:38 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.66 in chips) 
+Seat 2: twinol ($3.73 in chips) 
+Seat 3: Friday1503 ($1.22 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.04 in chips) 
+Seat 6: origato 87 ($2.42 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 3c]
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: checks 
+*** FLOP *** [5d 6c 8c]
+origato 87: checks 
+Friday1503: bets $0.05
+origato 87: folds 
+Uncalled bet ($0.05) returned to Friday1503
+Friday1503 collected $0.05 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d 6c 8c]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 collected ($0.05)
+Seat 4: SuperFurry69 (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164796169854:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:27:26 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.66 in chips) 
+Seat 2: twinol ($3.73 in chips) 
+Seat 3: Friday1503 ($1.25 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.03 in chips) 
+Seat 6: origato 87 ($2.40 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 7s]
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: raises $0.06 to $0.08
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+Friday1503: folds 
+Uncalled bet ($0.06) returned to SuperFurry69
+SuperFurry69 collected $0.07 from pot
+SuperFurry69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 folded before Flop
+Seat 4: SuperFurry69 collected ($0.07)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164796189635:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:27:46 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.64 in chips) 
+Seat 2: twinol ($3.73 in chips) 
+Seat 3: Friday1503 ($1.23 in chips) 
+Seat 4: SuperFurry69 ($2.05 in chips) 
+Seat 5: pokersito84 ($2.03 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d Js]
+SuperFurry69: folds 
+pokersito84: raises $0.03 to $0.05
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: raises $0.03 to $0.08
+pokersito84: calls $0.03
+*** FLOP *** [Th 2c 5c]
+Friday1503: checks 
+pokersito84: checks 
+*** TURN *** [Th 2c 5c] [7d]
+Friday1503: checks 
+pokersito84: checks 
+*** RIVER *** [Th 2c 5c 7d] [8s]
+Friday1503: bets $0.08
+pokersito84: folds 
+Uncalled bet ($0.08) returned to Friday1503
+Friday1503 collected $0.16 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Th 2c 5c 7d 8s]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Friday1503 (big blind) collected ($0.16)
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded on the River
+
+
+
+PokerStars Hand #164796239201:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:28:37 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.64 in chips) 
+Seat 2: twinol ($3.72 in chips) 
+Seat 3: Friday1503 ($1.31 in chips) 
+Seat 4: SuperFurry69 ($2.05 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Friday1503: posts small blind $0.01
+SuperFurry69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh Qh]
+pokersito84: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Friday1503: calls $0.05
+SuperFurry69: folds 
+*** FLOP *** [3h 7d 6s]
+Friday1503: checks 
+pedroabreu1: bets $0.08
+Friday1503: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3h 7d 6s]
+Seat 1: pedroabreu1 collected ($0.14)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) folded on the Flop
+Seat 4: SuperFurry69 (big blind) folded before Flop
+Seat 5: pokersito84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796271825:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:29:10 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.72 in chips) 
+Seat 2: twinol ($3.72 in chips) 
+Seat 3: Friday1503 ($1.25 in chips) 
+Seat 4: SuperFurry69 ($2.03 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+SuperFurry69: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s 2c]
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: calls $0.01
+pokersito84: checks 
+*** FLOP *** [9s 7h Jc]
+SuperFurry69: checks 
+pokersito84: checks 
+Friday1503: checks 
+*** TURN *** [9s 7h Jc] [Ac]
+SuperFurry69: checks 
+pokersito84: checks 
+Friday1503: checks 
+*** RIVER *** [9s 7h Jc Ac] [4d]
+SuperFurry69: checks 
+pokersito84: checks 
+Friday1503: checks 
+*** SHOW DOWN ***
+SuperFurry69: shows [2d 2h] (a pair of Deuces)
+pokersito84: shows [Jd 2s] (a pair of Jacks)
+Friday1503: mucks hand 
+pokersito84 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9s 7h Jc Ac 4d]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) mucked [4s Ts]
+Seat 4: SuperFurry69 (small blind) showed [2d 2h] and lost with a pair of Deuces
+Seat 5: pokersito84 (big blind) showed [Jd 2s] and won ($0.06) with a pair of Jacks
+
+
+
+PokerStars Hand #164796314686:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:29:54 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.72 in chips) 
+Seat 2: twinol ($3.72 in chips) 
+Seat 3: Friday1503 ($1.23 in chips) 
+Seat 4: SuperFurry69 ($2.01 in chips) 
+Seat 5: pokersito84 ($2.04 in chips) 
+pokersito84: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s 2d]
+twinol: raises $0.04 to $0.06
+Friday1503: calls $0.06
+SuperFurry69: folds 
+pokersito84: folds 
+pedroabreu1: folds 
+*** FLOP *** [5s 4s Qd]
+twinol: checks 
+Friday1503: checks 
+*** TURN *** [5s 4s Qd] [Js]
+twinol: bets $0.02
+Friday1503: calls $0.02
+*** RIVER *** [5s 4s Qd Js] [Kh]
+twinol: bets $0.04
+Friday1503: calls $0.04
+*** SHOW DOWN ***
+twinol: shows [Jc Ts] (a pair of Jacks)
+Friday1503: mucks hand 
+twinol collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5s 4s Qd Js Kh]
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol showed [Jc Ts] and won ($0.26) with a pair of Jacks
+Seat 3: Friday1503 mucked [5h As]
+Seat 4: SuperFurry69 (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164796349765:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:30:29 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.70 in chips) 
+Seat 2: twinol ($3.86 in chips) 
+Seat 3: Friday1503 ($1.11 in chips) 
+Seat 4: SuperFurry69 ($2.01 in chips) 
+Seat 5: pokersito84 ($2.03 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd Th]
+Friday1503: calls $0.02
+SuperFurry69: folds 
+pokersito84: folds 
+pedroabreu1: folds 
+twinol: raises $0.06 to $0.08
+Friday1503: calls $0.06
+*** FLOP *** [5c 4h Tc]
+twinol: bets $0.08
+Friday1503: raises $0.08 to $0.16
+twinol: calls $0.08
+*** TURN *** [5c 4h Tc] [6h]
+twinol: checks 
+Friday1503: bets $0.47
+twinol: folds 
+Uncalled bet ($0.47) returned to Friday1503
+Friday1503 collected $0.47 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [5c 4h Tc 6h]
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded on the Turn
+Seat 3: Friday1503 collected ($0.47)
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796391415:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:31:11 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.69 in chips) 
+Seat 2: twinol ($3.62 in chips) 
+Seat 3: Friday1503 ($1.34 in chips) 
+Seat 4: SuperFurry69 ($2.01 in chips) 
+Seat 5: pokersito84 ($2.03 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s 7s]
+SuperFurry69: folds 
+pokersito84: folds 
+pedroabreu1: raises $0.04 to $0.06
+twinol: folds 
+Friday1503: calls $0.04
+*** FLOP *** [Td Jh 6h]
+Friday1503: checks 
+pedroabreu1: bets $0.07
+Friday1503: folds 
+Uncalled bet ($0.07) returned to pedroabreu1
+pedroabreu1 collected $0.13 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td Jh 6h]
+Seat 1: pedroabreu1 (button) collected ($0.13)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Friday1503 (big blind) folded on the Flop
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796425103:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:31:45 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.76 in chips) 
+Seat 2: twinol ($3.61 in chips) 
+Seat 3: Friday1503 ($1.28 in chips) 
+Seat 4: SuperFurry69 ($2.01 in chips) 
+Seat 5: pokersito84 ($2.03 in chips) 
+Friday1503: posts small blind $0.01
+SuperFurry69: posts big blind $0.02
+origato 87: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s Qc]
+pokersito84: raises $0.05 to $0.07
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.06
+SuperFurry69: folds 
+*** FLOP *** [Kd 9h 7h]
+Friday1503: bets $0.08
+pokersito84: folds 
+Uncalled bet ($0.08) returned to Friday1503
+Friday1503 collected $0.15 from pot
+Friday1503: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Kd 9h 7h]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) collected ($0.15)
+Seat 4: SuperFurry69 (big blind) folded before Flop
+Seat 5: pokersito84 folded on the Flop
+
+
+
+PokerStars Hand #164796456067:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:32:17 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.76 in chips) 
+Seat 2: twinol ($3.61 in chips) 
+Seat 3: Friday1503 ($1.36 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+SuperFurry69: posts small blind $0.01
+pokersito84: posts big blind $0.02
+origato 87: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c Qh]
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: folds 
+pokersito84: checks 
+*** FLOP *** [Qc 8c Ks]
+pokersito84: checks 
+Friday1503: checks 
+*** TURN *** [Qc 8c Ks] [Jh]
+pokersito84: checks 
+Friday1503: checks 
+*** RIVER *** [Qc 8c Ks Jh] [3d]
+pokersito84: checks 
+Friday1503: checks 
+*** SHOW DOWN ***
+pokersito84: shows [5d Jd] (a pair of Jacks)
+Friday1503: mucks hand 
+pokersito84 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc 8c Ks Jh 3d]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) mucked [Td 8h]
+Seat 4: SuperFurry69 (small blind) folded before Flop
+Seat 5: pokersito84 (big blind) showed [5d Jd] and won ($0.05) with a pair of Jacks
+
+
+
+PokerStars Hand #164796490027:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:32:51 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.76 in chips) 
+Seat 2: twinol ($3.61 in chips) 
+Seat 3: Friday1503 ($1.34 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.03 in chips) 
+Seat 6: origato 87 ($2.39 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 3d]
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: calls $0.02
+pokersito84: folds 
+origato 87: checks 
+*** FLOP *** [3h As Jh]
+origato 87: checks 
+Friday1503: checks 
+SuperFurry69: checks 
+*** TURN *** [3h As Jh] [9s]
+origato 87: checks 
+Friday1503: checks 
+SuperFurry69: checks 
+*** RIVER *** [3h As Jh 9s] [2d]
+origato 87: checks 
+Friday1503: bets $0.04
+SuperFurry69: calls $0.04
+origato 87: folds 
+*** SHOW DOWN ***
+Friday1503: shows [8h 9h] (a pair of Nines)
+SuperFurry69: mucks hand 
+Friday1503 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h As Jh 9s 2d]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 showed [8h 9h] and won ($0.14) with a pair of Nines
+Seat 4: SuperFurry69 (button) mucked [7s 7h]
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) folded on the River
+
+
+
+PokerStars Hand #164796539649:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:33:42 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.76 in chips) 
+Seat 2: twinol ($3.61 in chips) 
+Seat 3: Friday1503 ($1.42 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.02 in chips) 
+Seat 6: origato 87 ($2.37 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 2s]
+twinol: raises $0.04 to $0.06
+Friday1503: calls $0.06
+SuperFurry69: calls $0.06
+pokersito84: folds 
+origato 87: calls $0.05
+pedroabreu1: folds 
+*** FLOP *** [7c Ac 8h]
+origato 87: checks 
+twinol: checks 
+Friday1503: checks 
+SuperFurry69: bets $0.20
+origato 87: folds 
+twinol: folds 
+Friday1503: folds 
+Uncalled bet ($0.20) returned to SuperFurry69
+SuperFurry69 collected $0.25 from pot
+SuperFurry69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7c Ac 8h]
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol folded on the Flop
+Seat 3: Friday1503 folded on the Flop
+Seat 4: SuperFurry69 collected ($0.25)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164796579628:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:34:23 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.74 in chips) 
+Seat 2: twinol ($3.55 in chips) 
+Seat 3: Friday1503 ($1.36 in chips) 
+Seat 4: SuperFurry69 ($2.19 in chips) 
+Seat 5: pokersito84 ($2.02 in chips) 
+Seat 6: origato 87 ($2.31 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Qc]
+Friday1503: calls $0.02
+SuperFurry69: folds 
+pokersito84: raises $0.07 to $0.09
+origato 87: folds 
+pedroabreu1: calls $0.08
+twinol: folds 
+Friday1503: calls $0.07
+*** FLOP *** [Ks Js 5d]
+pedroabreu1: checks 
+Friday1503: checks 
+pokersito84: checks 
+*** TURN *** [Ks Js 5d] [6d]
+pedroabreu1: checks 
+Friday1503: checks 
+pokersito84: checks 
+*** RIVER *** [Ks Js 5d 6d] [5h]
+pedroabreu1: checks 
+Friday1503: checks 
+pokersito84: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [Ah Qc] (a pair of Fives)
+Friday1503: mucks hand 
+pokersito84: shows [8d 8s] (two pair, Eights and Fives)
+pokersito84 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ks Js 5d 6d 5h]
+Seat 1: pedroabreu1 (small blind) showed [Ah Qc] and lost with a pair of Fives
+Seat 2: twinol (big blind) folded before Flop
+Seat 3: Friday1503 mucked [Ts Qs]
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 showed [8d 8s] and won ($0.28) with two pair, Eights and Fives
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796631446:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:35:15 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.65 in chips) 
+Seat 2: twinol ($3.53 in chips) 
+Seat 3: Friday1503 ($1.27 in chips) 
+Seat 4: SuperFurry69 ($2.19 in chips) 
+Seat 5: pokersito84 ($2.21 in chips) 
+Seat 6: origato 87 ($2.31 in chips) 
+twinol: posts small blind $0.01
+Friday1503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kd 9d]
+SuperFurry69: raises $0.06 to $0.08
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: calls $0.08
+twinol: folds 
+Friday1503: calls $0.06
+*** FLOP *** [5s 6c 8s]
+Friday1503: checks 
+SuperFurry69: checks 
+pedroabreu1: bets $0.14
+Friday1503: folds 
+SuperFurry69: folds 
+Uncalled bet ($0.14) returned to pedroabreu1
+pedroabreu1 collected $0.24 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5s 6c 8s]
+Seat 1: pedroabreu1 (button) collected ($0.24)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: Friday1503 (big blind) folded on the Flop
+Seat 4: SuperFurry69 folded on the Flop
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796665290:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:35:50 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.81 in chips) 
+Seat 2: twinol ($3.52 in chips) 
+Seat 3: Friday1503 ($1.19 in chips) 
+Seat 4: SuperFurry69 ($2.11 in chips) 
+Seat 5: pokersito84 ($2.21 in chips) 
+Seat 6: origato 87 ($2.31 in chips) 
+Friday1503: posts small blind $0.01
+SuperFurry69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac Qh]
+pokersito84: folds 
+origato 87: raises $0.04 to $0.06
+pedroabreu1: calls $0.06
+twinol: folds 
+Friday1503: folds 
+SuperFurry69: folds 
+*** FLOP *** [9h Jc 3h]
+origato 87: checks 
+pedroabreu1: bets $0.08
+origato 87: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h Jc 3h]
+Seat 1: pedroabreu1 collected ($0.14)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 3: Friday1503 (small blind) folded before Flop
+Seat 4: SuperFurry69 (big blind) folded before Flop
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded on the Flop
+
+
+
+PokerStars Hand #164796689860:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:36:15 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.89 in chips) 
+Seat 2: twinol ($3.52 in chips) 
+Seat 3: Friday1503 ($1.18 in chips) 
+Seat 4: SuperFurry69 ($2.09 in chips) 
+Seat 5: pokersito84 ($2.21 in chips) 
+Seat 6: origato 87 ($2.25 in chips) 
+SuperFurry69: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Qd]
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: raises $0.08 to $0.10
+pokersito84: folds 
+Friday1503: calls $0.08
+*** FLOP *** [Th 5c Jd]
+SuperFurry69: bets $0.14
+Friday1503: calls $0.14
+*** TURN *** [Th 5c Jd] [9c]
+SuperFurry69: bets $0.40
+Friday1503: calls $0.40
+*** RIVER *** [Th 5c Jd 9c] [5d]
+SuperFurry69: checks 
+Friday1503: checks 
+*** SHOW DOWN ***
+SuperFurry69: shows [Qc Ah] (a pair of Fives)
+Friday1503: shows [2c Jc] (two pair, Jacks and Fives)
+Friday1503 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [Th 5c Jd 9c 5d]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 (button) showed [2c Jc] and won ($1.25) with two pair, Jacks and Fives
+Seat 4: SuperFurry69 (small blind) showed [Qc Ah] and lost with a pair of Fives
+Seat 5: pokersito84 (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796761755:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:37:29 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.89 in chips) 
+Seat 2: twinol ($3.52 in chips) 
+Seat 3: Friday1503 ($1.79 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.19 in chips) 
+Seat 6: origato 87 ($2.25 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 8c]
+pedroabreu1: folds 
+twinol: raises $0.04 to $0.06
+Friday1503: folds 
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: folds 
+Uncalled bet ($0.04) returned to twinol
+twinol collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol collected ($0.05)
+Seat 3: Friday1503 folded before Flop (didn't bet)
+Seat 4: SuperFurry69 (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164796806193:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:38:14 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.89 in chips) 
+Seat 2: twinol ($3.55 in chips) 
+Seat 3: Friday1503 ($1.79 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.18 in chips) 
+Seat 6: origato 87 ($2.23 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c Js]
+twinol: folds 
+Friday1503: calls $0.02
+SuperFurry69: folds 
+pokersito84: raises $0.10 to $0.12
+origato 87: folds 
+pedroabreu1: folds 
+Friday1503: folds 
+Uncalled bet ($0.10) returned to pokersito84
+pokersito84 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: Friday1503 folded before Flop
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 (button) collected ($0.07)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164796827645:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:38:36 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.87 in chips) 
+Seat 2: twinol ($3.55 in chips) 
+Seat 3: Friday1503 ($1.77 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.23 in chips) 
+Seat 6: origato 87 ($2.22 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh Ah]
+Friday1503: calls $0.02
+SuperFurry69: folds 
+pokersito84: raises $0.07 to $0.09
+origato 87: folds 
+pedroabreu1: calls $0.08
+twinol: folds 
+Friday1503: calls $0.07
+*** FLOP *** [7s Qc 8h]
+pedroabreu1: bets $0.14
+Friday1503: folds 
+pokersito84: folds 
+Uncalled bet ($0.14) returned to pedroabreu1
+pedroabreu1 collected $0.28 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7s Qc 8h]
+Seat 1: pedroabreu1 (small blind) collected ($0.28)
+Seat 2: twinol (big blind) folded before Flop
+Seat 3: Friday1503 folded on the Flop
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded on the Flop
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796891384:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:39:42 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($3.06 in chips) 
+Seat 2: twinol ($3.53 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.22 in chips) 
+twinol: posts small blind $0.01
+Friday1503: is sitting out 
+SuperFurry69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 2c]
+Friday1503 leaves the table
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+philhell24 joins the table at seat #3 
+twinol: folds 
+Uncalled bet ($0.01) returned to SuperFurry69
+SuperFurry69 collected $0.02 from pot
+SuperFurry69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: twinol (small blind) folded before Flop
+Seat 4: SuperFurry69 (big blind) collected ($0.02)
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796904729:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:39:56 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($3.06 in chips) 
+Seat 2: twinol ($3.52 in chips) 
+Seat 4: SuperFurry69 ($2.01 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.22 in chips) 
+philhell24 will be allowed to play after the button
+SuperFurry69: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d 4h]
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+SuperFurry69: folds 
+Uncalled bet ($0.01) returned to pokersito84
+pokersito84 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol (button) folded before Flop (didn't bet)
+Seat 4: SuperFurry69 (small blind) folded before Flop
+Seat 5: pokersito84 (big blind) collected ($0.02)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796912518:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:40:04 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($3.06 in chips) 
+Seat 2: twinol ($3.52 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.15 in chips) 
+Seat 6: origato 87 ($2.22 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+philhell24: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h 3c]
+pedroabreu1: folds 
+twinol: folds 
+SuperFurry69: folds 
+pokersito84: folds 
+Uncalled bet ($0.01) returned to origato 87
+origato 87 collected $0.02 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 4: SuperFurry69 (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164796922719:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:40:16 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($3.06 in chips) 
+Seat 2: twinol ($3.52 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.23 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+philhell24: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Qh]
+twinol: raises $0.04 to $0.06
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: calls $0.05
+pedroabreu1: calls $0.04
+*** FLOP *** [3d 8s 4s]
+origato 87: checks 
+pedroabreu1: checks 
+twinol: bets $0.08
+origato 87: raises $0.12 to $0.20
+pedroabreu1: folds 
+twinol: calls $0.12
+*** TURN *** [3d 8s 4s] [6s]
+origato 87: checks 
+twinol: checks 
+*** RIVER *** [3d 8s 4s 6s] [As]
+origato 87: checks 
+twinol: bets $0.28
+origato 87: calls $0.28
+*** SHOW DOWN ***
+twinol: shows [Ks Kh] (a flush, Ace high)
+origato 87: mucks hand 
+twinol collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 
+Board [3d 8s 4s 6s As]
+Seat 1: pedroabreu1 (big blind) folded on the Flop
+Seat 2: twinol showed [Ks Kh] and won ($1.10) with a flush, Ace high
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) mucked [3h 3c]
+
+
+
+PokerStars Hand #164796984020:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:41:20 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($3 in chips) 
+Seat 2: twinol ($4.08 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+twinol: posts big blind $0.02
+philhell24: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 2c]
+SuperFurry69: folds 
+pokersito84: raises $0.05 to $0.07
+origato 87: folds 
+pedroabreu1: folds 
+twinol: folds 
+Uncalled bet ($0.05) returned to pokersito84
+pokersito84 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: twinol (big blind) folded before Flop
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 collected ($0.05)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797000683:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:41:37 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.99 in chips) 
+Seat 2: twinol ($4.06 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: SuperFurry69 ($2 in chips) 
+Seat 5: pokersito84 ($2.17 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+twinol: posts small blind $0.01
+philhell24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Jd]
+SuperFurry69: folds 
+pokersito84: folds 
+origato 87: raises $0.04 to $0.06
+pedroabreu1: calls $0.06
+twinol: folds 
+philhell24: folds 
+*** FLOP *** [9h Kc Td]
+origato 87: checks 
+pedroabreu1: bets $0.08
+origato 87: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h Kc Td]
+Seat 1: pedroabreu1 (button) collected ($0.14)
+Seat 2: twinol (small blind) folded before Flop
+Seat 3: philhell24 (big blind) folded before Flop
+Seat 4: SuperFurry69 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded on the Flop
+
+
+
+PokerStars Hand #164797054905:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:42:33 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($3.07 in chips) 
+Seat 2: twinol ($4.05 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 5: pokersito84 ($2.17 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+philhell24: posts small blind $0.01
+SuperFurry69: is sitting out 
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js Jd]
+origato 87: raises $0.04 to $0.06
+pedroabreu1: calls $0.06
+twinol: raises $0.20 to $0.26
+SuperFurry69 leaves the table
+philhell24: folds 
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.20) returned to twinol
+twinol collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop
+Seat 2: twinol (button) collected ($0.21)
+Seat 3: philhell24 (small blind) folded before Flop
+Seat 5: pokersito84 (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop
+
+
+
+PokerStars Hand #164797106973:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:43:27 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($3.01 in chips) 
+Seat 2: twinol ($4.20 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 5: pokersito84 ($2.15 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 5s]
+pedroabreu1: calls $0.02
+twinol: folds 
+twinol leaves the table
+philhell24: folds 
+pokersito84: folds 
+origato 87: raises $0.05 to $0.07
+pedroabreu1: calls $0.05
+*** FLOP *** [5d 9d 8c]
+origato 87: bets $0.07
+pedroabreu1: calls $0.07
+*** TURN *** [5d 9d 8c] [4d]
+Saygakov joins the table at seat #2 
+origato 87: checks 
+StalinSasha joins the table at seat #4 
+pedroabreu1: bets $0.16
+origato 87: raises $0.20 to $0.36
+pedroabreu1: calls $0.20
+*** RIVER *** [5d 9d 8c 4d] [Qh]
+origato 87: bets $0.49
+pedroabreu1: calls $0.49
+*** SHOW DOWN ***
+origato 87: shows [Jd Kd] (a flush, King high)
+pedroabreu1: mucks hand 
+origato 87 collected $1.92 from pot
+*** SUMMARY ***
+Total pot $1.99 | Rake $0.07 
+Board [5d 9d 8c 4d Qh]
+Seat 1: pedroabreu1 mucked [5c 5s]
+Seat 2: twinol folded before Flop (didn't bet)
+Seat 3: philhell24 (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) showed [Jd Kd] and won ($1.92) with a flush, King high
+
+
+
+PokerStars Hand #164797183975:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:44:47 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.02 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.93 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+Saygakov: sits out 
+StalinSasha: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 2h]
+philhell24: folds 
+pokersito84: folds 
+origato 87: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pedroabreu1 (big blind) collected ($0.02)
+Seat 3: philhell24 folded before Flop (didn't bet)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797201068:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:45:05 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.03 in chips) 
+Seat 2: Saygakov ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.92 in chips) 
+pedroabreu1: posts small blind $0.01
+Saygakov: posts big blind $0.02
+StalinSasha: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 2c]
+philhell24: folds 
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to Saygakov
+Saygakov collected $0.02 from pot
+Saygakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: Saygakov (big blind) collected ($0.02)
+Seat 3: philhell24 folded before Flop (didn't bet)
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797212164:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:45:16 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.02 in chips) 
+Seat 2: Saygakov ($2.01 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.92 in chips) 
+Saygakov: posts small blind $0.01
+philhell24: posts big blind $0.02
+StalinSasha: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td 7c]
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: folds 
+Saygakov: raises $0.03 to $0.05
+philhell24: calls $0.03
+*** FLOP *** [7d 3h Qd]
+Saygakov: checks 
+philhell24: checks 
+*** TURN *** [7d 3h Qd] [6d]
+Saygakov: bets $0.07
+philhell24: folds 
+Uncalled bet ($0.07) returned to Saygakov
+Saygakov collected $0.10 from pot
+Saygakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7d 3h Qd 6d]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: Saygakov (small blind) collected ($0.10)
+Seat 3: philhell24 (big blind) folded on the Turn
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797249184:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:45:54 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.02 in chips) 
+Seat 2: Saygakov ($2.06 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($1.60 in chips) 
+Seat 5: pokersito84 ($2.14 in chips) 
+Seat 6: origato 87 ($2.92 in chips) 
+philhell24: posts small blind $0.01
+StalinSasha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh Ah]
+pokersito84: raises $0.03 to $0.05
+origato 87: folds 
+pedroabreu1: raises $0.11 to $0.16
+Saygakov: folds 
+philhell24: folds 
+StalinSasha: calls $0.14
+pokersito84: calls $0.11
+*** FLOP *** [7c 3h 9h]
+StalinSasha: checks 
+pokersito84: checks 
+pedroabreu1: checks 
+*** TURN *** [7c 3h 9h] [6d]
+StalinSasha: checks 
+pokersito84: checks 
+pedroabreu1: bets $0.28
+StalinSasha: folds 
+pokersito84: folds 
+Uncalled bet ($0.28) returned to pedroabreu1
+pedroabreu1 collected $0.47 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [7c 3h 9h 6d]
+Seat 1: pedroabreu1 collected ($0.47)
+Seat 2: Saygakov (button) folded before Flop (didn't bet)
+Seat 3: philhell24 (small blind) folded before Flop
+Seat 4: StalinSasha (big blind) folded on the Turn
+Seat 5: pokersito84 folded on the Turn
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797313834:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:47:01 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.33 in chips) 
+Seat 2: Saygakov ($2.06 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($1.44 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.92 in chips) 
+StalinSasha: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s 6c]
+origato 87: folds 
+pedroabreu1: folds 
+Saygakov: raises $0.03 to $0.05
+philhell24: folds 
+StalinSasha: calls $0.04
+pokersito84: folds 
+*** FLOP *** [4s Ad Ah]
+StalinSasha: checks 
+Saygakov: bets $0.08
+StalinSasha: folds 
+Uncalled bet ($0.08) returned to Saygakov
+Saygakov collected $0.12 from pot
+Saygakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s Ad Ah]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: Saygakov collected ($0.12)
+Seat 3: philhell24 (button) folded before Flop (didn't bet)
+Seat 4: StalinSasha (small blind) folded on the Flop
+Seat 5: pokersito84 (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797369690:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:47:57 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.33 in chips) 
+Seat 2: Saygakov ($2.13 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($1.39 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.92 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h Js]
+pedroabreu1: folds 
+Saygakov: folds 
+philhell24: folds 
+StalinSasha has timed out
+StalinSasha: folds 
+pokersito84: folds 
+Uncalled bet ($0.01) returned to origato 87
+origato 87 collected $0.02 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: Saygakov folded before Flop (didn't bet)
+Seat 3: philhell24 folded before Flop (didn't bet)
+Seat 4: StalinSasha (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164797405868:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:48:34 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.33 in chips) 
+Seat 2: Saygakov ($2.13 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($1.39 in chips) 
+Seat 5: pokersito84 ($2 in chips) 
+Seat 6: origato 87 ($2.93 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 4d]
+Saygakov: folds 
+philhell24: folds 
+StalinSasha: calls $0.02
+pokersito84: raises $0.07 to $0.09
+origato 87: folds 
+pedroabreu1: calls $0.07
+StalinSasha: calls $0.07
+*** FLOP *** [5d 3d Jh]
+pedroabreu1: checks 
+StalinSasha: checks 
+pokersito84: bets $0.17
+pedroabreu1: calls $0.17
+StalinSasha: folds 
+*** TURN *** [5d 3d Jh] [4s]
+pedroabreu1: checks 
+pokersito84: checks 
+*** RIVER *** [5d 3d Jh 4s] [Ac]
+pedroabreu1: checks 
+pokersito84: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [6d 4d] (a pair of Fours)
+pokersito84: shows [8h 8d] (a pair of Eights)
+pokersito84 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [5d 3d Jh 4s Ac]
+Seat 1: pedroabreu1 (big blind) showed [6d 4d] and lost with a pair of Fours
+Seat 2: Saygakov folded before Flop (didn't bet)
+Seat 3: philhell24 folded before Flop (didn't bet)
+Seat 4: StalinSasha folded on the Flop
+Seat 5: pokersito84 (button) showed [8h 8d] and won ($0.60) with a pair of Eights
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797459325:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:49:27 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.07 in chips) 
+Seat 2: Saygakov ($2.13 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($1.30 in chips) 
+Seat 5: pokersito84 ($2.34 in chips) 
+Seat 6: origato 87 ($2.92 in chips) 
+pedroabreu1: posts small blind $0.01
+Saygakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c 2d]
+philhell24: folds 
+StalinSasha: calls $0.02
+pokersito84: folds 
+origato 87: raises $0.04 to $0.06
+pedroabreu1: calls $0.05
+Saygakov: folds 
+StalinSasha: calls $0.04
+*** FLOP *** [Ah 7d 8d]
+pedroabreu1: checks 
+StalinSasha: checks 
+origato 87: bets $0.13
+pedroabreu1: folds 
+StalinSasha: calls $0.13
+*** TURN *** [Ah 7d 8d] [Js]
+StalinSasha: checks 
+origato 87: bets $0.22
+StalinSasha: calls $0.22
+*** RIVER *** [Ah 7d 8d Js] [4s]
+StalinSasha: bets $0.89 and is all-in
+origato 87: calls $0.89
+*** SHOW DOWN ***
+StalinSasha: shows [8h 8s] (three of a kind, Eights)
+origato 87: shows [Ac 3c] (a pair of Aces)
+StalinSasha collected $2.59 from pot
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.09 
+Board [Ah 7d 8d Js 4s]
+Seat 1: pedroabreu1 (small blind) folded on the Flop
+Seat 2: Saygakov (big blind) folded before Flop
+Seat 3: philhell24 folded before Flop (didn't bet)
+Seat 4: StalinSasha showed [8h 8s] and won ($2.59) with three of a kind, Eights
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 (button) showed [Ac 3c] and lost with a pair of Aces
+
+
+
+PokerStars Hand #164797549911:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:50:53 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.01 in chips) 
+Seat 2: Saygakov ($2.11 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($2.59 in chips) 
+Seat 5: pokersito84 ($2.34 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+Saygakov: posts small blind $0.01
+philhell24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc As]
+StalinSasha: calls $0.02
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: raises $0.06 to $0.08
+Saygakov: calls $0.07
+philhell24: folds 
+StalinSasha: calls $0.06
+*** FLOP *** [Jh 7s 8h]
+Saygakov: bets $0.18
+StalinSasha: calls $0.18
+pedroabreu1: folds 
+*** TURN *** [Jh 7s 8h] [5d]
+Saygakov: bets $0.40
+StalinSasha: calls $0.40
+*** RIVER *** [Jh 7s 8h 5d] [2h]
+Saygakov: checks 
+StalinSasha: bets $1.37
+Saygakov: calls $1.37
+*** SHOW DOWN ***
+StalinSasha: shows [6h Qh] (a flush, Queen high)
+Saygakov: mucks hand 
+StalinSasha collected $4.01 from pot
+*** SUMMARY ***
+Total pot $4.16 | Rake $0.15 
+Board [Jh 7s 8h 5d 2h]
+Seat 1: pedroabreu1 (button) folded on the Flop
+Seat 2: Saygakov (small blind) mucked [Jd Ac]
+Seat 3: philhell24 (big blind) folded before Flop
+Seat 4: StalinSasha showed [6h Qh] and won ($4.01) with a flush, Queen high
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797605225:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:51:49 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2 in chips) 
+Seat 2: Saygakov ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.57 in chips) 
+Seat 5: pokersito84 ($2.34 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+philhell24: posts small blind $0.01
+StalinSasha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s 9h]
+pokersito84: folds 
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+Saygakov: folds 
+philhell24: folds 
+StalinSasha: calls $0.04
+*** FLOP *** [Ac 6c Jh]
+StalinSasha: checks 
+pedroabreu1: checks 
+*** TURN *** [Ac 6c Jh] [Ah]
+StalinSasha: checks 
+pedroabreu1: checks 
+*** RIVER *** [Ac 6c Jh Ah] [Qc]
+StalinSasha: checks 
+pedroabreu1: checks 
+*** SHOW DOWN ***
+StalinSasha: shows [4h 8c] (a pair of Aces)
+pedroabreu1: shows [9s 9h] (two pair, Aces and Nines)
+pedroabreu1 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ac 6c Jh Ah Qc]
+Seat 1: pedroabreu1 showed [9s 9h] and won ($0.13) with two pair, Aces and Nines
+Seat 2: Saygakov (button) folded before Flop (didn't bet)
+Seat 3: philhell24 (small blind) folded before Flop
+Seat 4: StalinSasha (big blind) showed [4h 8c] and lost with a pair of Aces
+Seat 5: pokersito84 folded before Flop (didn't bet)
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797650736:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:52:35 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.07 in chips) 
+Seat 2: Saygakov ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.51 in chips) 
+Seat 5: pokersito84 ($2.34 in chips) 
+Seat 6: origato 87 ($2 in chips) 
+StalinSasha: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 5d]
+origato 87: raises $0.04 to $0.06
+pedroabreu1: folds 
+Saygakov: folds 
+Saygakov leaves the table
+aleshabalbes joins the table at seat #2 
+philhell24: folds 
+StalinSasha: folds 
+pokersito84: folds 
+Uncalled bet ($0.04) returned to origato 87
+origato 87 collected $0.05 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: Saygakov folded before Flop (didn't bet)
+Seat 3: philhell24 (button) folded before Flop (didn't bet)
+Seat 4: StalinSasha (small blind) folded before Flop
+Seat 5: pokersito84 (big blind) folded before Flop
+Seat 6: origato 87 collected ($0.05)
+
+
+
+PokerStars Hand #164797681740:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:53:06 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.07 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.50 in chips) 
+Seat 5: pokersito84 ($2.32 in chips) 
+Seat 6: origato 87 ($2.03 in chips) 
+pokersito84: posts small blind $0.01
+origato 87: posts big blind $0.02
+aleshabalbes: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd 2h]
+pedroabreu1: folds 
+philhell24: raises $0.04 to $0.06
+StalinSasha: folds 
+pokersito84: folds 
+origato 87: calls $0.04
+*** FLOP *** [Jh 6c Tc]
+origato 87: checks 
+philhell24: checks 
+*** TURN *** [Jh 6c Tc] [8s]
+origato 87: bets $0.09
+philhell24: calls $0.09
+*** RIVER *** [Jh 6c Tc 8s] [7h]
+origato 87: checks 
+philhell24: checks 
+*** SHOW DOWN ***
+origato 87: shows [Jc 9c] (a straight, Seven to Jack)
+philhell24: mucks hand 
+origato 87 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Jh 6c Tc 8s 7h]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 3: philhell24 mucked [Ad Td]
+Seat 4: StalinSasha (button) folded before Flop (didn't bet)
+Seat 5: pokersito84 (small blind) folded before Flop
+Seat 6: origato 87 (big blind) showed [Jc 9c] and won ($0.30) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #164797741024:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:54:09 ET
+Table 'Reunerta' 6-max Seat #5 is the button
+Seat 1: pedroabreu1 ($2.07 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.50 in chips) 
+Seat 5: pokersito84 ($2.31 in chips) 
+Seat 6: origato 87 ($2.18 in chips) 
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+aleshabalbes: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Kc]
+philhell24: raises $0.04 to $0.06
+StalinSasha: folds 
+pokersito84: folds 
+origato 87: calls $0.05
+pedroabreu1: folds 
+*** FLOP *** [7s 9h Ah]
+origato 87: checks 
+philhell24: checks 
+*** TURN *** [7s 9h Ah] [Qc]
+origato 87: bets $0.07
+philhell24: folds 
+Uncalled bet ($0.07) returned to origato 87
+origato 87 collected $0.14 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7s 9h Ah Qc]
+Seat 1: pedroabreu1 (big blind) folded before Flop
+Seat 3: philhell24 folded on the Turn
+Seat 4: StalinSasha folded before Flop (didn't bet)
+Seat 5: pokersito84 (button) folded before Flop (didn't bet)
+Seat 6: origato 87 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #164797781823:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:54:52 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.05 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.50 in chips) 
+Seat 6: origato 87 ($2.26 in chips) 
+pedroabreu1: posts small blind $0.01
+aleshabalbes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s Qc]
+philhell24: folds 
+StalinSasha: calls $0.02
+origato 87: raises $0.04 to $0.06
+pedroabreu1: folds 
+aleshabalbes: folds 
+StalinSasha: calls $0.04
+*** FLOP *** [Kd 7s 9c]
+StalinSasha: checks 
+origato 87: checks 
+*** TURN *** [Kd 7s 9c] [Js]
+StalinSasha: checks 
+origato 87: bets $0.07
+StalinSasha: folds 
+Uncalled bet ($0.07) returned to origato 87
+origato 87 collected $0.14 from pot
+origato 87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kd 7s 9c Js]
+Seat 1: pedroabreu1 (small blind) folded before Flop
+Seat 2: aleshabalbes (big blind) folded before Flop
+Seat 3: philhell24 folded before Flop (didn't bet)
+Seat 4: StalinSasha folded on the Turn
+Seat 6: origato 87 (button) collected ($0.14)
+
+
+
+PokerStars Hand #164797845331:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:56:11 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.04 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.44 in chips) 
+Seat 6: origato 87 ($2.34 in chips) 
+aleshabalbes: posts small blind $0.01
+philhell24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh 8s]
+StalinSasha: calls $0.02
+origato 87: folds 
+pedroabreu1: folds 
+aleshabalbes: folds 
+philhell24: checks 
+*** FLOP *** [8d Qc Qs]
+philhell24: checks 
+StalinSasha: checks 
+*** TURN *** [8d Qc Qs] [Ah]
+philhell24: checks 
+StalinSasha: checks 
+*** RIVER *** [8d Qc Qs Ah] [Kc]
+philhell24: checks 
+StalinSasha: checks 
+*** SHOW DOWN ***
+philhell24: shows [8c Th] (two pair, Queens and Eights)
+StalinSasha: shows [Ad 4s] (two pair, Aces and Queens)
+StalinSasha collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Qc Qs Ah Kc]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: aleshabalbes (small blind) folded before Flop
+Seat 3: philhell24 (big blind) showed [8c Th] and lost with two pair, Queens and Eights
+Seat 4: StalinSasha showed [Ad 4s] and won ($0.05) with two pair, Aces and Queens
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797873433:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:56:48 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.04 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.47 in chips) 
+Seat 6: origato 87 ($2.34 in chips) 
+philhell24: posts small blind $0.01
+StalinSasha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As Qs]
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+aleshabalbes: folds 
+philhell24: folds 
+StalinSasha: calls $0.04
+*** FLOP *** [5d Ks 2h]
+StalinSasha: checks 
+pedroabreu1: bets $0.08
+StalinSasha: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.13 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d Ks 2h]
+Seat 1: pedroabreu1 collected ($0.13)
+Seat 2: aleshabalbes (button) folded before Flop (didn't bet)
+Seat 3: philhell24 (small blind) folded before Flop
+Seat 4: StalinSasha (big blind) folded on the Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797895435:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:57:17 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.11 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2 in chips) 
+Seat 4: StalinSasha ($4.41 in chips) 
+Seat 6: origato 87 ($2.34 in chips) 
+StalinSasha: posts small blind $0.01
+origato 87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s Js]
+pedroabreu1: folds 
+aleshabalbes: raises $0.04 to $0.06
+philhell24: calls $0.06
+StalinSasha: calls $0.05
+origato 87: folds 
+*** FLOP *** [Td 9h 7h]
+StalinSasha: checks 
+aleshabalbes: bets $0.14
+philhell24: raises $0.29 to $0.43
+StalinSasha: folds 
+aleshabalbes: folds 
+Uncalled bet ($0.29) returned to philhell24
+philhell24 collected $0.46 from pot
+philhell24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Td 9h 7h]
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: aleshabalbes folded on the Flop
+Seat 3: philhell24 (button) collected ($0.46)
+Seat 4: StalinSasha (small blind) folded on the Flop
+Seat 6: origato 87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164797963136:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:58:44 ET
+Table 'Reunerta' 6-max Seat #4 is the button
+Seat 1: pedroabreu1 ($2.11 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2.26 in chips) 
+Seat 4: StalinSasha ($4.35 in chips) 
+Seat 6: origato 87 ($2.32 in chips) 
+pokersito84 will be allowed to play after the button
+origato 87: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js 8s]
+aleshabalbes: folds 
+philhell24: raises $0.04 to $0.06
+StalinSasha: calls $0.06
+origato 87: folds 
+pedroabreu1: calls $0.04
+*** FLOP *** [Jh 2d 3d]
+pedroabreu1: checks 
+philhell24: bets $0.14
+StalinSasha: calls $0.14
+pedroabreu1: folds 
+*** TURN *** [Jh 2d 3d] [Ts]
+philhell24: bets $0.34
+StalinSasha: folds 
+Uncalled bet ($0.34) returned to philhell24
+philhell24 collected $0.45 from pot
+philhell24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Jh 2d 3d Ts]
+Seat 1: pedroabreu1 (big blind) folded on the Flop
+Seat 2: aleshabalbes folded before Flop (didn't bet)
+Seat 3: philhell24 collected ($0.45)
+Seat 4: StalinSasha (button) folded on the Turn
+Seat 6: origato 87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164798009907:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:59:45 ET
+Table 'Reunerta' 6-max Seat #6 is the button
+Seat 1: pedroabreu1 ($2.05 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2.51 in chips) 
+Seat 4: StalinSasha ($4.15 in chips) 
+Seat 6: origato 87 ($2.31 in chips) 
+pedroabreu1: posts small blind $0.01
+aleshabalbes: posts big blind $0.02
+pokersito84: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c Ac]
+philhell24: raises $0.04 to $0.06
+StalinSasha: folds 
+origato 87: calls $0.06
+pedroabreu1: calls $0.05
+aleshabalbes: folds 
+*** FLOP *** [2h 9c 2s]
+pedroabreu1: checks 
+philhell24: checks 
+origato 87: bets $0.10
+pedroabreu1: calls $0.10
+philhell24: folds 
+*** TURN *** [2h 9c 2s] [6s]
+pedroabreu1: checks 
+origato 87: checks 
+*** RIVER *** [2h 9c 2s 6s] [7c]
+pedroabreu1: bets $0.26
+origato 87: folds 
+Uncalled bet ($0.26) returned to pedroabreu1
+pedroabreu1 collected $0.39 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2h 9c 2s 6s 7c]
+Seat 1: pedroabreu1 (small blind) collected ($0.39)
+Seat 2: aleshabalbes (big blind) folded before Flop
+Seat 3: philhell24 folded on the Flop
+Seat 4: StalinSasha folded before Flop (didn't bet)
+Seat 6: origato 87 (button) folded on the River
+
+
+
+PokerStars Hand #164798086418:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:01:19 ET
+Table 'Reunerta' 6-max Seat #1 is the button
+Seat 1: pedroabreu1 ($2.28 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2.45 in chips) 
+Seat 4: StalinSasha ($4.15 in chips) 
+Seat 6: origato 87 ($2.15 in chips) 
+aleshabalbes: posts small blind $0.01
+philhell24: posts big blind $0.02
+pokersito84: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s Jh]
+StalinSasha: calls $0.02
+origato 87: folds 
+pedroabreu1: folds 
+aleshabalbes: folds 
+philhell24: checks 
+*** FLOP *** [Tc 8c 7h]
+philhell24: checks 
+StalinSasha: checks 
+*** TURN *** [Tc 8c 7h] [5s]
+philhell24: checks 
+StalinSasha: checks 
+*** RIVER *** [Tc 8c 7h 5s] [9h]
+philhell24: checks 
+StalinSasha: checks 
+*** SHOW DOWN ***
+philhell24: shows [Ah 5h] (a pair of Fives)
+StalinSasha: mucks hand 
+philhell24 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc 8c 7h 5s 9h]
+Seat 1: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 2: aleshabalbes (small blind) folded before Flop
+Seat 3: philhell24 (big blind) showed [Ah 5h] and won ($0.05) with a pair of Fives
+Seat 4: StalinSasha mucked [3s 5c]
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164798131959:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:02:09 ET
+Table 'Reunerta' 6-max Seat #2 is the button
+Seat 1: pedroabreu1 ($2.28 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2.48 in chips) 
+Seat 4: StalinSasha ($4.13 in chips) 
+Seat 6: origato 87 ($2.15 in chips) 
+philhell24: posts small blind $0.01
+StalinSasha: posts big blind $0.02
+pokersito84: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td Ac]
+origato 87: folds 
+pedroabreu1: raises $0.04 to $0.06
+aleshabalbes: folds 
+philhell24: folds 
+StalinSasha: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 collected ($0.05)
+Seat 2: aleshabalbes (button) folded before Flop (didn't bet)
+Seat 3: philhell24 (small blind) folded before Flop
+Seat 4: StalinSasha (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164798157442:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:02:35 ET
+Table 'Reunerta' 6-max Seat #3 is the button
+Seat 1: pedroabreu1 ($2.31 in chips) 
+Seat 2: aleshabalbes ($2 in chips) 
+Seat 3: philhell24 ($2.47 in chips) 
+Seat 4: StalinSasha ($4.11 in chips) 
+Seat 5: pokersito84 ($2.31 in chips) 
+Seat 6: origato 87 ($2.15 in chips) 
+StalinSasha: posts small blind $0.01
+pokersito84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s 5c]
+origato 87: folds 
+pedroabreu1: folds 
+aleshabalbes: raises $0.04 to $0.06
+philhell24: folds 
+StalinSasha: folds 
+pokersito84: folds 
+Uncalled bet ($0.04) returned to aleshabalbes
+aleshabalbes collected $0.05 from pot
+aleshabalbes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pedroabreu1 folded before Flop (didn't bet)
+Seat 2: aleshabalbes collected ($0.05)
+Seat 3: philhell24 (button) folded before Flop (didn't bet)
+Seat 4: StalinSasha (small blind) folded before Flop
+Seat 5: pokersito84 (big blind) folded before Flop
+Seat 6: origato 87 folded before Flop (didn't bet)
+
+
+

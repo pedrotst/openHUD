@@ -1,0 +1,4586 @@
+﻿PokerStars Hand #164594447134:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:11:05 BRT [2017/01/14 22:11:05 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: brasileiro83 ($2.05 in chips) 
+Seat 2: Miracle16 ($2.31 in chips) 
+Seat 3: pedroabreu1 ($1.89 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 6: nocap1 ($3.95 in chips) 
+Miracle16: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 9d]
+goez123: folds 
+nocap1: folds 
+brasileiro83: folds 
+Miracle16: raises $0.04 to $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to Miracle16
+Miracle16 collected $0.04 from pot
+Miracle16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: brasileiro83 (button) folded before Flop (didn't bet)
+Seat 2: Miracle16 (small blind) collected ($0.04)
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: nocap1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594453509:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:11:20 BRT [2017/01/14 22:11:20 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: brasileiro83 ($2.05 in chips) 
+Seat 2: Miracle16 ($2.33 in chips) 
+Seat 3: pedroabreu1 ($1.87 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 6: nocap1 ($3.95 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 3h]
+nocap1: calls $0.02
+brasileiro83: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: raises $0.06 to $0.08
+nocap1: calls $0.06
+*** FLOP *** [6c 9d 8d]
+goez123: checks 
+nocap1: checks 
+*** TURN *** [6c 9d 8d] [Ah]
+goez123: checks 
+nocap1: checks 
+*** RIVER *** [6c 9d 8d Ah] [2c]
+goez123: checks 
+nocap1: checks 
+*** SHOW DOWN ***
+goez123: shows [5c 5d] (a pair of Fives)
+nocap1: mucks hand 
+goez123 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6c 9d 8d Ah 2c]
+Seat 1: brasileiro83 folded before Flop (didn't bet)
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) showed [5c 5d] and won ($0.16) with a pair of Fives
+Seat 6: nocap1 mucked [Qs Js]
+
+
+
+PokerStars Hand #164594476177:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:12:12 BRT [2017/01/14 22:12:12 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: brasileiro83 ($2.05 in chips) 
+Seat 2: Miracle16 ($2.33 in chips) 
+Seat 3: pedroabreu1 ($1.86 in chips) 
+Seat 4: goez123 ($2.11 in chips) 
+Seat 6: nocap1 ($3.87 in chips) 
+goez123: posts small blind $0.01
+nocap1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d 2s]
+brasileiro83: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.01) returned to nocap1
+nocap1 collected $0.02 from pot
+nocap1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: brasileiro83 folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 6: nocap1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164594482853:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:12:28 BRT [2017/01/14 22:12:28 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: brasileiro83 ($2.05 in chips) 
+Seat 2: Miracle16 ($2.33 in chips) 
+Seat 3: pedroabreu1 ($1.86 in chips) 
+Seat 4: goez123 ($2.10 in chips) 
+Seat 6: nocap1 ($3.88 in chips) 
+nocap1: posts small blind $0.01
+brasileiro83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th 4s]
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+nocap1: calls $0.01
+brasileiro83: raises $0.08 to $0.10
+nocap1: folds 
+Uncalled bet ($0.08) returned to brasileiro83
+brasileiro83 collected $0.04 from pot
+brasileiro83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: brasileiro83 (big blind) collected ($0.04)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 6: nocap1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594489225:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:12:43 BRT [2017/01/14 22:12:43 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: brasileiro83 ($2.07 in chips) 
+Seat 2: Miracle16 ($2.33 in chips) 
+Seat 3: pedroabreu1 ($1.86 in chips) 
+Seat 4: goez123 ($2.10 in chips) 
+Seat 6: nocap1 ($3.86 in chips) 
+brasileiro83: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d Jd]
+pedroabreu1: folds 
+goez123: folds 
+nocap1: calls $0.02
+brasileiro83: calls $0.01
+Miracle16: checks 
+*** FLOP *** [Ac Ts 4c]
+brasileiro83: checks 
+Miracle16: checks 
+nocap1: checks 
+*** TURN *** [Ac Ts 4c] [Kh]
+brasileiro83: checks 
+Miracle16: checks 
+nocap1: checks 
+*** RIVER *** [Ac Ts 4c Kh] [3s]
+brasileiro83: checks 
+Miracle16: checks 
+nocap1: bets $0.06
+brasileiro83: folds 
+Miracle16: calls $0.06
+*** SHOW DOWN ***
+nocap1: shows [Ah 8c] (a pair of Aces)
+Miracle16: mucks hand 
+nocap1 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ac Ts 4c Kh 3s]
+Seat 1: brasileiro83 (small blind) folded on the River
+Seat 2: Miracle16 (big blind) mucked [7s 4d]
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: nocap1 (button) showed [Ah 8c] and won ($0.17) with a pair of Aces
+
+
+
+PokerStars Hand #164594520898:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:13:57 BRT [2017/01/14 22:13:57 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: brasileiro83 ($2.05 in chips) 
+Seat 2: Miracle16 ($2.25 in chips) 
+Seat 3: pedroabreu1 ($1.86 in chips) 
+Seat 4: goez123 ($2.10 in chips) 
+Seat 6: nocap1 ($3.95 in chips) 
+Miracle16: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s Ac]
+goez123: folds 
+nocap1: calls $0.02
+brasileiro83: folds 
+Miracle16: folds 
+pedroabreu1: checks 
+*** FLOP *** [3h Ks 3c]
+pedroabreu1: checks 
+nocap1: checks 
+*** TURN *** [3h Ks 3c] [Qd]
+pedroabreu1: bets $0.05
+nocap1: folds 
+Uncalled bet ($0.05) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h Ks 3c Qd]
+Seat 1: brasileiro83 (button) folded before Flop (didn't bet)
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) collected ($0.05)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: nocap1 folded on the Turn
+
+
+
+PokerStars Hand #164594543855:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:14:52 BRT [2017/01/14 22:14:52 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: brasileiro83 ($2.05 in chips) 
+Seat 2: Miracle16 ($2.24 in chips) 
+Seat 3: pedroabreu1 ($1.89 in chips) 
+Seat 4: goez123 ($2.10 in chips) 
+Seat 6: nocap1 ($3.93 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td Jd]
+nocap1: folds 
+brasileiro83: raises $0.03 to $0.05
+Miracle16: folds 
+pedroabreu1: calls $0.04
+goez123: folds 
+*** FLOP *** [4s As 3s]
+pedroabreu1: checks 
+brasileiro83: bets $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.06) returned to brasileiro83
+brasileiro83 collected $0.12 from pot
+brasileiro83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s As 3s]
+Seat 1: brasileiro83 collected ($0.12)
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded on the Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 6: nocap1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594577256:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:15:59 BRT [2017/01/14 22:15:59 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: brasileiro83 ($2.12 in chips) 
+Seat 2: Miracle16 ($2.24 in chips) 
+Seat 3: pedroabreu1 ($1.84 in chips) 
+Seat 4: goez123 ($2.08 in chips) 
+Seat 5: tomashovka55 ($2.63 in chips) 
+Seat 6: nocap1 ($3.93 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd 3c]
+nocap1: calls $0.02
+brasileiro83: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: checks 
+*** FLOP *** [Tc Ts 6d]
+tomashovka55: checks 
+nocap1: checks 
+*** TURN *** [Tc Ts 6d] [4s]
+tomashovka55: checks 
+nocap1: checks 
+*** RIVER *** [Tc Ts 6d 4s] [3s]
+tomashovka55: checks 
+nocap1: bets $0.02
+tomashovka55: calls $0.02
+*** SHOW DOWN ***
+nocap1: shows [Ks 6c] (two pair, Tens and Sixes)
+tomashovka55: mucks hand 
+nocap1 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Tc Ts 6d 4s 3s]
+Seat 1: brasileiro83 folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: tomashovka55 (big blind) mucked [3d Kh]
+Seat 6: nocap1 showed [Ks 6c] and won ($0.09) with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #164594592814:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:16:35 BRT [2017/01/14 22:16:35 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: brasileiro83 ($2.12 in chips) 
+Seat 2: Miracle16 ($2.24 in chips) 
+Seat 3: pedroabreu1 ($1.84 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.59 in chips) 
+Seat 6: nocap1 ($3.98 in chips) 
+tomashovka55: posts small blind $0.01
+nocap1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc 2c]
+brasileiro83: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: raises $0.04 to $0.06
+nocap1: folds 
+Uncalled bet ($0.04) returned to tomashovka55
+tomashovka55 collected $0.04 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: brasileiro83 folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: tomashovka55 (small blind) collected ($0.04)
+Seat 6: nocap1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594600143:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:16:53 BRT [2017/01/14 22:16:53 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: brasileiro83 ($2.12 in chips) 
+Seat 2: Miracle16 ($2.24 in chips) 
+Seat 3: pedroabreu1 ($1.84 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.61 in chips) 
+Seat 6: nocap1 ($3.96 in chips) 
+nocap1: posts small blind $0.01
+brasileiro83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 7h]
+Miracle16: raises $0.04 to $0.06
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: folds 
+nocap1: folds 
+brasileiro83: folds 
+Uncalled bet ($0.04) returned to Miracle16
+Miracle16 collected $0.05 from pot
+Miracle16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: brasileiro83 (big blind) folded before Flop
+Seat 2: Miracle16 collected ($0.05)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 6: nocap1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594607243:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:17:10 BRT [2017/01/14 22:17:10 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: brasileiro83 ($2.10 in chips) 
+Seat 2: Miracle16 ($2.27 in chips) 
+Seat 3: pedroabreu1 ($1.84 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.61 in chips) 
+Seat 6: nocap1 ($3.95 in chips) 
+brasileiro83: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 6s]
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: folds 
+nocap1: calls $0.02
+brasileiro83: folds 
+Miracle16: checks 
+*** FLOP *** [5h 6h Js]
+Miracle16: bets $0.04
+nocap1: folds 
+Uncalled bet ($0.04) returned to Miracle16
+Miracle16 collected $0.05 from pot
+Miracle16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5h 6h Js]
+Seat 1: brasileiro83 (small blind) folded before Flop
+Seat 2: Miracle16 (big blind) collected ($0.05)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: nocap1 (button) folded on the Flop
+
+
+
+PokerStars Hand #164594618696:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:17:36 BRT [2017/01/14 22:17:36 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: brasileiro83 ($2.09 in chips) 
+Seat 2: Miracle16 ($2.30 in chips) 
+Seat 3: pedroabreu1 ($1.84 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.61 in chips) 
+Seat 6: nocap1 ($3.93 in chips) 
+Miracle16: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc 7s]
+goez123: folds 
+tomashovka55: folds 
+nocap1: calls $0.02
+brasileiro83: folds 
+Miracle16: folds 
+pedroabreu1: checks 
+*** FLOP *** [8h Kc Ks]
+pedroabreu1: checks 
+nocap1: checks 
+*** TURN *** [8h Kc Ks] [Qh]
+pedroabreu1: checks 
+nocap1: checks 
+*** RIVER *** [8h Kc Ks Qh] [3c]
+pedroabreu1: checks 
+nocap1: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [Qc 7s] (two pair, Kings and Queens)
+nocap1: mucks hand 
+pedroabreu1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h Kc Ks Qh 3c]
+Seat 1: brasileiro83 (button) folded before Flop (didn't bet)
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) showed [Qc 7s] and won ($0.05) with two pair, Kings and Queens
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: nocap1 mucked [7h Th]
+
+
+
+PokerStars Hand #164594640277:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:18:27 BRT [2017/01/14 22:18:27 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: brasileiro83 ($2.09 in chips) 
+Seat 2: Miracle16 ($2.29 in chips) 
+Seat 3: pedroabreu1 ($1.87 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.61 in chips) 
+Seat 6: nocap1 ($3.91 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s Ac]
+tomashovka55: raises $0.04 to $0.06
+nocap1: folds 
+brasileiro83: calls $0.06
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+*** FLOP *** [4c 5c 6d]
+tomashovka55: bets $0.12
+brasileiro83: calls $0.12
+*** TURN *** [4c 5c 6d] [Tc]
+tomashovka55: checks 
+brasileiro83: checks 
+*** RIVER *** [4c 5c 6d Tc] [7h]
+tomashovka55: checks 
+brasileiro83: bets $0.19
+tomashovka55: calls $0.19
+*** SHOW DOWN ***
+brasileiro83: shows [7d 7c] (three of a kind, Sevens)
+tomashovka55: shows [8h 8s] (a straight, Four to Eight)
+tomashovka55 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [4c 5c 6d Tc 7h]
+Seat 1: brasileiro83 showed [7d 7c] and lost with three of a kind, Sevens
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: tomashovka55 showed [8h 8s] and won ($0.74) with a straight, Four to Eight
+Seat 6: nocap1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594661074:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:19:17 BRT [2017/01/14 22:19:17 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: brasileiro83 ($2 in chips) 
+Seat 2: Miracle16 ($2.29 in chips) 
+Seat 3: pedroabreu1 ($1.86 in chips) 
+Seat 4: goez123 ($2.05 in chips) 
+Seat 5: tomashovka55 ($2.98 in chips) 
+Seat 6: nocap1 ($3.91 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td Kh]
+nocap1: calls $0.02
+brasileiro83: folds 
+brasileiro83 leaves the table
+Miracle16: folds 
+patrick3319 joins the table at seat #1 
+pedroabreu1: raises $0.08 to $0.10
+goez123: folds 
+tomashovka55: folds 
+nocap1: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.07 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: brasileiro83 folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) collected ($0.07)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: tomashovka55 (big blind) folded before Flop
+Seat 6: nocap1 folded before Flop
+
+
+
+PokerStars Hand #164594672981:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:19:45 BRT [2017/01/14 22:19:45 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 2: Miracle16 ($2.29 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($2.96 in chips) 
+Seat 6: nocap1 ($3.89 in chips) 
+tomashovka55: posts small blind $0.01
+nocap1: posts big blind $0.02
+patrick3319: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Qd]
+Miracle16: folds 
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+tomashovka55: folds 
+nocap1: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 collected ($0.05)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: tomashovka55 (small blind) folded before Flop
+Seat 6: nocap1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594680982:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:20:04 BRT [2017/01/14 22:20:04 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: patrick3319 ($1 in chips) 
+Seat 2: Miracle16 ($2.29 in chips) 
+Seat 3: pedroabreu1 ($2.03 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($2.95 in chips) 
+Seat 6: nocap1 ($3.87 in chips) 
+nocap1: posts small blind $0.01
+patrick3319: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d 3c]
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: folds 
+nocap1: calls $0.01
+patrick3319: checks 
+*** FLOP *** [Ts 2c 6s]
+nocap1: checks 
+patrick3319: bets $0.04
+nocap1: folds 
+Uncalled bet ($0.04) returned to patrick3319
+patrick3319 collected $0.04 from pot
+patrick3319: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ts 2c 6s]
+Seat 1: patrick3319 (big blind) collected ($0.04)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 6: nocap1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164594694449:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:20:36 BRT [2017/01/14 22:20:36 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: patrick3319 ($1.02 in chips) 
+Seat 2: Miracle16 ($2.29 in chips) 
+Seat 3: pedroabreu1 ($2.03 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($2.95 in chips) 
+Seat 6: nocap1 ($3.85 in chips) 
+patrick3319: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 5s]
+pedroabreu1: folds 
+goez123: raises $0.05 to $0.07
+tomashovka55: folds 
+nocap1: folds 
+patrick3319: folds 
+Miracle16: folds 
+Uncalled bet ($0.05) returned to goez123
+goez123 collected $0.05 from pot
+goez123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: patrick3319 (small blind) folded before Flop
+Seat 2: Miracle16 (big blind) folded before Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 collected ($0.05)
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: nocap1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594703530:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:20:58 BRT [2017/01/14 22:20:58 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: patrick3319 ($1.01 in chips) 
+Seat 2: Miracle16 ($2.27 in chips) 
+Seat 3: pedroabreu1 ($2.03 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.95 in chips) 
+Seat 6: nocap1 ($3.85 in chips) 
+Miracle16: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8h 3s]
+goez123: folds 
+tomashovka55: folds 
+nocap1: calls $0.02
+patrick3319: folds 
+Miracle16: folds 
+pedroabreu1: checks 
+*** FLOP *** [9s Ad Ac]
+pedroabreu1: checks 
+nocap1: checks 
+*** TURN *** [9s Ad Ac] [8d]
+pedroabreu1: checks 
+nocap1: checks 
+*** RIVER *** [9s Ad Ac 8d] [9h]
+pedroabreu1: checks 
+nocap1: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [8h 3s] (two pair, Aces and Nines)
+nocap1: shows [Qd 3c] (two pair, Aces and Nines - Queen kicker)
+nocap1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s Ad Ac 8d 9h]
+Seat 1: patrick3319 (button) folded before Flop (didn't bet)
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) showed [8h 3s] and lost with two pair, Aces and Nines
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: nocap1 showed [Qd 3c] and won ($0.05) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #164594729109:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:22:00 BRT [2017/01/14 22:22:00 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: patrick3319 ($1.01 in chips) 
+Seat 2: Miracle16 ($2.26 in chips) 
+Seat 3: pedroabreu1 ($2.01 in chips) 
+Seat 4: goez123 ($2.07 in chips) 
+Seat 5: tomashovka55 ($2.95 in chips) 
+Seat 6: nocap1 ($3.88 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah 2c]
+tomashovka55: folds 
+nocap1: calls $0.02
+patrick3319: calls $0.02
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: checks 
+*** FLOP *** [Jd Kd 2s]
+goez123: checks 
+nocap1: checks 
+patrick3319: bets $0.06
+goez123: folds 
+nocap1: calls $0.06
+*** TURN *** [Jd Kd 2s] [Tc]
+nocap1: checks 
+patrick3319: bets $0.08
+nocap1: calls $0.08
+*** RIVER *** [Jd Kd 2s Tc] [Kc]
+nocap1: checks 
+patrick3319: bets $0.20
+nocap1: folds 
+Uncalled bet ($0.20) returned to patrick3319
+patrick3319 collected $0.34 from pot
+patrick3319: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Jd Kd 2s Tc Kc]
+Seat 1: patrick3319 collected ($0.34)
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded on the Flop
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: nocap1 folded on the River
+
+
+
+PokerStars Hand #164594756223:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:23:05 BRT [2017/01/14 22:23:05 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: patrick3319 ($1.19 in chips) 
+Seat 2: Miracle16 ($2.26 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2.05 in chips) 
+Seat 5: tomashovka55 ($2.95 in chips) 
+Seat 6: nocap1 ($3.72 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s 3c]
+nocap1: folds 
+patrick3319: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.01) returned to tomashovka55
+tomashovka55 collected $0.02 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: patrick3319 folded before Flop (didn't bet)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: tomashovka55 (big blind) collected ($0.02)
+Seat 6: nocap1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594765853:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:23:28 BRT [2017/01/14 22:23:28 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: patrick3319 ($1.19 in chips) 
+Seat 2: Miracle16 ($2.26 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($2.96 in chips) 
+Seat 6: nocap1 ($3.72 in chips) 
+tomashovka55: posts small blind $0.01
+nocap1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 4h]
+patrick3319: calls $0.02
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: folds 
+nocap1: checks 
+*** FLOP *** [2s 3d 8h]
+nocap1: checks 
+patrick3319: checks 
+*** TURN *** [2s 3d 8h] [9d]
+nocap1: checks 
+patrick3319: checks 
+*** RIVER *** [2s 3d 8h 9d] [Kd]
+nocap1: bets $0.04
+patrick3319: folds 
+Uncalled bet ($0.04) returned to nocap1
+nocap1 collected $0.05 from pot
+nocap1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 3d 8h 9d Kd]
+Seat 1: patrick3319 folded on the River
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: tomashovka55 (small blind) folded before Flop
+Seat 6: nocap1 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164594786591:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:24:18 BRT [2017/01/14 22:24:18 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: patrick3319 ($1.17 in chips) 
+Seat 2: Miracle16 ($2.26 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($2.95 in chips) 
+Seat 6: nocap1 ($3.75 in chips) 
+nocap1: posts small blind $0.01
+patrick3319: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 6d]
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: raises $0.04 to $0.06
+nocap1: folds 
+patrick3319: calls $0.04
+*** FLOP *** [Kc 7c 3d]
+patrick3319: checks 
+tomashovka55: bets $0.07
+patrick3319: calls $0.07
+*** TURN *** [Kc 7c 3d] [6h]
+patrick3319: checks 
+tomashovka55: bets $0.14
+patrick3319: calls $0.14
+*** RIVER *** [Kc 7c 3d 6h] [Qc]
+patrick3319: checks 
+tomashovka55: bets $0.31
+patrick3319: raises $0.59 to $0.90 and is all-in
+tomashovka55: calls $0.59
+*** SHOW DOWN ***
+patrick3319: shows [Kh Qd] (two pair, Kings and Queens)
+tomashovka55: shows [Ac 3c] (a flush, Ace high)
+tomashovka55 collected $2.27 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 
+Board [Kc 7c 3d 6h Qc]
+Seat 1: patrick3319 (big blind) showed [Kh Qd] and lost with two pair, Kings and Queens
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 (button) showed [Ac 3c] and won ($2.27) with a flush, Ace high
+Seat 6: nocap1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594816980:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:25:31 BRT [2017/01/14 22:25:31 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 2: Miracle16 ($2.26 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($4.05 in chips) 
+Seat 6: nocap1 ($3.74 in chips) 
+Miracle16: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c 9d]
+goez123: folds 
+patrick3319 leaves the table
+tomashovka55: folds 
+nocap1: calls $0.02
+Ochay46 joins the table at seat #1 
+Miracle16: folds 
+pedroabreu1: checks 
+*** FLOP *** [8d 4c Qh]
+pedroabreu1: checks 
+nocap1: checks 
+*** TURN *** [8d 4c Qh] [4h]
+pedroabreu1: checks 
+nocap1: checks 
+*** RIVER *** [8d 4c Qh 4h] [Tc]
+pedroabreu1: checks 
+nocap1: bets $0.02
+pedroabreu1: folds 
+Uncalled bet ($0.02) returned to nocap1
+nocap1 collected $0.05 from pot
+nocap1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d 4c Qh 4h Tc]
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded on the River
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: nocap1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164594847551:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:26:44 BRT [2017/01/14 22:26:44 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: Ochay46 ($1.04 in chips) 
+Seat 2: Miracle16 ($2.25 in chips) 
+Seat 3: pedroabreu1 ($1.98 in chips) 
+Seat 4: goez123 ($2.04 in chips) 
+Seat 5: tomashovka55 ($4.05 in chips) 
+Seat 6: nocap1 ($3.77 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+Ochay46: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s Kh]
+tomashovka55: raises $0.06 to $0.08
+nocap1: folds 
+Ochay46: calls $0.06
+nocap1 leaves the table
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+*** FLOP *** [4h Jc Th]
+tomashovka55: bets $0.12
+Ochay46: folds 
+Uncalled bet ($0.12) returned to tomashovka55
+tomashovka55 collected $0.18 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h Jc Th]
+Seat 1: Ochay46 folded on the Flop
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: tomashovka55 collected ($0.18)
+Seat 6: nocap1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594862005:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:27:19 BRT [2017/01/14 22:27:19 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: Ochay46 ($0.96 in chips) 
+Seat 2: Miracle16 ($2.25 in chips) 
+Seat 3: pedroabreu1 ($1.97 in chips) 
+Seat 4: goez123 ($2.02 in chips) 
+Seat 5: tomashovka55 ($4.15 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh 8s]
+Ochay46: raises $0.02 to $0.04
+Miracle16: folds 
+Ochay46 said, "u puusc"
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: folds 
+Uncalled bet ($0.02) returned to Ochay46
+Ochay46 collected $0.05 from pot
+Ochay46: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Ochay46 collected ($0.05)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: tomashovka55 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594870433:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:27:40 BRT [2017/01/14 22:27:40 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: Ochay46 ($0.99 in chips) 
+Seat 2: Miracle16 ($2.25 in chips) 
+Seat 3: pedroabreu1 ($1.97 in chips) 
+Seat 4: goez123 ($2.01 in chips) 
+Seat 5: tomashovka55 ($4.13 in chips) 
+tomashovka55: posts small blind $0.01
+Ochay46: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s Ad]
+Miracle16: folds 
+pedroabreu1: raises $0.04 to $0.06
+neilorcs joins the table at seat #6 
+goez123: folds 
+tomashovka55: folds 
+Ochay46: calls $0.04
+*** FLOP *** [7h 7d Qs]
+Ochay46: bets $0.04
+pedroabreu1: raises $0.12 to $0.16
+Ochay46: calls $0.12
+*** TURN *** [7h 7d Qs] [2d]
+Ochay46: bets $0.10
+pedroabreu1: folds 
+Uncalled bet ($0.10) returned to Ochay46
+Ochay46 collected $0.43 from pot
+Ochay46: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7h 7d Qs 2d]
+Seat 1: Ochay46 (big blind) collected ($0.43)
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded on the Turn
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594897451:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:28:46 BRT [2017/01/14 22:28:46 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: Ochay46 ($1.20 in chips) 
+Seat 2: Miracle16 ($2.25 in chips) 
+Seat 3: pedroabreu1 ($1.75 in chips) 
+Seat 4: goez123 ($2.01 in chips) 
+Seat 5: tomashovka55 ($4.12 in chips) 
+neilorcs will be allowed to play after the button
+Ochay46: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js Qc]
+pedroabreu1: raises $0.06 to $0.08
+goez123: folds 
+tomashovka55: folds 
+Ochay46: calls $0.07
+Miracle16: raises $0.24 to $0.32
+pedroabreu1: folds 
+Ochay46: calls $0.24
+*** FLOP *** [8h Th 5s]
+Ochay46: bets $0.02
+Miracle16: raises $0.86 to $0.88
+Ochay46: calls $0.86 and is all-in
+*** TURN *** [8h Th 5s] [6d]
+*** RIVER *** [8h Th 5s 6d] [Ks]
+*** SHOW DOWN ***
+Ochay46: shows [7s Jd] (high card King)
+Miracle16: shows [Ac Qs] (high card Ace)
+Miracle16 collected $2.39 from pot
+*** SUMMARY ***
+Total pot $2.48 | Rake $0.09 
+Board [8h Th 5s 6d Ks]
+Seat 1: Ochay46 (small blind) showed [7s Jd] and lost with high card King
+Seat 2: Miracle16 (big blind) showed [Ac Qs] and won ($2.39) with high card Ace
+Seat 3: pedroabreu1 folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594922745:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:29:48 BRT [2017/01/14 22:29:48 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 2: Miracle16 ($3.44 in chips) 
+Seat 3: pedroabreu1 ($1.67 in chips) 
+Seat 4: goez123 ($2.01 in chips) 
+Seat 5: tomashovka55 ($4.12 in chips) 
+Seat 6: neilorcs ($0.80 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c Ad]
+tomashovka55: folds 
+neilorcs: raises $0.02 to $0.04
+Miracle16: folds 
+Ochay46 said, "your a ****ing loser"
+pedroabreu1: calls $0.03
+goez123: folds 
+*** FLOP *** [Tc 5h 8s]
+pedroabreu1: checks 
+neilorcs: bets $0.08
+Ochay46 said, "c0ck sucking btch"
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to neilorcs
+neilorcs collected $0.10 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Tc 5h 8s]
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded on the Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: neilorcs collected ($0.10)
+
+
+
+PokerStars Hand #164594939980:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:30:30 BRT [2017/01/14 22:30:30 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 2: Miracle16 ($3.44 in chips) 
+Seat 3: pedroabreu1 ($1.63 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.12 in chips) 
+Seat 6: neilorcs ($0.86 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kd 6c]
+Ochay46 leaves the table
+neilorcs: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.01) returned to tomashovka55
+tomashovka55 collected $0.02 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: tomashovka55 (big blind) collected ($0.02)
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594946988:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:30:48 BRT [2017/01/14 22:30:48 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 2: Miracle16 ($3.44 in chips) 
+Seat 3: pedroabreu1 ($1.63 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.13 in chips) 
+Seat 6: neilorcs ($0.86 in chips) 
+tomashovka55: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 4s]
+Miracle16: folds 
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+tomashovka55: folds 
+neilorcs: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 collected ($0.05)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: tomashovka55 (small blind) folded before Flop
+Seat 6: neilorcs (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594958172:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:31:15 BRT [2017/01/14 22:31:15 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 2: Miracle16 ($3.44 in chips) 
+Seat 3: pedroabreu1 ($1.66 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.12 in chips) 
+Seat 6: neilorcs ($0.84 in chips) 
+neilorcs: posts small blind $0.01
+Miracle16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 7c]
+RainClear joins the table at seat #1 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: raises $0.04 to $0.06
+neilorcs: folds 
+Miracle16: calls $0.04
+*** FLOP *** [Ah 2s 8s]
+Miracle16: checks 
+tomashovka55: bets $0.07
+Miracle16: folds 
+Uncalled bet ($0.07) returned to tomashovka55
+tomashovka55 collected $0.13 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ah 2s 8s]
+Seat 2: Miracle16 (big blind) folded on the Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 (button) collected ($0.13)
+Seat 6: neilorcs (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594980737:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:31:56 BRT [2017/01/14 22:31:56 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 2: Miracle16 ($3.38 in chips) 
+Seat 3: pedroabreu1 ($1.66 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.19 in chips) 
+Seat 6: neilorcs ($0.83 in chips) 
+RainClear will be allowed to play after the button
+Miracle16: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 6s]
+goez123: folds 
+tomashovka55: raises $0.04 to $0.06
+neilorcs: calls $0.06
+RainClear leaves the table
+Miracle16: folds 
+pedroabreu1: folds 
+*** FLOP *** [Td Jc Ts]
+tomashovka55: checks 
+neilorcs: checks 
+*** TURN *** [Td Jc Ts] [3h]
+tomashovka55: checks 
+neilorcs: bets $0.04
+tomashovka55: calls $0.04
+*** RIVER *** [Td Jc Ts 3h] [7d]
+tomashovka55: checks 
+neilorcs: bets $0.22
+tomashovka55: folds 
+Uncalled bet ($0.22) returned to neilorcs
+neilorcs collected $0.22 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Td Jc Ts 3h 7d]
+Seat 2: Miracle16 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 folded on the River
+Seat 6: neilorcs (button) collected ($0.22)
+
+
+
+PokerStars Hand #164595007378:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:33:03 BRT [2017/01/14 22:33:03 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 2: Miracle16 ($3.37 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.09 in chips) 
+Seat 6: neilorcs ($0.95 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 4h]
+tomashovka55: raises $0.04 to $0.06
+neilorcs: folds 
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.04) returned to tomashovka55
+tomashovka55 collected $0.05 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Miracle16 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: tomashovka55 collected ($0.05)
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595014629:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:33:21 BRT [2017/01/14 22:33:21 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 2: Miracle16 ($3.37 in chips) 
+Seat 3: pedroabreu1 ($1.99 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.12 in chips) 
+Seat 6: neilorcs ($0.95 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc As]
+neilorcs: calls $0.02
+Miracle16: folds 
+pedroabreu1: raises $0.08 to $0.10
+goez123: folds 
+tomashovka55: calls $0.08
+neilorcs: raises $0.12 to $0.22
+jeff173 joins the table at seat #1 
+pedroabreu1: calls $0.12
+tomashovka55: calls $0.12
+*** FLOP *** [8s 4s 9d]
+tomashovka55: checks 
+neilorcs: bets $0.73 and is all-in
+pedroabreu1: folds 
+tomashovka55: folds 
+Uncalled bet ($0.73) returned to neilorcs
+neilorcs collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [8s 4s 9d]
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded on the Flop
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: tomashovka55 (big blind) folded on the Flop
+Seat 6: neilorcs collected ($0.65)
+
+
+
+PokerStars Hand #164595053844:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:35:00 BRT [2017/01/14 22:35:00 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 2: Miracle16 ($3.37 in chips) 
+Seat 3: pedroabreu1 ($1.77 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($3.90 in chips) 
+Seat 6: neilorcs ($1.38 in chips) 
+tomashovka55: posts small blind $0.01
+neilorcs: posts big blind $0.02
+jeff173: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 6c]
+Miracle16: folds 
+pedroabreu1: folds 
+goez123: folds 
+tomashovka55: raises $0.02 to $0.04
+neilorcs: calls $0.02
+*** FLOP *** [6s 6h 8h]
+tomashovka55: bets $0.07
+neilorcs: calls $0.07
+*** TURN *** [6s 6h 8h] [2c]
+tomashovka55: bets $0.18
+neilorcs: calls $0.18
+*** RIVER *** [6s 6h 8h 2c] [Tc]
+tomashovka55: bets $0.48
+neilorcs: folds 
+Uncalled bet ($0.48) returned to tomashovka55
+tomashovka55 collected $0.56 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [6s 6h 8h 2c Tc]
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: tomashovka55 (small blind) collected ($0.56)
+Seat 6: neilorcs (big blind) folded on the River
+
+
+
+PokerStars Hand #164595077698:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:36:00 BRT [2017/01/14 22:36:00 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($2 in chips) 
+Seat 2: Miracle16 ($3.37 in chips) 
+Seat 3: pedroabreu1 ($1.77 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.17 in chips) 
+Seat 6: neilorcs ($1.09 in chips) 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 5d]
+Miracle16: folds 
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+tomashovka55: folds 
+neilorcs: folds 
+jeff173: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: Miracle16 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 collected ($0.05)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 6: neilorcs (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595082891:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:36:13 BRT [2017/01/14 22:36:13 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.98 in chips) 
+Seat 3: pedroabreu1 ($1.80 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.17 in chips) 
+Seat 6: neilorcs ($1.08 in chips) 
+jeff173: posts small blind $0.01
+Miracle16: is sitting out 
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 9c]
+Miracle16 leaves the table
+goez123 has timed out
+goez123: folds 
+tomashovka55: folds 
+neilorcs: calls $0.02
+jeff173: folds 
+pedroabreu1: checks 
+*** FLOP *** [Jc 7h Kc]
+giotsi134 joins the table at seat #2 
+pedroabreu1: checks 
+neilorcs: bets $0.08
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to neilorcs
+neilorcs collected $0.05 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc 7h Kc]
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded on the Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: neilorcs (button) collected ($0.05)
+
+
+
+PokerStars Hand #164595117448:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:37:41 BRT [2017/01/14 22:37:41 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.97 in chips) 
+Seat 3: pedroabreu1 ($1.78 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: tomashovka55 ($4.17 in chips) 
+Seat 6: neilorcs ($1.11 in chips) 
+giotsi134 will be allowed to play after the button
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 9h]
+tomashovka55: folds 
+neilorcs: raises $0.04 to $0.06
+jeff173: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.04) returned to neilorcs
+neilorcs collected $0.05 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: tomashovka55 folded before Flop (didn't bet)
+Seat 6: neilorcs collected ($0.05)
+
+
+
+PokerStars Hand #164595123108:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:37:55 BRT [2017/01/14 22:37:55 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.97 in chips) 
+Seat 2: giotsi134 ($2 in chips) 
+Seat 3: pedroabreu1 ($1.77 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.14 in chips) 
+goez123: posts small blind $0.01
+tomashovka55: is sitting out 
+neilorcs: posts big blind $0.02
+tomashovka55 leaves the table
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 9h]
+jeff173: folds 
+giotsi134: checks 
+pedroabreu1: folds 
+goez123: folds 
+neilorcs: checks 
+*** FLOP *** [Qc Td Ks]
+neilorcs: checks 
+giotsi134: checks 
+*** TURN *** [Qc Td Ks] [8d]
+neilorcs: checks 
+giotsi134: bets $0.02
+neilorcs: calls $0.02
+*** RIVER *** [Qc Td Ks 8d] [3s]
+neilorcs: bets $0.08
+giotsi134: calls $0.08
+*** SHOW DOWN ***
+neilorcs: shows [Ad As] (a pair of Aces)
+giotsi134: mucks hand 
+neilorcs collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc Td Ks 8d 3s]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 mucked [8s 7c]
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 6: neilorcs (big blind) showed [Ad As] and won ($0.24) with a pair of Aces
+
+
+
+PokerStars Hand #164595139122:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:38:36 BRT [2017/01/14 22:38:36 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.97 in chips) 
+Seat 2: giotsi134 ($1.88 in chips) 
+Seat 3: pedroabreu1 ($1.77 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.26 in chips) 
+kal19 joins the table at seat #5 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d 9s]
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: raises $0.06 to $0.08
+neilorcs: calls $0.07
+jeff173: folds 
+giotsi134: calls $0.06
+*** FLOP *** [7h 9h Qh]
+neilorcs: bets $0.06
+giotsi134: raises $0.06 to $0.12
+goez123: folds 
+neilorcs: calls $0.06
+*** TURN *** [7h 9h Qh] [As]
+neilorcs: checks 
+giotsi134: bets $0.48
+neilorcs: folds 
+Uncalled bet ($0.48) returned to giotsi134
+giotsi134 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [7h 9h Qh As]
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 collected ($0.48)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded on the Flop
+Seat 6: neilorcs (small blind) folded on the Turn
+
+
+
+PokerStars Hand #164595155691:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:39:19 BRT [2017/01/14 22:39:19 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.95 in chips) 
+Seat 2: giotsi134 ($2.16 in chips) 
+Seat 3: pedroabreu1 ($1.77 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: kal19 ($2 in chips) 
+Seat 6: neilorcs ($1.06 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+kal19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Ad]
+pedroabreu1: folds 
+goez123: folds 
+kal19: checks 
+neilorcs: raises $0.02 to $0.04
+jeff173: calls $0.03
+giotsi134: calls $0.02
+kal19: calls $0.02
+*** FLOP *** [8s Ks Kd]
+jeff173: checks 
+giotsi134: checks 
+kal19: checks 
+neilorcs: bets $0.14
+jeff173: folds 
+giotsi134: folds 
+kal19: raises $0.14 to $0.28
+neilorcs: folds 
+Uncalled bet ($0.14) returned to kal19
+kal19 collected $0.42 from pot
+kal19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [8s Ks Kd]
+Seat 1: jeff173 (small blind) folded on the Flop
+Seat 2: giotsi134 (big blind) folded on the Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: kal19 collected ($0.42)
+Seat 6: neilorcs (button) folded on the Flop
+
+
+
+PokerStars Hand #164595184376:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:40:33 BRT [2017/01/14 22:40:33 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.91 in chips) 
+Seat 2: giotsi134 ($2.12 in chips) 
+Seat 3: pedroabreu1 ($1.77 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: kal19 ($2.24 in chips) 
+Seat 6: neilorcs ($0.88 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Ks]
+goez123: folds 
+kal19: calls $0.02
+neilorcs: folds 
+jeff173: folds 
+neilorcs said, "BH"
+giotsi134: calls $0.01
+pedroabreu1: raises $0.08 to $0.10
+kal19: folds 
+giotsi134: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.06 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) collected ($0.06)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: kal19 folded before Flop
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595191502:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:40:51 BRT [2017/01/14 22:40:51 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.91 in chips) 
+Seat 2: giotsi134 ($2.10 in chips) 
+Seat 3: pedroabreu1 ($1.81 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: kal19 ($2.22 in chips) 
+Seat 6: neilorcs ($0.88 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th 2h]
+kal19: calls $0.02
+neilorcs: calls $0.02
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: raises $0.09 to $0.11
+kal19: calls $0.09
+neilorcs: calls $0.09
+giotsi134: folds 
+*** FLOP *** [6h Kc 4h]
+goez123: checks 
+kal19: checks 
+neilorcs: bets $0.77 and is all-in
+goez123: folds 
+kal19: folds 
+Uncalled bet ($0.77) returned to neilorcs
+neilorcs collected $0.35 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6h Kc 4h]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded before Flop
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded on the Flop
+Seat 5: kal19 folded on the Flop
+Seat 6: neilorcs collected ($0.35)
+
+
+
+PokerStars Hand #164595207214:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:41:32 BRT [2017/01/14 22:41:32 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.91 in chips) 
+Seat 2: giotsi134 ($2.08 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: kal19 ($2.11 in chips) 
+Seat 6: neilorcs ($1.12 in chips) 
+goez123: posts small blind $0.01
+kal19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d Ks]
+neilorcs: calls $0.02
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: calls $0.01
+kal19: checks 
+*** FLOP *** [Jc 4h 3s]
+goez123: checks 
+kal19: checks 
+neilorcs: checks 
+giotsi134: checks 
+*** TURN *** [Jc 4h 3s] [6d]
+goez123: checks 
+kal19: bets $0.04
+neilorcs: raises $0.06 to $0.10
+giotsi134: folds 
+goez123: folds 
+kal19: calls $0.06
+*** RIVER *** [Jc 4h 3s 6d] [Ts]
+kal19: checks 
+neilorcs: bets $0.10
+kal19: folds 
+Uncalled bet ($0.10) returned to neilorcs
+neilorcs collected $0.27 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Jc 4h 3s 6d Ts]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded on the Turn
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded on the Turn
+Seat 5: kal19 (big blind) folded on the River
+Seat 6: neilorcs collected ($0.27)
+
+
+
+PokerStars Hand #164595234375:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:42:42 BRT [2017/01/14 22:42:42 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.91 in chips) 
+Seat 2: giotsi134 ($2.06 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: kal19 ($1.99 in chips) 
+Seat 6: neilorcs ($1.27 in chips) 
+kal19: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 5s]
+jeff173: calls $0.02
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+kal19: raises $0.06 to $0.08
+neilorcs: calls $0.06
+jeff173: calls $0.06
+giotsi134: folds 
+*** FLOP *** [3h Ad 4h]
+kal19: bets $0.08
+neilorcs: calls $0.08
+jeff173: calls $0.08
+*** TURN *** [3h Ad 4h] [2d]
+kal19: checks 
+neilorcs: bets $0.06
+jeff173: calls $0.06
+kal19: calls $0.06
+*** RIVER *** [3h Ad 4h 2d] [6c]
+kal19: bets $0.32
+neilorcs: calls $0.32
+jeff173: folds 
+*** SHOW DOWN ***
+kal19: shows [Qh Qs] (a pair of Queens)
+neilorcs: shows [Ac 9d] (a pair of Aces)
+neilorcs collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [3h Ad 4h 2d 6c]
+Seat 1: jeff173 folded on the River
+Seat 2: giotsi134 folded before Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: kal19 (small blind) showed [Qh Qs] and lost with a pair of Queens
+Seat 6: neilorcs (big blind) showed [Ac 9d] and won ($1.27) with a pair of Aces
+
+
+
+PokerStars Hand #164595267199:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:44:07 BRT [2017/01/14 22:44:07 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.69 in chips) 
+Seat 2: giotsi134 ($2.04 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: kal19 ($1.45 in chips) 
+Seat 6: neilorcs ($2 in chips) 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 8d]
+giotsi134: calls $0.02
+pedroabreu1: calls $0.02
+goez123: folds 
+kal19: folds 
+neilorcs: raises $0.02 to $0.04
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: calls $0.02
+*** FLOP *** [Kh 4s 9d]
+neilorcs: bets $0.06
+giotsi134: calls $0.06
+kal19 leaves the table
+pedroabreu1: folds 
+*** TURN *** [Kh 4s 9d] [Th]
+neilorcs: bets $0.10
+giotsi134: calls $0.10
+*** RIVER *** [Kh 4s 9d Th] [2s]
+neilorcs: bets $0.08
+giotsi134: raises $0.08 to $0.16
+Fedor Hal joins the table at seat #5 
+neilorcs: calls $0.08
+*** SHOW DOWN ***
+giotsi134: shows [7d 7c] (a pair of Sevens)
+neilorcs: shows [Qd 9h] (a pair of Nines)
+neilorcs collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Kh 4s 9d Th 2s]
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 showed [7d 7c] and lost with a pair of Sevens
+Seat 3: pedroabreu1 folded on the Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: kal19 (button) folded before Flop (didn't bet)
+Seat 6: neilorcs (small blind) showed [Qd 9h] and won ($0.75) with a pair of Nines
+
+
+
+PokerStars Hand #164595293655:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:45:15 BRT [2017/01/14 22:45:15 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.67 in chips) 
+Seat 2: giotsi134 ($1.68 in chips) 
+Seat 3: pedroabreu1 ($1.96 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($2.39 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+Fedor Hal: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Jc]
+pedroabreu1: folds 
+goez123: folds 
+neilorcs: raises $0.02 to $0.04
+jeff173: folds 
+giotsi134: calls $0.02
+*** FLOP *** [2d 6s 6d]
+giotsi134: bets $0.02
+neilorcs: raises $0.02 to $0.04
+giotsi134: calls $0.02
+*** TURN *** [2d 6s 6d] [5h]
+giotsi134: bets $0.02
+neilorcs: calls $0.02
+*** RIVER *** [2d 6s 6d 5h] [Js]
+giotsi134: bets $0.20
+neilorcs: folds 
+Uncalled bet ($0.20) returned to giotsi134
+giotsi134 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2d 6s 6d 5h Js]
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.20)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: neilorcs (button) folded on the River
+
+
+
+PokerStars Hand #164595312725:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:05 BRT [2017/01/14 22:46:05 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.66 in chips) 
+Seat 2: giotsi134 ($1.78 in chips) 
+Seat 3: pedroabreu1 ($1.96 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($0.80 in chips) 
+Seat 6: neilorcs ($2.29 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+Fedor Hal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs 6c]
+goez123: folds 
+Fedor Hal: raises $0.08 to $0.10
+neilorcs: folds 
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to Fedor Hal
+Fedor Hal collected $0.05 from pot
+Fedor Hal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal collected ($0.05)
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595323681:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:34 BRT [2017/01/14 22:46:34 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.66 in chips) 
+Seat 2: giotsi134 ($1.77 in chips) 
+Seat 3: pedroabreu1 ($1.94 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($0.83 in chips) 
+Seat 6: neilorcs ($2.29 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d 3c]
+Fedor Hal: calls $0.02
+neilorcs: calls $0.02
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: checks 
+*** FLOP *** [6s 8d Ad]
+goez123: checks 
+Fedor Hal: checks 
+neilorcs: checks 
+*** TURN *** [6s 8d Ad] [6d]
+goez123: checks 
+Fedor Hal: checks 
+neilorcs: checks 
+*** RIVER *** [6s 8d Ad 6d] [5c]
+goez123: checks 
+Fedor Hal: checks 
+neilorcs: bets $0.08
+goez123: folds 
+Fedor Hal: folds 
+Uncalled bet ($0.08) returned to neilorcs
+neilorcs collected $0.07 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6s 8d Ad 6d 5c]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded on the River
+Seat 5: Fedor Hal folded on the River
+Seat 6: neilorcs collected ($0.07)
+
+
+
+PokerStars Hand #164595351157:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:47:46 BRT [2017/01/14 22:47:46 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.66 in chips) 
+Seat 2: giotsi134 ($1.77 in chips) 
+Seat 3: pedroabreu1 ($1.93 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($0.81 in chips) 
+Seat 6: neilorcs ($2.34 in chips) 
+goez123: posts small blind $0.01
+Fedor Hal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s Kc]
+neilorcs: raises $0.04 to $0.06
+jeff173: folds 
+giotsi134: calls $0.06
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.04
+*** FLOP *** [5c Jd As]
+Fedor Hal: bets $0.08
+neilorcs: folds 
+giotsi134: raises $0.08 to $0.16
+Fedor Hal: calls $0.08
+*** TURN *** [5c Jd As] [Kd]
+Fedor Hal: bets $0.10
+giotsi134: calls $0.10
+*** RIVER *** [5c Jd As Kd] [4d]
+Fedor Hal: bets $0.10
+giotsi134: calls $0.10
+*** SHOW DOWN ***
+Fedor Hal: shows [Jc 3d] (a pair of Jacks)
+giotsi134: shows [2s Ad] (a pair of Aces)
+giotsi134 collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [5c Jd As Kd 4d]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 showed [2s Ad] and won ($0.88) with a pair of Aces
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: Fedor Hal (big blind) showed [Jc 3d] and lost with a pair of Jacks
+Seat 6: neilorcs folded on the Flop
+
+
+
+PokerStars Hand #164595367373:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:48:28 BRT [2017/01/14 22:48:28 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.66 in chips) 
+Seat 2: giotsi134 ($2.23 in chips) 
+Seat 3: pedroabreu1 ($1.93 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($0.39 in chips) 
+Seat 6: neilorcs ($2.28 in chips) 
+Fedor Hal: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 9h]
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: raises $0.02 to $0.04
+neilorcs: calls $0.02
+*** FLOP *** [Kc 7h 8d]
+Fedor Hal: checks 
+neilorcs: bets $0.06
+Fedor Hal: raises $0.06 to $0.12
+neilorcs: calls $0.06
+*** TURN *** [Kc 7h 8d] [8h]
+Fedor Hal: checks 
+neilorcs: bets $2.12 and is all-in
+Fedor Hal: calls $0.23 and is all-in
+Uncalled bet ($1.89) returned to neilorcs
+*** RIVER *** [Kc 7h 8d 8h] [Qd]
+*** SHOW DOWN ***
+Fedor Hal: shows [Ad Ks] (two pair, Kings and Eights)
+neilorcs: shows [9d Qs] (two pair, Queens and Eights)
+Fedor Hal collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Kc 7h 8d 8h Qd]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: Fedor Hal (small blind) showed [Ad Ks] and won ($0.75) with two pair, Kings and Eights
+Seat 6: neilorcs (big blind) showed [9d Qs] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #164595398720:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:49:50 BRT [2017/01/14 22:49:50 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.66 in chips) 
+Seat 2: giotsi134 ($2.23 in chips) 
+Seat 3: pedroabreu1 ($1.93 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($0.75 in chips) 
+Seat 6: neilorcs ($1.89 in chips) 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc 4h]
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.02
+neilorcs: raises $0.08 to $0.10
+jeff173: folds 
+giotsi134: calls $0.08
+Fedor Hal: calls $0.08
+*** FLOP *** [5d 7c 9s]
+neilorcs: bets $0.10
+giotsi134: folds 
+Fedor Hal: calls $0.10
+*** TURN *** [5d 7c 9s] [2d]
+neilorcs: bets $0.10
+Fedor Hal: raises $0.10 to $0.20
+neilorcs: raises $1.49 to $1.69 and is all-in
+Fedor Hal: calls $0.35 and is all-in
+Uncalled bet ($1.14) returned to neilorcs
+*** RIVER *** [5d 7c 9s 2d] [8c]
+*** SHOW DOWN ***
+neilorcs: shows [Ad 7d] (a pair of Sevens)
+Fedor Hal: shows [2s 5s] (two pair, Fives and Deuces)
+Fedor Hal collected $1.56 from pot
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.06 
+Board [5d 7c 9s 2d 8c]
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 folded on the Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal (button) showed [2s 5s] and won ($1.56) with two pair, Fives and Deuces
+Seat 6: neilorcs (small blind) showed [Ad 7d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #164595421769:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:50:51 BRT [2017/01/14 22:50:51 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.64 in chips) 
+Seat 2: giotsi134 ($2.13 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.56 in chips) 
+Seat 6: neilorcs ($1.14 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 2s]
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: folds 
+neilorcs: raises $0.06 to $0.08
+jeff173: folds 
+giotsi134: calls $0.06
+*** FLOP *** [Tc Jd 3c]
+neilorcs said, "flush draw me kkk"
+giotsi134: bets $0.02
+neilorcs: raises $0.08 to $0.10
+giotsi134: folds 
+Uncalled bet ($0.08) returned to neilorcs
+neilorcs collected $0.20 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Tc Jd 3c]
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) folded on the Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal folded before Flop (didn't bet)
+Seat 6: neilorcs (button) collected ($0.20)
+
+
+
+PokerStars Hand #164595435733:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:51:28 BRT [2017/01/14 22:51:28 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.63 in chips) 
+Seat 2: giotsi134 ($2.03 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.56 in chips) 
+Seat 6: neilorcs ($1.24 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc Kd]
+goez123: folds 
+Fedor Hal: calls $0.02
+neilorcs: folds 
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: raises $0.05 to $0.07
+Fedor Hal: calls $0.05
+*** FLOP *** [Jc Qd Ac]
+pedroabreu1: bets $0.08
+Fedor Hal: raises $0.08 to $0.16
+pedroabreu1: calls $0.08
+*** TURN *** [Jc Qd Ac] [8c]
+pedroabreu1: checks 
+Fedor Hal: bets $0.10
+pedroabreu1: calls $0.10
+*** RIVER *** [Jc Qd Ac 8c] [4s]
+pedroabreu1: checks 
+Fedor Hal: bets $0.10
+pedroabreu1: calls $0.10
+*** SHOW DOWN ***
+Fedor Hal: shows [Tc 7c] (a flush, Ace high)
+pedroabreu1: mucks hand 
+Fedor Hal collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Jc Qd Ac 8c 4s]
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) mucked [Kc Kd]
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal showed [Tc 7c] and won ($0.84) with a flush, Ace high
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595472973:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:52:49 BRT [2017/01/14 22:52:49 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.63 in chips) 
+Seat 2: giotsi134 ($2.02 in chips) 
+Seat 3: pedroabreu1 ($1.57 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.97 in chips) 
+Seat 6: neilorcs ($1.24 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh 2d]
+Fedor Hal: calls $0.02
+neilorcs: raises $0.04 to $0.06
+jeff173: calls $0.06
+giotsi134: raises $0.04 to $0.10
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.08
+neilorcs: raises $1.14 to $1.24 and is all-in
+jeff173: folds 
+giotsi134: folds 
+Fedor Hal: folds 
+Uncalled bet ($1.14) returned to neilorcs
+neilorcs collected $0.39 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0 
+Seat 1: jeff173 folded before Flop
+Seat 2: giotsi134 (button) folded before Flop
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: Fedor Hal folded before Flop
+Seat 6: neilorcs collected ($0.39)
+
+
+
+PokerStars Hand #164595484426:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:53:20 BRT [2017/01/14 22:53:20 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.57 in chips) 
+Seat 2: giotsi134 ($1.92 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.87 in chips) 
+Seat 6: neilorcs ($1.53 in chips) 
+goez123: posts small blind $0.01
+Fedor Hal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc 5h]
+neilorcs: folds 
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.01) returned to Fedor Hal
+Fedor Hal collected $0.02 from pot
+Fedor Hal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: Fedor Hal (big blind) collected ($0.02)
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595489133:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:53:32 BRT [2017/01/14 22:53:32 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.57 in chips) 
+Seat 2: giotsi134 ($1.92 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.88 in chips) 
+Seat 6: neilorcs ($1.53 in chips) 
+Fedor Hal: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 3d]
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.01
+neilorcs: checks 
+*** FLOP *** [Kh Qc Kd]
+Fedor Hal: checks 
+neilorcs: checks 
+giotsi134: checks 
+*** TURN *** [Kh Qc Kd] [Td]
+Fedor Hal: bets $0.08
+neilorcs: calls $0.08
+giotsi134: calls $0.08
+*** RIVER *** [Kh Qc Kd Td] [8c]
+Fedor Hal: bets $0.10
+neilorcs: calls $0.10
+giotsi134: raises $0.10 to $0.20
+Fedor Hal: calls $0.10
+neilorcs: calls $0.10
+*** SHOW DOWN ***
+giotsi134: shows [Jc Qs] (two pair, Kings and Queens)
+Fedor Hal: mucks hand 
+neilorcs: mucks hand 
+giotsi134 collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [Kh Qc Kd Td 8c]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 showed [Jc Qs] and won ($0.87) with two pair, Kings and Queens
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: Fedor Hal (small blind) mucked [Qh 7h]
+Seat 6: neilorcs (big blind) mucked [3h Tc]
+
+
+
+PokerStars Hand #164595511084:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:54:31 BRT [2017/01/14 22:54:31 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.57 in chips) 
+Seat 2: giotsi134 ($2.49 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.58 in chips) 
+Seat 6: neilorcs ($1.23 in chips) 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks 8c]
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.02
+neilorcs: folds 
+jeff173: checks 
+*** FLOP *** [Kd 5c 6c]
+jeff173: checks 
+giotsi134: checks 
+Fedor Hal: checks 
+*** TURN *** [Kd 5c 6c] [2d]
+jeff173: checks 
+giotsi134: bets $0.02
+Fedor Hal: calls $0.02
+jeff173: folds 
+*** RIVER *** [Kd 5c 6c 2d] [Th]
+giotsi134: bets $0.10
+Fedor Hal: folds 
+Uncalled bet ($0.10) returned to giotsi134
+giotsi134 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kd 5c 6c 2d Th]
+Seat 1: jeff173 (big blind) folded on the Turn
+Seat 2: giotsi134 collected ($0.11)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal (button) folded on the River
+Seat 6: neilorcs (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595533073:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:55:33 BRT [2017/01/14 22:55:33 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.55 in chips) 
+Seat 2: giotsi134 ($2.56 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.54 in chips) 
+Seat 6: neilorcs ($1.22 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d Jd]
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.02
+neilorcs: calls $0.02
+jeff173: folds 
+giotsi134: checks 
+*** FLOP *** [Qd Js 4s]
+giotsi134: bets $0.02
+Fedor Hal: calls $0.02
+neilorcs: folds 
+*** TURN *** [Qd Js 4s] [2h]
+giotsi134: bets $0.02
+Fedor Hal: calls $0.02
+*** RIVER *** [Qd Js 4s 2h] [7c]
+giotsi134: bets $0.10
+Fedor Hal: folds 
+Uncalled bet ($0.10) returned to giotsi134
+giotsi134 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qd Js 4s 2h 7c]
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.14)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal folded on the River
+Seat 6: neilorcs (button) folded on the Flop
+
+
+
+PokerStars Hand #164595546901:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:56:15 BRT [2017/01/14 22:56:15 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.54 in chips) 
+Seat 2: giotsi134 ($2.64 in chips) 
+Seat 3: pedroabreu1 ($2 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.48 in chips) 
+Seat 6: neilorcs ($1.20 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s 7h]
+goez123: folds 
+Fedor Hal: calls $0.02
+neilorcs: raises $0.06 to $0.08
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+Fedor Hal: calls $0.06
+*** FLOP *** [5h As 8h]
+Fedor Hal: checks 
+neilorcs: bets $0.10
+Fedor Hal: folds 
+Uncalled bet ($0.10) returned to neilorcs
+neilorcs collected $0.18 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h As 8h]
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Fedor Hal folded on the Flop
+Seat 6: neilorcs collected ($0.18)
+
+
+
+PokerStars Hand #164595554513:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:56:38 BRT [2017/01/14 22:56:38 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.54 in chips) 
+Seat 2: giotsi134 ($2.63 in chips) 
+Seat 3: pedroabreu1 ($1.98 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Fedor Hal ($1.40 in chips) 
+Seat 6: neilorcs ($1.30 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 6c]
+Fedor Hal: calls $0.02
+neilorcs: raises $0.02 to $0.04
+jeff173: calls $0.04
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Fedor Hal: calls $0.02
+*** FLOP *** [Qd As 4c]
+Fedor Hal: checks 
+neilorcs: checks 
+jeff173: checks 
+*** TURN *** [Qd As 4c] [7h]
+Fedor Hal: checks 
+neilorcs: checks 
+jeff173: checks 
+*** RIVER *** [Qd As 4c 7h] [9s]
+Fedor Hal: checks 
+neilorcs: bets $0.06
+jeff173: folds 
+Fedor Hal: folds 
+Uncalled bet ($0.06) returned to neilorcs
+neilorcs collected $0.14 from pot
+neilorcs: doesn't show hand 
+Fedor Hal leaves the table
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qd As 4c 7h 9s]
+Seat 1: jeff173 folded on the River
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: Fedor Hal folded on the River
+Seat 6: neilorcs collected ($0.14)
+
+
+
+PokerStars Hand #164595570533:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:57:26 BRT [2017/01/14 22:57:26 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.50 in chips) 
+Seat 2: giotsi134 ($2.63 in chips) 
+Seat 3: pedroabreu1 ($1.97 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.40 in chips) 
+goez123: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td 5s]
+jeff173: folds 
+Embersworn joins the table at seat #5 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+neilorcs: checks 
+*** FLOP *** [Qc 9c 7d]
+neilorcs: bets $0.06
+giotsi134: folds 
+Uncalled bet ($0.06) returned to neilorcs
+neilorcs collected $0.05 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc 9c 7d]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded on the Flop
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 6: neilorcs (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164595576911:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:57:46 BRT [2017/01/14 22:57:46 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.50 in chips) 
+Seat 2: giotsi134 ($2.61 in chips) 
+Seat 3: pedroabreu1 ($1.97 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.43 in chips) 
+Embersworn will be allowed to play after the button
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7h 2d]
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+neilorcs: raises $0.02 to $0.04
+jeff173: calls $0.02
+*** FLOP *** [3c 4d 4c]
+neilorcs: bets $0.06
+jeff173: folds 
+Uncalled bet ($0.06) returned to neilorcs
+neilorcs collected $0.08 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3c 4d 4c]
+Seat 1: jeff173 (big blind) folded on the Flop
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 6: neilorcs (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #164595583417:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:58:05 BRT [2017/01/14 22:58:05 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.46 in chips) 
+Seat 2: giotsi134 ($2.61 in chips) 
+Seat 3: pedroabreu1 ($1.97 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.47 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+Embersworn: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Ts]
+pedroabreu1 has timed out
+pedroabreu1: folds 
+goez123: folds 
+neilorcs: folds 
+jeff173: folds 
+Uncalled bet ($0.01) returned to giotsi134
+giotsi134 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.02)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: neilorcs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595593348:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:58:35 BRT [2017/01/14 22:58:35 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.45 in chips) 
+Seat 2: giotsi134 ($2.62 in chips) 
+Seat 3: pedroabreu1 ($1.97 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.47 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+Embersworn: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c Qh]
+goez123: folds 
+neilorcs: raises $0.02 to $0.04
+jeff173: calls $0.04
+giotsi134: folds 
+pedroabreu1: folds 
+*** FLOP *** [2c 6d Qs]
+neilorcs: bets $0.06
+jeff173: folds 
+Uncalled bet ($0.06) returned to neilorcs
+neilorcs collected $0.11 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c 6d Qs]
+Seat 1: jeff173 (button) folded on the Flop
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: neilorcs collected ($0.11)
+
+
+
+PokerStars Hand #164595603416:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:06 BRT [2017/01/14 22:59:06 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.41 in chips) 
+Seat 2: giotsi134 ($2.61 in chips) 
+Seat 3: pedroabreu1 ($1.95 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: neilorcs ($1.54 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+Embersworn: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h 5c]
+neilorcs: folds 
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to goez123
+goez123 collected $0.02 from pot
+goez123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) collected ($0.02)
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595607233:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:17 BRT [2017/01/14 22:59:17 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.41 in chips) 
+Seat 2: giotsi134 ($2.61 in chips) 
+Seat 3: pedroabreu1 ($1.94 in chips) 
+Seat 4: goez123 ($2.01 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Seat 6: neilorcs ($1.54 in chips) 
+goez123: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 7h]
+neilorcs: raises $0.04 to $0.06
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: folds 
+Uncalled bet ($0.04) returned to neilorcs
+neilorcs collected $0.05 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: Embersworn (big blind) folded before Flop
+Seat 6: neilorcs collected ($0.05)
+
+
+
+PokerStars Hand #164595613651:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:37 BRT [2017/01/14 22:59:37 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.41 in chips) 
+Seat 2: giotsi134 ($2.61 in chips) 
+Seat 3: pedroabreu1 ($1.94 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Seat 6: neilorcs ($1.57 in chips) 
+Embersworn: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc 8d]
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: folds 
+neilorcs: checks 
+*** FLOP *** [9h 7d 3c]
+neilorcs: checks 
+giotsi134: checks 
+*** TURN *** [9h 7d 3c] [7s]
+neilorcs: bets $0.04
+giotsi134: calls $0.04
+*** RIVER *** [9h 7d 3c 7s] [2h]
+neilorcs: checks 
+giotsi134: bets $0.12
+neilorcs: folds 
+Uncalled bet ($0.12) returned to giotsi134
+giotsi134 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h 7d 3c 7s 2h]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 collected ($0.13)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: Embersworn (small blind) folded before Flop
+Seat 6: neilorcs (big blind) folded on the River
+
+
+
+PokerStars Hand #164595638845:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:00:51 BRT [2017/01/14 23:00:51 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.41 in chips) 
+Seat 2: giotsi134 ($2.68 in chips) 
+Seat 3: pedroabreu1 ($1.94 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Seat 6: neilorcs ($1.51 in chips) 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 2h]
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: folds 
+neilorcs: folds 
+Uncalled bet ($0.01) returned to jeff173
+jeff173 collected $0.02 from pot
+jeff173: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (big blind) collected ($0.02)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn (button) folded before Flop (didn't bet)
+Seat 6: neilorcs (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595643607:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:01:05 BRT [2017/01/14 23:01:05 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.42 in chips) 
+Seat 2: giotsi134 ($2.68 in chips) 
+Seat 3: pedroabreu1 ($1.94 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Seat 6: neilorcs ($1.50 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td 3h]
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: folds 
+neilorcs: folds 
+jeff173: folds 
+Uncalled bet ($0.01) returned to giotsi134
+giotsi134 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.02)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: neilorcs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595650928:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:01:25 BRT [2017/01/14 23:01:25 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.41 in chips) 
+Seat 2: giotsi134 ($2.69 in chips) 
+Seat 3: pedroabreu1 ($1.94 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Seat 6: neilorcs ($1.50 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 3d]
+goez123: folds 
+Embersworn: folds 
+neilorcs: raises $0.04 to $0.06
+jeff173: folds 
+giotsi134: calls $0.05
+pedroabreu1: folds 
+*** FLOP *** [Kh 6c Ks]
+giotsi134: bets $0.02
+neilorcs: calls $0.02
+*** TURN *** [Kh 6c Ks] [Qc]
+giotsi134: bets $0.02
+neilorcs: folds 
+Uncalled bet ($0.02) returned to giotsi134
+giotsi134 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kh 6c Ks Qc]
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) collected ($0.17)
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: neilorcs folded on the Turn
+
+
+
+PokerStars Hand #164595661722:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:01:55 BRT [2017/01/14 23:01:55 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.41 in chips) 
+Seat 2: giotsi134 ($2.78 in chips) 
+Seat 3: pedroabreu1 ($1.92 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Seat 6: neilorcs ($1.42 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 5s]
+Embersworn: raises $0.04 to $0.06
+neilorcs: folds 
+jeff173: calls $0.06
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+*** FLOP *** [9c 5d 5c]
+Embersworn: checks 
+jeff173: checks 
+*** TURN *** [9c 5d 5c] [Qc]
+Embersworn: checks 
+jeff173: checks 
+*** RIVER *** [9c 5d 5c Qc] [Qd]
+Embersworn: checks 
+jeff173: checks 
+*** SHOW DOWN ***
+Embersworn: shows [As Kd] (two pair, Queens and Fives)
+jeff173: mucks hand 
+Embersworn collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c 5d 5c Qc Qd]
+Seat 1: jeff173 mucked [Ks Js]
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: Embersworn showed [As Kd] and won ($0.14) with two pair, Queens and Fives
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595677204:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:02:37 BRT [2017/01/14 23:02:37 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.35 in chips) 
+Seat 2: giotsi134 ($2.78 in chips) 
+Seat 3: pedroabreu1 ($1.91 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.08 in chips) 
+Seat 6: neilorcs ($1.42 in chips) 
+goez123: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s Qc]
+neilorcs: raises $0.04 to $0.06
+jeff173: folds 
+giotsi134: calls $0.06
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: folds 
+*** FLOP *** [5s 9d Ks]
+neilorcs: bets $0.06
+giotsi134: calls $0.06
+*** TURN *** [5s 9d Ks] [4s]
+neilorcs: bets $0.06
+giotsi134: calls $0.06
+*** RIVER *** [5s 9d Ks 4s] [Ts]
+neilorcs: checks 
+giotsi134: bets $0.18
+neilorcs: calls $0.18
+*** SHOW DOWN ***
+giotsi134: shows [Kd 6h] (a pair of Kings)
+neilorcs: shows [Qd 6s] (a flush, King high)
+neilorcs collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5s 9d Ks 4s Ts]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 showed [Kd 6h] and lost with a pair of Kings
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: Embersworn (big blind) folded before Flop
+Seat 6: neilorcs showed [Qd 6s] and won ($0.72) with a flush, King high
+
+
+
+PokerStars Hand #164595692900:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:03:19 BRT [2017/01/14 23:03:19 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.35 in chips) 
+Seat 2: giotsi134 ($2.42 in chips) 
+Seat 3: pedroabreu1 ($1.91 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.06 in chips) 
+Seat 6: neilorcs ($1.78 in chips) 
+Embersworn: posts small blind $0.01
+neilorcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Qs]
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123 has timed out
+goez123: folds 
+Embersworn: folds 
+neilorcs: checks 
+*** FLOP *** [2h 3s 5c]
+neilorcs: checks 
+giotsi134: bets $0.02
+neilorcs: raises $0.04 to $0.06
+giotsi134: calls $0.04
+*** TURN *** [2h 3s 5c] [4c]
+neilorcs: checks 
+giotsi134: checks 
+*** RIVER *** [2h 3s 5c 4c] [6c]
+neilorcs: bets $0.06
+giotsi134: calls $0.06
+*** SHOW DOWN ***
+neilorcs: shows [Td 8s] (a straight, Deuce to Six)
+giotsi134: shows [Qh 4h] (a straight, Deuce to Six)
+neilorcs collected $0.14 from pot
+giotsi134 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2h 3s 5c 4c 6c]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 showed [Qh 4h] and won ($0.14) with a straight, Deuce to Six
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: Embersworn (small blind) folded before Flop
+Seat 6: neilorcs (big blind) showed [Td 8s] and won ($0.14) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #164595717019:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:04:25 BRT [2017/01/14 23:04:25 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.35 in chips) 
+Seat 2: giotsi134 ($2.42 in chips) 
+Seat 3: pedroabreu1 ($1.91 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.05 in chips) 
+Seat 6: neilorcs ($1.78 in chips) 
+neilorcs: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8h 8d]
+giotsi134: calls $0.02
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+Embersworn: folds 
+neilorcs: folds 
+jeff173: folds 
+giotsi134 is disconnected 
+giotsi134 is connected 
+giotsi134: calls $0.04
+*** FLOP *** [3h 7s Ks]
+giotsi134: bets $0.02
+pedroabreu1: calls $0.02
+*** TURN *** [3h 7s Ks] [4d]
+giotsi134: bets $0.08
+pedroabreu1: calls $0.08
+*** RIVER *** [3h 7s Ks 4d] [4s]
+giotsi134: bets $0.16
+pedroabreu1: folds 
+Uncalled bet ($0.16) returned to giotsi134
+giotsi134 collected $0.34 from pot
+giotsi134: shows [As 2h] (a pair of Fours)
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3h 7s Ks 4d 4s]
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 collected ($0.34)
+Seat 3: pedroabreu1 folded on the River
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn (button) folded before Flop (didn't bet)
+Seat 6: neilorcs (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595754233:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:06:07 BRT [2017/01/14 23:06:07 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.33 in chips) 
+Seat 2: giotsi134 ($2.60 in chips) 
+Seat 3: pedroabreu1 ($1.75 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.05 in chips) 
+Seat 6: neilorcs ($1.77 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 9h]
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: folds 
+neilorcs: raises $0.02 to $0.04
+jeff173: folds 
+giotsi134: folds 
+Uncalled bet ($0.02) returned to neilorcs
+neilorcs collected $0.05 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) folded before Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: neilorcs (button) collected ($0.05)
+
+
+
+PokerStars Hand #164595766865:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:06:42 BRT [2017/01/14 23:06:42 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.32 in chips) 
+Seat 2: giotsi134 ($2.58 in chips) 
+Seat 3: pedroabreu1 ($1.75 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.05 in chips) 
+Seat 6: neilorcs ($1.80 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8h Jc]
+goez123: folds 
+Embersworn: folds 
+neilorcs: calls $0.02
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: checks 
+*** FLOP *** [Kh 2h Qd]
+pedroabreu1: checks 
+neilorcs: checks 
+*** TURN *** [Kh 2h Qd] [9s]
+pedroabreu1: checks 
+neilorcs: bets $0.04
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to neilorcs
+neilorcs collected $0.05 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh 2h Qd 9s]
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded on the Turn
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: neilorcs collected ($0.05)
+
+
+
+PokerStars Hand #164595787232:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:07:37 BRT [2017/01/14 23:07:37 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.32 in chips) 
+Seat 2: giotsi134 ($2.57 in chips) 
+Seat 3: pedroabreu1 ($1.73 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.05 in chips) 
+Seat 6: neilorcs ($1.83 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s 6c]
+Embersworn: folds 
+neilorcs: calls $0.02
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: checks 
+*** FLOP *** [Ah Qh Ts]
+goez123: checks 
+neilorcs: checks 
+giotsi134: checks 
+*** TURN *** [Ah Qh Ts] [6d]
+goez123: bets $0.06
+neilorcs: calls $0.06
+giotsi134: folds 
+*** RIVER *** [Ah Qh Ts 6d] [Kc]
+goez123: checks 
+neilorcs: bets $0.16
+goez123: folds 
+Uncalled bet ($0.16) returned to neilorcs
+neilorcs collected $0.18 from pot
+neilorcs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ah Qh Ts 6d Kc]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded on the Turn
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded on the River
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: neilorcs collected ($0.18)
+
+
+
+PokerStars Hand #164595811245:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:08:44 BRT [2017/01/14 23:08:44 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.32 in chips) 
+Seat 2: giotsi134 ($2.55 in chips) 
+Seat 3: pedroabreu1 ($1.72 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.05 in chips) 
+Seat 6: neilorcs ($1.93 in chips) 
+goez123: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 9d]
+neilorcs: folds 
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+neilorcs leaves the table
+Embersworn: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) collected ($0.05)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: Embersworn (big blind) folded before Flop
+Seat 6: neilorcs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595820043:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:08 BRT [2017/01/14 23:09:08 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.32 in chips) 
+Seat 2: giotsi134 ($2.55 in chips) 
+Seat 3: pedroabreu1 ($1.75 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.03 in chips) 
+Embersworn: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 3c]
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: raises $0.05 to $0.07
+Embersworn: folds 
+jeff173: folds 
+Uncalled bet ($0.05) returned to goez123
+goez123 collected $0.05 from pot
+goez123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) collected ($0.05)
+Seat 5: Embersworn (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595830046:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:36 BRT [2017/01/14 23:09:36 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.30 in chips) 
+Seat 2: giotsi134 ($2.55 in chips) 
+Seat 3: pedroabreu1 ($1.75 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 5: Embersworn ($2.02 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 3c]
+pedroabreu1: folds 
+goez123: folds 
+alenakhass joins the table at seat #6 
+Embersworn: folds 
+jeff173: folds 
+Uncalled bet ($0.01) returned to giotsi134
+giotsi134 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.02)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595837342:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:56 BRT [2017/01/14 23:09:56 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.29 in chips) 
+Seat 2: giotsi134 ($2.56 in chips) 
+Seat 3: pedroabreu1 ($1.75 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 5: Embersworn ($2.02 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+alenakhass: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d 3d]
+goez123: folds 
+Embersworn: folds 
+jeff173: folds 
+giotsi134: calls $0.01
+pedroabreu1: checks 
+*** FLOP *** [9c Jh 4d]
+giotsi134: bets $0.02
+pedroabreu1: folds 
+Uncalled bet ($0.02) returned to giotsi134
+giotsi134 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9c Jh 4d]
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) collected ($0.04)
+Seat 3: pedroabreu1 (big blind) folded on the Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595856498:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:10:49 BRT [2017/01/14 23:10:49 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.29 in chips) 
+Seat 2: giotsi134 ($2.58 in chips) 
+Seat 3: pedroabreu1 ($1.73 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 5: Embersworn ($2.02 in chips) 
+Seat 6: alenakhass ($0.80 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+alenakhass: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kd Ad]
+Embersworn: folds 
+alenakhass: checks 
+jeff173: calls $0.02
+giotsi134: calls $0.02
+pedroabreu1: raises $0.14 to $0.16
+goez123: folds 
+alenakhass: calls $0.14
+jeff173: folds 
+giotsi134: folds 
+*** FLOP *** [Kh 5h 8s]
+pedroabreu1: checks 
+alenakhass: bets $0.10
+pedroabreu1: raises $0.57 to $0.67
+alenakhass: calls $0.54 and is all-in
+Uncalled bet ($0.03) returned to pedroabreu1
+*** TURN *** [Kh 5h 8s] [Ts]
+*** RIVER *** [Kh 5h 8s Ts] [2d]
+*** SHOW DOWN ***
+pedroabreu1: shows [Kd Ad] (a pair of Kings)
+alenakhass: shows [Jc Qh] (high card King)
+pedroabreu1 collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.06 
+Board [Kh 5h 8s Ts 2d]
+Seat 1: jeff173 folded before Flop
+Seat 2: giotsi134 (button) folded before Flop
+Seat 3: pedroabreu1 (small blind) showed [Kd Ad] and won ($1.60) with a pair of Kings
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: alenakhass showed [Jc Qh] and lost with high card King
+
+
+
+PokerStars Hand #164595880514:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:11:57 BRT [2017/01/14 23:11:57 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.27 in chips) 
+Seat 2: giotsi134 ($2.56 in chips) 
+Seat 3: pedroabreu1 ($2.53 in chips) 
+Seat 4: goez123 ($2.01 in chips) 
+Seat 5: Embersworn ($2.02 in chips) 
+goez123: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 5s]
+jeff173: folds 
+alenakhass leaves the table
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: checks 
+*** FLOP *** [2h 3h 8c]
+Embersworn: checks 
+giotsi134: bets $0.02
+Embersworn: folds 
+Uncalled bet ($0.02) returned to giotsi134
+giotsi134 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2h 3h 8c]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 collected ($0.05)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: Embersworn (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164595901309:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:12:55 BRT [2017/01/14 23:12:55 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.27 in chips) 
+Seat 2: giotsi134 ($2.59 in chips) 
+Seat 3: pedroabreu1 ($2.53 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2 in chips) 
+Embersworn: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h Kc]
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Embersworn: raises $0.04 to $0.06
+jeff173: folds 
+Uncalled bet ($0.04) returned to Embersworn
+Embersworn collected $0.04 from pot
+Embersworn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: Embersworn (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #164595911675:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:13:24 BRT [2017/01/14 23:13:24 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.25 in chips) 
+Seat 2: giotsi134 ($2.59 in chips) 
+Seat 3: pedroabreu1 ($2.53 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.02 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d As]
+pedroabreu1: folds 
+fenixpumas joins the table at seat #6 
+goez123: folds 
+Embersworn: folds 
+jeff173: folds 
+Uncalled bet ($0.01) returned to giotsi134
+giotsi134 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.02)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595920261:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:13:49 BRT [2017/01/14 23:13:49 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.24 in chips) 
+Seat 2: giotsi134 ($2.60 in chips) 
+Seat 3: pedroabreu1 ($2.53 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.02 in chips) 
+Seat 6: fenixpumas ($1.53 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+fenixpumas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Ks]
+goez123: folds 
+Embersworn: raises $0.04 to $0.06
+fenixpumas: calls $0.04
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+*** FLOP *** [Ts 4s Kd]
+Embersworn: checks 
+fenixpumas: checks 
+*** TURN *** [Ts 4s Kd] [4h]
+Embersworn: checks 
+fenixpumas: checks 
+*** RIVER *** [Ts 4s Kd 4h] [2c]
+Embersworn: checks 
+fenixpumas: checks 
+*** SHOW DOWN ***
+Embersworn: shows [Jc Ac] (a pair of Fours)
+fenixpumas: mucks hand 
+Embersworn collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 4s Kd 4h 2c]
+Seat 1: jeff173 (button) folded before Flop (didn't bet)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: Embersworn showed [Jc Ac] and won ($0.14) with a pair of Fours
+Seat 6: fenixpumas mucked [Ad 6d]
+
+
+
+PokerStars Hand #164595935948:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:14:19 BRT [2017/01/14 23:14:19 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.24 in chips) 
+Seat 2: giotsi134 ($2.59 in chips) 
+Seat 3: pedroabreu1 ($2.51 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: Embersworn ($2.10 in chips) 
+Seat 6: fenixpumas ($1.47 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d Jh]
+Embersworn: folds 
+fenixpumas: folds 
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: checks 
+*** FLOP *** [5h 9s 5d]
+goez123: checks 
+giotsi134: checks 
+*** TURN *** [5h 9s 5d] [6d]
+goez123: bets $0.04
+giotsi134: calls $0.04
+*** RIVER *** [5h 9s 5d 6d] [Kc]
+goez123: bets $0.08
+giotsi134: raises $0.08 to $0.16
+goez123: raises $0.28 to $0.44
+giotsi134: raises $0.28 to $0.72
+goez123: calls $0.28
+*** SHOW DOWN ***
+giotsi134: shows [5c 5s] (four of a kind, Fives)
+goez123: mucks hand 
+giotsi134 collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [5h 9s 5d 6d Kc]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) showed [5c 5s] and won ($1.52) with four of a kind, Fives
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) mucked [8d 7s]
+Seat 5: Embersworn folded before Flop (didn't bet)
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595961884:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:15:32 BRT [2017/01/14 23:15:32 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.24 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.50 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: fenixpumas ($1.47 in chips) 
+goez123: posts small blind $0.01
+Embersworn: is sitting out 
+Embersworn leaves the table
+fenixpumas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 3c]
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.01) returned to fenixpumas
+fenixpumas collected $0.02 from pot
+fenixpumas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 6: fenixpumas (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164595966369:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:15:44 BRT [2017/01/14 23:15:44 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.24 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.50 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: fenixpumas ($1.48 in chips) 
+fenixpumas: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh Ac]
+giotsi134: folds 
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+fenixpumas: folds 
+jeff173: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 collected ($0.05)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 6: fenixpumas (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595976292:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:16:12 BRT [2017/01/14 23:16:12 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.22 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.53 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: fenixpumas ($1.47 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs 2h]
+pedroabreu1: folds 
+goez123: folds 
+fenixpumas: folds 
+jeff173: folds 
+Uncalled bet ($0.01) returned to giotsi134
+1000G's joins the table at seat #5 
+giotsi134 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.02)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: fenixpumas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595979436:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:16:21 BRT [2017/01/14 23:16:21 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.21 in chips) 
+Seat 2: giotsi134 ($3.34 in chips) 
+Seat 3: pedroabreu1 ($2.53 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: fenixpumas ($1.47 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+1000G's: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h Ac]
+goez123: folds 
+fenixpumas: calls $0.02
+jeff173: calls $0.02
+giotsi134: folds 
+pedroabreu1: checks 
+*** FLOP *** [7d Tc Ah]
+pedroabreu1: checks 
+fenixpumas: bets $0.07
+jeff173: folds 
+pedroabreu1: calls $0.07
+*** TURN *** [7d Tc Ah] [Jh]
+pedroabreu1: checks 
+fenixpumas: bets $0.06
+pedroabreu1: calls $0.06
+*** RIVER *** [7d Tc Ah Jh] [3d]
+pedroabreu1: checks 
+fenixpumas: bets $0.06
+pedroabreu1: calls $0.06
+*** SHOW DOWN ***
+fenixpumas: shows [As 8d] (a pair of Aces)
+pedroabreu1: mucks hand 
+fenixpumas collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7d Tc Ah Jh 3d]
+Seat 1: jeff173 (button) folded on the Flop
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) mucked [5h Ac]
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 6: fenixpumas showed [As 8d] and won ($0.43) with a pair of Aces
+
+
+
+PokerStars Hand #164596006412:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:17:38 BRT [2017/01/14 23:17:38 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.19 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.32 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 6: fenixpumas ($1.69 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+1000G's: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc Qh]
+fenixpumas: calls $0.02
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: raises $0.06 to $0.08
+goez123: folds 
+fenixpumas: calls $0.06
+*** FLOP *** [Ts As 3d]
+pedroabreu1: bets $0.10
+fenixpumas: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.17 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ts As 3d]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) collected ($0.17)
+Seat 4: goez123 (big blind) folded before Flop
+Seat 6: fenixpumas folded on the Flop
+
+
+
+PokerStars Hand #164596017551:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:18:09 BRT [2017/01/14 23:18:09 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.19 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.41 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2 in chips) 
+Seat 6: fenixpumas ($1.61 in chips) 
+goez123: posts small blind $0.01
+1000G's: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 6h]
+fenixpumas: folds 
+jeff173: calls $0.02
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+1000G's: checks 
+*** FLOP *** [2s 4c 6c]
+1000G's: checks 
+jeff173: checks 
+*** TURN *** [2s 4c 6c] [8h]
+1000G's: checks 
+jeff173: checks 
+*** RIVER *** [2s 4c 6c 8h] [Qh]
+1000G's: bets $0.03
+jeff173: calls $0.03
+*** SHOW DOWN ***
+1000G's: shows [Kd Qc] (a pair of Queens)
+jeff173: mucks hand 
+1000G's collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2s 4c 6c 8h Qh]
+Seat 1: jeff173 mucked [9s Qs]
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: 1000G's (big blind) showed [Kd Qc] and won ($0.11) with a pair of Queens
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596033323:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:18:54 BRT [2017/01/14 23:18:54 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.14 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.41 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.06 in chips) 
+Seat 6: fenixpumas ($1.61 in chips) 
+1000G's: posts small blind $0.01
+fenixpumas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s Qh]
+jeff173: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+1000G's: calls $0.01
+fenixpumas: checks 
+*** FLOP *** [Ac 8d 2c]
+1000G's: checks 
+fenixpumas: checks 
+giotsi134: checks 
+*** TURN *** [Ac 8d 2c] [Ad]
+1000G's: bets $0.03
+fenixpumas: folds 
+giotsi134: folds 
+Uncalled bet ($0.03) returned to 1000G's
+1000G's collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ac 8d 2c Ad]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded on the Turn
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: 1000G's (small blind) collected ($0.06)
+Seat 6: fenixpumas (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164596070900:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:20:42 BRT [2017/01/14 23:20:42 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.14 in chips) 
+Seat 2: giotsi134 ($3.31 in chips) 
+Seat 3: pedroabreu1 ($2.41 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.10 in chips) 
+Seat 6: fenixpumas ($1.59 in chips) 
+fenixpumas: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks Qs]
+giotsi134: calls $0.02
+pedroabreu1: raises $0.06 to $0.08
+goez123: folds 
+1000G's: folds 
+fenixpumas: folds 
+jeff173: folds 
+giotsi134: calls $0.06
+*** FLOP *** [Qd Jc 6s]
+giotsi134: checks 
+pedroabreu1: bets $0.10
+giotsi134: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.18 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qd Jc 6s]
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 folded on the Flop
+Seat 3: pedroabreu1 collected ($0.18)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's (button) folded before Flop (didn't bet)
+Seat 6: fenixpumas (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596084015:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:21:19 BRT [2017/01/14 23:21:19 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.12 in chips) 
+Seat 2: giotsi134 ($3.23 in chips) 
+Seat 3: pedroabreu1 ($2.51 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.10 in chips) 
+Seat 6: fenixpumas ($1.58 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 4d]
+pedroabreu1: folds 
+goez123: folds 
+1000G's: folds 
+fenixpumas: folds 
+jeff173: folds 
+Uncalled bet ($0.01) returned to giotsi134
+giotsi134 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.02)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596089789:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:21:36 BRT [2017/01/14 23:21:36 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.11 in chips) 
+Seat 2: giotsi134 ($3.24 in chips) 
+Seat 3: pedroabreu1 ($2.51 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.10 in chips) 
+Seat 6: fenixpumas ($1.58 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d 9h]
+goez123: folds 
+1000G's: folds 
+fenixpumas: folds 
+jeff173: raises $0.14 to $0.16
+giotsi134: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.14) returned to jeff173
+jeff173 collected $0.05 from pot
+jeff173: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 (button) collected ($0.05)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596099153:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:22:02 BRT [2017/01/14 23:22:02 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.14 in chips) 
+Seat 2: giotsi134 ($3.23 in chips) 
+Seat 3: pedroabreu1 ($2.49 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.10 in chips) 
+Seat 6: fenixpumas ($1.58 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc 4d]
+1000G's: raises $0.05 to $0.07
+fenixpumas: folds 
+jeff173: folds 
+giotsi134: calls $0.07
+pedroabreu1: folds 
+goez123: folds 
+*** FLOP *** [5c Kd 7s]
+1000G's: bets $0.08
+giotsi134: calls $0.08
+*** TURN *** [5c Kd 7s] [3h]
+1000G's: checks 
+giotsi134: checks 
+*** RIVER *** [5c Kd 7s 3h] [2d]
+1000G's: checks 
+giotsi134: bets $0.10
+1000G's: folds 
+Uncalled bet ($0.10) returned to giotsi134
+giotsi134 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5c Kd 7s 3h 2d]
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) collected ($0.32)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: 1000G's folded on the River
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596126802:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:23:21 BRT [2017/01/14 23:23:21 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: jeff173 ($1.14 in chips) 
+Seat 2: giotsi134 ($3.40 in chips) 
+Seat 3: pedroabreu1 ($2.48 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($1.95 in chips) 
+Seat 6: fenixpumas ($1.58 in chips) 
+goez123: posts small blind $0.01
+1000G's: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 8c]
+fenixpumas: calls $0.02
+jeff173: calls $0.02
+giotsi134: calls $0.02
+pedroabreu1: calls $0.02
+goez123: folds 
+1000G's: checks 
+*** FLOP *** [Ts Qs 7h]
+1000G's: checks 
+fenixpumas: checks 
+jeff173: checks 
+giotsi134: checks 
+pedroabreu1: checks 
+*** TURN *** [Ts Qs 7h] [4h]
+1000G's: checks 
+fenixpumas: checks 
+jeff173: checks 
+giotsi134: bets $0.02
+pedroabreu1: folds 
+1000G's: folds 
+fenixpumas: folds 
+jeff173: calls $0.02
+*** RIVER *** [Ts Qs 7h 4h] [6h]
+jeff173: bets $0.08
+giotsi134: raises $0.08 to $0.16
+jeff173: calls $0.08
+*** SHOW DOWN ***
+giotsi134: shows [4d 4c] (three of a kind, Fours)
+jeff173: shows [9h Kh] (a flush, King high)
+jeff173 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Ts Qs 7h 4h 6h]
+Seat 1: jeff173 showed [9h Kh] and won ($0.45) with a flush, King high
+Seat 2: giotsi134 showed [4d 4c] and lost with three of a kind, Fours
+Seat 3: pedroabreu1 (button) folded on the Turn
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: 1000G's (big blind) folded on the Turn
+Seat 6: fenixpumas folded on the Turn
+
+
+
+PokerStars Hand #164596173633:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:25:36 BRT [2017/01/14 23:25:36 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: jeff173 ($1.39 in chips) 
+Seat 2: giotsi134 ($3.20 in chips) 
+Seat 3: pedroabreu1 ($2.46 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($1.93 in chips) 
+Seat 6: fenixpumas ($1.56 in chips) 
+1000G's: posts small blind $0.01
+fenixpumas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h 7d]
+jeff173: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+1000G's: folds 
+Uncalled bet ($0.01) returned to fenixpumas
+fenixpumas collected $0.02 from pot
+fenixpumas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: 1000G's (small blind) folded before Flop
+Seat 6: fenixpumas (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164596181351:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:25:59 BRT [2017/01/14 23:25:59 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: jeff173 ($1.39 in chips) 
+Seat 2: giotsi134 ($3.20 in chips) 
+Seat 3: pedroabreu1 ($2.46 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($1.92 in chips) 
+Seat 6: fenixpumas ($1.57 in chips) 
+fenixpumas: posts small blind $0.01
+jeff173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc Ks]
+giotsi134: folds 
+pedroabreu1: raises $0.04 to $0.06
+goez123: folds 
+1000G's: folds 
+fenixpumas: calls $0.05
+jeff173: folds 
+*** FLOP *** [2h 6s Jd]
+fenixpumas: checks 
+pedroabreu1: bets $0.08
+fenixpumas: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2h 6s Jd]
+Seat 1: jeff173 (big blind) folded before Flop
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 collected ($0.14)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's (button) folded before Flop (didn't bet)
+Seat 6: fenixpumas (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164596192689:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:26:31 BRT [2017/01/14 23:26:31 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: jeff173 ($1.37 in chips) 
+Seat 2: giotsi134 ($3.20 in chips) 
+Seat 3: pedroabreu1 ($2.54 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($1.92 in chips) 
+Seat 6: fenixpumas ($1.51 in chips) 
+jeff173: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h 6d]
+pedroabreu1: folds 
+goez123: folds 
+1000G's: raises $0.05 to $0.07
+fenixpumas: folds 
+jeff173: folds 
+giotsi134: calls $0.05
+*** FLOP *** [Qc Ah 9d]
+giotsi134: checks 
+1000G's: bets $0.07
+giotsi134: calls $0.07
+*** TURN *** [Qc Ah 9d] [3h]
+giotsi134: checks 
+1000G's: checks 
+*** RIVER *** [Qc Ah 9d 3h] [Tc]
+giotsi134: checks 
+1000G's: bets $0.14
+giotsi134: calls $0.14
+*** SHOW DOWN ***
+1000G's: shows [8s Js] (a straight, Eight to Queen)
+giotsi134: mucks hand 
+1000G's collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Qc Ah 9d 3h Tc]
+Seat 1: jeff173 (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) mucked [Qh Ad]
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's showed [8s Js] and won ($0.55) with a straight, Eight to Queen
+Seat 6: fenixpumas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596214116:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:27:34 BRT [2017/01/14 23:27:34 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: jeff173 ($1.36 in chips) 
+Seat 2: giotsi134 ($2.92 in chips) 
+Seat 3: pedroabreu1 ($2.54 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.19 in chips) 
+Seat 6: fenixpumas ($1.51 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c Qd]
+goez123: folds 
+1000G's: folds 
+fenixpumas: calls $0.02
+jeff173: calls $0.02
+giotsi134: folds 
+pedroabreu1: checks 
+*** FLOP *** [4h 2d 9c]
+pedroabreu1: checks 
+fenixpumas: bets $0.07
+jeff173: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.07) returned to fenixpumas
+fenixpumas collected $0.07 from pot
+fenixpumas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4h 2d 9c]
+Seat 1: jeff173 (button) folded on the Flop
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded on the Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas collected ($0.07)
+
+
+
+PokerStars Hand #164596225158:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:28:06 BRT [2017/01/14 23:28:06 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: jeff173 ($1.34 in chips) 
+Seat 2: giotsi134 ($2.91 in chips) 
+Seat 3: pedroabreu1 ($2.52 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.19 in chips) 
+Seat 6: fenixpumas ($1.56 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c Qs]
+1000G's: raises $0.05 to $0.07
+fenixpumas: folds 
+jeff173: folds 
+jeff173 leaves the table
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+Uncalled bet ($0.05) returned to 1000G's
+1000G's collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jeff173 folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: 1000G's collected ($0.05)
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596232190:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:28:27 BRT [2017/01/14 23:28:27 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 2: giotsi134 ($2.91 in chips) 
+Seat 3: pedroabreu1 ($2.51 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.22 in chips) 
+Seat 6: fenixpumas ($1.56 in chips) 
+goez123: posts small blind $0.01
+1000G's: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc 2c]
+fenixpumas: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+Weightstars joins the table at seat #1 
+1000G's: checks 
+*** FLOP *** [8c 9c Js]
+1000G's: bets $0.02
+giotsi134: calls $0.02
+*** TURN *** [8c 9c Js] [5d]
+1000G's: bets $0.02
+giotsi134: calls $0.02
+*** RIVER *** [8c 9c Js 5d] [Qc]
+1000G's: checks 
+giotsi134: bets $0.14
+1000G's: folds 
+Uncalled bet ($0.14) returned to giotsi134
+giotsi134 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c 9c Js 5d Qc]
+Seat 2: giotsi134 collected ($0.13)
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: 1000G's (big blind) folded on the River
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596251928:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:29:25 BRT [2017/01/14 23:29:25 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 2: giotsi134 ($2.98 in chips) 
+Seat 3: pedroabreu1 ($2.51 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.16 in chips) 
+Seat 6: fenixpumas ($1.56 in chips) 
+1000G's: posts small blind $0.01
+fenixpumas: posts big blind $0.02
+Weightstars: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Ts]
+giotsi134: calls $0.02
+pedroabreu1: raises $0.06 to $0.08
+goez123: folds 
+1000G's: folds 
+fenixpumas: calls $0.06
+giotsi134: calls $0.06
+*** FLOP *** [Qh 5d 3c]
+fenixpumas: checks 
+giotsi134: checks 
+pedroabreu1: checks 
+*** TURN *** [Qh 5d 3c] [Kc]
+fenixpumas: bets $0.02
+giotsi134: calls $0.02
+pedroabreu1: calls $0.02
+*** RIVER *** [Qh 5d 3c Kc] [8c]
+fenixpumas: bets $0.04
+giotsi134: raises $0.04 to $0.08
+pedroabreu1: folds 
+fenixpumas: calls $0.04
+*** SHOW DOWN ***
+giotsi134: shows [3s Qs] (two pair, Queens and Threes)
+fenixpumas: mucks hand 
+giotsi134 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qh 5d 3c Kc 8c]
+Seat 2: giotsi134 showed [3s Qs] and won ($0.45) with two pair, Queens and Threes
+Seat 3: pedroabreu1 folded on the River
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: 1000G's (small blind) folded before Flop
+Seat 6: fenixpumas (big blind) mucked [7d 7s]
+
+
+
+PokerStars Hand #164596272855:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:30:25 BRT [2017/01/14 23:30:25 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: Weightstars ($2 in chips) 
+Seat 2: giotsi134 ($3.25 in chips) 
+Seat 3: pedroabreu1 ($2.41 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.15 in chips) 
+Seat 6: fenixpumas ($1.38 in chips) 
+fenixpumas: posts small blind $0.01
+Weightstars: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d Ks]
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: raises $0.07 to $0.09
+1000G's: folds 
+fenixpumas: folds 
+Weightstars: folds 
+giotsi134: calls $0.07
+*** FLOP *** [9d 2c 7h]
+giotsi134: checks 
+goez123: checks 
+*** TURN *** [9d 2c 7h] [4d]
+giotsi134: bets $0.10
+goez123: folds 
+Uncalled bet ($0.10) returned to giotsi134
+giotsi134 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d 2c 7h 4d]
+Seat 1: Weightstars (big blind) folded before Flop
+Seat 2: giotsi134 collected ($0.20)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded on the Turn
+Seat 5: 1000G's (button) folded before Flop (didn't bet)
+Seat 6: fenixpumas (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596289841:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:31:14 BRT [2017/01/14 23:31:14 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: Weightstars ($2 in chips) 
+Seat 2: giotsi134 ($3.36 in chips) 
+Seat 3: pedroabreu1 ($2.41 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.15 in chips) 
+Seat 6: fenixpumas ($1.37 in chips) 
+Weightstars: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 3c]
+pedroabreu1: folds 
+goez123: folds 
+1000G's: folds 
+fenixpumas: raises $0.02 to $0.04
+Weightstars: folds 
+giotsi134: calls $0.02
+*** FLOP *** [Th 2d 8h]
+giotsi134: bets $0.02
+fenixpumas: raises $0.13 to $0.15
+giotsi134: folds 
+Uncalled bet ($0.13) returned to fenixpumas
+fenixpumas collected $0.13 from pot
+fenixpumas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 2d 8h]
+Seat 1: Weightstars (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) folded on the Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas (button) collected ($0.13)
+
+
+
+PokerStars Hand #164596305541:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:32:01 BRT [2017/01/14 23:32:01 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: Weightstars ($2 in chips) 
+Seat 2: giotsi134 ($3.30 in chips) 
+Seat 3: pedroabreu1 ($2.41 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.15 in chips) 
+Seat 6: fenixpumas ($1.44 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td Qc]
+goez123: folds 
+1000G's: folds 
+fenixpumas: calls $0.02
+Weightstars: raises $0.06 to $0.08
+giotsi134: folds 
+pedroabreu1: folds 
+fenixpumas: calls $0.06
+*** FLOP *** [2d Kc 7s]
+fenixpumas: checks 
+Weightstars: bets $0.09
+fenixpumas: folds 
+Uncalled bet ($0.09) returned to Weightstars
+Weightstars collected $0.18 from pot
+Weightstars: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2d Kc 7s]
+Seat 1: Weightstars (button) collected ($0.18)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas folded on the Flop
+
+
+
+PokerStars Hand #164596328288:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:32:47 BRT [2017/01/14 23:32:47 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: Weightstars ($2.10 in chips) 
+Seat 2: giotsi134 ($3.29 in chips) 
+Seat 3: pedroabreu1 ($2.39 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.15 in chips) 
+Seat 6: fenixpumas ($1.36 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 9d]
+1000G's: folds 
+fenixpumas: calls $0.02
+Weightstars: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: checks 
+*** FLOP *** [8h 4c 9h]
+goez123: checks 
+fenixpumas: checks 
+*** TURN *** [8h 4c 9h] [3h]
+goez123: checks 
+fenixpumas: checks 
+*** RIVER *** [8h 4c 9h 3h] [Js]
+goez123: checks 
+fenixpumas: checks 
+*** SHOW DOWN ***
+goez123: shows [5h Kd] (high card King)
+fenixpumas: mucks hand 
+goez123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 4c 9h 3h Js]
+Seat 1: Weightstars folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) folded before Flop (didn't bet)
+Seat 3: pedroabreu1 (small blind) folded before Flop
+Seat 4: goez123 (big blind) showed [5h Kd] and won ($0.05) with high card King
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas mucked [5d Qh]
+
+
+
+PokerStars Hand #164596348110:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:33:46 BRT [2017/01/14 23:33:46 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: Weightstars ($2.10 in chips) 
+Seat 2: giotsi134 ($3.29 in chips) 
+Seat 3: pedroabreu1 ($2.38 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 5: 1000G's ($2.15 in chips) 
+Seat 6: fenixpumas ($1.34 in chips) 
+goez123: posts small blind $0.01
+1000G's: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d 7d]
+fenixpumas: calls $0.02
+Weightstars: folds 
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+1000G's: checks 
+*** FLOP *** [8c 2h 8h]
+1000G's: checks 
+fenixpumas: checks 
+giotsi134: checks 
+*** TURN *** [8c 2h 8h] [4h]
+1000G's: bets $0.02
+fenixpumas: folds 
+giotsi134: calls $0.02
+*** RIVER *** [8c 2h 8h 4h] [4s]
+1000G's: bets $0.06
+giotsi134: calls $0.06
+*** SHOW DOWN ***
+1000G's: shows [Ad 4c] (a full house, Fours full of Eights)
+giotsi134: mucks hand 
+1000G's collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [8c 2h 8h 4h 4s]
+Seat 1: Weightstars folded before Flop (didn't bet)
+Seat 2: giotsi134 mucked [Kh 2s]
+Seat 3: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: 1000G's (big blind) showed [Ad 4c] and won ($0.22) with a full house, Fours full of Eights
+Seat 6: fenixpumas folded on the Turn
+
+
+
+PokerStars Hand #164596372630:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:34:59 BRT [2017/01/14 23:34:59 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: Weightstars ($2.10 in chips) 
+Seat 2: giotsi134 ($3.19 in chips) 
+Seat 3: pedroabreu1 ($2.38 in chips) 
+Seat 4: goez123 ($2.02 in chips) 
+Seat 5: 1000G's ($2.27 in chips) 
+Seat 6: fenixpumas ($1.32 in chips) 
+1000G's: posts small blind $0.01
+fenixpumas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 2d]
+Weightstars: raises $0.04 to $0.06
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: folds 
+1000G's: calls $0.05
+fenixpumas: folds 
+*** FLOP *** [8c 6h Ks]
+1000G's: checks 
+Weightstars: bets $0.07
+1000G's: folds 
+Uncalled bet ($0.07) returned to Weightstars
+Weightstars collected $0.14 from pot
+Weightstars: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 6h Ks]
+Seat 1: Weightstars collected ($0.14)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) folded before Flop (didn't bet)
+Seat 5: 1000G's (small blind) folded on the Flop
+Seat 6: fenixpumas (big blind) folded before Flop
+
+
+
+PokerStars Hand #164596384681:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:35:36 BRT [2017/01/14 23:35:36 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: Weightstars ($2.18 in chips) 
+Seat 2: giotsi134 ($3.19 in chips) 
+Seat 3: pedroabreu1 ($2.38 in chips) 
+Seat 4: goez123 ($2.02 in chips) 
+Seat 5: 1000G's ($2.21 in chips) 
+Seat 6: fenixpumas ($1.30 in chips) 
+fenixpumas: posts small blind $0.01
+Weightstars: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h Qc]
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+1000G's: calls $0.02
+fenixpumas: calls $0.01
+Weightstars: checks 
+*** FLOP *** [9s Kd 3h]
+fenixpumas: bets $0.08
+Weightstars: folds 
+giotsi134: folds 
+1000G's: folds 
+Uncalled bet ($0.08) returned to fenixpumas
+fenixpumas collected $0.08 from pot
+fenixpumas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9s Kd 3h]
+Seat 1: Weightstars (big blind) folded on the Flop
+Seat 2: giotsi134 folded on the Flop
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's (button) folded on the Flop
+Seat 6: fenixpumas (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #164596402688:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:36:30 BRT [2017/01/14 23:36:30 ET]
+Table 'Aristaeus II' 6-max Seat #6 is the button
+Seat 1: Weightstars ($2.16 in chips) 
+Seat 2: giotsi134 ($3.17 in chips) 
+Seat 3: pedroabreu1 ($2.38 in chips) 
+Seat 4: goez123 ($2.02 in chips) 
+Seat 5: 1000G's ($2.19 in chips) 
+Seat 6: fenixpumas ($1.36 in chips) 
+Weightstars: posts small blind $0.01
+giotsi134: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s 6h]
+pedroabreu1: folds 
+goez123: folds 
+1000G's: raises $0.06 to $0.08
+fenixpumas: calls $0.08
+Weightstars: folds 
+giotsi134: calls $0.06
+*** FLOP *** [Kd 5s 8c]
+giotsi134: checks 
+1000G's: checks 
+fenixpumas: checks 
+*** TURN *** [Kd 5s 8c] [8s]
+giotsi134: checks 
+1000G's: checks 
+fenixpumas: checks 
+*** RIVER *** [Kd 5s 8c 8s] [6c]
+giotsi134: bets $0.12
+1000G's: folds 
+fenixpumas: folds 
+Uncalled bet ($0.12) returned to giotsi134
+giotsi134 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd 5s 8c 8s 6c]
+Seat 1: Weightstars (small blind) folded before Flop
+Seat 2: giotsi134 (big blind) collected ($0.24)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded on the River
+Seat 6: fenixpumas (button) folded on the River
+
+
+
+PokerStars Hand #164596433171:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:38:01 BRT [2017/01/14 23:38:01 ET]
+Table 'Aristaeus II' 6-max Seat #1 is the button
+Seat 1: Weightstars ($2.15 in chips) 
+Seat 2: giotsi134 ($3.33 in chips) 
+Seat 3: pedroabreu1 ($2.38 in chips) 
+Seat 4: goez123 ($2.02 in chips) 
+Seat 5: 1000G's ($2.11 in chips) 
+Seat 6: fenixpumas ($1.28 in chips) 
+giotsi134: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 7d]
+goez123: folds 
+1000G's: folds 
+fenixpumas: folds 
+Weightstars: raises $0.04 to $0.06
+giotsi134: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to Weightstars
+Weightstars collected $0.05 from pot
+Weightstars: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Weightstars (button) collected ($0.05)
+Seat 2: giotsi134 (small blind) folded before Flop
+Seat 3: pedroabreu1 (big blind) folded before Flop
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596439362:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:38:20 BRT [2017/01/14 23:38:20 ET]
+Table 'Aristaeus II' 6-max Seat #2 is the button
+Seat 1: Weightstars ($2.18 in chips) 
+Seat 2: giotsi134 ($3.32 in chips) 
+Seat 3: pedroabreu1 ($2.36 in chips) 
+Seat 4: goez123 ($2.02 in chips) 
+Seat 5: 1000G's ($2.11 in chips) 
+Seat 6: fenixpumas ($1.28 in chips) 
+pedroabreu1: posts small blind $0.01
+goez123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8h 8c]
+1000G's: folds 
+fenixpumas: folds 
+Weightstars: folds 
+giotsi134: calls $0.02
+pedroabreu1: raises $0.06 to $0.08
+goez123: folds 
+giotsi134: calls $0.06
+*** FLOP *** [3s Jh Ac]
+pedroabreu1: bets $0.10
+giotsi134: calls $0.10
+*** TURN *** [3s Jh Ac] [7d]
+pedroabreu1: checks 
+giotsi134: checks 
+*** RIVER *** [3s Jh Ac 7d] [2c]
+pedroabreu1: checks 
+giotsi134: bets $0.14
+pedroabreu1: calls $0.14
+*** SHOW DOWN ***
+giotsi134: shows [Ks Qh] (high card Ace)
+pedroabreu1: shows [8h 8c] (a pair of Eights)
+pedroabreu1 collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [3s Jh Ac 7d 2c]
+Seat 1: Weightstars folded before Flop (didn't bet)
+Seat 2: giotsi134 (button) showed [Ks Qh] and lost with high card Ace
+Seat 3: pedroabreu1 (small blind) showed [8h 8c] and won ($0.64) with a pair of Eights
+Seat 4: goez123 (big blind) folded before Flop
+Seat 5: 1000G's folded before Flop (didn't bet)
+Seat 6: fenixpumas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596460005:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:39:22 BRT [2017/01/14 23:39:22 ET]
+Table 'Aristaeus II' 6-max Seat #3 is the button
+Seat 1: Weightstars ($2.18 in chips) 
+Seat 2: giotsi134 ($3 in chips) 
+Seat 3: pedroabreu1 ($2.68 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.11 in chips) 
+Seat 6: fenixpumas ($1.28 in chips) 
+goez123: posts small blind $0.01
+1000G's: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d 5d]
+fenixpumas: calls $0.02
+Weightstars: folds 
+giotsi134: calls $0.02
+pedroabreu1: calls $0.02
+goez123: folds 
+1000G's: checks 
+*** FLOP *** [Ks 2h 7h]
+1000G's: checks 
+fenixpumas: bets $0.05
+giotsi134: calls $0.05
+pedroabreu1: folds 
+1000G's: folds 
+*** TURN *** [Ks 2h 7h] [8c]
+fenixpumas: checks 
+giotsi134: checks 
+*** RIVER *** [Ks 2h 7h 8c] [9h]
+fenixpumas: bets $0.18
+giotsi134: folds 
+Uncalled bet ($0.18) returned to fenixpumas
+fenixpumas collected $0.18 from pot
+fenixpumas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ks 2h 7h 8c 9h]
+Seat 1: Weightstars folded before Flop (didn't bet)
+Seat 2: giotsi134 folded on the River
+Seat 3: pedroabreu1 (button) folded on the Flop
+Seat 4: goez123 (small blind) folded before Flop
+Seat 5: 1000G's (big blind) folded on the Flop
+Seat 6: fenixpumas collected ($0.18)
+
+
+
+PokerStars Hand #164596482792:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:40:31 BRT [2017/01/14 23:40:31 ET]
+Table 'Aristaeus II' 6-max Seat #4 is the button
+Seat 1: Weightstars ($2.18 in chips) 
+Seat 2: giotsi134 ($2.93 in chips) 
+Seat 3: pedroabreu1 ($2.66 in chips) 
+Seat 4: goez123 ($2 in chips) 
+Seat 5: 1000G's ($2.09 in chips) 
+Seat 6: fenixpumas ($1.39 in chips) 
+1000G's: posts small blind $0.01
+fenixpumas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7h 6c]
+Weightstars: folds 
+giotsi134: folds 
+pedroabreu1: folds 
+goez123: raises $0.05 to $0.07
+1000G's: folds 
+fenixpumas: folds 
+Uncalled bet ($0.05) returned to goez123
+goez123 collected $0.05 from pot
+goez123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Weightstars folded before Flop (didn't bet)
+Seat 2: giotsi134 folded before Flop (didn't bet)
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 (button) collected ($0.05)
+Seat 5: 1000G's (small blind) folded before Flop
+Seat 6: fenixpumas (big blind) folded before Flop
+
+
+
+PokerStars Hand #164596491955:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:40:59 BRT [2017/01/14 23:40:59 ET]
+Table 'Aristaeus II' 6-max Seat #5 is the button
+Seat 1: Weightstars ($2.18 in chips) 
+Seat 2: giotsi134 ($2.93 in chips) 
+Seat 3: pedroabreu1 ($2.66 in chips) 
+Seat 4: goez123 ($2.03 in chips) 
+Seat 5: 1000G's ($2.08 in chips) 
+Seat 6: fenixpumas ($1.37 in chips) 
+fenixpumas: posts small blind $0.01
+Weightstars: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 6d]
+giotsi134: calls $0.02
+pedroabreu1: folds 
+goez123: folds 
+1000G's: calls $0.02
+fenixpumas: raises $0.08 to $0.10
+Weightstars: folds 
+giotsi134: calls $0.08
+1000G's: calls $0.08
+*** FLOP *** [Qc 2d 8d]
+fenixpumas: bets $0.02
+giotsi134: calls $0.02
+1000G's: calls $0.02
+*** TURN *** [Qc 2d 8d] [7c]
+fenixpumas: bets $0.02
+giotsi134: calls $0.02
+1000G's: calls $0.02
+*** RIVER *** [Qc 2d 8d 7c] [4h]
+fenixpumas: bets $0.02
+giotsi134: calls $0.02
+1000G's: calls $0.02
+*** SHOW DOWN ***
+fenixpumas: shows [Ks Ad] (high card Ace)
+giotsi134: shows [3s 3d] (a pair of Threes)
+1000G's: shows [Ac 8h] (a pair of Eights)
+1000G's collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Qc 2d 8d 7c 4h]
+Seat 1: Weightstars (big blind) folded before Flop
+Seat 2: giotsi134 showed [3s 3d] and lost with a pair of Threes
+Seat 3: pedroabreu1 folded before Flop (didn't bet)
+Seat 4: goez123 folded before Flop (didn't bet)
+Seat 5: 1000G's (button) showed [Ac 8h] and won ($0.48) with a pair of Eights
+Seat 6: fenixpumas (small blind) showed [Ks Ad] and lost with high card Ace
+
+
+

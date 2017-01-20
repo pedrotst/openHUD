@@ -1,0 +1,4173 @@
+﻿PokerStars Hand #164594426680:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:10:17 BRT [2017/01/14 22:10:17 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: betotheus ($0.80 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.39 in chips) 
+Seat 4: gnus_dv ($0.81 in chips) 
+Seat 5: pedroabreu1 ($2.06 in chips) 
+lifeofpablo3 will be allowed to play after the button
+betotheus: posts small blind $0.01
+differenci91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh 4h]
+FaulerPanzer: calls $0.02
+gnus_dv: calls $0.02
+pedroabreu1: calls $0.02
+betotheus: calls $0.01
+differenci91: checks 
+*** FLOP *** [4s 7c 8c]
+betotheus: checks 
+differenci91: checks 
+FaulerPanzer: bets $0.02
+gnus_dv: folds 
+pedroabreu1: folds 
+betotheus: calls $0.02
+differenci91: folds 
+*** TURN *** [4s 7c 8c] [6h]
+betotheus: checks 
+FaulerPanzer: bets $0.06
+betotheus: folds 
+Uncalled bet ($0.06) returned to FaulerPanzer
+FaulerPanzer collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4s 7c 8c 6h]
+Seat 1: betotheus (small blind) folded on the Turn
+Seat 2: differenci91 (big blind) folded on the Flop
+Seat 3: FaulerPanzer collected ($0.14)
+Seat 4: gnus_dv folded on the Flop
+Seat 5: pedroabreu1 (button) folded on the Flop
+
+
+
+PokerStars Hand #164594450814:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:11:14 BRT [2017/01/14 22:11:14 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: betotheus ($0.76 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.49 in chips) 
+Seat 4: gnus_dv ($0.79 in chips) 
+Seat 5: pedroabreu1 ($2.04 in chips) 
+differenci91: posts small blind $0.01
+FaulerPanzer: posts big blind $0.02
+lifeofpablo3: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 5d]
+gnus_dv: calls $0.02
+pedroabreu1: folds 
+betotheus: folds 
+differenci91: folds 
+FaulerPanzer: raises $0.02 to $0.04
+betotheus leaves the table
+gnus_dv: calls $0.02
+*** FLOP *** [7s 9s 6h]
+FaulerPanzer: bets $0.04
+gnus_dv: folds 
+Uncalled bet ($0.04) returned to FaulerPanzer
+Carlitos2719 joins the table at seat #1 
+FaulerPanzer collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s 9s 6h]
+Seat 1: betotheus (button) folded before Flop (didn't bet)
+Seat 2: differenci91 (small blind) folded before Flop
+Seat 3: FaulerPanzer (big blind) collected ($0.09)
+Seat 4: gnus_dv folded on the Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594462227:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:11:40 BRT [2017/01/14 22:11:40 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.54 in chips) 
+Seat 4: gnus_dv ($0.75 in chips) 
+Seat 5: pedroabreu1 ($2.04 in chips) 
+FaulerPanzer: posts small blind $0.01
+gnus_dv: posts big blind $0.02
+lifeofpablo3: sits out 
+Carlitos2719: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Jh]
+pedroabreu1: folds 
+differenci91: folds 
+FaulerPanzer: calls $0.01
+gnus_dv: checks 
+*** FLOP *** [5s Jc 6h]
+FaulerPanzer: checks 
+gnus_dv: checks 
+*** TURN *** [5s Jc 6h] [2s]
+FaulerPanzer: checks 
+gnus_dv: checks 
+*** RIVER *** [5s Jc 6h 2s] [Ac]
+FaulerPanzer: checks 
+gnus_dv: checks 
+*** SHOW DOWN ***
+FaulerPanzer: shows [7d 4c] (high card Ace)
+gnus_dv: shows [Qd 7h] (high card Ace - Queen kicker)
+gnus_dv collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5s Jc 6h 2s Ac]
+Seat 2: differenci91 (button) folded before Flop (didn't bet)
+Seat 3: FaulerPanzer (small blind) showed [7d 4c] and lost with high card Ace
+Seat 4: gnus_dv (big blind) showed [Qd 7h] and won ($0.04) with high card Ace
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594486699:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:12:37 BRT [2017/01/14 22:12:37 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($1.60 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.52 in chips) 
+Seat 4: gnus_dv ($0.77 in chips) 
+Seat 5: pedroabreu1 ($2.04 in chips) 
+gnus_dv: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+lifeofpablo3: sits out 
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 5c]
+Carlitos2719: checks 
+differenci91: folds 
+FaulerPanzer: raises $0.02 to $0.04
+gnus_dv: calls $0.03
+pedroabreu1: folds 
+Carlitos2719: calls $0.02
+*** FLOP *** [6s 6d Th]
+gnus_dv: checks 
+Carlitos2719: checks 
+FaulerPanzer: checks 
+*** TURN *** [6s 6d Th] [9s]
+gnus_dv: checks 
+Carlitos2719: checks 
+FaulerPanzer: checks 
+*** RIVER *** [6s 6d Th 9s] [Kh]
+gnus_dv: checks 
+Carlitos2719: checks 
+FaulerPanzer: bets $0.08
+gnus_dv: folds 
+Carlitos2719: folds 
+Uncalled bet ($0.08) returned to FaulerPanzer
+FaulerPanzer collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6s 6d Th 9s Kh]
+Seat 1: Carlitos2719 folded on the River
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: FaulerPanzer (button) collected ($0.14)
+Seat 4: gnus_dv (small blind) folded on the River
+Seat 5: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594522439:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:14:01 BRT [2017/01/14 22:14:01 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($1.56 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.62 in chips) 
+Seat 4: gnus_dv ($0.73 in chips) 
+Seat 5: pedroabreu1 ($2.02 in chips) 
+Seat 6: lifeofpablo3 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+lifeofpablo3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 6h]
+Carlitos2719: raises $0.02 to $0.04
+differenci91: folds 
+FaulerPanzer: calls $0.04
+gnus_dv: folds 
+pedroabreu1: folds 
+lifeofpablo3: calls $0.02
+*** FLOP *** [Ts 7s 8c]
+lifeofpablo3: checks 
+Carlitos2719: bets $0.04
+FaulerPanzer: calls $0.04
+lifeofpablo3: calls $0.04
+*** TURN *** [Ts 7s 8c] [3s]
+lifeofpablo3: checks 
+Carlitos2719: bets $0.04
+FaulerPanzer: raises $0.16 to $0.20
+lifeofpablo3: folds 
+Carlitos2719: folds 
+Uncalled bet ($0.16) returned to FaulerPanzer
+FaulerPanzer collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ts 7s 8c 3s]
+Seat 1: Carlitos2719 folded on the Turn
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: FaulerPanzer collected ($0.32)
+Seat 4: gnus_dv (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: lifeofpablo3 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164594550390:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:15:07 BRT [2017/01/14 22:15:07 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($1.44 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.82 in chips) 
+Seat 4: gnus_dv ($0.73 in chips) 
+Seat 5: pedroabreu1 ($2.01 in chips) 
+Seat 6: lifeofpablo3 ($1.92 in chips) 
+lifeofpablo3: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kh Th]
+differenci91: folds 
+FaulerPanzer: calls $0.02
+gnus_dv: calls $0.02
+pedroabreu1: raises $0.04 to $0.06
+lifeofpablo3: calls $0.05
+Carlitos2719: calls $0.04
+FaulerPanzer: calls $0.04
+gnus_dv: folds 
+*** FLOP *** [Jh As Qh]
+lifeofpablo3: checks 
+Carlitos2719: checks 
+FaulerPanzer: checks 
+pedroabreu1: bets $0.18
+lifeofpablo3: raises $0.18 to $0.36
+Carlitos2719: folds 
+FaulerPanzer: folds 
+pedroabreu1: calls $0.18
+*** TURN *** [Jh As Qh] [4d]
+lifeofpablo3: checks 
+pedroabreu1: bets $0.60
+lifeofpablo3: calls $0.60
+*** RIVER *** [Jh As Qh 4d] [Kd]
+lifeofpablo3: checks 
+pedroabreu1: bets $0.99 and is all-in
+lifeofpablo3: calls $0.90 and is all-in
+Uncalled bet ($0.09) returned to pedroabreu1
+*** SHOW DOWN ***
+pedroabreu1: shows [Kh Th] (a straight, Ten to Ace)
+lifeofpablo3: shows [Ks Ac] (two pair, Aces and Kings)
+pedroabreu1 collected $3.84 from pot
+*** SUMMARY ***
+Total pot $3.98 | Rake $0.14 
+Board [Jh As Qh 4d Kd]
+Seat 1: Carlitos2719 (big blind) folded on the Flop
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: FaulerPanzer folded on the Flop
+Seat 4: gnus_dv folded before Flop
+Seat 5: pedroabreu1 (button) showed [Kh Th] and won ($3.84) with a straight, Ten to Ace
+Seat 6: lifeofpablo3 (small blind) showed [Ks Ac] and lost with two pair, Aces and Kings
+
+
+
+PokerStars Hand #164594610886:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:17:18 BRT [2017/01/14 22:17:18 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($1.38 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: FaulerPanzer ($1.76 in chips) 
+Seat 4: gnus_dv ($0.71 in chips) 
+Seat 5: pedroabreu1 ($3.93 in chips) 
+differenci91: posts small blind $0.01
+FaulerPanzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh Td]
+gnus_dv: calls $0.02
+pedroabreu1: raises $0.04 to $0.06
+Carlitos2719: calls $0.06
+differenci91: folds 
+FaulerPanzer: folds 
+gnus_dv: folds 
+*** FLOP *** [Ac 9c 9d]
+FaulerPanzer leaves the table
+pedroabreu1: checks 
+Carlitos2719: bets $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.06) returned to Carlitos2719
+Carlitos2719 collected $0.16 from pot
+Carlitos2719: doesn't show hand 
+dmitri3333 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ac 9c 9d]
+Seat 1: Carlitos2719 (button) collected ($0.16)
+Seat 2: differenci91 (small blind) folded before Flop
+Seat 3: FaulerPanzer (big blind) folded before Flop
+Seat 4: gnus_dv folded before Flop
+Seat 5: pedroabreu1 folded on the Flop
+
+
+
+PokerStars Hand #164594625111:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:17:52 BRT [2017/01/14 22:17:52 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($1.48 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 4: gnus_dv ($0.69 in chips) 
+Seat 5: pedroabreu1 ($3.87 in chips) 
+Seat 6: lifeofpablo3 ($2 in chips) 
+dmitri3333 will be allowed to play after the button
+gnus_dv: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h 5h]
+lifeofpablo3: folds 
+Carlitos2719: folds 
+differenci91: folds 
+gnus_dv: calls $0.01
+pedroabreu1: raises $0.06 to $0.08
+gnus_dv: folds 
+Uncalled bet ($0.06) returned to pedroabreu1
+pedroabreu1 collected $0.04 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 2: differenci91 (button) folded before Flop (didn't bet)
+Seat 4: gnus_dv (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) collected ($0.04)
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594631203:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:18:06 BRT [2017/01/14 22:18:06 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($1.48 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.80 in chips) 
+Seat 4: gnus_dv ($0.67 in chips) 
+Seat 5: pedroabreu1 ($3.89 in chips) 
+Seat 6: lifeofpablo3 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+lifeofpablo3: posts big blind $0.02
+dmitri3333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c 5d]
+Carlitos2719: calls $0.02
+differenci91: folds 
+dmitri3333: checks 
+gnus_dv: calls $0.02
+pedroabreu1: folds 
+lifeofpablo3: checks 
+*** FLOP *** [4c Tc 8c]
+lifeofpablo3: checks 
+Carlitos2719: checks 
+dmitri3333: checks 
+gnus_dv: bets $0.02
+lifeofpablo3: folds 
+Carlitos2719: calls $0.02
+dmitri3333: calls $0.02
+*** TURN *** [4c Tc 8c] [6c]
+Carlitos2719: checks 
+dmitri3333: bets $0.04
+gnus_dv: folds 
+Carlitos2719: folds 
+Uncalled bet ($0.04) returned to dmitri3333
+dmitri3333 collected $0.14 from pot
+dmitri3333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4c Tc 8c 6c]
+Seat 1: Carlitos2719 folded on the Turn
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: dmitri3333 collected ($0.14)
+Seat 4: gnus_dv (button) folded on the Turn
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: lifeofpablo3 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164594661579:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:19:18 BRT [2017/01/14 22:19:18 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($1.44 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.90 in chips) 
+Seat 4: gnus_dv ($0.63 in chips) 
+Seat 5: pedroabreu1 ($3.88 in chips) 
+Seat 6: lifeofpablo3 ($1.98 in chips) 
+lifeofpablo3: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 6c]
+differenci91: folds 
+dmitri3333: raises $0.04 to $0.06
+gnus_dv: folds 
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: calls $0.04
+*** FLOP *** [3h 4h 4s]
+Carlitos2719: checks 
+dmitri3333: checks 
+*** TURN *** [3h 4h 4s] [Jc]
+Carlitos2719: checks 
+dmitri3333: bets $0.06
+Carlitos2719: calls $0.06
+*** RIVER *** [3h 4h 4s Jc] [9c]
+gnus_dv leaves the table
+Carlitos2719: checks 
+dmitri3333: bets $0.06
+Carlitos2719: folds 
+Uncalled bet ($0.06) returned to dmitri3333
+dmitri3333 collected $0.24 from pot
+thgpdvz88 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h 4h 4s Jc 9c]
+Seat 1: Carlitos2719 (big blind) folded on the River
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: dmitri3333 collected ($0.24)
+Seat 4: gnus_dv folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594684861:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:20:13 BRT [2017/01/14 22:20:13 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($1.32 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($1.02 in chips) 
+Seat 5: pedroabreu1 ($3.88 in chips) 
+Seat 6: lifeofpablo3 ($1.97 in chips) 
+Carlitos2719: posts small blind $0.01
+differenci91: posts big blind $0.02
+thgpdvz88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s Kc]
+dmitri3333: calls $0.02
+pedroabreu1: folds 
+lifeofpablo3: raises $0.02 to $0.04
+Carlitos2719: calls $0.03
+differenci91: calls $0.02
+dmitri3333: calls $0.02
+*** FLOP *** [Kd As 5s]
+Carlitos2719: checks 
+differenci91: bets $0.10
+dmitri3333: folds 
+lifeofpablo3: calls $0.10
+Carlitos2719: calls $0.10
+*** TURN *** [Kd As 5s] [Tc]
+Carlitos2719: checks 
+differenci91: checks 
+lifeofpablo3: bets $0.22
+Carlitos2719: calls $0.22
+differenci91: calls $0.22
+*** RIVER *** [Kd As 5s Tc] [Ks]
+Carlitos2719: checks 
+differenci91: checks 
+lifeofpablo3: checks 
+*** SHOW DOWN ***
+Carlitos2719: shows [Js Jc] (two pair, Kings and Jacks)
+differenci91: shows [Ad 3d] (two pair, Aces and Kings)
+lifeofpablo3: shows [Qd Ac] (two pair, Aces and Kings - Queen kicker)
+lifeofpablo3 collected $1.08 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.04 
+Board [Kd As 5s Tc Ks]
+Seat 1: Carlitos2719 (small blind) showed [Js Jc] and lost with two pair, Kings and Jacks
+Seat 2: differenci91 (big blind) showed [Ad 3d] and lost with two pair, Aces and Kings
+Seat 3: dmitri3333 folded on the Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (button) showed [Qd Ac] and won ($1.08) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #164594724697:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:21:49 BRT [2017/01/14 22:21:49 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($0.96 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.98 in chips) 
+Seat 5: pedroabreu1 ($3.88 in chips) 
+Seat 6: lifeofpablo3 ($2.69 in chips) 
+differenci91: posts small blind $0.01
+dmitri3333: posts big blind $0.02
+thgpdvz88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 4h]
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: raises $0.04 to $0.06
+differenci91: folds 
+dmitri3333: calls $0.04
+*** FLOP *** [Qc 2s 6s]
+dmitri3333: checks 
+Carlitos2719: bets $0.06
+dmitri3333: calls $0.06
+*** TURN *** [Qc 2s 6s] [3d]
+dmitri3333: checks 
+Carlitos2719: bets $0.06
+dmitri3333: calls $0.06
+*** RIVER *** [Qc 2s 6s 3d] [Kh]
+dmitri3333: checks 
+Carlitos2719: bets $0.06
+dmitri3333: folds 
+Uncalled bet ($0.06) returned to Carlitos2719
+Carlitos2719 collected $0.36 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Qc 2s 6s 3d Kh]
+Seat 1: Carlitos2719 (button) collected ($0.36)
+Seat 2: differenci91 (small blind) folded before Flop
+Seat 3: dmitri3333 (big blind) folded on the River
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594753914:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:23:00 BRT [2017/01/14 22:23:00 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($1.14 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.80 in chips) 
+Seat 4: thgpdvz88 ($2 in chips) 
+Seat 5: pedroabreu1 ($3.88 in chips) 
+Seat 6: lifeofpablo3 ($2.69 in chips) 
+dmitri3333: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 3h]
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: folds 
+differenci91: folds 
+dmitri3333: calls $0.01
+thgpdvz88: checks 
+*** FLOP *** [Ad 8h Kh]
+dmitri3333: checks 
+thgpdvz88: checks 
+*** TURN *** [Ad 8h Kh] [2s]
+dmitri3333: checks 
+thgpdvz88: checks 
+*** RIVER *** [Ad 8h Kh 2s] [Qc]
+dmitri3333: checks 
+thgpdvz88: bets $0.04
+dmitri3333: folds 
+Uncalled bet ($0.04) returned to thgpdvz88
+thgpdvz88 collected $0.04 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ad 8h Kh 2s Qc]
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 2: differenci91 (button) folded before Flop (didn't bet)
+Seat 3: dmitri3333 (small blind) folded on the River
+Seat 4: thgpdvz88 (big blind) collected ($0.04)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594781368:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:24:05 BRT [2017/01/14 22:24:05 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($1.14 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.78 in chips) 
+Seat 4: thgpdvz88 ($2.02 in chips) 
+Seat 5: pedroabreu1 ($3.88 in chips) 
+Seat 6: lifeofpablo3 ($2.69 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc 7s]
+lifeofpablo3: folds 
+Carlitos2719: calls $0.02
+differenci91: folds 
+dmitri3333: calls $0.02
+thgpdvz88: calls $0.01
+pedroabreu1: checks 
+*** FLOP *** [Ad Ac Qh]
+thgpdvz88: bets $0.06
+pedroabreu1: folds 
+Carlitos2719: calls $0.06
+dmitri3333: folds 
+*** TURN *** [Ad Ac Qh] [Kd]
+thgpdvz88: bets $0.12
+Carlitos2719: calls $0.12
+*** RIVER *** [Ad Ac Qh Kd] [6c]
+thgpdvz88: bets $0.27
+Carlitos2719: calls $0.27
+*** SHOW DOWN ***
+thgpdvz88: shows [Js Ah] (three of a kind, Aces)
+Carlitos2719: mucks hand 
+thgpdvz88 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [Ad Ac Qh Kd 6c]
+Seat 1: Carlitos2719 mucked [8h Kc]
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: dmitri3333 (button) folded on the Flop
+Seat 4: thgpdvz88 (small blind) showed [Js Ah] and won ($0.95) with three of a kind, Aces
+Seat 5: pedroabreu1 (big blind) folded on the Flop
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594815422:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:25:27 BRT [2017/01/14 22:25:27 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.76 in chips) 
+Seat 4: thgpdvz88 ($2.50 in chips) 
+Seat 5: pedroabreu1 ($3.86 in chips) 
+Seat 6: lifeofpablo3 ($2.69 in chips) 
+pedroabreu1: posts small blind $0.01
+lifeofpablo3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4s Ks]
+Carlitos2719: raises $0.04 to $0.06
+differenci91: folds 
+dmitri3333: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Uncalled bet ($0.04) returned to Carlitos2719
+Carlitos2719 collected $0.05 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 collected ($0.05)
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: dmitri3333 folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: lifeofpablo3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594833658:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:26:10 BRT [2017/01/14 22:26:10 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($0.70 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: dmitri3333 ($0.76 in chips) 
+Seat 4: thgpdvz88 ($2.50 in chips) 
+Seat 5: pedroabreu1 ($3.85 in chips) 
+Seat 6: lifeofpablo3 ($2.67 in chips) 
+lifeofpablo3: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th As]
+differenci91: folds 
+dmitri3333: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: raises $0.08 to $0.10
+lifeofpablo3: folds 
+Carlitos2719: folds 
+dmitri3333: raises $0.66 to $0.76 and is all-in
+pedroabreu1: calls $0.66
+*** FLOP *** [Td Qc Ts]
+*** TURN *** [Td Qc Ts] [3s]
+*** RIVER *** [Td Qc Ts 3s] [Jc]
+*** SHOW DOWN ***
+dmitri3333: shows [2c 5c] (a pair of Tens)
+pedroabreu1: shows [Th As] (three of a kind, Tens)
+pedroabreu1 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [Td Qc Ts 3s Jc]
+Seat 1: Carlitos2719 (big blind) folded before Flop
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: dmitri3333 showed [2c 5c] and lost with a pair of Tens
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) showed [Th As] and won ($1.50) with three of a kind, Tens
+Seat 6: lifeofpablo3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164594855003:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:27:02 BRT [2017/01/14 22:27:02 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($0.68 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.50 in chips) 
+Seat 5: pedroabreu1 ($4.59 in chips) 
+Seat 6: lifeofpablo3 ($2.66 in chips) 
+Carlitos2719: posts small blind $0.01
+dmitri3333 leaves the table
+differenci91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c 8s]
+thgpdvz88: folds 
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: folds 
+Uncalled bet ($0.01) returned to differenci91
+differenci91 collected $0.02 from pot
+differenci91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Carlitos2719 (small blind) folded before Flop
+Seat 2: differenci91 (big blind) collected ($0.02)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594860399:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:27:16 BRT [2017/01/14 22:27:16 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: differenci91 ($2.01 in chips) 
+Seat 4: thgpdvz88 ($2.50 in chips) 
+Seat 5: pedroabreu1 ($4.59 in chips) 
+Seat 6: lifeofpablo3 ($2.66 in chips) 
+differenci91: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js 7d]
+Trigger53xx joins the table at seat #3 
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: folds 
+differenci91: raises $0.04 to $0.06
+thgpdvz88: raises $0.13 to $0.19
+differenci91: folds 
+Uncalled bet ($0.13) returned to thgpdvz88
+thgpdvz88 collected $0.12 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Carlitos2719 (button) folded before Flop (didn't bet)
+Seat 2: differenci91 (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) collected ($0.12)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594870007:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:27:39 BRT [2017/01/14 22:27:39 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.56 in chips) 
+Seat 5: pedroabreu1 ($4.59 in chips) 
+Seat 6: lifeofpablo3 ($2.66 in chips) 
+Trigger53xx will be allowed to play after the button
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d 8s]
+lifeofpablo3: raises $0.02 to $0.04
+Carlitos2719: folds 
+differenci91: folds 
+thgpdvz88: calls $0.03
+pedroabreu1: folds 
+*** FLOP *** [8c 7d Ks]
+thgpdvz88: checks 
+lifeofpablo3: checks 
+*** TURN *** [8c 7d Ks] [6d]
+thgpdvz88: checks 
+lifeofpablo3: bets $0.04
+thgpdvz88: calls $0.04
+*** RIVER *** [8c 7d Ks 6d] [Kc]
+thgpdvz88: checks 
+lifeofpablo3: bets $0.08
+thgpdvz88: calls $0.08
+*** SHOW DOWN ***
+lifeofpablo3: shows [As Ah] (two pair, Aces and Kings)
+thgpdvz88: mucks hand 
+lifeofpablo3 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [8c 7d Ks 6d Kc]
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 2: differenci91 (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) mucked [Js Jd]
+Seat 5: pedroabreu1 (big blind) folded before Flop
+Seat 6: lifeofpablo3 showed [As Ah] and won ($0.33) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #164594900514:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:28:54 BRT [2017/01/14 22:28:54 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($4.57 in chips) 
+Seat 6: lifeofpablo3 ($2.83 in chips) 
+pedroabreu1: posts small blind $0.01
+lifeofpablo3: posts big blind $0.02
+Trigger53xx: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Ks]
+Carlitos2719: raises $0.04 to $0.06
+differenci91: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.16 to $0.22
+lifeofpablo3: folds 
+Carlitos2719: calls $0.16
+*** FLOP *** [5h 6h 3c]
+pedroabreu1: bets $0.46
+Carlitos2719: calls $0.45 and is all-in
+Uncalled bet ($0.01) returned to pedroabreu1
+*** TURN *** [5h 6h 3c] [7h]
+*** RIVER *** [5h 6h 3c 7h] [8s]
+*** SHOW DOWN ***
+pedroabreu1: shows [Ad Ks] (high card Ace)
+Carlitos2719: shows [Jh Js] (a pair of Jacks)
+Carlitos2719 collected $1.31 from pot
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.05 
+Board [5h 6h 3c 7h 8s]
+Seat 1: Carlitos2719 showed [Jh Js] and won ($1.31) with a pair of Jacks
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) showed [Ad Ks] and lost with high card Ace
+Seat 6: lifeofpablo3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164594923664:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:29:50 BRT [2017/01/14 22:29:50 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($1.31 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.90 in chips) 
+Seat 6: lifeofpablo3 ($2.81 in chips) 
+lifeofpablo3: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+Trigger53xx: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 5s]
+differenci91: folds 
+thgpdvz88: folds 
+Carlitos2719 said, "ty"
+pedroabreu1: folds 
+lifeofpablo3: raises $0.02 to $0.04
+Carlitos2719: calls $0.02
+*** FLOP *** [Qh Ac Qs]
+lifeofpablo3: checks 
+Carlitos2719: bets $0.06
+lifeofpablo3: raises $0.06 to $0.12
+Carlitos2719: folds 
+Uncalled bet ($0.06) returned to lifeofpablo3
+lifeofpablo3 collected $0.19 from pot
+lifeofpablo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qh Ac Qs]
+Seat 1: Carlitos2719 (big blind) folded on the Flop
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #164594941890:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:30:35 BRT [2017/01/14 22:30:35 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($1.21 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.90 in chips) 
+Seat 6: lifeofpablo3 ($2.90 in chips) 
+Carlitos2719: posts small blind $0.01
+differenci91: posts big blind $0.02
+Trigger53xx: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c Jc]
+thgpdvz88: folds 
+pedroabreu1: folds 
+lifeofpablo3: raises $0.02 to $0.04
+Carlitos2719: folds 
+differenci91: folds 
+Uncalled bet ($0.02) returned to lifeofpablo3
+lifeofpablo3 collected $0.05 from pot
+lifeofpablo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 (small blind) folded before Flop
+Seat 2: differenci91 (big blind) folded before Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164594947127:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:30:48 BRT [2017/01/14 22:30:48 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($1.20 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($2 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.90 in chips) 
+Seat 6: lifeofpablo3 ($2.93 in chips) 
+differenci91: posts small blind $0.01
+Trigger53xx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 9h]
+thgpdvz88: raises $0.04 to $0.06
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: folds 
+differenci91: folds 
+Trigger53xx: folds 
+Uncalled bet ($0.04) returned to thgpdvz88
+thgpdvz88 collected $0.05 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 (button) folded before Flop (didn't bet)
+Seat 2: differenci91 (small blind) folded before Flop
+Seat 3: Trigger53xx (big blind) folded before Flop
+Seat 4: thgpdvz88 collected ($0.05)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164594957000:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:31:13 BRT [2017/01/14 22:31:13 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($1.20 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($1.98 in chips) 
+Seat 4: thgpdvz88 ($2.43 in chips) 
+Seat 5: pedroabreu1 ($3.90 in chips) 
+Seat 6: lifeofpablo3 ($2.93 in chips) 
+Trigger53xx: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c Tc]
+pedroabreu1: folds 
+lifeofpablo3: raises $0.02 to $0.04
+Carlitos2719: folds 
+differenci91: folds 
+Trigger53xx: folds 
+thgpdvz88: folds 
+Uncalled bet ($0.02) returned to lifeofpablo3
+lifeofpablo3 collected $0.05 from pot
+lifeofpablo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 2: differenci91 (button) folded before Flop (didn't bet)
+Seat 3: Trigger53xx (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 collected ($0.05)
+
+
+
+PokerStars Hand #164594978457:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:31:50 BRT [2017/01/14 22:31:50 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($1.20 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($1.97 in chips) 
+Seat 4: thgpdvz88 ($2.41 in chips) 
+Seat 5: pedroabreu1 ($3.90 in chips) 
+Seat 6: lifeofpablo3 ($2.96 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 8d]
+lifeofpablo3: folds 
+Carlitos2719: calls $0.02
+differenci91: folds 
+Trigger53xx: folds 
+thgpdvz88: folds 
+pedroabreu1: checks 
+*** FLOP *** [Kh 6s 3s]
+pedroabreu1: checks 
+Carlitos2719: bets $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.06) returned to Carlitos2719
+Carlitos2719 collected $0.05 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh 6s 3s]
+Seat 1: Carlitos2719 collected ($0.05)
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: Trigger53xx (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded on the Flop
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595004263:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:32:55 BRT [2017/01/14 22:32:55 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($1.23 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($1.97 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.88 in chips) 
+Seat 6: lifeofpablo3 ($2.96 in chips) 
+pedroabreu1: posts small blind $0.01
+lifeofpablo3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d Kc]
+Carlitos2719: calls $0.02
+differenci91: folds 
+Trigger53xx: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+lifeofpablo3: checks 
+*** FLOP *** [Qc 4c Kh]
+lifeofpablo3: checks 
+Carlitos2719: bets $0.02
+lifeofpablo3: calls $0.02
+*** TURN *** [Qc 4c Kh] [Ks]
+lifeofpablo3: bets $0.04
+Carlitos2719: calls $0.04
+*** RIVER *** [Qc 4c Kh Ks] [Js]
+lifeofpablo3: checks 
+Carlitos2719: checks 
+*** SHOW DOWN ***
+lifeofpablo3: shows [9s Jc] (two pair, Kings and Jacks)
+Carlitos2719: mucks hand 
+lifeofpablo3 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qc 4c Kh Ks Js]
+Seat 1: Carlitos2719 mucked [3h Ac]
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: Trigger53xx folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: lifeofpablo3 (big blind) showed [9s Jc] and won ($0.16) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #164595024563:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:33:46 BRT [2017/01/14 22:33:46 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($1.15 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($1.97 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.87 in chips) 
+Seat 6: lifeofpablo3 ($3.04 in chips) 
+lifeofpablo3: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s 2c]
+differenci91: folds 
+Trigger53xx: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+lifeofpablo3: calls $0.01
+Carlitos2719: checks 
+*** FLOP *** [Kc 7h 5c]
+lifeofpablo3: checks 
+Carlitos2719: checks 
+Trigger53xx: checks 
+*** TURN *** [Kc 7h 5c] [Tc]
+lifeofpablo3: bets $0.06
+Carlitos2719: calls $0.06
+Trigger53xx: raises $0.06 to $0.12
+lifeofpablo3: calls $0.06
+Carlitos2719: calls $0.06
+*** RIVER *** [Kc 7h 5c Tc] [5s]
+lifeofpablo3: bets $0.84
+Carlitos2719: calls $0.84
+Trigger53xx: calls $0.84
+*** SHOW DOWN ***
+lifeofpablo3: shows [Kd 5d] (a full house, Fives full of Kings)
+Carlitos2719: mucks hand 
+Trigger53xx: mucks hand 
+lifeofpablo3 collected $2.84 from pot
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.10 
+Board [Kc 7h 5c Tc 5s]
+Seat 1: Carlitos2719 (big blind) mucked [3d Ts]
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: Trigger53xx mucked [Ac 9c]
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (small blind) showed [Kd 5d] and won ($2.84) with a full house, Fives full of Kings
+
+
+
+PokerStars Hand #164595057753:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:35:10 BRT [2017/01/14 22:35:10 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($0.17 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($0.99 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.87 in chips) 
+Seat 6: lifeofpablo3 ($4.90 in chips) 
+Carlitos2719: posts small blind $0.01
+differenci91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 7s]
+Trigger53xx: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: raises $0.04 to $0.06
+differenci91: raises $0.12 to $0.18
+Carlitos2719: calls $0.11 and is all-in
+Uncalled bet ($0.01) returned to differenci91
+*** FLOP *** [Tc 9h 3d]
+*** TURN *** [Tc 9h 3d] [5c]
+*** RIVER *** [Tc 9h 3d 5c] [Kh]
+*** SHOW DOWN ***
+Carlitos2719: shows [Qh 9d] (a pair of Nines)
+differenci91: shows [Jd Ah] (high card Ace)
+Carlitos2719 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Tc 9h 3d 5c Kh]
+Seat 1: Carlitos2719 (small blind) showed [Qh 9d] and won ($0.33) with a pair of Nines
+Seat 2: differenci91 (big blind) showed [Jd Ah] and lost with high card Ace
+Seat 3: Trigger53xx folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595075859:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:35:55 BRT [2017/01/14 22:35:55 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($0.33 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($0.99 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.87 in chips) 
+Seat 6: lifeofpablo3 ($4.90 in chips) 
+differenci91: posts small blind $0.01
+Trigger53xx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Ad]
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+lifeofpablo3: folds 
+Carlitos2719: calls $0.06
+differenci91: folds 
+Trigger53xx: folds 
+*** FLOP *** [9h Jh 8d]
+pedroabreu1: bets $0.08
+Carlitos2719: calls $0.08
+*** TURN *** [9h Jh 8d] [8c]
+pedroabreu1: bets $0.30
+Carlitos2719: calls $0.19 and is all-in
+Uncalled bet ($0.11) returned to pedroabreu1
+*** RIVER *** [9h Jh 8d 8c] [Ks]
+*** SHOW DOWN ***
+pedroabreu1: shows [Tc Ad] (a pair of Eights)
+Carlitos2719: shows [Td Jd] (two pair, Jacks and Eights)
+Carlitos2719 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [9h Jh 8d 8c Ks]
+Seat 1: Carlitos2719 (button) showed [Td Jd] and won ($0.67) with two pair, Jacks and Eights
+Seat 2: differenci91 (small blind) folded before Flop
+Seat 3: Trigger53xx (big blind) folded before Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 showed [Tc Ad] and lost with a pair of Eights
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595096784:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:36:48 BRT [2017/01/14 22:36:48 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($0.97 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.54 in chips) 
+Seat 6: lifeofpablo3 ($4.90 in chips) 
+Trigger53xx: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d As]
+pedroabreu1: folds 
+lifeofpablo3: folds 
+Carlitos2719: folds 
+differenci91: folds 
+Trigger53xx: folds 
+Uncalled bet ($0.01) returned to thgpdvz88
+thgpdvz88 collected $0.02 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 2: differenci91 (button) folded before Flop (didn't bet)
+Seat 3: Trigger53xx (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) collected ($0.02)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595105868:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:37:11 BRT [2017/01/14 22:37:11 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($0.96 in chips) 
+Seat 4: thgpdvz88 ($2.41 in chips) 
+Seat 5: pedroabreu1 ($3.54 in chips) 
+Seat 6: lifeofpablo3 ($4.90 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 5c]
+lifeofpablo3: folds 
+Carlitos2719: calls $0.02
+lifeofpablo3 leaves the table
+differenci91: folds 
+Trigger53xx: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: checks 
+*** FLOP *** [3c 9c Th]
+pedroabreu1: checks 
+Carlitos2719: checks 
+Trigger53xx: bets $0.02
+pedroabreu1: folds 
+Carlitos2719: calls $0.02
+*** TURN *** [3c 9c Th] [Jc]
+Carlitos2719: checks 
+Trigger53xx: bets $0.02
+Carlitos2719: raises $0.06 to $0.08
+Kudelin16 joins the table at seat #6 
+Trigger53xx: calls $0.06
+*** RIVER *** [3c 9c Th Jc] [8d]
+Carlitos2719: bets $0.55 and is all-in
+Trigger53xx: calls $0.55
+Kudelin16 leaves the table
+*** SHOW DOWN ***
+Carlitos2719: shows [Qd 8h] (a straight, Eight to Queen)
+Trigger53xx: shows [Qc Td] (a straight, Eight to Queen)
+Carlitos2719 collected $0.66 from pot
+Trigger53xx collected $0.66 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 
+Board [3c 9c Th Jc 8d]
+Seat 1: Carlitos2719 showed [Qd 8h] and won ($0.66) with a straight, Eight to Queen
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: Trigger53xx (button) showed [Qc Td] and won ($0.66) with a straight, Eight to Queen
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded on the Flop
+Seat 6: lifeofpablo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595136427:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:38:29 BRT [2017/01/14 22:38:29 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($0.66 in chips) 
+Seat 2: differenci91 ($2 in chips) 
+Seat 3: Trigger53xx ($0.95 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.52 in chips) 
+pedroabreu1: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4s Qh]
+differenci91: folds 
+differenci91 leaves the table
+Trigger53xx: folds 
+thgpdvz88: raises $0.02 to $0.04
+pedroabreu1: folds 
+Carlitos2719: calls $0.02
+*** FLOP *** [Jh 7d 5d]
+Carlitos2719: checks 
+thgpdvz88: bets $0.05
+Carlitos2719: folds 
+Uncalled bet ($0.05) returned to thgpdvz88
+thgpdvz88 collected $0.09 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jh 7d 5d]
+Seat 1: Carlitos2719 (big blind) folded on the Flop
+Seat 2: differenci91 folded before Flop (didn't bet)
+Seat 3: Trigger53xx folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) collected ($0.09)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595149126:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:39:02 BRT [2017/01/14 22:39:02 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($0.62 in chips) 
+Seat 3: Trigger53xx ($0.95 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($3.51 in chips) 
+Carlitos2719: posts small blind $0.01
+Trigger53xx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s Jc]
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y joins the table at seat #6 
+Carlitos2719: raises $0.04 to $0.06
+krakow20 joins the table at seat #2 
+Trigger53xx: calls $0.04
+*** FLOP *** [8s 6d 9h]
+Carlitos2719: checks 
+Trigger53xx: checks 
+*** TURN *** [8s 6d 9h] [Th]
+Carlitos2719: bets $0.06
+Trigger53xx: folds 
+Uncalled bet ($0.06) returned to Carlitos2719
+Carlitos2719 collected $0.12 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s 6d 9h Th]
+Seat 1: Carlitos2719 (small blind) collected ($0.12)
+Seat 3: Trigger53xx (big blind) folded on the Turn
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595163629:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:39:39 BRT [2017/01/14 22:39:39 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($0.68 in chips) 
+Seat 3: Trigger53xx ($0.89 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($3.51 in chips) 
+krakow20 will be allowed to play after the button
+Trigger53xx: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+craf4y: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d Td]
+pedroabreu1: folds 
+Carlitos2719: folds 
+Trigger53xx: calls $0.01
+thgpdvz88: checks 
+*** FLOP *** [6d 2s 8s]
+Trigger53xx: checks 
+thgpdvz88: checks 
+*** TURN *** [6d 2s 8s] [8c]
+Trigger53xx: bets $0.02
+thgpdvz88: folds 
+Uncalled bet ($0.02) returned to Trigger53xx
+Trigger53xx collected $0.04 from pot
+Trigger53xx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6d 2s 8s 8c]
+Seat 1: Carlitos2719 (button) folded before Flop (didn't bet)
+Seat 3: Trigger53xx (small blind) collected ($0.04)
+Seat 4: thgpdvz88 (big blind) folded on the Turn
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595176016:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:40:11 BRT [2017/01/14 22:40:11 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($0.68 in chips) 
+Seat 3: Trigger53xx ($0.91 in chips) 
+Seat 4: thgpdvz88 ($2.43 in chips) 
+Seat 5: pedroabreu1 ($3.51 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+craf4y: sits out 
+krakow20: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 8c]
+Carlitos2719: raises $0.04 to $0.06
+Trigger53xx: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to Carlitos2719
+Carlitos2719 collected $0.05 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 collected ($0.05)
+Seat 3: Trigger53xx (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164595182858:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:40:28 BRT [2017/01/14 22:40:28 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($0.71 in chips) 
+Seat 3: Trigger53xx ($0.91 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3.49 in chips) 
+Seat 6: craf4y ($0.80 in chips) 
+pedroabreu1: posts small blind $0.01
+craf4y: posts big blind $0.02
+krakow20: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s 9d]
+Carlitos2719: calls $0.02
+Trigger53xx: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: checks 
+*** FLOP *** [As 8h 9s]
+craf4y: bets $0.02
+Carlitos2719: folds 
+Uncalled bet ($0.02) returned to craf4y
+craf4y collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As 8h 9s]
+Seat 1: Carlitos2719 folded on the Flop
+Seat 3: Trigger53xx folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: craf4y (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164595194624:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:40:59 BRT [2017/01/14 22:40:59 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($0.69 in chips) 
+Seat 3: Trigger53xx ($0.91 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3.48 in chips) 
+Seat 6: craf4y ($0.83 in chips) 
+craf4y: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+krakow20: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc 8c]
+Trigger53xx: raises $0.04 to $0.06
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: folds 
+Carlitos2719: folds 
+Uncalled bet ($0.04) returned to Trigger53xx
+Trigger53xx collected $0.05 from pot
+Trigger53xx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 (big blind) folded before Flop
+Seat 3: Trigger53xx collected ($0.05)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: craf4y (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595207532:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:41:33 BRT [2017/01/14 22:41:33 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($0.67 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Trigger53xx ($0.94 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3.48 in chips) 
+Seat 6: craf4y ($0.82 in chips) 
+Carlitos2719: posts small blind $0.01
+krakow20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 8s]
+Trigger53xx: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: calls $0.02
+Carlitos2719: calls $0.01
+krakow20: checks 
+*** FLOP *** [7d 3d Tc]
+Carlitos2719: checks 
+krakow20: checks 
+Trigger53xx: checks 
+craf4y: checks 
+*** TURN *** [7d 3d Tc] [6h]
+Carlitos2719: checks 
+krakow20: bets $0.04
+Trigger53xx: folds 
+craf4y: calls $0.04
+Carlitos2719: calls $0.04
+*** RIVER *** [7d 3d Tc 6h] [Qc]
+Carlitos2719: checks 
+krakow20: checks 
+craf4y: bets $0.10
+Carlitos2719: folds 
+krakow20: folds 
+Uncalled bet ($0.10) returned to craf4y
+craf4y collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7d 3d Tc 6h Qc]
+Seat 1: Carlitos2719 (small blind) folded on the River
+Seat 2: krakow20 (big blind) folded on the River
+Seat 3: Trigger53xx folded on the Turn
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: craf4y (button) collected ($0.19)
+
+
+
+PokerStars Hand #164595234712:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:42:43 BRT [2017/01/14 22:42:43 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($0.61 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Trigger53xx ($0.92 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3.48 in chips) 
+Seat 6: craf4y ($0.95 in chips) 
+krakow20: posts small blind $0.01
+Trigger53xx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s 3h]
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: calls $0.02
+Carlitos2719: calls $0.02
+krakow20: folds 
+Trigger53xx: checks 
+*** FLOP *** [Jh 4d 5d]
+Trigger53xx: checks 
+craf4y: checks 
+Carlitos2719: bets $0.04
+Trigger53xx: calls $0.04
+craf4y: folds 
+*** TURN *** [Jh 4d 5d] [4h]
+Trigger53xx: checks 
+Carlitos2719: bets $0.04
+Trigger53xx: calls $0.04
+*** RIVER *** [Jh 4d 5d 4h] [5c]
+Trigger53xx: checks 
+Carlitos2719: bets $0.10
+Trigger53xx: calls $0.10
+*** SHOW DOWN ***
+Carlitos2719: shows [Ad 4s] (a full house, Fours full of Fives)
+Trigger53xx: mucks hand 
+Carlitos2719 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Jh 4d 5d 4h 5c]
+Seat 1: Carlitos2719 (button) showed [Ad 4s] and won ($0.41) with a full house, Fours full of Fives
+Seat 2: krakow20 (small blind) folded before Flop
+Seat 3: Trigger53xx (big blind) mucked [8d 8s]
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: craf4y folded on the Flop
+
+
+
+PokerStars Hand #164595260161:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:43:49 BRT [2017/01/14 22:43:49 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($0.82 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Trigger53xx ($0.72 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3.48 in chips) 
+Seat 6: craf4y ($0.93 in chips) 
+Trigger53xx: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ts 9c]
+pedroabreu1: folds 
+craf4y: calls $0.02
+Carlitos2719: raises $0.04 to $0.06
+krakow20: folds 
+Trigger53xx: folds 
+thgpdvz88: folds 
+craf4y: calls $0.04
+*** FLOP *** [8h 9d 2c]
+Trigger53xx leaves the table
+craf4y: bets $0.04
+Embersworn joins the table at seat #3 
+Carlitos2719: calls $0.04
+*** TURN *** [8h 9d 2c] [5s]
+craf4y: bets $0.08
+Carlitos2719: folds 
+Uncalled bet ($0.08) returned to craf4y
+craf4y collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [8h 9d 2c 5s]
+Seat 1: Carlitos2719 folded on the Turn
+Seat 2: krakow20 (button) folded before Flop (didn't bet)
+Seat 3: Trigger53xx (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: craf4y collected ($0.22)
+
+
+
+PokerStars Hand #164595281684:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:44:44 BRT [2017/01/14 22:44:44 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($0.72 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($3.48 in chips) 
+Seat 6: craf4y ($1.05 in chips) 
+pedroabreu1: posts small blind $0.01
+craf4y: posts big blind $0.02
+Embersworn: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 6c]
+Carlitos2719: calls $0.02
+krakow20: raises $0.04 to $0.06
+thgpdvz88: calls $0.06
+pedroabreu1: folds 
+craf4y: folds 
+Carlitos2719: calls $0.04
+*** FLOP *** [5s 3d Th]
+Carlitos2719: checks 
+krakow20: checks 
+thgpdvz88: checks 
+*** TURN *** [5s 3d Th] [8h]
+Carlitos2719: checks 
+krakow20: checks 
+thgpdvz88: checks 
+*** RIVER *** [5s 3d Th 8h] [Kh]
+Carlitos2719: bets $0.06
+krakow20: folds 
+thgpdvz88: folds 
+Uncalled bet ($0.06) returned to Carlitos2719
+Carlitos2719 collected $0.20 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5s 3d Th 8h Kh]
+Seat 1: Carlitos2719 collected ($0.20)
+Seat 2: krakow20 folded on the River
+Seat 4: thgpdvz88 (button) folded on the River
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: craf4y (big blind) folded before Flop
+
+
+
+PokerStars Hand #164595311425:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:02 BRT [2017/01/14 22:46:02 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($0.86 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.34 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+Seat 6: craf4y ($1.03 in chips) 
+craf4y: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+Embersworn: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 8h]
+krakow20: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: calls $0.01
+Carlitos2719: raises $0.02 to $0.04
+craf4y: folds 
+Uncalled bet ($0.02) returned to Carlitos2719
+Carlitos2719 collected $0.04 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Carlitos2719 (big blind) collected ($0.04)
+Seat 2: krakow20 folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: craf4y (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595322723:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:32 BRT [2017/01/14 22:46:32 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($0.88 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 4: thgpdvz88 ($2.34 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+Seat 6: craf4y ($1.01 in chips) 
+Carlitos2719: posts small blind $0.01
+krakow20: posts big blind $0.02
+Embersworn: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s 3d]
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: folds 
+Carlitos2719: raises $0.02 to $0.04
+krakow20: calls $0.02
+*** FLOP *** [Js 6h 8d]
+Carlitos2719: bets $0.02
+krakow20: folds 
+Uncalled bet ($0.02) returned to Carlitos2719
+Carlitos2719 collected $0.08 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Js 6h 8d]
+Seat 1: Carlitos2719 (small blind) collected ($0.08)
+Seat 2: krakow20 (big blind) folded on the Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: craf4y (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595329798:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:46:50 BRT [2017/01/14 22:46:50 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($0.92 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.34 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+Seat 6: craf4y ($1.01 in chips) 
+krakow20: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 5s]
+thgpdvz88: folds 
+pedroabreu1: folds 
+craf4y: raises $0.04 to $0.06
+Carlitos2719: calls $0.06
+krakow20: calls $0.05
+Embersworn: folds 
+*** FLOP *** [5h Ac 3c]
+krakow20: checks 
+craf4y: bets $0.04
+Carlitos2719: calls $0.04
+krakow20: folds 
+*** TURN *** [5h Ac 3c] [8d]
+craf4y: bets $0.11
+Carlitos2719: calls $0.11
+*** RIVER *** [5h Ac 3c 8d] [4c]
+craf4y: checks 
+Carlitos2719: bets $0.12
+craf4y: folds 
+Uncalled bet ($0.12) returned to Carlitos2719
+Carlitos2719 collected $0.48 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [5h Ac 3c 8d 4c]
+Seat 1: Carlitos2719 (button) collected ($0.48)
+Seat 2: krakow20 (small blind) folded on the Flop
+Seat 3: Embersworn (big blind) folded before Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: craf4y folded on the River
+
+
+
+PokerStars Hand #164595360836:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:48:11 BRT [2017/01/14 22:48:11 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($1.19 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.34 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+Seat 6: craf4y ($0.80 in chips) 
+Embersworn: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s Th]
+pedroabreu1: folds 
+craf4y: folds 
+craf4y leaves the table
+Carlitos2719: raises $0.04 to $0.06
+krakow20: folds 
+Embersworn: calls $0.05
+thgpdvz88: folds 
+*** FLOP *** [2d 3d 6d]
+Embersworn: checks 
+Carlitos2719: bets $0.02
+Embersworn: folds 
+Uncalled bet ($0.02) returned to Carlitos2719
+Carlitos2719 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d 3d 6d]
+Seat 1: Carlitos2719 collected ($0.14)
+Seat 2: krakow20 (button) folded before Flop (didn't bet)
+Seat 3: Embersworn (small blind) folded on the Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: craf4y folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595376796:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:48:53 BRT [2017/01/14 22:48:53 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($1.27 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.32 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5s 9s]
+Carlitos2719: raises $0.02 to $0.04
+krakow20: calls $0.04
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+*** FLOP *** [5c Kh 4d]
+Carlitos2719: bets $0.02
+krakow20: calls $0.02
+*** TURN *** [5c Kh 4d] [8s]
+Carlitos2719: bets $0.02
+krakow20: folds 
+Uncalled bet ($0.02) returned to Carlitos2719
+Carlitos2719 collected $0.14 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5c Kh 4d 8s]
+Seat 1: Carlitos2719 collected ($0.14)
+Seat 2: krakow20 folded on the Turn
+Seat 3: Embersworn (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164595397076:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:49:46 BRT [2017/01/14 22:49:46 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($1.35 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.31 in chips) 
+Seat 5: pedroabreu1 ($3.45 in chips) 
+pedroabreu1: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc 2d]
+krakow20: folds 
+Embersworn: raises $0.02 to $0.04
+thgpdvz88: folds 
+pedroabreu1: folds 
+Carlitos2719: calls $0.02
+*** FLOP *** [8h 5h Kh]
+Carlitos2719: checks 
+Embersworn: checks 
+*** TURN *** [8h 5h Kh] [8c]
+Carlitos2719: bets $0.04
+Embersworn: folds 
+Uncalled bet ($0.04) returned to Carlitos2719
+Carlitos2719 collected $0.09 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8h 5h Kh 8c]
+Seat 1: Carlitos2719 (big blind) collected ($0.09)
+Seat 2: krakow20 folded before Flop (didn't bet)
+Seat 3: Embersworn folded on the Turn
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595415088:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:50:34 BRT [2017/01/14 22:50:34 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($1.40 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.31 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Carlitos2719: posts small blind $0.01
+S0MNA joins the table at seat #6 
+krakow20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h Ts]
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+Carlitos2719: calls $0.01
+krakow20: checks 
+*** FLOP *** [9c Ad 6h]
+Carlitos2719: bets $0.04
+krakow20: folds 
+Uncalled bet ($0.04) returned to Carlitos2719
+Carlitos2719 collected $0.04 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9c Ad 6h]
+Seat 1: Carlitos2719 (small blind) collected ($0.04)
+Seat 2: krakow20 (big blind) folded on the Flop
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595431954:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:51:18 BRT [2017/01/14 22:51:18 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($1.42 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.31 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+krakow20: posts small blind $0.01
+Embersworn: posts big blind $0.02
+S0MNA: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac Qh]
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+Carlitos2719: calls $0.06
+krakow20: folds 
+Embersworn: folds 
+*** FLOP *** [5d 3h Tc]
+pedroabreu1: bets $0.08
+Carlitos2719: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d 3h Tc]
+Seat 1: Carlitos2719 (button) folded on the Flop
+Seat 2: krakow20 (small blind) folded before Flop
+Seat 3: Embersworn (big blind) folded before Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 collected ($0.14)
+
+
+
+PokerStars Hand #164595458275:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:52:10 BRT [2017/01/14 22:52:10 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($1.36 in chips) 
+Seat 2: krakow20 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.31 in chips) 
+Seat 5: pedroabreu1 ($3.52 in chips) 
+Embersworn: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+S0MNA: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 2c]
+pedroabreu1: folds 
+Carlitos2719: calls $0.02
+krakow20: folds 
+Embersworn: folds 
+thgpdvz88: checks 
+*** FLOP *** [6d 3s 5d]
+thgpdvz88: checks 
+Carlitos2719: checks 
+*** TURN *** [6d 3s 5d] [Ks]
+thgpdvz88: checks 
+Carlitos2719: checks 
+*** RIVER *** [6d 3s 5d Ks] [3h]
+krakow20 leaves the table
+22alex88 joins the table at seat #2 
+thgpdvz88: checks 
+Carlitos2719: checks 
+*** SHOW DOWN ***
+thgpdvz88: shows [Qd 5h] (two pair, Fives and Threes)
+Carlitos2719: mucks hand 
+thgpdvz88 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d 3s 5d Ks 3h]
+Seat 1: Carlitos2719 mucked [9c Jd]
+Seat 2: krakow20 (button) folded before Flop (didn't bet)
+Seat 3: Embersworn (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) showed [Qd 5h] and won ($0.05) with two pair, Fives and Threes
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595488293:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:53:30 BRT [2017/01/14 22:53:30 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Carlitos2719 ($1.34 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.34 in chips) 
+Seat 5: pedroabreu1 ($3.52 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+S0MNA: sits out 
+22alex88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 5h]
+Carlitos2719: calls $0.02
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: checks 
+*** FLOP *** [3d Js 8c]
+pedroabreu1: checks 
+Carlitos2719: checks 
+*** TURN *** [3d Js 8c] [Jd]
+pedroabreu1: checks 
+Carlitos2719: checks 
+*** RIVER *** [3d Js 8c Jd] [3h]
+pedroabreu1: checks 
+Carlitos2719: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [As 5h] (two pair, Jacks and Threes)
+Carlitos2719: mucks hand 
+pedroabreu1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d Js 8c Jd 3h]
+Seat 1: Carlitos2719 mucked [4s 2s]
+Seat 3: Embersworn (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) showed [As 5h] and won ($0.05) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #164595507288:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:54:21 BRT [2017/01/14 22:54:21 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Carlitos2719 ($1.32 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.33 in chips) 
+Seat 5: pedroabreu1 ($3.55 in chips) 
+Seat 6: S0MNA ($0.80 in chips) 
+pedroabreu1: posts small blind $0.01
+S0MNA: posts big blind $0.02
+22alex88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d Ad]
+Carlitos2719: folds 
+Embersworn has timed out
+Embersworn: folds 
+thgpdvz88: raises $0.02 to $0.04
+pedroabreu1: calls $0.03
+S0MNA: calls $0.02
+*** FLOP *** [Th 9h 9s]
+pedroabreu1: checks 
+S0MNA: checks 
+thgpdvz88: checks 
+*** TURN *** [Th 9h 9s] [6s]
+pedroabreu1: checks 
+S0MNA: checks 
+thgpdvz88: checks 
+*** RIVER *** [Th 9h 9s 6s] [Jd]
+pedroabreu1: checks 
+S0MNA: bets $0.10
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.10) returned to S0MNA
+S0MNA collected $0.12 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Th 9h 9s 6s Jd]
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded on the River
+Seat 5: pedroabreu1 (small blind) folded on the River
+Seat 6: S0MNA (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #164595542273:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:56:01 BRT [2017/01/14 22:56:01 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Carlitos2719 ($1.32 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.29 in chips) 
+Seat 5: pedroabreu1 ($3.51 in chips) 
+Seat 6: S0MNA ($0.88 in chips) 
+S0MNA: posts small blind $0.01
+Carlitos2719: posts big blind $0.02
+22alex88: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh Kd]
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+S0MNA: folds 
+Carlitos2719: calls $0.04
+*** FLOP *** [5h Ad 8s]
+Carlitos2719: checks 
+pedroabreu1: bets $0.08
+Carlitos2719: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.13 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5h Ad 8s]
+Seat 1: Carlitos2719 (big blind) folded on the Flop
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) collected ($0.13)
+Seat 6: S0MNA (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595553914:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:56:36 BRT [2017/01/14 22:56:36 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Carlitos2719 ($1.26 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.29 in chips) 
+Seat 5: pedroabreu1 ($3.58 in chips) 
+Seat 6: S0MNA ($0.87 in chips) 
+Carlitos2719: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d Qd]
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+S0MNA: folds 
+Carlitos2719: calls $0.05
+22alex88: folds 
+*** FLOP *** [9h 9c 6h]
+Carlitos2719: checks 
+pedroabreu1: bets $0.08
+Carlitos2719: calls $0.08
+*** TURN *** [9h 9c 6h] [3c]
+Carlitos2719: checks 
+pedroabreu1: checks 
+*** RIVER *** [9h 9c 6h 3c] [9s]
+Carlitos2719: bets $0.16
+pedroabreu1: folds 
+Uncalled bet ($0.16) returned to Carlitos2719
+Carlitos2719 collected $0.29 from pot
+Carlitos2719: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9h 9c 6h 3c 9s]
+Seat 1: Carlitos2719 (small blind) collected ($0.29)
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded on the River
+Seat 6: S0MNA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595575190:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:57:40 BRT [2017/01/14 22:57:40 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Carlitos2719 ($1.41 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.29 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Seat 6: S0MNA ($0.87 in chips) 
+22alex88: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 3d]
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: folds 
+Carlitos2719: calls $0.02
+22alex88: folds 
+Embersworn: raises $0.04 to $0.06
+Carlitos2719: calls $0.04
+*** FLOP *** [3s 7s 9h]
+Embersworn: bets $0.13
+Carlitos2719: calls $0.13
+*** TURN *** [3s 7s 9h] [6c]
+Embersworn: checks 
+Carlitos2719: checks 
+*** RIVER *** [3s 7s 9h 6c] [Tc]
+Embersworn: checks 
+Carlitos2719: checks 
+*** SHOW DOWN ***
+Embersworn: shows [Kh Ah] (high card Ace)
+Carlitos2719: shows [Js 9c] (a pair of Nines)
+Carlitos2719 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3s 7s 9h 6c Tc]
+Seat 1: Carlitos2719 (button) showed [Js 9c] and won ($0.38) with a pair of Nines
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: Embersworn (big blind) showed [Kh Ah] and lost with high card Ace
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595597861:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:58:49 BRT [2017/01/14 22:58:49 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Carlitos2719 ($1.60 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.29 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Seat 6: S0MNA ($0.87 in chips) 
+Embersworn: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Kh]
+pedroabreu1: raises $0.04 to $0.06
+S0MNA: folds 
+Carlitos2719: folds 
+Carlitos2719 leaves the table
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Carlitos2719 folded before Flop (didn't bet)
+Seat 2: 22alex88 (button) folded before Flop (didn't bet)
+Seat 3: Embersworn (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 collected ($0.05)
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595607098:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:17 BRT [2017/01/14 22:59:17 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.27 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+Seat 6: S0MNA ($0.87 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d Ks]
+S0MNA: folds 
+22alex88: folds 
+Embersworn: raises $0.04 to $0.06
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to Embersworn
+Embersworn collected $0.05 from pot
+Embersworn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn (button) collected ($0.05)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded before Flop
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595612990:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 1:59:35 BRT [2017/01/14 22:59:35 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2.03 in chips) 
+Seat 4: thgpdvz88 ($2.26 in chips) 
+Seat 5: pedroabreu1 ($3.45 in chips) 
+Seat 6: S0MNA ($0.87 in chips) 
+pedroabreu1: posts small blind $0.01
+S0MNA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ts 5c]
+22alex88: folds 
+Embersworn: folds 
+Klunkerü joins the table at seat #1 
+thgpdvz88: raises $0.02 to $0.04
+pedroabreu1: folds 
+S0MNA: raises $0.04 to $0.08
+thgpdvz88: raises $0.18 to $0.26
+S0MNA: calls $0.18
+*** FLOP *** [2d Jd Td]
+S0MNA: checks 
+thgpdvz88: bets $0.33
+S0MNA: folds 
+Uncalled bet ($0.33) returned to thgpdvz88
+thgpdvz88 collected $0.51 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [2d Jd Td]
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) collected ($0.51)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: S0MNA (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164595629562:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:00:24 BRT [2017/01/14 23:00:24 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2.03 in chips) 
+Seat 4: thgpdvz88 ($2.51 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Seat 6: S0MNA ($0.61 in chips) 
+S0MNA: posts small blind $0.01
+Klunkerü: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d 3d]
+22alex88: folds 
+Embersworn: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: folds 
+Klunkerü: checks 
+*** FLOP *** [Ad 2s 4d]
+Klunkerü: checks 
+Embersworn: bets $0.03
+Klunkerü: folds 
+Uncalled bet ($0.03) returned to Embersworn
+Embersworn collected $0.05 from pot
+Embersworn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 2s 4d]
+Seat 1: Klunkerü (big blind) folded on the Flop
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn collected ($0.05)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: S0MNA (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595642706:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:01:02 BRT [2017/01/14 23:01:02 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2.06 in chips) 
+Seat 4: thgpdvz88 ($2.51 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Seat 6: S0MNA ($0.60 in chips) 
+Klunkerü: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh 2d]
+Embersworn: raises $0.02 to $0.04
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: folds 
+Klunkerü: folds 
+22alex88: calls $0.02
+*** FLOP *** [Jd Tc 7s]
+22alex88: checks 
+Embersworn: bets $0.05
+22alex88: calls $0.05
+*** TURN *** [Jd Tc 7s] [4d]
+22alex88: checks 
+Embersworn: bets $0.09
+22alex88: calls $0.09
+*** RIVER *** [Jd Tc 7s 4d] [Ks]
+22alex88: checks 
+Embersworn: checks 
+*** SHOW DOWN ***
+22alex88: shows [8d 6d] (high card King)
+Embersworn: shows [As Th] (a pair of Tens)
+Embersworn collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jd Tc 7s 4d Ks]
+Seat 1: Klunkerü (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) showed [8d 6d] and lost with high card King
+Seat 3: Embersworn showed [As Th] and won ($0.36) with a pair of Tens
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595664030:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:02:01 BRT [2017/01/14 23:02:01 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2.24 in chips) 
+Seat 4: thgpdvz88 ($2.51 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Seat 6: S0MNA ($0.60 in chips) 
+22alex88: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 4h]
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: calls $0.02
+Klunkerü: calls $0.02
+22alex88: calls $0.01
+Embersworn: checks 
+*** FLOP *** [Jc Tc 8s]
+22alex88: checks 
+Embersworn: checks 
+S0MNA: bets $0.10
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: folds 
+Uncalled bet ($0.10) returned to S0MNA
+S0MNA collected $0.08 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Jc Tc 8s]
+Seat 1: Klunkerü (button) folded on the Flop
+Seat 2: 22alex88 (small blind) folded on the Flop
+Seat 3: Embersworn (big blind) folded on the Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA collected ($0.08)
+
+
+
+PokerStars Hand #164595681367:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:02:48 BRT [2017/01/14 23:02:48 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2 in chips) 
+Seat 3: Embersworn ($2.22 in chips) 
+Seat 4: thgpdvz88 ($2.51 in chips) 
+Seat 5: pedroabreu1 ($3.44 in chips) 
+Seat 6: S0MNA ($0.66 in chips) 
+Embersworn: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks Kc]
+pedroabreu1: raises $0.04 to $0.06
+S0MNA: folds 
+Klunkerü: folds 
+22alex88: calls $0.06
+Embersworn: folds 
+thgpdvz88: folds 
+*** FLOP *** [Ac Jh 5c]
+pedroabreu1: bets $0.10
+22alex88: calls $0.10
+*** TURN *** [Ac Jh 5c] [Jd]
+pedroabreu1: bets $0.24
+22alex88: calls $0.24
+*** RIVER *** [Ac Jh 5c Jd] [Ad]
+pedroabreu1: checks 
+22alex88: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [Ks Kc] (two pair, Aces and Kings)
+22alex88: shows [9c Jc] (a full house, Jacks full of Aces)
+22alex88 collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [Ac Jh 5c Jd Ad]
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 (button) showed [9c Jc] and won ($0.80) with a full house, Jacks full of Aces
+Seat 3: Embersworn (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 showed [Ks Kc] and lost with two pair, Aces and Kings
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595704269:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:03:51 BRT [2017/01/14 23:03:51 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.40 in chips) 
+Seat 3: Embersworn ($2.21 in chips) 
+Seat 4: thgpdvz88 ($2.49 in chips) 
+Seat 5: pedroabreu1 ($3.04 in chips) 
+Seat 6: S0MNA ($0.66 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 9s]
+S0MNA: folds 
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) collected ($0.02)
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595710125:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:04:06 BRT [2017/01/14 23:04:06 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.40 in chips) 
+Seat 3: Embersworn ($2.21 in chips) 
+Seat 4: thgpdvz88 ($2.48 in chips) 
+Seat 5: pedroabreu1 ($3.05 in chips) 
+Seat 6: S0MNA ($0.66 in chips) 
+pedroabreu1: posts small blind $0.01
+S0MNA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d Ts]
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to S0MNA
+S0MNA collected $0.02 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: S0MNA (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164595716653:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:04:24 BRT [2017/01/14 23:04:24 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.40 in chips) 
+Seat 3: Embersworn ($2.21 in chips) 
+Seat 4: thgpdvz88 ($2.48 in chips) 
+Seat 5: pedroabreu1 ($3.04 in chips) 
+Seat 6: S0MNA ($0.67 in chips) 
+S0MNA: posts small blind $0.01
+Klunkerü: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s Ac]
+22alex88: raises $0.04 to $0.06
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: folds 
+Klunkerü: folds 
+Uncalled bet ($0.04) returned to 22alex88
+22alex88 collected $0.05 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü (big blind) folded before Flop
+Seat 2: 22alex88 collected ($0.05)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: S0MNA (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595724908:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:04:46 BRT [2017/01/14 23:04:46 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.43 in chips) 
+Seat 3: Embersworn ($2.21 in chips) 
+Seat 4: thgpdvz88 ($2.48 in chips) 
+Seat 5: pedroabreu1 ($3.04 in chips) 
+Seat 6: S0MNA ($0.66 in chips) 
+Klunkerü: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th 9c]
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: raises $0.02 to $0.04
+Klunkerü: folds 
+22alex88: folds 
+Uncalled bet ($0.02) returned to S0MNA
+S0MNA collected $0.05 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA (button) collected ($0.05)
+
+
+
+PokerStars Hand #164595732087:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:05:06 BRT [2017/01/14 23:05:06 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.41 in chips) 
+Seat 3: Embersworn ($2.21 in chips) 
+Seat 4: thgpdvz88 ($2.48 in chips) 
+Seat 5: pedroabreu1 ($3.04 in chips) 
+Seat 6: S0MNA ($0.69 in chips) 
+22alex88: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 5h]
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: folds 
+Klunkerü: raises $0.04 to $0.06
+22alex88: folds 
+Embersworn: folds 
+Uncalled bet ($0.04) returned to Klunkerü
+Klunkerü collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü (button) collected ($0.05)
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: Embersworn (big blind) folded before Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595739509:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:05:26 BRT [2017/01/14 23:05:26 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Klunkerü ($2.03 in chips) 
+Seat 2: 22alex88 ($2.40 in chips) 
+Seat 3: Embersworn ($2.19 in chips) 
+Seat 4: thgpdvz88 ($2.48 in chips) 
+Seat 5: pedroabreu1 ($3.04 in chips) 
+Seat 6: S0MNA ($0.69 in chips) 
+Embersworn: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 4c]
+pedroabreu1: folds 
+S0MNA: raises $0.02 to $0.04
+Klunkerü: calls $0.04
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: folds 
+*** FLOP *** [5c 7s 3d]
+S0MNA: bets $0.05
+Klunkerü: folds 
+Uncalled bet ($0.05) returned to S0MNA
+S0MNA collected $0.11 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5c 7s 3d]
+Seat 1: Klunkerü folded on the Flop
+Seat 2: 22alex88 (button) folded before Flop (didn't bet)
+Seat 3: Embersworn (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA collected ($0.11)
+
+
+
+PokerStars Hand #164595756154:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:06:12 BRT [2017/01/14 23:06:12 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.40 in chips) 
+Seat 3: Embersworn ($2.18 in chips) 
+Seat 4: thgpdvz88 ($2.46 in chips) 
+Seat 5: pedroabreu1 ($3.04 in chips) 
+Seat 6: S0MNA ($0.76 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 6h]
+S0MNA: folds 
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: raises $0.02 to $0.04
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.02) returned to Embersworn
+Embersworn collected $0.05 from pot
+Embersworn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn (button) collected ($0.05)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded before Flop
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595766956:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:06:42 BRT [2017/01/14 23:06:42 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.40 in chips) 
+Seat 3: Embersworn ($2.21 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($3.02 in chips) 
+Seat 6: S0MNA ($0.76 in chips) 
+pedroabreu1: posts small blind $0.01
+S0MNA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Qs]
+Klunkerü: folds 
+22alex88: raises $0.04 to $0.06
+Embersworn: calls $0.06
+thgpdvz88: folds 
+pedroabreu1: calls $0.05
+S0MNA: calls $0.04
+*** FLOP *** [2s Jd 6h]
+pedroabreu1: checks 
+S0MNA: checks 
+22alex88: checks 
+Embersworn: checks 
+*** TURN *** [2s Jd 6h] [Js]
+pedroabreu1: checks 
+S0MNA: checks 
+22alex88: checks 
+Embersworn: bets $0.12
+pedroabreu1: folds 
+S0MNA: calls $0.12
+22alex88: folds 
+*** RIVER *** [2s Jd 6h Js] [3c]
+S0MNA: checks 
+Embersworn: bets $0.23
+S0MNA: folds 
+Uncalled bet ($0.23) returned to Embersworn
+Embersworn collected $0.46 from pot
+Embersworn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [2s Jd 6h Js 3c]
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 folded on the Turn
+Seat 3: Embersworn collected ($0.46)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded on the Turn
+Seat 6: S0MNA (big blind) folded on the River
+
+
+
+PokerStars Hand #164595804469:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:08:25 BRT [2017/01/14 23:08:25 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.34 in chips) 
+Seat 3: Embersworn ($2.49 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($2.96 in chips) 
+Seat 6: S0MNA ($0.58 in chips) 
+S0MNA: posts small blind $0.01
+Klunkerü: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 5d]
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: raises $0.02 to $0.04
+Klunkerü: calls $0.02
+*** FLOP *** [Js 6h 9s]
+S0MNA: checks 
+Klunkerü: checks 
+*** TURN *** [Js 6h 9s] [7d]
+S0MNA: checks 
+Klunkerü: checks 
+*** RIVER *** [Js 6h 9s 7d] [4h]
+S0MNA: bets $0.08
+Klunkerü: folds 
+Uncalled bet ($0.08) returned to S0MNA
+S0MNA collected $0.08 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Js 6h 9s 7d 4h]
+Seat 1: Klunkerü (big blind) folded on the River
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: S0MNA (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #164595826339:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:26 BRT [2017/01/14 23:09:26 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.34 in chips) 
+Seat 3: Embersworn ($2.49 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($2.96 in chips) 
+Seat 6: S0MNA ($0.62 in chips) 
+Klunkerü: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 2c]
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: raises $0.02 to $0.04
+Klunkerü: folds 
+22alex88: folds 
+Uncalled bet ($0.02) returned to S0MNA
+S0MNA collected $0.05 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA (button) collected ($0.05)
+
+
+
+PokerStars Hand #164595835049:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:09:49 BRT [2017/01/14 23:09:49 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.32 in chips) 
+Seat 3: Embersworn ($2.49 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($2.96 in chips) 
+Seat 6: S0MNA ($0.65 in chips) 
+22alex88: posts small blind $0.01
+Embersworn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 4s]
+thgpdvz88: folds 
+pedroabreu1: folds 
+S0MNA: calls $0.02
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: checks 
+*** FLOP *** [Qd 4c 6d]
+Embersworn: checks 
+S0MNA: bets $0.10
+Embersworn: calls $0.10
+*** TURN *** [Qd 4c 6d] [Td]
+Embersworn: checks 
+S0MNA: bets $0.53 and is all-in
+Embersworn: calls $0.53
+*** RIVER *** [Qd 4c 6d Td] [Ah]
+*** SHOW DOWN ***
+Embersworn: shows [Tc Kc] (a pair of Tens)
+S0MNA: shows [Th Qc] (two pair, Queens and Tens)
+S0MNA collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [Qd 4c 6d Td Ah]
+Seat 1: Klunkerü (button) folded before Flop (didn't bet)
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: Embersworn (big blind) showed [Tc Kc] and lost with a pair of Tens
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA showed [Th Qc] and won ($1.26) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #164595859002:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:10:56 BRT [2017/01/14 23:10:56 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.31 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.45 in chips) 
+Seat 5: pedroabreu1 ($2.96 in chips) 
+Seat 6: S0MNA ($1.26 in chips) 
+Embersworn: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc Td]
+pedroabreu1: folds 
+S0MNA: folds 
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: calls $0.01
+thgpdvz88: checks 
+*** FLOP *** [Tc 7h 5d]
+Embersworn: checks 
+thgpdvz88: checks 
+*** TURN *** [Tc 7h 5d] [Jc]
+Embersworn: checks 
+thgpdvz88: checks 
+*** RIVER *** [Tc 7h 5d Jc] [Ac]
+Embersworn: checks 
+thgpdvz88: bets $0.04
+Embersworn: folds 
+Uncalled bet ($0.04) returned to thgpdvz88
+thgpdvz88 collected $0.04 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 7h 5d Jc Ac]
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 (button) folded before Flop (didn't bet)
+Seat 3: Embersworn (small blind) folded on the River
+Seat 4: thgpdvz88 (big blind) collected ($0.04)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595893606:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:12:34 BRT [2017/01/14 23:12:34 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.31 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.47 in chips) 
+Seat 5: pedroabreu1 ($2.96 in chips) 
+Seat 6: S0MNA ($1.26 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs Qc]
+S0MNA: folds 
+Klunkerü: calls $0.02
+22alex88: folds 
+Embersworn: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: raises $0.08 to $0.10
+Klunkerü: calls $0.08
+Embersworn: calls $0.08
+*** FLOP *** [Ad 9c 7s]
+pedroabreu1: checks 
+Klunkerü: checks 
+Embersworn: checks 
+*** TURN *** [Ad 9c 7s] [4d]
+pedroabreu1: bets $0.18
+Klunkerü: folds 
+Embersworn: folds 
+Uncalled bet ($0.18) returned to pedroabreu1
+pedroabreu1 collected $0.30 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ad 9c 7s 4d]
+Seat 1: Klunkerü folded on the Turn
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn (button) folded on the Turn
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) collected ($0.30)
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595923823:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:13:59 BRT [2017/01/14 23:13:59 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.31 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.46 in chips) 
+Seat 5: pedroabreu1 ($3.16 in chips) 
+Seat 6: S0MNA ($1.26 in chips) 
+pedroabreu1: posts small blind $0.01
+S0MNA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 8s]
+Klunkerü: folds 
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to S0MNA
+S0MNA collected $0.02 from pot
+S0MNA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Klunkerü folded before Flop (didn't bet)
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: S0MNA (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164595932325:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:14:09 BRT [2017/01/14 23:14:09 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.31 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.46 in chips) 
+Seat 5: pedroabreu1 ($3.15 in chips) 
+Seat 6: S0MNA ($1.27 in chips) 
+S0MNA: posts small blind $0.01
+Klunkerü: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th 8c]
+22alex88: folds 
+Embersworn: folds 
+thgpdvz88: raises $0.04 to $0.06
+pedroabreu1: folds 
+S0MNA: folds 
+Klunkerü: folds 
+Uncalled bet ($0.04) returned to thgpdvz88
+thgpdvz88 collected $0.05 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü (big blind) folded before Flop
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 collected ($0.05)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: S0MNA (small blind) folded before Flop
+
+
+
+PokerStars Hand #164595936837:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:14:22 BRT [2017/01/14 23:14:22 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.31 in chips) 
+Seat 3: Embersworn ($2 in chips) 
+Seat 4: thgpdvz88 ($2.49 in chips) 
+Seat 5: pedroabreu1 ($3.15 in chips) 
+Seat 6: S0MNA ($1.26 in chips) 
+Klunkerü: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Kd]
+Embersworn: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+S0MNA: folds 
+Klunkerü: folds 
+22alex88: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Klunkerü (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: Embersworn folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 collected ($0.05)
+Seat 6: S0MNA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595947202:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:14:51 BRT [2017/01/14 23:14:51 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: Klunkerü ($2 in chips) 
+Seat 2: 22alex88 ($2.29 in chips) 
+Seat 4: thgpdvz88 ($2.49 in chips) 
+Seat 5: pedroabreu1 ($3.18 in chips) 
+Seat 6: S0MNA ($1.26 in chips) 
+22alex88: posts small blind $0.01
+Embersworn: is sitting out 
+Embersworn leaves the table
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c Ac]
+pedroabreu1: raises $0.04 to $0.06
+S0MNA: folds 
+Klunkerü: folds 
+S0MNA leaves the table
+22alex88: calls $0.05
+papadootz joins the table at seat #6 
+lucky shayla joins the table at seat #3 
+thgpdvz88: calls $0.04
+*** FLOP *** [Kc 4s 2d]
+22alex88: bets $0.09
+Klunkerü leaves the table
+thgpdvz88: folds 
+pedroabreu1: calls $0.09
+*** TURN *** [Kc 4s 2d] [7h]
+22alex88: checks 
+pedroabreu1: checks 
+*** RIVER *** [Kc 4s 2d 7h] [5c]
+22alex88: checks 
+pedroabreu1: checks 
+*** SHOW DOWN ***
+22alex88: shows [Qd Ks] (a pair of Kings)
+pedroabreu1: mucks hand 
+22alex88 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Kc 4s 2d 7h 5c]
+Seat 1: Klunkerü (button) folded before Flop (didn't bet)
+Seat 2: 22alex88 (small blind) showed [Qd Ks] and won ($0.35) with a pair of Kings
+Seat 4: thgpdvz88 (big blind) folded on the Flop
+Seat 5: pedroabreu1 mucked [4c Ac]
+Seat 6: S0MNA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164595973727:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:16:05 BRT [2017/01/14 23:16:05 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 2: 22alex88 ($2.49 in chips) 
+Seat 4: thgpdvz88 ($2.43 in chips) 
+Seat 5: pedroabreu1 ($3.03 in chips) 
+lucky shayla will be allowed to play after the button
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+papadootz: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s Qs]
+22alex88: raises $0.03 to $0.05
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.03) returned to 22alex88
+22alex88 collected $0.05 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 22alex88 (button) collected ($0.05)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164595984852:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:16:36 BRT [2017/01/14 23:16:36 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 2: 22alex88 ($2.52 in chips) 
+Seat 3: lucky shayla ($1.60 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3.01 in chips) 
+Seat 6: papadootz ($1.60 in chips) 
+pedroabreu1: posts small blind $0.01
+papadootz: posts big blind $0.02
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h Kh]
+22alex88: folds 
+lucky shayla: checks 
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: checks 
+*** FLOP *** [Kd Jd 7h]
+papadootz: bets $0.10
+lucky shayla: folds 
+Uncalled bet ($0.10) returned to papadootz
+papadootz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd Jd 7h]
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla folded on the Flop
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: papadootz (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164595996632:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:17:10 BRT [2017/01/14 23:17:10 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 2: 22alex88 ($2.52 in chips) 
+Seat 3: lucky shayla ($1.58 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3 in chips) 
+Seat 6: papadootz ($1.63 in chips) 
+papadootz: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 5c]
+lucky shayla: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: raises $0.12 to $0.14
+22alex88: folds 
+lucky shayla: folds 
+Uncalled bet ($0.12) returned to papadootz
+papadootz collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: lucky shayla folded before Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: papadootz (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #164596006142:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:17:37 BRT [2017/01/14 23:17:37 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 2: 22alex88 ($2.50 in chips) 
+Seat 3: lucky shayla ($1.56 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($3 in chips) 
+Seat 6: papadootz ($1.67 in chips) 
+22alex88: posts small blind $0.01
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js 9s]
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+papadootz: calls $0.06
+22alex88: folds 
+lucky shayla: calls $0.04
+*** FLOP *** [7h 5d 7c]
+lucky shayla: checks 
+pedroabreu1: checks 
+papadootz: bets $0.10
+lucky shayla: folds 
+pedroabreu1: calls $0.10
+*** TURN *** [7h 5d 7c] [Ac]
+pedroabreu1: checks 
+RileyO813 joins the table at seat #1 
+papadootz: bets $0.78
+pedroabreu1: folds 
+Uncalled bet ($0.78) returned to papadootz
+papadootz collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7h 5d 7c Ac]
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: lucky shayla (big blind) folded on the Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded on the Turn
+Seat 6: papadootz (button) collected ($0.38)
+
+
+
+PokerStars Hand #164596030595:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:18:47 BRT [2017/01/14 23:18:47 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: RileyO813 ($0.80 in chips) 
+Seat 2: 22alex88 ($2.49 in chips) 
+Seat 3: lucky shayla ($1.50 in chips) 
+Seat 4: thgpdvz88 ($2.42 in chips) 
+Seat 5: pedroabreu1 ($2.84 in chips) 
+Seat 6: papadootz ($1.89 in chips) 
+lucky shayla: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+RileyO813: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 8s]
+pedroabreu1: folds 
+papadootz: folds 
+RileyO813: checks 
+22alex88: raises $0.06 to $0.08
+lucky shayla: calls $0.07
+thgpdvz88: folds 
+RileyO813: folds 
+*** FLOP *** [9d 6d 7c]
+lucky shayla: bets $0.08
+22alex88: calls $0.08
+*** TURN *** [9d 6d 7c] [Kd]
+lucky shayla: bets $0.08
+22alex88: calls $0.08
+*** RIVER *** [9d 6d 7c Kd] [Js]
+lucky shayla: bets $0.10
+22alex88: raises $2.15 to $2.25 and is all-in
+lucky shayla: calls $1.16 and is all-in
+Uncalled bet ($0.99) returned to 22alex88
+*** SHOW DOWN ***
+22alex88: shows [5d Ad] (a flush, Ace high)
+lucky shayla: shows [Qd 7d] (a flush, King high)
+22alex88 collected $2.93 from pot
+*** SUMMARY ***
+Total pot $3.04 | Rake $0.11 
+Board [9d 6d 7c Kd Js]
+Seat 1: RileyO813 folded before Flop
+Seat 2: 22alex88 (button) showed [5d Ad] and won ($2.93) with a flush, Ace high
+Seat 3: lucky shayla (small blind) showed [Qd 7d] and lost with a flush, King high
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596053229:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:19:51 BRT [2017/01/14 23:19:51 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: RileyO813 ($0.78 in chips) 
+Seat 2: 22alex88 ($3.92 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($2.84 in chips) 
+Seat 6: papadootz ($1.89 in chips) 
+pedroabreu1: posts small blind $0.01
+papadootz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h Ad]
+RileyO813: calls $0.02
+22alex88: raises $0.04 to $0.06
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: folds 
+RileyO813: calls $0.04
+*** FLOP *** [As 5c 6h]
+RileyO813: checks 
+22alex88: bets $0.07
+RileyO813: folds 
+Uncalled bet ($0.07) returned to 22alex88
+22alex88 collected $0.14 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As 5c 6h]
+Seat 1: RileyO813 folded on the Flop
+Seat 2: 22alex88 collected ($0.14)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: papadootz (big blind) folded before Flop
+
+
+
+PokerStars Hand #164596061817:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:20:16 BRT [2017/01/14 23:20:16 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: RileyO813 ($0.72 in chips) 
+Seat 2: 22alex88 ($4 in chips) 
+Seat 3: lucky shayla ($2 in chips) 
+Seat 4: thgpdvz88 ($2.40 in chips) 
+Seat 5: pedroabreu1 ($2.83 in chips) 
+Seat 6: papadootz ($1.87 in chips) 
+papadootz: posts small blind $0.01
+RileyO813: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9c Jh]
+22alex88: folds 
+lucky shayla: calls $0.02
+thgpdvz88: raises $0.06 to $0.08
+pedroabreu1: folds 
+papadootz: calls $0.07
+RileyO813: folds 
+lucky shayla: calls $0.06
+*** FLOP *** [8d 5d 8s]
+papadootz: bets $0.08
+lucky shayla: calls $0.08
+thgpdvz88: calls $0.08
+*** TURN *** [8d 5d 8s] [Tc]
+papadootz: bets $0.50
+lucky shayla: folds 
+thgpdvz88: calls $0.50
+*** RIVER *** [8d 5d 8s Tc] [7s]
+papadootz: bets $1.21 and is all-in
+thgpdvz88: calls $1.21
+*** SHOW DOWN ***
+papadootz: shows [7h 6c] (two pair, Eights and Sevens)
+thgpdvz88: shows [Td Th] (a full house, Tens full of Eights)
+thgpdvz88 collected $3.78 from pot
+*** SUMMARY ***
+Total pot $3.92 | Rake $0.14 
+Board [8d 5d 8s Tc 7s]
+Seat 1: RileyO813 (big blind) folded before Flop
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla folded on the Turn
+Seat 4: thgpdvz88 showed [Td Th] and won ($3.78) with a full house, Tens full of Eights
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: papadootz (small blind) showed [7h 6c] and lost with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #164596085137:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:21:22 BRT [2017/01/14 23:21:22 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: RileyO813 ($0.70 in chips) 
+Seat 2: 22alex88 ($4 in chips) 
+Seat 3: lucky shayla ($1.84 in chips) 
+Seat 4: thgpdvz88 ($4.31 in chips) 
+Seat 5: pedroabreu1 ($2.83 in chips) 
+22alex88: posts small blind $0.01
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 8d]
+thgpdvz88: raises $0.04 to $0.06
+pedroabreu1: folds 
+RileyO813: folds 
+22alex88: folds 
+lucky shayla: calls $0.04
+*** FLOP *** [Kd Ah 7c]
+lucky shayla: checks 
+thgpdvz88: bets $0.08
+lucky shayla: folds 
+Uncalled bet ($0.08) returned to thgpdvz88
+thgpdvz88 collected $0.13 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd Ah 7c]
+Seat 1: RileyO813 (button) folded before Flop (didn't bet)
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: lucky shayla (big blind) folded on the Flop
+Seat 4: thgpdvz88 collected ($0.13)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596102170:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:22:11 BRT [2017/01/14 23:22:11 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: RileyO813 ($0.70 in chips) 
+Seat 2: 22alex88 ($3.99 in chips) 
+Seat 3: lucky shayla ($1.78 in chips) 
+Seat 4: thgpdvz88 ($4.38 in chips) 
+Seat 5: pedroabreu1 ($2.83 in chips) 
+Seat 6: papadootz ($2 in chips) 
+lucky shayla: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d 7d]
+pedroabreu1: folds 
+papadootz: calls $0.02
+RileyO813: folds 
+22alex88: raises $0.06 to $0.08
+lucky shayla: raises $0.06 to $0.14
+thgpdvz88: folds 
+papadootz: folds 
+22alex88: calls $0.06
+*** FLOP *** [Jh 8s 5d]
+lucky shayla: bets $0.10
+22alex88: calls $0.10
+*** TURN *** [Jh 8s 5d] [As]
+lucky shayla: checks 
+22alex88: checks 
+*** RIVER *** [Jh 8s 5d As] [Tc]
+lucky shayla: checks 
+22alex88: bets $0.25
+lucky shayla has timed out
+lucky shayla: folds 
+Uncalled bet ($0.25) returned to 22alex88
+22alex88 collected $0.50 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Jh 8s 5d As Tc]
+Seat 1: RileyO813 folded before Flop (didn't bet)
+Seat 2: 22alex88 (button) collected ($0.50)
+Seat 3: lucky shayla (small blind) folded on the River
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz folded before Flop
+
+
+
+PokerStars Hand #164596142779:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:24:07 BRT [2017/01/14 23:24:07 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: RileyO813 ($0.70 in chips) 
+Seat 2: 22alex88 ($4.25 in chips) 
+Seat 4: thgpdvz88 ($4.36 in chips) 
+Seat 5: pedroabreu1 ($2.83 in chips) 
+Seat 6: papadootz ($1.98 in chips) 
+pedroabreu1: posts small blind $0.01
+papadootz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d Qs]
+RileyO813: calls $0.02
+22alex88: raises $0.04 to $0.06
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.04
+RileyO813: calls $0.04
+*** FLOP *** [3c 4s Jh]
+papadootz: checks 
+RileyO813: checks 
+22alex88: checks 
+*** TURN *** [3c 4s Jh] [Th]
+papadootz: checks 
+RileyO813: checks 
+22alex88: bets $0.09
+papadootz: folds 
+RileyO813: folds 
+Uncalled bet ($0.09) returned to 22alex88
+22alex88 collected $0.18 from pot
+22alex88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3c 4s Jh Th]
+Seat 1: RileyO813 folded on the Turn
+Seat 2: 22alex88 collected ($0.18)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: papadootz (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164596158050:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:24:51 BRT [2017/01/14 23:24:51 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: RileyO813 ($0.64 in chips) 
+Seat 2: 22alex88 ($4.37 in chips) 
+Seat 4: thgpdvz88 ($4.36 in chips) 
+Seat 5: pedroabreu1 ($2.82 in chips) 
+Seat 6: papadootz ($1.92 in chips) 
+papadootz: posts small blind $0.01
+RileyO813: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd Tc]
+22alex88: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+papadootz: folds 
+RileyO813: calls $0.04
+*** FLOP *** [7c 9s 8d]
+RileyO813: checks 
+pedroabreu1: checks 
+*** TURN *** [7c 9s 8d] [Jh]
+RileyO813: bets $0.58 and is all-in
+pedroabreu1: calls $0.58
+*** RIVER *** [7c 9s 8d Jh] [4h]
+*** SHOW DOWN ***
+RileyO813: shows [6c Jc] (a pair of Jacks)
+pedroabreu1: shows [Qd Tc] (a straight, Eight to Queen)
+pedroabreu1 collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.05 
+Board [7c 9s 8d Jh 4h]
+Seat 1: RileyO813 (big blind) showed [6c Jc] and lost with a pair of Jacks
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) showed [Qd Tc] and won ($1.24) with a straight, Eight to Queen
+Seat 6: papadootz (small blind) folded before Flop
+
+
+
+PokerStars Hand #164596177010:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:25:46 BRT [2017/01/14 23:25:46 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 2: 22alex88 ($4.37 in chips) 
+Seat 3: lucky shayla ($1.54 in chips) 
+Seat 4: thgpdvz88 ($4.36 in chips) 
+Seat 5: pedroabreu1 ($3.42 in chips) 
+Seat 6: papadootz ($1.91 in chips) 
+22alex88: posts small blind $0.01
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 3h]
+RileyO813 leaves the table
+thgpdvz88: raises $0.04 to $0.06
+pedroabreu1: folds 
+papadootz: folds 
+22alex88: folds 
+lucky shayla: calls $0.04
+*** FLOP *** [Qh 7h 5d]
+lucky shayla: bets $0.04
+thgpdvz88: calls $0.04
+*** TURN *** [Qh 7h 5d] [Js]
+lucky shayla: bets $0.04
+brasileiro83 joins the table at seat #1 
+thgpdvz88: calls $0.04
+*** RIVER *** [Qh 7h 5d Js] [5s]
+lucky shayla: checks 
+thgpdvz88: checks 
+*** SHOW DOWN ***
+lucky shayla: shows [7c Ac] (two pair, Sevens and Fives)
+thgpdvz88: shows [9d 9h] (two pair, Nines and Fives)
+thgpdvz88 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qh 7h 5d Js 5s]
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: lucky shayla (big blind) showed [7c Ac] and lost with two pair, Sevens and Fives
+Seat 4: thgpdvz88 showed [9d 9h] and won ($0.28) with two pair, Nines and Fives
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596198847:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:26:49 BRT [2017/01/14 23:26:49 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 2: 22alex88 ($4.36 in chips) 
+Seat 3: lucky shayla ($1.40 in chips) 
+Seat 4: thgpdvz88 ($4.50 in chips) 
+Seat 5: pedroabreu1 ($3.42 in chips) 
+Seat 6: papadootz ($1.91 in chips) 
+lucky shayla: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+brasileiro83: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9s As]
+pedroabreu1: raises $0.04 to $0.06
+papadootz: folds 
+22alex88: folds 
+lucky shayla: calls $0.05
+thgpdvz88: calls $0.04
+*** FLOP *** [9d 8d 6c]
+lucky shayla: bets $0.06
+thgpdvz88: folds 
+pedroabreu1: calls $0.06
+*** TURN *** [9d 8d 6c] [9c]
+lucky shayla: bets $0.06
+pedroabreu1: raises $0.22 to $0.28
+lucky shayla: folds 
+Uncalled bet ($0.22) returned to pedroabreu1
+pedroabreu1 collected $0.41 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [9d 8d 6c 9c]
+Seat 2: 22alex88 (button) folded before Flop (didn't bet)
+Seat 3: lucky shayla (small blind) folded on the Turn
+Seat 4: thgpdvz88 (big blind) folded on the Flop
+Seat 5: pedroabreu1 collected ($0.41)
+Seat 6: papadootz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596220237:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:27:52 BRT [2017/01/14 23:27:52 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 2: 22alex88 ($4.36 in chips) 
+Seat 3: lucky shayla ($1.22 in chips) 
+Seat 4: thgpdvz88 ($4.44 in chips) 
+Seat 5: pedroabreu1 ($3.65 in chips) 
+Seat 6: papadootz ($1.91 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+brasileiro83: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d Ac]
+papadootz: calls $0.02
+22alex88: folds 
+lucky shayla: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.06 to $0.08
+papadootz: calls $0.06
+*** FLOP *** [7d 5c 8h]
+pedroabreu1: bets $0.10
+papadootz: calls $0.10
+*** TURN *** [7d 5c 8h] [Ts]
+pedroabreu1: checks 
+papadootz: bets $0.52
+pedroabreu1: folds 
+Uncalled bet ($0.52) returned to papadootz
+papadootz collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [7d 5c 8h Ts]
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded on the Turn
+Seat 6: papadootz collected ($0.36)
+
+
+
+PokerStars Hand #164596239548:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:28:48 BRT [2017/01/14 23:28:48 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 2: 22alex88 ($4.36 in chips) 
+Seat 3: lucky shayla ($1.22 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.47 in chips) 
+Seat 6: papadootz ($2.09 in chips) 
+pedroabreu1: posts small blind $0.01
+papadootz: posts big blind $0.02
+brasileiro83: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 4h]
+22alex88: folds 
+lucky shayla: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: checks 
+*** FLOP *** [9s 4s 7s]
+papadootz: checks 
+lucky shayla: checks 
+*** TURN *** [9s 4s 7s] [Jh]
+papadootz: bets $0.08
+lucky shayla: folds 
+Uncalled bet ($0.08) returned to papadootz
+papadootz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s 4s 7s Jh]
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla folded on the Turn
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: papadootz (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #164596251179:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:29:22 BRT [2017/01/14 23:29:22 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: brasileiro83 ($2 in chips) 
+Seat 2: 22alex88 ($4.36 in chips) 
+Seat 3: lucky shayla ($1.20 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.46 in chips) 
+Seat 6: papadootz ($2.12 in chips) 
+papadootz: posts small blind $0.01
+brasileiro83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c Jd]
+22alex88: folds 
+lucky shayla: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.01
+brasileiro83: checks 
+*** FLOP *** [Td Ah 3h]
+papadootz: checks 
+brasileiro83: checks 
+lucky shayla: bets $0.06
+papadootz: folds 
+brasileiro83: folds 
+Uncalled bet ($0.06) returned to lucky shayla
+lucky shayla collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Td Ah 3h]
+Seat 1: brasileiro83 (big blind) folded on the Flop
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla collected ($0.06)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: papadootz (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164596268331:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:30:13 BRT [2017/01/14 23:30:13 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: brasileiro83 ($2 in chips) 
+Seat 2: 22alex88 ($4.36 in chips) 
+Seat 3: lucky shayla ($1.24 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.46 in chips) 
+Seat 6: papadootz ($2.10 in chips) 
+brasileiro83: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 6s]
+lucky shayla: folds 
+thgpdvz88: folds 
+pedroabreu1: raises $0.04 to $0.06
+papadootz: folds 
+brasileiro83: folds 
+22alex88: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: brasileiro83 (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: lucky shayla folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 collected ($0.05)
+Seat 6: papadootz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596275312:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:30:32 BRT [2017/01/14 23:30:32 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: brasileiro83 ($2 in chips) 
+Seat 2: 22alex88 ($4.34 in chips) 
+Seat 3: lucky shayla ($1.24 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.49 in chips) 
+Seat 6: papadootz ($2.10 in chips) 
+22alex88: posts small blind $0.01
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d 5d]
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.02
+brasileiro83: folds 
+22alex88: calls $0.01
+brasileiro83 leaves the table
+lucky shayla: checks 
+*** FLOP *** [Jh 6h 7s]
+22alex88: bets $0.03
+lucky shayla: calls $0.03
+papadootz: calls $0.03
+*** TURN *** [Jh 6h 7s] [Th]
+22alex88: checks 
+lucky shayla: checks 
+papadootz: bets $0.52
+22alex88: folds 
+lucky shayla: folds 
+Uncalled bet ($0.52) returned to papadootz
+DdanielsD joins the table at seat #1 
+papadootz collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 6h 7s Th]
+Seat 1: brasileiro83 (button) folded before Flop (didn't bet)
+Seat 2: 22alex88 (small blind) folded on the Turn
+Seat 3: lucky shayla (big blind) folded on the Turn
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz collected ($0.14)
+
+
+
+PokerStars Hand #164596289234:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:31:13 BRT [2017/01/14 23:31:13 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 2: 22alex88 ($4.29 in chips) 
+Seat 3: lucky shayla ($1.19 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.49 in chips) 
+Seat 6: papadootz ($2.19 in chips) 
+lucky shayla: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+DdanielsD: is sitting out 
+DdanielsD leaves the table
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc 5s]
+pedroabreu1: folds 
+papadootz: folds 
+22alex88: folds 
+lucky shayla: folds 
+Uncalled bet ($0.01) returned to thgpdvz88
+thgpdvz88 collected $0.02 from pot
+thgpdvz88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 22alex88 (button) folded before Flop (didn't bet)
+Seat 3: lucky shayla (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) collected ($0.02)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596292235:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:31:21 BRT [2017/01/14 23:31:21 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 2: 22alex88 ($4.29 in chips) 
+Seat 3: lucky shayla ($1.18 in chips) 
+Seat 4: thgpdvz88 ($4.44 in chips) 
+Seat 5: pedroabreu1 ($3.49 in chips) 
+Seat 6: papadootz ($2.19 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As Ad]
+papadootz: calls $0.02
+22alex88: folds 
+lucky shayla: calls $0.02
+Ch3mi5try joins the table at seat #1 
+Ch3mi5try leaves the table
+thgpdvz88: folds 
+pedroabreu1: raises $0.06 to $0.08
+papadootz: calls $0.06
+lucky shayla: calls $0.06
+*** FLOP *** [Qc Tc 5s]
+pedroabreu1: checks 
+papadootz: checks 
+lucky shayla: bets $0.10
+60Servings joins the table at seat #1 
+pedroabreu1: calls $0.10
+papadootz: folds 
+*** TURN *** [Qc Tc 5s] [Ts]
+pedroabreu1: checks 
+lucky shayla: checks 
+*** RIVER *** [Qc Tc 5s Ts] [7s]
+pedroabreu1: bets $0.24
+lucky shayla: calls $0.24
+*** SHOW DOWN ***
+pedroabreu1: shows [As Ad] (two pair, Aces and Tens)
+lucky shayla: mucks hand 
+pedroabreu1 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [Qc Tc 5s Ts 7s]
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla (button) mucked [Qd 9d]
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) showed [As Ad] and won ($0.90) with two pair, Aces and Tens
+Seat 6: papadootz folded on the Flop
+
+
+
+PokerStars Hand #164596332666:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:33:00 BRT [2017/01/14 23:33:00 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 2: 22alex88 ($4.29 in chips) 
+Seat 3: lucky shayla ($0.76 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.97 in chips) 
+Seat 6: papadootz ($2.11 in chips) 
+pedroabreu1: posts small blind $0.01
+papadootz: posts big blind $0.02
+60Servings: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Qs]
+22alex88: folds 
+lucky shayla: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to papadootz
+papadootz collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: papadootz (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164596341378:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:33:26 BRT [2017/01/14 23:33:26 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: 60Servings ($2 in chips) 
+Seat 2: 22alex88 ($4.29 in chips) 
+Seat 3: lucky shayla ($1.56 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.96 in chips) 
+Seat 6: papadootz ($2.12 in chips) 
+papadootz: posts small blind $0.01
+60Servings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 2h]
+22alex88: folds 
+lucky shayla: calls $0.02
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.01
+60Servings: checks 
+*** FLOP *** [Tc Ah Ts]
+papadootz: checks 
+60Servings: checks 
+lucky shayla: checks 
+*** TURN *** [Tc Ah Ts] [7s]
+papadootz: checks 
+60Servings: checks 
+lucky shayla: checks 
+*** RIVER *** [Tc Ah Ts 7s] [Ks]
+papadootz: checks 
+60Servings: checks 
+lucky shayla: checks 
+*** SHOW DOWN ***
+papadootz: shows [5d Qs] (a pair of Tens)
+60Servings: mucks hand 
+lucky shayla: mucks hand 
+papadootz collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc Ah Ts 7s Ks]
+Seat 1: 60Servings (big blind) mucked [6h 3d]
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla mucked [5h Jh]
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: papadootz (small blind) showed [5d Qs] and won ($0.06) with a pair of Tens
+
+
+
+PokerStars Hand #164596366844:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:34:42 BRT [2017/01/14 23:34:42 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: 60Servings ($1.98 in chips) 
+Seat 2: 22alex88 ($4.29 in chips) 
+Seat 3: lucky shayla ($1.54 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.96 in chips) 
+Seat 6: papadootz ($2.16 in chips) 
+60Servings: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td 3d]
+lucky shayla: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: raises $0.28 to $0.30
+60Servings: folds 
+22alex88: folds 
+Uncalled bet ($0.28) returned to papadootz
+papadootz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 60Servings (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: lucky shayla folded before Flop (didn't bet)
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz (button) collected ($0.05)
+
+
+
+PokerStars Hand #164596377113:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:35:13 BRT [2017/01/14 23:35:13 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: 60Servings ($1.97 in chips) 
+Seat 2: 22alex88 ($4.27 in chips) 
+Seat 3: lucky shayla ($1.54 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.96 in chips) 
+Seat 6: papadootz ($2.19 in chips) 
+22alex88: posts small blind $0.01
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7h 5s]
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.02
+60Servings: folds 
+22alex88: folds 
+lucky shayla: checks 
+*** FLOP *** [Jh As 9h]
+lucky shayla: checks 
+papadootz: bets $0.08
+lucky shayla: folds 
+Uncalled bet ($0.08) returned to papadootz
+papadootz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh As 9h]
+Seat 1: 60Servings (button) folded before Flop (didn't bet)
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: lucky shayla (big blind) folded on the Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz collected ($0.05)
+
+
+
+PokerStars Hand #164596389303:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:35:50 BRT [2017/01/14 23:35:50 ET]
+Table 'Cline' 6-max Seat #2 is the button
+Seat 1: 60Servings ($1.97 in chips) 
+Seat 2: 22alex88 ($4.26 in chips) 
+Seat 3: lucky shayla ($1.52 in chips) 
+Seat 4: thgpdvz88 ($4.43 in chips) 
+Seat 5: pedroabreu1 ($3.96 in chips) 
+Seat 6: papadootz ($2.22 in chips) 
+lucky shayla: posts small blind $0.01
+thgpdvz88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 7h]
+pedroabreu1: raises $0.04 to $0.06
+papadootz: folds 
+60Servings: folds 
+22alex88: folds 
+lucky shayla: folds 
+thgpdvz88: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 60Servings folded before Flop (didn't bet)
+Seat 2: 22alex88 (button) folded before Flop (didn't bet)
+Seat 3: lucky shayla (small blind) folded before Flop
+Seat 4: thgpdvz88 (big blind) folded before Flop
+Seat 5: pedroabreu1 collected ($0.05)
+Seat 6: papadootz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164596396156:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:36:10 BRT [2017/01/14 23:36:10 ET]
+Table 'Cline' 6-max Seat #3 is the button
+Seat 1: 60Servings ($1.97 in chips) 
+Seat 2: 22alex88 ($4.26 in chips) 
+Seat 3: lucky shayla ($1.51 in chips) 
+Seat 4: thgpdvz88 ($4.41 in chips) 
+Seat 5: pedroabreu1 ($3.99 in chips) 
+Seat 6: papadootz ($2.22 in chips) 
+thgpdvz88: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad 6s]
+papadootz: calls $0.02
+60Servings: raises $0.06 to $0.08
+22alex88: calls $0.08
+lucky shayla: folds 
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: folds 
+*** FLOP *** [6h 7d 7s]
+60Servings: bets $0.16
+22alex88: calls $0.16
+*** TURN *** [6h 7d 7s] [Th]
+60Servings: bets $0.41
+22alex88: folds 
+Uncalled bet ($0.41) returned to 60Servings
+60Servings collected $0.51 from pot
+60Servings: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [6h 7d 7s Th]
+Seat 1: 60Servings collected ($0.51)
+Seat 2: 22alex88 folded on the Turn
+Seat 3: lucky shayla (button) folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (small blind) folded before Flop
+Seat 5: pedroabreu1 (big blind) folded before Flop
+Seat 6: papadootz folded before Flop
+
+
+
+PokerStars Hand #164596420187:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:37:22 BRT [2017/01/14 23:37:22 ET]
+Table 'Cline' 6-max Seat #4 is the button
+Seat 1: 60Servings ($2.24 in chips) 
+Seat 2: 22alex88 ($4.02 in chips) 
+Seat 3: lucky shayla ($1.51 in chips) 
+Seat 4: thgpdvz88 ($4.40 in chips) 
+Seat 5: pedroabreu1 ($3.97 in chips) 
+Seat 6: papadootz ($2.20 in chips) 
+pedroabreu1: posts small blind $0.01
+papadootz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d Qc]
+60Servings: folds 
+22alex88: raises $0.04 to $0.06
+lucky shayla: folds 
+thgpdvz88: calls $0.06
+pedroabreu1: folds 
+papadootz: calls $0.04
+*** FLOP *** [4d 3s 2c]
+papadootz: checks 
+22alex88: bets $0.12
+thgpdvz88: folds 
+papadootz: calls $0.12
+*** TURN *** [4d 3s 2c] [Qd]
+papadootz: checks 
+22alex88: checks 
+*** RIVER *** [4d 3s 2c Qd] [Kc]
+papadootz: bets $0.82
+22alex88: folds 
+Uncalled bet ($0.82) returned to papadootz
+papadootz collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [4d 3s 2c Qd Kc]
+Seat 1: 60Servings folded before Flop (didn't bet)
+Seat 2: 22alex88 folded on the River
+Seat 3: lucky shayla folded before Flop (didn't bet)
+Seat 4: thgpdvz88 (button) folded on the Flop
+Seat 5: pedroabreu1 (small blind) folded before Flop
+Seat 6: papadootz (big blind) collected ($0.41)
+
+
+
+PokerStars Hand #164596446346:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:38:41 BRT [2017/01/14 23:38:41 ET]
+Table 'Cline' 6-max Seat #5 is the button
+Seat 1: 60Servings ($2.24 in chips) 
+Seat 2: 22alex88 ($3.84 in chips) 
+Seat 3: lucky shayla ($1.51 in chips) 
+Seat 4: thgpdvz88 ($4.34 in chips) 
+Seat 5: pedroabreu1 ($3.96 in chips) 
+Seat 6: papadootz ($2.43 in chips) 
+papadootz: posts small blind $0.01
+60Servings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h Tc]
+22alex88: folds 
+lucky shayla: raises $0.02 to $0.04
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.03
+60Servings: calls $0.02
+*** FLOP *** [Jh 8s 9d]
+papadootz: bets $0.04
+60Servings: folds 
+lucky shayla: calls $0.04
+*** TURN *** [Jh 8s 9d] [Ad]
+papadootz: bets $0.04
+lucky shayla: calls $0.04
+*** RIVER *** [Jh 8s 9d Ad] [Qd]
+papadootz: bets $0.12
+lucky shayla: folds 
+Uncalled bet ($0.12) returned to papadootz
+papadootz collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Jh 8s 9d Ad Qd]
+Seat 1: 60Servings (big blind) folded on the Flop
+Seat 2: 22alex88 folded before Flop (didn't bet)
+Seat 3: lucky shayla folded on the River
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 6: papadootz (small blind) collected ($0.27)
+
+
+
+PokerStars Hand #164596468474:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:39:47 BRT [2017/01/14 23:39:47 ET]
+Table 'Cline' 6-max Seat #6 is the button
+Seat 1: 60Servings ($2.20 in chips) 
+Seat 2: 22alex88 ($3.84 in chips) 
+Seat 3: lucky shayla ($1.39 in chips) 
+Seat 4: thgpdvz88 ($4.34 in chips) 
+Seat 5: pedroabreu1 ($3.96 in chips) 
+Seat 6: papadootz ($2.58 in chips) 
+60Servings: posts small blind $0.01
+22alex88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac Qs]
+lucky shayla: calls $0.02
+thgpdvz88: raises $0.06 to $0.08
+pedroabreu1: raises $0.20 to $0.28
+papadootz: calls $0.28
+60Servings: folds 
+22alex88: folds 
+lucky shayla: folds 
+thgpdvz88: calls $0.20
+*** FLOP *** [7h 2s 4d]
+thgpdvz88: checks 
+pedroabreu1: bets $0.50
+papadootz: folds 
+thgpdvz88: folds 
+Uncalled bet ($0.50) returned to pedroabreu1
+pedroabreu1 collected $0.86 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [7h 2s 4d]
+Seat 1: 60Servings (small blind) folded before Flop
+Seat 2: 22alex88 (big blind) folded before Flop
+Seat 3: lucky shayla folded before Flop
+Seat 4: thgpdvz88 folded on the Flop
+Seat 5: pedroabreu1 collected ($0.86)
+Seat 6: papadootz (button) folded on the Flop
+
+
+
+PokerStars Hand #164596489833:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/15 2:40:52 BRT [2017/01/14 23:40:52 ET]
+Table 'Cline' 6-max Seat #1 is the button
+Seat 1: 60Servings ($2.19 in chips) 
+Seat 2: 22alex88 ($3.82 in chips) 
+Seat 3: lucky shayla ($1.37 in chips) 
+Seat 4: thgpdvz88 ($4.06 in chips) 
+Seat 5: pedroabreu1 ($4.54 in chips) 
+Seat 6: papadootz ($2.30 in chips) 
+22alex88: posts small blind $0.01
+lucky shayla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c Qd]
+thgpdvz88: folds 
+pedroabreu1: folds 
+papadootz: calls $0.02
+60Servings: folds 
+22alex88: folds 
+lucky shayla: checks 
+*** FLOP *** [Jh Th Js]
+lucky shayla: checks 
+papadootz: bets $0.10
+lucky shayla: folds 
+Uncalled bet ($0.10) returned to papadootz
+papadootz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh Th Js]
+Seat 1: 60Servings (button) folded before Flop (didn't bet)
+Seat 2: 22alex88 (small blind) folded before Flop
+Seat 3: lucky shayla (big blind) folded on the Flop
+Seat 4: thgpdvz88 folded before Flop (didn't bet)
+Seat 5: pedroabreu1 folded before Flop (didn't bet)
+Seat 6: papadootz collected ($0.05)
+
+
+

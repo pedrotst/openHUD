@@ -1,0 +1,83 @@
+﻿PokerStars Hand #164794338729:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/01/18 15:56:27 ET
+Table 'Nemausa II' 6-max Seat #6 is the button
+Seat 1: NottaI ($5.13 in chips) 
+Seat 2: pedroabreu1 ($5 in chips) 
+Seat 3: coolzzz013 ($11 in chips) 
+Seat 5: RaphaPicca ($5.09 in chips) 
+Seat 6: dariusMgn13 ($5.14 in chips) 
+NottaI: posts small blind $0.02
+pedroabreu1: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 4h]
+coolzzz013: folds 
+RaphaPicca: folds 
+dariusMgn13: folds 
+NottaI: folds 
+Uncalled bet ($0.03) returned to pedroabreu1
+pedroabreu1 collected $0.04 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: NottaI (small blind) folded before Flop
+Seat 2: pedroabreu1 (big blind) collected ($0.04)
+Seat 3: coolzzz013 folded before Flop (didn't bet)
+Seat 5: RaphaPicca folded before Flop (didn't bet)
+Seat 6: dariusMgn13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794365626:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/01/18 15:57:00 ET
+Table 'Nemausa II' 6-max Seat #1 is the button
+Seat 1: NottaI ($5.11 in chips) 
+Seat 2: pedroabreu1 ($5.02 in chips) 
+Seat 3: coolzzz013 ($11 in chips) 
+Seat 5: RaphaPicca ($5.09 in chips) 
+Seat 6: dariusMgn13 ($5.14 in chips) 
+pedroabreu1: posts small blind $0.02
+coolzzz013: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d 6c]
+RaphaPicca: folds 
+dariusMgn13: folds 
+NottaI: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.03) returned to coolzzz013
+coolzzz013 collected $0.04 from pot
+coolzzz013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: NottaI (button) folded before Flop (didn't bet)
+Seat 2: pedroabreu1 (small blind) folded before Flop
+Seat 3: coolzzz013 (big blind) collected ($0.04)
+Seat 5: RaphaPicca folded before Flop (didn't bet)
+Seat 6: dariusMgn13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794382631:  Hold'em No Limit ($0.02/$0.05 USD) - 2017/01/18 15:57:21 ET
+Table 'Nemausa II' 6-max Seat #2 is the button
+Seat 1: NottaI ($5.11 in chips) 
+Seat 2: pedroabreu1 ($5 in chips) 
+Seat 3: coolzzz013 ($11.02 in chips) 
+Seat 6: dariusMgn13 ($5.14 in chips) 
+coolzzz013: posts small blind $0.02
+RaphaPicca: is sitting out 
+dariusMgn13: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 8c]
+NottaI: folds 
+RaphaPicca leaves the table
+pedroabreu1: folds 
+coolzzz013: folds 
+Uncalled bet ($0.03) returned to dariusMgn13
+dariusMgn13 collected $0.04 from pot
+dariusMgn13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: NottaI folded before Flop (didn't bet)
+Seat 2: pedroabreu1 (button) folded before Flop (didn't bet)
+Seat 3: coolzzz013 (small blind) folded before Flop
+Seat 6: dariusMgn13 (big blind) collected ($0.04)
+
+
+

@@ -1,0 +1,4135 @@
+﻿PokerStars Hand #164794405808:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:57:49 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: Bartdodododo ($5.58 in chips) 
+Seat 2: betwave ($2.63 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.81 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+alekseyterno: posts small blind $0.01
+Dread842 was removed from the table for failing to post
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh 3s]
+Bartdodododo: folds 
+betwave: raises $0.03 to $0.05
+Mozillla11: folds 
+Paloschid joins the table at seat #5 
+alekseyterno: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.03) returned to betwave
+betwave collected $0.05 from pot
+betwave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Bartdodododo folded before Flop (didn't bet)
+Seat 2: betwave collected ($0.05)
+Seat 3: Mozillla11 (button) folded before Flop (didn't bet)
+Seat 4: alekseyterno (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164794417809:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:58:04 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: Bartdodododo ($5.58 in chips) 
+Seat 2: betwave ($2.66 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.80 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Paloschid will be allowed to play after the button
+pedroabreu1: posts small blind $0.01
+Bartdodododo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc 3h]
+betwave: folds 
+Mozillla11: folds 
+alekseyterno: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to Bartdodododo
+Bartdodododo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Bartdodododo (big blind) collected ($0.02)
+Seat 2: betwave folded before Flop (didn't bet)
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164794428806:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:58:18 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: Bartdodododo ($5.59 in chips) 
+Seat 2: betwave ($2.66 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.80 in chips) 
+Seat 5: Paloschid ($0.80 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Bartdodododo: posts small blind $0.01
+betwave: posts big blind $0.02
+Paloschid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c Tc]
+Mozillla11: folds 
+alekseyterno: folds 
+Paloschid: checks 
+pedroabreu1: folds 
+Bartdodododo: folds 
+betwave: checks 
+*** FLOP *** [3s 5d Js]
+betwave: checks 
+Paloschid: bets $0.02
+betwave: folds 
+Uncalled bet ($0.02) returned to Paloschid
+Paloschid collected $0.05 from pot
+Paloschid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s 5d Js]
+Seat 1: Bartdodododo (small blind) folded before Flop
+Seat 2: betwave (big blind) folded on the Flop
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno folded before Flop (didn't bet)
+Seat 5: Paloschid collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794470290:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:59:08 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: Bartdodododo ($5.58 in chips) 
+Seat 2: betwave ($2.64 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.80 in chips) 
+Seat 5: Paloschid ($0.83 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+betwave: posts small blind $0.01
+Mozillla11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d 5s]
+alekseyterno: folds 
+Paloschid: calls $0.02
+pedroabreu1: raises $0.08 to $0.10
+Bartdodododo: folds 
+betwave: folds 
+Mozillla11: folds 
+Paloschid: calls $0.08
+*** FLOP *** [Qh Ts 8c]
+Paloschid: checks 
+pedroabreu1: checks 
+*** TURN *** [Qh Ts 8c] [9c]
+Paloschid: bets $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.06) returned to Paloschid
+Paloschid collected $0.22 from pot
+Paloschid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qh Ts 8c 9c]
+Seat 1: Bartdodododo (button) folded before Flop (didn't bet)
+Seat 2: betwave (small blind) folded before Flop
+Seat 3: Mozillla11 (big blind) folded before Flop
+Seat 4: alekseyterno folded before Flop (didn't bet)
+Seat 5: Paloschid collected ($0.22)
+Seat 6: pedroabreu1 folded on the Turn
+
+
+
+PokerStars Hand #164794507546:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 15:59:54 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: Bartdodododo ($5.58 in chips) 
+Seat 2: betwave ($2.63 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.80 in chips) 
+Seat 5: Paloschid ($0.95 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Mozillla11: posts small blind $0.01
+alekseyterno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c 4s]
+Paloschid: calls $0.02
+pedroabreu1: folds 
+Bartdodododo: folds 
+betwave: folds 
+Mozillla11: folds 
+alekseyterno: checks 
+*** FLOP *** [Qh 3h 2h]
+alekseyterno: bets $0.02
+Paloschid: raises $0.02 to $0.04
+alekseyterno: calls $0.02
+*** TURN *** [Qh 3h 2h] [6h]
+alekseyterno: bets $0.02
+Paloschid: raises $0.02 to $0.04
+alekseyterno: calls $0.02
+*** RIVER *** [Qh 3h 2h 6h] [Jh]
+alekseyterno: checks 
+Paloschid: bets $0.10
+alekseyterno: calls $0.10
+*** SHOW DOWN ***
+Paloschid: shows [Ah 8c] (a flush, Ace high)
+alekseyterno: mucks hand 
+Paloschid collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Qh 3h 2h 6h Jh]
+Seat 1: Bartdodododo folded before Flop (didn't bet)
+Seat 2: betwave (button) folded before Flop (didn't bet)
+Seat 3: Mozillla11 (small blind) folded before Flop
+Seat 4: alekseyterno (big blind) mucked [6c Qd]
+Seat 5: Paloschid showed [Ah 8c] and won ($0.40) with a flush, Ace high
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794556605:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:00:51 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: Bartdodododo ($5.58 in chips) 
+Seat 2: betwave ($2.63 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.60 in chips) 
+Seat 5: Paloschid ($1.15 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+alekseyterno: posts small blind $0.01
+Paloschid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c Qs]
+pedroabreu1: folds 
+Bartdodododo: raises $0.04 to $0.06
+betwave: raises $0.11 to $0.17
+Mozillla11: folds 
+alekseyterno: folds 
+Paloschid: calls $0.15
+Bartdodododo: calls $0.11
+*** FLOP *** [9c 4d 6h]
+Paloschid: bets $0.12
+Bartdodododo: calls $0.12
+betwave: calls $0.12
+*** TURN *** [9c 4d 6h] [2h]
+Paloschid: bets $0.12
+Bartdodododo: raises $0.12 to $0.24
+betwave: calls $0.24
+Paloschid: calls $0.12
+*** RIVER *** [9c 4d 6h 2h] [4s]
+Paloschid: bets $0.12
+Bartdodododo: raises $0.90 to $1.02
+betwave: folds 
+Paloschid: calls $0.50 and is all-in
+Uncalled bet ($0.40) returned to Bartdodododo
+*** SHOW DOWN ***
+Bartdodododo: shows [5h 3h] (a straight, Deuce to Six)
+Paloschid: shows [9s 9h] (a full house, Nines full of Fours)
+Paloschid collected $2.74 from pot
+*** SUMMARY ***
+Total pot $2.84 | Rake $0.10 
+Board [9c 4d 6h 2h 4s]
+Seat 1: Bartdodododo showed [5h 3h] and lost with a straight, Deuce to Six
+Seat 2: betwave folded on the River
+Seat 3: Mozillla11 (button) folded before Flop (didn't bet)
+Seat 4: alekseyterno (small blind) folded before Flop
+Seat 5: Paloschid (big blind) showed [9s 9h] and won ($2.74) with a full house, Nines full of Fours
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794636813:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:02:16 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: Bartdodododo ($4.43 in chips) 
+Seat 2: betwave ($2.10 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.59 in chips) 
+Seat 5: Paloschid ($2.74 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Paloschid: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 9d]
+Bartdodododo: folds 
+betwave: raises $0.04 to $0.06
+Bartdodododo said, "funny site aint it?"
+Mozillla11: folds 
+alekseyterno: calls $0.06
+Paloschid: folds 
+Bartdodododo said, "<:):D"
+pedroabreu1: folds 
+*** FLOP *** [2s Kh 9h]
+Paloschid leaves the table
+Bartdodododo said, "good hand"
+betwave: checks 
+alekseyterno: checks 
+*** TURN *** [2s Kh 9h] [6s]
+betwave: checks 
+alekseyterno: checks 
+*** RIVER *** [2s Kh 9h 6s] [As]
+betwave: checks 
+alekseyterno: bets $0.08
+betwave: calls $0.08
+*** SHOW DOWN ***
+alekseyterno: shows [3h Ad] (a pair of Aces)
+betwave: mucks hand 
+alekseyterno collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [2s Kh 9h 6s As]
+Seat 1: Bartdodododo folded before Flop (didn't bet)
+Seat 2: betwave mucked [Qs Qd]
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno (button) showed [3h Ad] and won ($0.30) with a pair of Aces
+Seat 5: Paloschid (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164794687723:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:03:06 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: Bartdodododo ($4.43 in chips) 
+Seat 2: betwave ($2 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.75 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Bartdodododo: posts small blind $0.01
+betwave: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 8d]
+Mozillla11: folds 
+alekseyterno: calls $0.02
+pedroabreu1: folds 
+Bartdodododo: folds 
+HyrymaN joins the table at seat #5 
+betwave: checks 
+*** FLOP *** [Ah 5c Qh]
+betwave: checks 
+alekseyterno: bets $0.02
+betwave: folds 
+Uncalled bet ($0.02) returned to alekseyterno
+alekseyterno collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 5c Qh]
+Seat 1: Bartdodododo (small blind) folded before Flop
+Seat 2: betwave (big blind) folded on the Flop
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794722568:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:03:40 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: Bartdodododo ($4.42 in chips) 
+Seat 2: betwave ($2 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.78 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+betwave: posts small blind $0.01
+Mozillla11: posts big blind $0.02
+HyrymaN: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 9c]
+alekseyterno: calls $0.02
+pedroabreu1: folds 
+Bartdodododo: folds 
+betwave: folds 
+Mozillla11: raises $0.08 to $0.10
+alekseyterno: calls $0.08
+*** FLOP *** [Qh 5d 4d]
+Mozillla11: bets $0.10
+alekseyterno: raises $0.10 to $0.20
+Mozillla11: folds 
+Uncalled bet ($0.10) returned to alekseyterno
+alekseyterno collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Qh 5d 4d]
+Seat 1: Bartdodododo (button) folded before Flop (didn't bet)
+Seat 2: betwave (small blind) folded before Flop
+Seat 3: Mozillla11 (big blind) folded on the Flop
+Seat 4: alekseyterno collected ($0.40)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794749352:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:04:07 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: Bartdodododo ($4.42 in chips) 
+Seat 2: betwave ($2 in chips) 
+Seat 3: Mozillla11 ($2 in chips) 
+Seat 4: alekseyterno ($0.98 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Mozillla11: posts small blind $0.01
+alekseyterno: posts big blind $0.02
+HyrymaN: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 2c]
+pedroabreu1: folds 
+Bartdodododo: raises $0.04 to $0.06
+betwave: folds 
+Mozillla11: calls $0.05
+alekseyterno: calls $0.04
+*** FLOP *** [7s Kh 8s]
+Mozillla11: checks 
+alekseyterno: checks 
+Bartdodododo: checks 
+*** TURN *** [7s Kh 8s] [4h]
+Mozillla11: bets $0.11
+alekseyterno: calls $0.11
+Bartdodododo: folds 
+*** RIVER *** [7s Kh 8s 4h] [Ks]
+Mozillla11: checks 
+alekseyterno: checks 
+*** SHOW DOWN ***
+Mozillla11: shows [9s 9d] (two pair, Kings and Nines)
+alekseyterno: mucks hand 
+Mozillla11 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [7s Kh 8s 4h Ks]
+Seat 1: Bartdodododo folded on the Turn
+Seat 2: betwave (button) folded before Flop (didn't bet)
+Seat 3: Mozillla11 (small blind) showed [9s 9d] and won ($0.39) with two pair, Kings and Nines
+Seat 4: alekseyterno (big blind) mucked [7c Qd]
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794816178:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:05:12 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: Bartdodododo ($4.36 in chips) 
+Seat 2: betwave ($2 in chips) 
+Seat 3: Mozillla11 ($2.22 in chips) 
+Seat 4: alekseyterno ($0.81 in chips) 
+Seat 5: HyrymaN ($2 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+alekseyterno: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h 9h]
+pedroabreu1: folds 
+Bartdodododo: raises $0.04 to $0.06
+betwave: folds 
+Mozillla11: folds 
+alekseyterno: calls $0.05
+HyrymaN: raises $0.14 to $0.20
+Bartdodododo: calls $0.14
+alekseyterno: folds 
+*** FLOP *** [Kh 7s Qd]
+HyrymaN: bets $0.30
+Bartdodododo: calls $0.30
+*** TURN *** [Kh 7s Qd] [3s]
+HyrymaN: bets $0.71
+Bartdodododo: folds 
+Uncalled bet ($0.71) returned to HyrymaN
+HyrymaN collected $1.02 from pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [Kh 7s Qd 3s]
+Seat 1: Bartdodododo folded on the Turn
+Seat 2: betwave folded before Flop (didn't bet)
+Seat 3: Mozillla11 (button) folded before Flop (didn't bet)
+Seat 4: alekseyterno (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) collected ($1.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164794876577:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:06:11 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: Bartdodododo ($3.86 in chips) 
+Seat 2: betwave ($2 in chips) 
+Seat 3: Mozillla11 ($2.22 in chips) 
+Seat 4: alekseyterno ($0.75 in chips) 
+Seat 5: HyrymaN ($2.52 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 4d]
+Bartdodododo: folds 
+Bartdodododo leaves the table
+betwave: folds 
+Mozillla11: raises $0.06 to $0.08
+alekseyterno: raises $0.06 to $0.14
+HyrymaN: folds 
+pedroabreu1: folds 
+Mozillla11: calls $0.06
+*** FLOP *** [4s 3d Jh]
+Mozillla11: checks 
+alekseyterno: bets $0.08
+Mozillla11: folds 
+Uncalled bet ($0.08) returned to alekseyterno
+alekseyterno collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4s 3d Jh]
+Seat 1: Bartdodododo folded before Flop (didn't bet)
+Seat 2: betwave folded before Flop (didn't bet)
+Seat 3: Mozillla11 folded on the Flop
+Seat 4: alekseyterno (button) collected ($0.30)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164794911823:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:06:47 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 3: Mozillla11 ($2.08 in chips) 
+Seat 4: alekseyterno ($0.91 in chips) 
+Seat 5: HyrymaN ($2.51 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MaestroCost joins the table at seat #1 
+pedroabreu1: posts small blind $0.01
+betwave: is sitting out 
+betwave leaves the table
+Mozillla11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 9c]
+alekseyterno: folds 
+Yoda454 joins the table at seat #2 
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+Mozillla11: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.04 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: Mozillla11 (big blind) folded before Flop
+Seat 4: alekseyterno folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #164794941983:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:07:16 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 3: Mozillla11 ($2.06 in chips) 
+Seat 4: alekseyterno ($0.91 in chips) 
+Seat 5: HyrymaN ($2.51 in chips) 
+Seat 6: pedroabreu1 ($2.02 in chips) 
+MaestroCost will be allowed to play after the button
+Yoda454 will be allowed to play after the button
+Mozillla11: posts small blind $0.01
+alekseyterno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Td]
+HyrymaN: folds 
+pedroabreu1: raises $0.06 to $0.08
+Mozillla11: folds 
+alekseyterno: folds 
+Uncalled bet ($0.06) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: Mozillla11 (small blind) folded before Flop
+Seat 4: alekseyterno (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164794965309:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:07:39 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 4: alekseyterno ($0.89 in chips) 
+Seat 5: HyrymaN ($2.51 in chips) 
+Seat 6: pedroabreu1 ($2.05 in chips) 
+alekseyterno: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+MaestroCost: sits out 
+Yoda454: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 4h]
+pedroabreu1: folds 
+Mozillla11: folds 
+alekseyterno: calls $0.01
+HyrymaN: checks 
+*** FLOP *** [8s 3s Ah]
+alekseyterno: checks 
+HyrymaN: bets $0.04
+alekseyterno: calls $0.04
+*** TURN *** [8s 3s Ah] [Jh]
+alekseyterno: checks 
+HyrymaN: bets $0.10
+alekseyterno: folds 
+Uncalled bet ($0.10) returned to HyrymaN
+HyrymaN collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s 3s Ah Jh]
+Seat 3: Mozillla11 (button) folded before Flop (didn't bet)
+Seat 4: alekseyterno (small blind) folded on the Turn
+Seat 5: HyrymaN (big blind) collected ($0.12)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795000164:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:08:14 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 4: alekseyterno ($0.83 in chips) 
+Seat 5: HyrymaN ($2.57 in chips) 
+Seat 6: pedroabreu1 ($2.05 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+MaestroCost: sits out 
+Yoda454: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jc As]
+Mozillla11: folds 
+alekseyterno: raises $0.02 to $0.04
+HyrymaN: folds 
+pedroabreu1: raises $0.12 to $0.16
+alekseyterno: calls $0.12
+*** FLOP *** [7d Qh Th]
+pedroabreu1: bets $0.18
+alekseyterno: raises $0.18 to $0.36
+pedroabreu1: raises $0.52 to $0.88
+alekseyterno: calls $0.31 and is all-in
+Uncalled bet ($0.21) returned to pedroabreu1
+*** TURN *** [7d Qh Th] [8h]
+*** RIVER *** [7d Qh Th 8h] [5c]
+*** SHOW DOWN ***
+pedroabreu1: shows [Jc As] (high card Ace)
+alekseyterno: shows [2s Qs] (a pair of Queens)
+alekseyterno collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.06 
+Board [7d Qh Th 8h 5c]
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno (button) showed [2s Qs] and won ($1.61) with a pair of Queens
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) showed [Jc As] and lost with high card Ace
+
+
+
+PokerStars Hand #164795052500:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:09:06 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 4: alekseyterno ($1.61 in chips) 
+Seat 5: HyrymaN ($2.56 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+MaestroCost: posts big blind $0.02
+Yoda454: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d Qd]
+Mozillla11: folds 
+alekseyterno: calls $0.02
+HyrymaN: raises $0.06 to $0.08
+pedroabreu1: folds 
+MaestroCost: folds 
+alekseyterno: calls $0.06
+*** FLOP *** [9h Jd 2h]
+alekseyterno: bets $0.02
+HyrymaN: raises $0.15 to $0.17
+alekseyterno: calls $0.15
+*** TURN *** [9h Jd 2h] [3c]
+alekseyterno: checks 
+HyrymaN: bets $0.38
+alekseyterno: folds 
+Uncalled bet ($0.38) returned to HyrymaN
+HyrymaN collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [9h Jd 2h 3c]
+Seat 1: MaestroCost (big blind) folded before Flop
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno folded on the Turn
+Seat 5: HyrymaN (button) collected ($0.51)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795096440:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:09:49 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($2 in chips) 
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 4: alekseyterno ($1.36 in chips) 
+Seat 5: HyrymaN ($2.82 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MaestroCost: posts small blind $0.01
+Yoda454: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d Kd]
+Mozillla11: folds 
+alekseyterno: raises $0.02 to $0.04
+HyrymaN: folds 
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+Uncalled bet ($0.02) returned to alekseyterno
+alekseyterno collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MaestroCost (small blind) folded before Flop
+Seat 2: Yoda454 (big blind) folded before Flop
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 4: alekseyterno collected ($0.05)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795108676:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:10:01 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.98 in chips) 
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 4: alekseyterno ($1.39 in chips) 
+Seat 5: HyrymaN ($2.82 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Yoda454: posts small blind $0.01
+Mozillla11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h 4s]
+alekseyterno: raises $0.02 to $0.04
+HyrymaN: folds 
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+Mozillla11: folds 
+Uncalled bet ($0.02) returned to alekseyterno
+alekseyterno collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MaestroCost (button) folded before Flop (didn't bet)
+Seat 2: Yoda454 (small blind) folded before Flop
+Seat 3: Mozillla11 (big blind) folded before Flop
+Seat 4: alekseyterno collected ($0.05)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795124189:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:10:16 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 3: Mozillla11 ($2.03 in chips) 
+Seat 4: alekseyterno ($1.42 in chips) 
+Seat 5: HyrymaN ($2.82 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Mozillla11: posts small blind $0.01
+alekseyterno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c Ac]
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+Mozillla11: folds 
+alekseyterno: calls $0.04
+*** FLOP *** [5h Kd 8d]
+alekseyterno: bets $0.02
+HyrymaN: raises $0.11 to $0.13
+alekseyterno: calls $0.11
+*** TURN *** [5h Kd 8d] [7s]
+alekseyterno: checks 
+HyrymaN: bets $0.32
+alekseyterno: calls $0.32
+*** RIVER *** [5h Kd 8d 7s] [3h]
+alekseyterno: checks 
+HyrymaN: bets $0.94
+alekseyterno: folds 
+Uncalled bet ($0.94) returned to HyrymaN
+HyrymaN collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [5h Kd 8d 7s 3h]
+Seat 1: MaestroCost folded before Flop (didn't bet)
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 3: Mozillla11 (small blind) folded before Flop
+Seat 4: alekseyterno (big blind) folded on the River
+Seat 5: HyrymaN collected ($0.99)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795187289:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:11:18 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 3: Mozillla11 ($2.02 in chips) 
+Seat 4: alekseyterno ($0.91 in chips) 
+Seat 5: HyrymaN ($3.30 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+alekseyterno: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 2s]
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+Mozillla11: raises $0.04 to $0.06
+alekseyterno: folds 
+HyrymaN: folds 
+Uncalled bet ($0.04) returned to Mozillla11
+alekseyterno leaves the table
+Mozillla11 collected $0.05 from pot
+Mozillla11: doesn't show hand 
+nekisska322 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MaestroCost folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: Mozillla11 (button) collected ($0.05)
+Seat 4: alekseyterno (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795201410:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:11:32 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 5: HyrymaN ($3.28 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+MaestroCost: posts big blind $0.02
+nekisska322: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 9d]
+Yoda454: folds 
+Mozillla11: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to MaestroCost
+MaestroCost collected $0.02 from pot
+MaestroCost: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MaestroCost (big blind) collected ($0.02)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795216928:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:11:47 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: MaestroCost ($2.01 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 3: Mozillla11 ($2.05 in chips) 
+Seat 5: HyrymaN ($3.28 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MaestroCost: posts small blind $0.01
+Yoda454: posts big blind $0.02
+nekisska322: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c Jd]
+Mozillla11: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+MaestroCost: folds 
+Uncalled bet ($0.01) returned to Yoda454
+Yoda454 collected $0.02 from pot
+Yoda454: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MaestroCost (small blind) folded before Flop
+Seat 2: Yoda454 (big blind) collected ($0.02)
+Seat 3: Mozillla11 folded before Flop (didn't bet)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795227865:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:11:58 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.98 in chips) 
+Seat 4: nekisska322 ($2 in chips) 
+Seat 5: HyrymaN ($3.28 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Yoda454: posts small blind $0.01
+Mozillla11: is sitting out 
+Mozillla11 leaves the table
+nekisska322: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s 2c]
+HyrymaN: folds 
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+Uncalled bet ($0.01) returned to nekisska322
+nekisska322 collected $0.02 from pot
+nekisska322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MaestroCost (button) folded before Flop (didn't bet)
+Seat 2: Yoda454 (small blind) folded before Flop
+Seat 4: nekisska322 (big blind) collected ($0.02)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795245955:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:12:16 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 4: nekisska322 ($2.01 in chips) 
+Seat 5: HyrymaN ($3.28 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+nekisska322: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Ac]
+pedroabreu1: raises $0.04 to $0.06
+MaestroCost: folds 
+Yoda454: folds 
+nekisska322: folds 
+HyrymaN: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MaestroCost folded before Flop (didn't bet)
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 4: nekisska322 (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) folded before Flop
+Seat 6: pedroabreu1 collected ($0.05)
+
+
+
+PokerStars Hand #164795257996:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:12:28 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 4: nekisska322 ($2 in chips) 
+Seat 5: HyrymaN ($3.26 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 3d]
+MaestroCost: folds 
+M. Polunin joins the table at seat #3 
+Yoda454: folds 
+nekisska322: raises $0.02 to $0.04
+HyrymaN: calls $0.03
+pedroabreu1: folds 
+*** FLOP *** [Jh Qc 8h]
+HyrymaN: checks 
+nekisska322: bets $0.05
+HyrymaN: folds 
+Uncalled bet ($0.05) returned to nekisska322
+nekisska322 collected $0.10 from pot
+nekisska322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jh Qc 8h]
+Seat 1: MaestroCost folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 4: nekisska322 (button) collected ($0.10)
+Seat 5: HyrymaN (small blind) folded on the Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164795287711:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:12:57 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: MaestroCost ($2 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 4: nekisska322 ($2.06 in chips) 
+Seat 5: HyrymaN ($3.22 in chips) 
+Seat 6: pedroabreu1 ($2.01 in chips) 
+pedroabreu1: posts small blind $0.01
+MaestroCost: posts big blind $0.02
+M. Polunin: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s 5s]
+Yoda454: folds 
+nekisska322: folds 
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+MaestroCost: calls $0.04
+*** FLOP *** [Qh 5d 9s]
+MaestroCost: checks 
+HyrymaN: checks 
+*** TURN *** [Qh 5d 9s] [Ah]
+MaestroCost: checks 
+HyrymaN: checks 
+*** RIVER *** [Qh 5d 9s Ah] [7s]
+MaestroCost: checks 
+HyrymaN: checks 
+*** SHOW DOWN ***
+MaestroCost: shows [Ks Qd] (a pair of Queens)
+HyrymaN: mucks hand 
+MaestroCost collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 5d 9s Ah 7s]
+Seat 1: MaestroCost (big blind) showed [Ks Qd] and won ($0.13) with a pair of Queens
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 4: nekisska322 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) mucked [Kc 3c]
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795325710:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:13:34 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: MaestroCost ($2.07 in chips) 
+Seat 2: Yoda454 ($1.97 in chips) 
+Seat 4: nekisska322 ($2.06 in chips) 
+Seat 5: HyrymaN ($3.16 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MaestroCost: posts small blind $0.01
+Yoda454: posts big blind $0.02
+M. Polunin: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh Jd]
+nekisska322: raises $0.04 to $0.06
+HyrymaN: folds 
+pedroabreu1: calls $0.06
+MaestroCost: folds 
+Yoda454: folds 
+*** FLOP *** [Tc Qh Ah]
+nekisska322: bets $0.08
+pedroabreu1: calls $0.08
+*** TURN *** [Tc Qh Ah] [2c]
+nekisska322: checks 
+pedroabreu1: bets $0.20
+nekisska322: folds 
+Uncalled bet ($0.20) returned to pedroabreu1
+pedroabreu1 collected $0.30 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Tc Qh Ah 2c]
+Seat 1: MaestroCost (small blind) folded before Flop
+Seat 2: Yoda454 (big blind) folded before Flop
+Seat 4: nekisska322 folded on the Turn
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.30)
+
+
+
+PokerStars Hand #164795373115:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:14:21 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: MaestroCost ($2.06 in chips) 
+Seat 2: Yoda454 ($1.95 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: nekisska322 ($2 in chips) 
+Seat 5: HyrymaN ($3.16 in chips) 
+Seat 6: pedroabreu1 ($2.16 in chips) 
+Yoda454: posts small blind $0.01
+M. Polunin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6c 3d]
+nekisska322: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+Uncalled bet ($0.01) returned to M. Polunin
+M. Polunin collected $0.02 from pot
+M. Polunin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MaestroCost (button) folded before Flop (didn't bet)
+Seat 2: Yoda454 (small blind) folded before Flop
+Seat 3: M. Polunin (big blind) collected ($0.02)
+Seat 4: nekisska322 folded before Flop (didn't bet)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795384628:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:14:32 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: MaestroCost ($2.06 in chips) 
+Seat 2: Yoda454 ($1.94 in chips) 
+Seat 3: M. Polunin ($2.01 in chips) 
+Seat 4: nekisska322 ($2 in chips) 
+Seat 5: HyrymaN ($3.16 in chips) 
+Seat 6: pedroabreu1 ($2.16 in chips) 
+M. Polunin: posts small blind $0.01
+nekisska322: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh Ts]
+HyrymaN: folds 
+pedroabreu1: folds 
+MaestroCost: raises $0.04 to $0.06
+Yoda454: folds 
+M. Polunin: folds 
+nekisska322: folds 
+Uncalled bet ($0.04) returned to MaestroCost
+MaestroCost collected $0.05 from pot
+MaestroCost: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MaestroCost collected ($0.05)
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 3: M. Polunin (small blind) folded before Flop
+Seat 4: nekisska322 (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795413191:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:15:00 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: MaestroCost ($2.09 in chips) 
+Seat 2: Yoda454 ($1.94 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: nekisska322 ($2 in chips) 
+Seat 5: HyrymaN ($3.16 in chips) 
+Seat 6: pedroabreu1 ($2.16 in chips) 
+nekisska322: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7s Ad]
+pedroabreu1: folds 
+MaestroCost: folds 
+Yoda454: folds 
+M. Polunin: folds 
+nekisska322: raises $0.02 to $0.04
+HyrymaN: folds 
+Uncalled bet ($0.02) returned to nekisska322
+nekisska322 collected $0.04 from pot
+nekisska322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: MaestroCost folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin (button) folded before Flop (didn't bet)
+Seat 4: nekisska322 (small blind) collected ($0.04)
+Seat 5: HyrymaN (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795426487:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:15:13 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: MaestroCost ($2.09 in chips) 
+Seat 2: Yoda454 ($1.94 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: nekisska322 ($2.02 in chips) 
+Seat 5: HyrymaN ($3.14 in chips) 
+Seat 6: pedroabreu1 ($2.16 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h 2s]
+MaestroCost: folds 
+Yoda454: folds 
+M. Polunin: folds 
+nekisska322: raises $0.04 to $0.06
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to nekisska322
+nekisska322 collected $0.05 from pot
+nekisska322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MaestroCost folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: nekisska322 (button) collected ($0.05)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164795458517:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:15:45 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: Yoda454 ($1.94 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: nekisska322 ($2.05 in chips) 
+Seat 5: HyrymaN ($3.13 in chips) 
+Seat 6: pedroabreu1 ($2.14 in chips) 
+pedroabreu1: posts small blind $0.01
+MaestroCost: is sitting out 
+Yoda454: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 9c]
+MaestroCost leaves the table
+yurcash777 joins the table at seat #1 
+M. Polunin: folds 
+nekisska322: folds 
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: calls $0.05
+Yoda454: folds 
+*** FLOP *** [4c 4h Qs]
+pedroabreu1: checks 
+HyrymaN: bets $0.07
+pedroabreu1: folds 
+Uncalled bet ($0.07) returned to HyrymaN
+HyrymaN collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4c 4h Qs]
+Seat 2: Yoda454 (big blind) folded before Flop
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: nekisska322 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) collected ($0.14)
+Seat 6: pedroabreu1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164795518561:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:16:43 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: Yoda454 ($1.92 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: nekisska322 ($2.05 in chips) 
+Seat 5: HyrymaN ($3.21 in chips) 
+Seat 6: pedroabreu1 ($2.08 in chips) 
+yurcash777 will be allowed to play after the button
+Yoda454: posts small blind $0.01
+M. Polunin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kd Ts]
+nekisska322: raises $0.04 to $0.06
+HyrymaN: folds 
+pedroabreu1: calls $0.06
+Yoda454: folds 
+M. Polunin: folds 
+*** FLOP *** [Ad 9h Qs]
+nekisska322: bets $0.09
+pedroabreu1: calls $0.09
+*** TURN *** [Ad 9h Qs] [5s]
+nekisska322: checks 
+pedroabreu1: bets $0.18
+nekisska322: calls $0.18
+*** RIVER *** [Ad 9h Qs 5s] [2h]
+nekisska322: checks 
+pedroabreu1: bets $0.40
+nekisska322: calls $0.40
+*** SHOW DOWN ***
+pedroabreu1: shows [Kd Ts] (high card Ace)
+nekisska322: shows [5c Ac] (two pair, Aces and Fives)
+nekisska322 collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.05 
+Board [Ad 9h Qs 5s 2h]
+Seat 2: Yoda454 (small blind) folded before Flop
+Seat 3: M. Polunin (big blind) folded before Flop
+Seat 4: nekisska322 showed [5c Ac] and won ($1.44) with two pair, Aces and Fives
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) showed [Kd Ts] and lost with high card Ace
+
+
+
+PokerStars Hand #164795569291:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:17:33 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: Yoda454 ($1.91 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.21 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+M. Polunin: posts small blind $0.01
+nekisska322: is sitting out 
+HyrymaN: posts big blind $0.02
+yurcash777: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d As]
+nekisska322 leaves the table
+pedroabreu1: folds 
+Yoda454: folds 
+M. Polunin: folds 
+Uncalled bet ($0.01) returned to HyrymaN
+HyrymaN collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 3: M. Polunin (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795578008:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:17:42 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: Yoda454 ($1.91 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.22 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+yurcash777: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h 5c]
+Felix56789 joins the table at seat #4 
+Yoda454: folds 
+M. Polunin: folds 
+Felix56789 leaves the table
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to HyrymaN
+HyrymaN collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) collected ($0.04)
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164795590310:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:17:54 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: Yoda454 ($1.91 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.24 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+yurcash777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d Kc]
+Yoda454: folds 
+M. Polunin: folds 
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+yurcash777: folds 
+Uncalled bet ($0.04) returned to HyrymaN
+HyrymaN collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yurcash777 (big blind) folded before Flop
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) collected ($0.05)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795606331:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:18:09 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: Yoda454 ($1.91 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+yurcash777: posts small blind $0.01
+Yoda454: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h 7s]
+M. Polunin: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: calls $0.01
+Yoda454: checks 
+*** FLOP *** [Qs Th 2s]
+yurcash777: checks 
+Yoda454: checks 
+*** TURN *** [Qs Th 2s] [Qc]
+yurcash777: checks 
+Yoda454: checks 
+*** RIVER *** [Qs Th 2s Qc] [8s]
+yurcash777: checks 
+Yoda454: bets $0.02
+yurcash777: folds 
+Uncalled bet ($0.02) returned to Yoda454
+Yoda454 collected $0.04 from pot
+Yoda454: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs Th 2s Qc 8s]
+Seat 1: yurcash777 (small blind) folded on the River
+Seat 2: Yoda454 (big blind) collected ($0.04)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795630480:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:18:33 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: Yoda454 ($1.93 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Yoda454: posts small blind $0.01
+M. Polunin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 6d]
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: raises $0.05 to $0.07
+Yoda454: folds 
+M. Polunin: folds 
+Uncalled bet ($0.05) returned to yurcash777
+yurcash777 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yurcash777 (button) collected ($0.05)
+Seat 2: Yoda454 (small blind) folded before Flop
+Seat 3: M. Polunin (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795665182:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:19:08 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.92 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+M. Polunin: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d Jc]
+11Knockout11 joins the table at seat #4 
+pedroabreu1: folds 
+yurcash777: folds 
+Yoda454: folds 
+M. Polunin: folds 
+Uncalled bet ($0.01) returned to HyrymaN
+HyrymaN collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 3: M. Polunin (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795676893:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:19:20 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.92 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 5: HyrymaN ($3.28 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+11Knockout11 will be allowed to play after the button
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 3h]
+yurcash777: folds 
+Yoda454: folds 
+M. Polunin: folds 
+HyrymaN: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164795690223:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:19:33 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.92 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($0.80 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2.01 in chips) 
+pedroabreu1: posts small blind $0.01
+yurcash777: posts big blind $0.02
+11Knockout11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7d 9h]
+Yoda454: folds 
+M. Polunin: folds 
+11Knockout11: checks 
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: checks 
+*** FLOP *** [Qs Ad 8s]
+yurcash777: checks 
+11Knockout11: checks 
+*** TURN *** [Qs Ad 8s] [Qh]
+yurcash777: checks 
+11Knockout11: checks 
+*** RIVER *** [Qs Ad 8s Qh] [8c]
+yurcash777: checks 
+11Knockout11: checks 
+*** SHOW DOWN ***
+yurcash777: shows [6s Td] (two pair, Queens and Eights)
+11Knockout11: shows [2c Tc] (two pair, Queens and Eights)
+yurcash777 collected $0.03 from pot
+11Knockout11 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs Ad 8s Qh 8c]
+Seat 1: yurcash777 (big blind) showed [6s Td] and won ($0.03) with two pair, Queens and Eights
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 showed [2c Tc] and won ($0.02) with two pair, Queens and Eights
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164795729642:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:20:13 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: yurcash777 ($2.04 in chips) 
+Seat 2: Yoda454 ($1.92 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($0.80 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+yurcash777: posts small blind $0.01
+Yoda454: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 7d]
+M. Polunin: folds 
+11Knockout11: folds 
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+yurcash777: folds 
+Yoda454: calls $0.04
+*** FLOP *** [5h 2s Ts]
+Yoda454: checks 
+pedroabreu1: checks 
+*** TURN *** [5h 2s Ts] [4c]
+Yoda454: bets $0.07
+pedroabreu1: folds 
+Uncalled bet ($0.07) returned to Yoda454
+Yoda454 collected $0.13 from pot
+Yoda454: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5h 2s Ts 4c]
+Seat 1: yurcash777 (small blind) folded before Flop
+Seat 2: Yoda454 (big blind) collected ($0.13)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 folded before Flop (didn't bet)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded on the Turn
+
+
+
+PokerStars Hand #164795760468:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:20:44 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.99 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($0.80 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Yoda454: posts small blind $0.01
+M. Polunin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 9h]
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+Yoda454: raises $0.08 to $0.10
+M. Polunin: folds 
+11Knockout11: calls $0.08
+*** FLOP *** [Th 7c Qd]
+Yoda454: bets $0.20
+11Knockout11: raises $0.50 to $0.70 and is all-in
+Yoda454: calls $0.50
+*** TURN *** [Th 7c Qd] [5s]
+*** RIVER *** [Th 7c Qd 5s] [6s]
+*** SHOW DOWN ***
+Yoda454: shows [Kc Kd] (a pair of Kings)
+11Knockout11: shows [6d Qh] (two pair, Queens and Sixes)
+11Knockout11 collected $1.56 from pot
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.06 
+Board [Th 7c Qd 5s 6s]
+Seat 1: yurcash777 (button) folded before Flop (didn't bet)
+Seat 2: Yoda454 (small blind) showed [Kc Kd] and lost with a pair of Kings
+Seat 3: M. Polunin (big blind) folded before Flop
+Seat 4: 11Knockout11 showed [6d Qh] and won ($1.56) with two pair, Queens and Sixes
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795796922:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:21:19 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.19 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($1.56 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+M. Polunin: posts small blind $0.01
+11Knockout11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ts Ac]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+yurcash777: folds 
+Yoda454: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.04
+*** FLOP *** [5c Qs 2d]
+11Knockout11: checks 
+pedroabreu1: checks 
+*** TURN *** [5c Qs 2d] [2s]
+11Knockout11: checks 
+pedroabreu1: checks 
+*** RIVER *** [5c Qs 2d 2s] [9s]
+11Knockout11: checks 
+pedroabreu1: checks 
+*** SHOW DOWN ***
+11Knockout11: shows [8c 8h] (two pair, Eights and Deuces)
+pedroabreu1: mucks hand 
+11Knockout11 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5c Qs 2d 2s 9s]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 3: M. Polunin (small blind) folded before Flop
+Seat 4: 11Knockout11 (big blind) showed [8c 8h] and won ($0.13) with two pair, Eights and Deuces
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 mucked [Ts Ac]
+
+
+
+PokerStars Hand #164795855751:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:22:17 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.19 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($1.63 in chips) 
+Seat 5: HyrymaN ($3.27 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+11Knockout11: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c Qc]
+pedroabreu1: folds 
+yurcash777: folds 
+Yoda454: folds 
+M. Polunin: raises $0.03 to $0.05
+11Knockout11: calls $0.04
+HyrymaN: folds 
+*** FLOP *** [Ac 8c 7s]
+11Knockout11: checks 
+M. Polunin: bets $0.06
+11Knockout11: calls $0.06
+*** TURN *** [Ac 8c 7s] [Jh]
+11Knockout11: checks 
+M. Polunin: checks 
+*** RIVER *** [Ac 8c 7s Jh] [Th]
+11Knockout11: checks 
+M. Polunin: checks 
+*** SHOW DOWN ***
+11Knockout11: shows [5c 6d] (high card Ace)
+M. Polunin: shows [Tc Ad] (two pair, Aces and Tens)
+M. Polunin collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ac 8c 7s Jh Th]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin (button) showed [Tc Ad] and won ($0.23) with two pair, Aces and Tens
+Seat 4: 11Knockout11 (small blind) showed [5c 6d] and lost with high card Ace
+Seat 5: HyrymaN (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164795896620:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:22:58 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.99 in chips) 
+Seat 3: M. Polunin ($2.12 in chips) 
+Seat 4: 11Knockout11 ($1.52 in chips) 
+Seat 5: HyrymaN ($3.25 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 8h]
+yurcash777: folds 
+Yoda454: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: checks 
+*** FLOP *** [7h Qs Ad]
+pedroabreu1: checks 
+11Knockout11: checks 
+*** TURN *** [7h Qs Ad] [9s]
+pedroabreu1: checks 
+11Knockout11: checks 
+*** RIVER *** [7h Qs Ad 9s] [2h]
+pedroabreu1: checks 
+11Knockout11: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [4d 8h] (high card Ace)
+11Knockout11: shows [Tc Kd] (high card Ace - King kicker)
+11Knockout11 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7h Qs Ad 9s 2h]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 (button) showed [Tc Kd] and won ($0.05) with high card Ace
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) showed [4d 8h] and lost with high card Ace
+
+
+
+PokerStars Hand #164795924274:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:23:26 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: yurcash777 ($2.03 in chips) 
+Seat 2: Yoda454 ($1.99 in chips) 
+Seat 3: M. Polunin ($2.12 in chips) 
+Seat 4: 11Knockout11 ($1.55 in chips) 
+Seat 5: HyrymaN ($3.24 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+yurcash777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ad Qd]
+Yoda454: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: raises $0.08 to $0.10
+yurcash777: folds 
+11Knockout11: calls $0.08
+*** FLOP *** [Jh 7c As]
+pedroabreu1: bets $0.14
+11Knockout11: folds 
+Uncalled bet ($0.14) returned to pedroabreu1
+pedroabreu1 collected $0.21 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Jh 7c As]
+Seat 1: yurcash777 (big blind) folded before Flop
+Seat 2: Yoda454 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 folded on the Flop
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) collected ($0.21)
+
+
+
+PokerStars Hand #164795961278:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:24:02 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: yurcash777 ($2.01 in chips) 
+Seat 2: Yoda454 ($1.99 in chips) 
+Seat 3: M. Polunin ($2.12 in chips) 
+Seat 4: 11Knockout11 ($1.45 in chips) 
+Seat 5: HyrymaN ($3.24 in chips) 
+Seat 6: pedroabreu1 ($2.11 in chips) 
+yurcash777: posts small blind $0.01
+Yoda454: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c Th]
+M. Polunin: folds 
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+Yoda454: raises $0.06 to $0.08
+11Knockout11: calls $0.06
+*** FLOP *** [Ad 2h 9h]
+Yoda454: checks 
+11Knockout11: checks 
+*** TURN *** [Ad 2h 9h] [Kd]
+Yoda454: bets $0.08
+11Knockout11: calls $0.08
+*** RIVER *** [Ad 2h 9h Kd] [Jd]
+Yoda454: checks 
+11Knockout11: bets $1.29 and is all-in
+Yoda454: calls $1.29
+*** SHOW DOWN ***
+11Knockout11: shows [8d 5d] (a flush, Ace high)
+Yoda454: shows [Qd Kh] (a pair of Kings)
+11Knockout11 collected $2.81 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.10 
+Board [Ad 2h 9h Kd Jd]
+Seat 1: yurcash777 (small blind) folded before Flop
+Seat 2: Yoda454 (big blind) showed [Qd Kh] and lost with a pair of Kings
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 showed [8d 5d] and won ($2.81) with a flush, Ace high
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796012334:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:24:53 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: Yoda454 ($0.54 in chips) 
+Seat 3: M. Polunin ($2.12 in chips) 
+Seat 4: 11Knockout11 ($2.81 in chips) 
+Seat 5: HyrymaN ($3.24 in chips) 
+Seat 6: pedroabreu1 ($2.11 in chips) 
+Yoda454: posts small blind $0.01
+M. Polunin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d Jd]
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+Yoda454: raises $0.04 to $0.06
+M. Polunin: folds 
+11Knockout11: calls $0.04
+*** FLOP *** [Ad Ts 5d]
+Yoda454: checks 
+11Knockout11: checks 
+*** TURN *** [Ad Ts 5d] [6d]
+Yoda454: checks 
+11Knockout11: checks 
+*** RIVER *** [Ad Ts 5d 6d] [Jc]
+Yoda454: checks 
+11Knockout11: checks 
+*** SHOW DOWN ***
+Yoda454: shows [8h 8d] (a pair of Eights)
+11Knockout11: shows [As 7s] (a pair of Aces)
+11Knockout11 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ad Ts 5d 6d Jc]
+Seat 1: yurcash777 (button) folded before Flop (didn't bet)
+Seat 2: Yoda454 (small blind) showed [8h 8d] and lost with a pair of Eights
+Seat 3: M. Polunin (big blind) folded before Flop
+Seat 4: 11Knockout11 showed [As 7s] and won ($0.14) with a pair of Aces
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796039778:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:25:21 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: Yoda454 ($0.48 in chips) 
+Seat 3: M. Polunin ($2.10 in chips) 
+Seat 4: 11Knockout11 ($2.89 in chips) 
+Seat 5: HyrymaN ($3.24 in chips) 
+Seat 6: pedroabreu1 ($2.11 in chips) 
+M. Polunin: posts small blind $0.01
+11Knockout11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd Qc]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+yurcash777: folds 
+Yoda454: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.04
+*** FLOP *** [4c 4h Th]
+11Knockout11: checks 
+Yoda454 leaves the table
+pedroabreu1: bets $0.08
+11Knockout11: calls $0.08
+*** TURN *** [4c 4h Th] [Td]
+11Knockout11: checks 
+pedroabreu1: bets $0.20
+MIKA983 joins the table at seat #2 
+11Knockout11: calls $0.20
+*** RIVER *** [4c 4h Th Td] [As]
+11Knockout11: bets $2.55 and is all-in
+pedroabreu1: folds 
+Uncalled bet ($2.55) returned to 11Knockout11
+11Knockout11 collected $0.67 from pot
+11Knockout11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [4c 4h Th Td As]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: Yoda454 (button) folded before Flop (didn't bet)
+Seat 3: M. Polunin (small blind) folded before Flop
+Seat 4: 11Knockout11 (big blind) collected ($0.67)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded on the River
+
+
+
+PokerStars Hand #164796090050:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:26:05 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 3: M. Polunin ($2.09 in chips) 
+Seat 4: 11Knockout11 ($3.22 in chips) 
+Seat 5: HyrymaN ($3.24 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+11Knockout11: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+MIKA983: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8c 4h]
+pedroabreu1: folds 
+yurcash777: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.01
+HyrymaN: checks 
+*** FLOP *** [Ad Ac 6h]
+11Knockout11: checks 
+HyrymaN: checks 
+*** TURN *** [Ad Ac 6h] [Ts]
+11Knockout11: checks 
+HyrymaN: checks 
+*** RIVER *** [Ad Ac 6h Ts] [6s]
+11Knockout11: checks 
+HyrymaN: checks 
+*** SHOW DOWN ***
+11Knockout11: shows [7h 9d] (two pair, Aces and Sixes)
+HyrymaN: shows [Js 4c] (two pair, Aces and Sixes - Jack kicker)
+HyrymaN collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ad Ac 6h Ts 6s]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 3: M. Polunin (button) folded before Flop (didn't bet)
+Seat 4: 11Knockout11 (small blind) showed [7h 9d] and lost with two pair, Aces and Sixes
+Seat 5: HyrymaN (big blind) showed [Js 4c] and won ($0.04) with two pair, Aces and Sixes
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796129223:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:26:45 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 3: M. Polunin ($2.09 in chips) 
+Seat 4: 11Knockout11 ($3.20 in chips) 
+Seat 5: HyrymaN ($3.26 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+MIKA983: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qs 8d]
+yurcash777: folds 
+M. Polunin: raises $0.03 to $0.05
+11Knockout11: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.03) returned to M. Polunin
+M. Polunin collected $0.05 from pot
+M. Polunin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 3: M. Polunin collected ($0.05)
+Seat 4: 11Knockout11 (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164796141476:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:26:57 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 3: M. Polunin ($2.12 in chips) 
+Seat 4: 11Knockout11 ($3.20 in chips) 
+Seat 5: HyrymaN ($3.25 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+yurcash777: posts big blind $0.02
+MIKA983: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d Kd]
+M. Polunin: folds 
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: calls $0.01
+yurcash777: checks 
+*** FLOP *** [4s Td 7s]
+pedroabreu1: checks 
+yurcash777: checks 
+11Knockout11: checks 
+*** TURN *** [4s Td 7s] [Kc]
+pedroabreu1: checks 
+yurcash777: checks 
+11Knockout11: checks 
+*** RIVER *** [4s Td 7s Kc] [2d]
+pedroabreu1: checks 
+yurcash777: checks 
+11Knockout11: checks 
+*** SHOW DOWN ***
+pedroabreu1: shows [6d Kd] (a pair of Kings)
+yurcash777: mucks hand 
+11Knockout11: mucks hand 
+pedroabreu1 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s Td 7s Kc 2d]
+Seat 1: yurcash777 (big blind) mucked [6h Qd]
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 mucked [5h 2s]
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) showed [6d Kd] and won ($0.06) with a pair of Kings
+
+
+
+PokerStars Hand #164796187549:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:27:44 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: MIKA983 ($2 in chips) 
+Seat 3: M. Polunin ($2.12 in chips) 
+Seat 4: 11Knockout11 ($3.18 in chips) 
+Seat 5: HyrymaN ($3.25 in chips) 
+Seat 6: pedroabreu1 ($2.04 in chips) 
+yurcash777: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d 5h]
+M. Polunin: raises $0.03 to $0.05
+11Knockout11: calls $0.05
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: folds 
+*** FLOP *** [9s Qd Ts]
+M. Polunin: checks 
+11Knockout11: checks 
+*** TURN *** [9s Qd Ts] [Qh]
+M. Polunin: checks 
+11Knockout11: checks 
+*** RIVER *** [9s Qd Ts Qh] [3d]
+M. Polunin: checks 
+11Knockout11: bets $3.13 and is all-in
+M. Polunin: folds 
+Uncalled bet ($3.13) returned to 11Knockout11
+11Knockout11 collected $0.13 from pot
+11Knockout11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s Qd Ts Qh 3d]
+Seat 1: yurcash777 (small blind) folded before Flop
+Seat 2: MIKA983 (big blind) folded before Flop
+Seat 3: M. Polunin folded on the River
+Seat 4: 11Knockout11 collected ($0.13)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796248697:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:28:46 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: yurcash777 ($2 in chips) 
+Seat 2: MIKA983 ($1.98 in chips) 
+Seat 3: M. Polunin ($2.07 in chips) 
+Seat 4: 11Knockout11 ($3.26 in chips) 
+Seat 5: HyrymaN ($3.25 in chips) 
+Seat 6: pedroabreu1 ($2.04 in chips) 
+MIKA983: posts small blind $0.01
+M. Polunin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2h Ts]
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: raises $0.07 to $0.09
+MIKA983: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.07
+*** FLOP *** [9h 4c 8h]
+11Knockout11: checks 
+yurcash777: checks 
+*** TURN *** [9h 4c 8h] [6c]
+11Knockout11: checks 
+yurcash777: checks 
+*** RIVER *** [9h 4c 8h 6c] [Qh]
+11Knockout11: checks 
+yurcash777: checks 
+*** SHOW DOWN ***
+11Knockout11: shows [2c Jc] (high card Queen)
+yurcash777: shows [Ks Js] (high card King)
+yurcash777 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9h 4c 8h 6c Qh]
+Seat 1: yurcash777 (button) showed [Ks Js] and won ($0.20) with high card King
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: M. Polunin (big blind) folded before Flop
+Seat 4: 11Knockout11 showed [2c Jc] and lost with high card Queen
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796284309:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:29:23 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: yurcash777 ($2.11 in chips) 
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 3: M. Polunin ($2.05 in chips) 
+Seat 4: 11Knockout11 ($3.17 in chips) 
+Seat 5: HyrymaN ($3.25 in chips) 
+Seat 6: pedroabreu1 ($2.04 in chips) 
+M. Polunin: posts small blind $0.01
+11Knockout11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 6c]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+yurcash777: calls $0.06
+MIKA983: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.04
+*** FLOP *** [5d Js 3h]
+11Knockout11: checks 
+pedroabreu1: checks 
+yurcash777: bets $0.18
+11Knockout11: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.18) returned to yurcash777
+yurcash777 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d Js 3h]
+Seat 1: yurcash777 collected ($0.18)
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: M. Polunin (small blind) folded before Flop
+Seat 4: 11Knockout11 (big blind) folded on the Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded on the Flop
+
+
+
+PokerStars Hand #164796312384:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:29:51 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: yurcash777 ($2.23 in chips) 
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 3: M. Polunin ($2.04 in chips) 
+Seat 4: 11Knockout11 ($3.11 in chips) 
+Seat 5: HyrymaN ($3.25 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+11Knockout11: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 3d]
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.01
+HyrymaN: raises $0.04 to $0.06
+11Knockout11: calls $0.04
+*** FLOP *** [3c 5s 9s]
+11Knockout11: checks 
+HyrymaN: bets $0.08
+11Knockout11: calls $0.08
+*** TURN *** [3c 5s 9s] [9c]
+11Knockout11: checks 
+HyrymaN: checks 
+*** RIVER *** [3c 5s 9s 9c] [Jc]
+11Knockout11: checks 
+HyrymaN: checks 
+*** SHOW DOWN ***
+11Knockout11: shows [Kd 3s] (two pair, Nines and Threes)
+HyrymaN: shows [As 5h] (two pair, Nines and Fives)
+HyrymaN collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [3c 5s 9s 9c Jc]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: M. Polunin (button) folded before Flop (didn't bet)
+Seat 4: 11Knockout11 (small blind) showed [Kd 3s] and lost with two pair, Nines and Threes
+Seat 5: HyrymaN (big blind) showed [As 5h] and won ($0.27) with two pair, Nines and Fives
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796359737:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:30:39 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: yurcash777 ($2.23 in chips) 
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 3: M. Polunin ($2.04 in chips) 
+Seat 4: 11Knockout11 ($2.97 in chips) 
+Seat 5: HyrymaN ($3.38 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s 3c]
+yurcash777: folds 
+MIKA983: folds 
+M. Polunin: raises $0.03 to $0.05
+11Knockout11: calls $0.05
+HyrymaN: folds 
+pedroabreu1: folds 
+*** FLOP *** [Qh 6h Tc]
+M. Polunin: bets $0.07
+11Knockout11: raises $1.03 to $1.10
+M. Polunin: folds 
+Uncalled bet ($1.03) returned to 11Knockout11
+11Knockout11 collected $0.26 from pot
+11Knockout11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qh 6h Tc]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded on the Flop
+Seat 4: 11Knockout11 (button) collected ($0.26)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164796387802:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:31:08 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: yurcash777 ($2.23 in chips) 
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($3.11 in chips) 
+Seat 5: HyrymaN ($3.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+yurcash777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2d 3h]
+MIKA983: folds 
+M. Polunin: folds 
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: checks 
+*** FLOP *** [9h 7h 6d]
+yurcash777: checks 
+11Knockout11: checks 
+*** TURN *** [9h 7h 6d] [Qh]
+yurcash777: checks 
+11Knockout11: checks 
+*** RIVER *** [9h 7h 6d Qh] [Kh]
+yurcash777: checks 
+11Knockout11: bets $0.46
+yurcash777: folds 
+Uncalled bet ($0.46) returned to 11Knockout11
+11Knockout11 collected $0.05 from pot
+11Knockout11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 7h 6d Qh Kh]
+Seat 1: yurcash777 (big blind) folded on the River
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 collected ($0.05)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164796428313:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:31:49 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: yurcash777 ($2.21 in chips) 
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 3: M. Polunin ($2 in chips) 
+Seat 4: 11Knockout11 ($3.14 in chips) 
+Seat 5: HyrymaN ($3.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+yurcash777: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d 5s]
+M. Polunin: folds 
+11Knockout11: calls $0.02
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: checks 
+*** FLOP *** [Js Qd Ac]
+MIKA983: checks 
+11Knockout11: checks 
+*** TURN *** [Js Qd Ac] [3s]
+MIKA983: checks 
+11Knockout11: checks 
+*** RIVER *** [Js Qd Ac 3s] [5d]
+MIKA983: checks 
+11Knockout11: bets $0.44
+MIKA983: folds 
+Uncalled bet ($0.44) returned to 11Knockout11
+11Knockout11 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js Qd Ac 3s 5d]
+Seat 1: yurcash777 (small blind) folded before Flop
+Seat 2: MIKA983 (big blind) folded on the River
+Seat 3: M. Polunin folded before Flop (didn't bet)
+Seat 4: 11Knockout11 collected ($0.05)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796460124:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:32:21 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: yurcash777 ($2.20 in chips) 
+Seat 2: MIKA983 ($1.95 in chips) 
+Seat 4: 11Knockout11 ($3.17 in chips) 
+Seat 5: HyrymaN ($3.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MIKA983: posts small blind $0.01
+M. Polunin: is sitting out 
+M. Polunin leaves the table
+11Knockout11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s 3s]
+origato 87 joins the table at seat #3 
+HyrymaN: folds 
+origato 87 leaves the table
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: raises $0.02 to $0.04
+11Knockout11: calls $0.02
+*** FLOP *** [7s 6d 2d]
+MIKA983: checks 
+11Knockout11: checks 
+*** TURN *** [7s 6d 2d] [Qh]
+MIKA983: checks 
+11Knockout11: checks 
+*** RIVER *** [7s 6d 2d Qh] [5d]
+MIKA983: checks 
+11Knockout11: checks 
+*** SHOW DOWN ***
+MIKA983: shows [As Ts] (high card Ace)
+11Knockout11: mucks hand 
+MIKA983 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7s 6d 2d Qh 5d]
+Seat 1: yurcash777 (button) folded before Flop (didn't bet)
+Seat 2: MIKA983 (small blind) showed [As Ts] and won ($0.08) with high card Ace
+Seat 4: 11Knockout11 (big blind) mucked [Jc 4s]
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796512237:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:33:14 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: yurcash777 ($2.20 in chips) 
+Seat 2: MIKA983 ($1.99 in chips) 
+Seat 4: 11Knockout11 ($3.13 in chips) 
+Seat 5: HyrymaN ($3.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+11Knockout11: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Kc]
+pedroabreu1: raises $0.04 to $0.06
+yurcash777: folds 
+MIKA983: folds 
+11Knockout11: calls $0.05
+HyrymaN: folds 
+*** FLOP *** [7s Ts Ad]
+11Knockout11: checks 
+pedroabreu1: bets $0.08
+11Knockout11: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7s Ts Ad]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 4: 11Knockout11 (small blind) folded on the Flop
+Seat 5: HyrymaN (big blind) folded before Flop
+Seat 6: pedroabreu1 collected ($0.14)
+
+
+
+PokerStars Hand #164796533238:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:33:36 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: yurcash777 ($2.20 in chips) 
+Seat 2: MIKA983 ($1.99 in chips) 
+Seat 4: 11Knockout11 ($3.07 in chips) 
+Seat 5: HyrymaN ($3.35 in chips) 
+Seat 6: pedroabreu1 ($2.08 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac Qh]
+yurcash777: folds 
+MIKA983: folds 
+11Knockout11: calls $0.02
+HyrymaN: calls $0.01
+pedroabreu1: raises $0.08 to $0.10
+11Knockout11: calls $0.08
+HyrymaN: calls $0.08
+*** FLOP *** [Jc 7d 2d]
+HyrymaN: checks 
+pedroabreu1: checks 
+manyouman joins the table at seat #3 
+11Knockout11 is disconnected 
+11Knockout11 is connected 
+11Knockout11: checks 
+*** TURN *** [Jc 7d 2d] [7s]
+HyrymaN: bets $0.18
+pedroabreu1: folds 
+11Knockout11: folds 
+Uncalled bet ($0.18) returned to HyrymaN
+HyrymaN collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jc 7d 2d 7s]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 4: 11Knockout11 (button) folded on the Turn
+Seat 5: HyrymaN (small blind) collected ($0.29)
+Seat 6: pedroabreu1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164796603037:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:34:46 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: yurcash777 ($2.20 in chips) 
+Seat 2: MIKA983 ($1.99 in chips) 
+Seat 4: 11Knockout11 ($2.97 in chips) 
+Seat 5: HyrymaN ($3.54 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+yurcash777: posts big blind $0.02
+manyouman: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6d Ac]
+MIKA983: folds 
+11Knockout11: calls $0.02
+HyrymaN: raises $0.06 to $0.08
+pedroabreu1: folds 
+yurcash777: folds 
+11Knockout11: calls $0.06
+*** FLOP *** [Ah 3h Qd]
+11Knockout11: checks 
+HyrymaN: bets $0.10
+11Knockout11: calls $0.10
+*** TURN *** [Ah 3h Qd] [2s]
+11Knockout11: checks 
+HyrymaN: checks 
+*** RIVER *** [Ah 3h Qd 2s] [2c]
+11Knockout11: bets $0.68
+HyrymaN: calls $0.68
+*** SHOW DOWN ***
+11Knockout11: shows [Qc 5d] (two pair, Queens and Deuces)
+HyrymaN: shows [As 6s] (two pair, Aces and Deuces)
+HyrymaN collected $1.69 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06 
+Board [Ah 3h Qd 2s 2c]
+Seat 1: yurcash777 (big blind) folded before Flop
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 4: 11Knockout11 showed [Qc 5d] and lost with two pair, Queens and Deuces
+Seat 5: HyrymaN (button) showed [As 6s] and won ($1.69) with two pair, Aces and Deuces
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164796647643:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:35:32 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: yurcash777 ($2.18 in chips) 
+Seat 2: MIKA983 ($1.99 in chips) 
+Seat 4: 11Knockout11 ($2.11 in chips) 
+Seat 5: HyrymaN ($4.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+yurcash777: posts small blind $0.01
+MIKA983: posts big blind $0.02
+manyouman: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4d 4c]
+11Knockout11: raises $0.28 to $0.30
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: folds 
+Uncalled bet ($0.28) returned to 11Knockout11
+11Knockout11 collected $0.05 from pot
+11Knockout11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yurcash777 (small blind) folded before Flop
+Seat 2: MIKA983 (big blind) folded before Flop
+Seat 4: 11Knockout11 collected ($0.05)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796674735:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:36:00 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: yurcash777 ($2.17 in chips) 
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 3: manyouman ($1.60 in chips) 
+Seat 4: 11Knockout11 ($2.14 in chips) 
+Seat 5: HyrymaN ($4.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MIKA983: posts small blind $0.01
+manyouman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 6d]
+11Knockout11: raises $0.28 to $0.30
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: folds 
+manyouman: calls $0.28
+*** FLOP *** [2d Th Qs]
+manyouman: bets $0.30
+11Knockout11: raises $1.54 to $1.84 and is all-in
+manyouman: calls $1 and is all-in
+Uncalled bet ($0.54) returned to 11Knockout11
+*** TURN *** [2d Th Qs] [7h]
+*** RIVER *** [2d Th Qs 7h] [5d]
+*** SHOW DOWN ***
+manyouman: shows [Qd Kc] (a pair of Queens)
+11Knockout11: shows [Ah Td] (a pair of Tens)
+manyouman collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.21 | Rake $0.11 
+Board [2d Th Qs 7h 5d]
+Seat 1: yurcash777 (button) folded before Flop (didn't bet)
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: manyouman (big blind) showed [Qd Kc] and won ($3.10) with a pair of Queens
+Seat 4: 11Knockout11 showed [Ah Td] and lost with a pair of Tens
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796702327:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:36:28 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: yurcash777 ($2.17 in chips) 
+Seat 2: MIKA983 ($1.96 in chips) 
+Seat 3: manyouman ($3.10 in chips) 
+Seat 4: 11Knockout11 ($0.54 in chips) 
+Seat 5: HyrymaN ($4.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+manyouman: posts small blind $0.01
+11Knockout11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8s 9d]
+HyrymaN: folds 
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: folds 
+manyouman: folds 
+Uncalled bet ($0.01) returned to 11Knockout11
+11Knockout11 collected $0.02 from pot
+11Knockout11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: manyouman (small blind) folded before Flop
+Seat 4: 11Knockout11 (big blind) collected ($0.02)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796719529:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:36:46 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: yurcash777 ($2.17 in chips) 
+Seat 2: MIKA983 ($1.96 in chips) 
+Seat 3: manyouman ($3.09 in chips) 
+Seat 4: 11Knockout11 ($0.55 in chips) 
+Seat 5: HyrymaN ($4.37 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+11Knockout11: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h Ad]
+pedroabreu1: folds 
+yurcash777: folds 
+MIKA983: folds 
+manyouman: raises $0.05 to $0.07
+11Knockout11: raises $0.48 to $0.55 and is all-in
+HyrymaN: folds 
+yurcash777 leaves the table
+manyouman: calls $0.48
+*** FLOP *** [Ac 4s Td]
+Kononetsss joins the table at seat #1 
+*** TURN *** [Ac 4s Td] [3s]
+*** RIVER *** [Ac 4s Td 3s] [9h]
+*** SHOW DOWN ***
+11Knockout11: shows [5h 6h] (high card Ace)
+manyouman: shows [6c 6d] (a pair of Sixes)
+manyouman collected $1.08 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.04 
+Board [Ac 4s Td 3s 9h]
+Seat 1: yurcash777 folded before Flop (didn't bet)
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: manyouman (button) showed [6c 6d] and won ($1.08) with a pair of Sixes
+Seat 4: 11Knockout11 (small blind) showed [5h 6h] and lost with high card Ace
+Seat 5: HyrymaN (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796766425:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:37:33 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($1.96 in chips) 
+Seat 3: manyouman ($3.62 in chips) 
+Seat 5: HyrymaN ($4.35 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h Qc]
+manyouman: folds 
+11Knockout11 leaves the table
+HyrymaN: folds 
+Rodik002 joins the table at seat #4 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to MIKA983
+MIKA983 collected $0.02 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (big blind) collected ($0.02)
+Seat 3: manyouman folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164796780789:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:37:48 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($1.97 in chips) 
+Seat 4: Rodik002 ($2 in chips) 
+Seat 5: HyrymaN ($4.35 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+MIKA983: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6s 7s]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Rodik002: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164796799952:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:38:08 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($1.96 in chips) 
+Seat 4: Rodik002 ($1.98 in chips) 
+Seat 5: HyrymaN ($4.35 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+Rodik002: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h Kh]
+pedroabreu1: folds 
+MIKA983: folds 
+Rodik002: folds 
+Uncalled bet ($0.01) returned to HyrymaN
+HyrymaN collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796806890:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:38:15 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($1.96 in chips) 
+Seat 4: Rodik002 ($1.97 in chips) 
+Seat 5: HyrymaN ($4.36 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc 7c]
+MIKA983: raises $0.02 to $0.04
+Rodik002: calls $0.04
+HyrymaN: folds 
+pedroabreu1: folds 
+*** FLOP *** [8d 6s As]
+MIKA983: bets $0.06
+Rodik002: folds 
+Uncalled bet ($0.06) returned to MIKA983
+MIKA983 collected $0.11 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8d 6s As]
+Seat 2: MIKA983 collected ($0.11)
+Seat 4: Rodik002 (button) folded on the Flop
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164796843880:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:38:53 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($2.03 in chips) 
+Seat 4: Rodik002 ($1.93 in chips) 
+Seat 5: HyrymaN ($4.35 in chips) 
+Seat 6: pedroabreu1 ($2.01 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Kh]
+Rodik002: folds 
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.04 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: MIKA983 (big blind) folded before Flop
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #164796856457:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:39:06 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($2.01 in chips) 
+Seat 4: Rodik002 ($1.93 in chips) 
+Seat 5: HyrymaN ($4.35 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+MIKA983: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2c 7h]
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+MIKA983: calls $0.05
+Rodik002: folds 
+*** FLOP *** [9d 6h 6c]
+MIKA983: checks 
+HyrymaN: bets $0.08
+MIKA983: folds 
+Uncalled bet ($0.08) returned to HyrymaN
+HyrymaN collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9d 6h 6c]
+Seat 2: MIKA983 (small blind) folded on the Flop
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 5: HyrymaN collected ($0.14)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796893663:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:39:45 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($1.95 in chips) 
+Seat 4: Rodik002 ($1.91 in chips) 
+Seat 5: HyrymaN ($4.43 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+Rodik002: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [8d Ts]
+pedroabreu1: folds 
+MIKA983: folds 
+Rodik002: raises $0.06 to $0.08
+HyrymaN: calls $0.06
+*** FLOP *** [8c 9s 2c]
+Rodik002: bets $0.11
+HyrymaN: calls $0.11
+*** TURN *** [8c 9s 2c] [Tc]
+Rodik002: bets $0.26
+HyrymaN: raises $0.62 to $0.88
+Rodik002: raises $0.84 to $1.72 and is all-in
+HyrymaN: calls $0.84
+*** RIVER *** [8c 9s 2c Tc] [9h]
+*** SHOW DOWN ***
+Rodik002: shows [Qc 7c] (a flush, Queen high)
+HyrymaN: shows [3c 6c] (a flush, Ten high)
+Rodik002 collected $3.69 from pot
+*** SUMMARY ***
+Total pot $3.82 | Rake $0.13 
+Board [8c 9s 2c Tc 9h]
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) showed [Qc 7c] and won ($3.69) with a flush, Queen high
+Seat 5: HyrymaN (big blind) showed [3c 6c] and lost with a flush, Ten high
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164796943587:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:40:38 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($1.95 in chips) 
+Seat 4: Rodik002 ($3.69 in chips) 
+Seat 5: HyrymaN ($2.52 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks 7h]
+MIKA983: folds 
+Rodik002: folds 
+HyrymaN: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 4: Rodik002 (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164796954573:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:40:49 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($1.95 in chips) 
+Seat 4: Rodik002 ($3.69 in chips) 
+Seat 5: HyrymaN ($2.51 in chips) 
+Seat 6: pedroabreu1 ($2.04 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5h Js]
+Rodik002: folds 
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+MIKA983: calls $0.04
+*** FLOP *** [Jh Kd 3c]
+MIKA983: bets $0.04
+HyrymaN: calls $0.04
+*** TURN *** [Jh Kd 3c] [Td]
+MIKA983: bets $0.06
+HyrymaN: calls $0.06
+*** RIVER *** [Jh Kd 3c Td] [Tc]
+MIKA983: bets $0.06
+HyrymaN: calls $0.06
+*** SHOW DOWN ***
+MIKA983: shows [Qh Ks] (two pair, Kings and Tens)
+HyrymaN: mucks hand 
+MIKA983 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Jh Kd 3c Td Tc]
+Seat 2: MIKA983 (big blind) showed [Qh Ks] and won ($0.43) with two pair, Kings and Tens
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) mucked [Ad 5s]
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797006913:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:41:44 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($2.16 in chips) 
+Seat 4: Rodik002 ($3.69 in chips) 
+Seat 5: HyrymaN ($2.29 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+MIKA983: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd 7c]
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+MIKA983: folds 
+Rodik002: folds 
+Uncalled bet ($0.04) returned to HyrymaN
+Kononetsss leaves the table
+HyrymaN collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 5: HyrymaN collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797026628:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:42:04 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($2.15 in chips) 
+Seat 4: Rodik002 ($3.67 in chips) 
+Seat 5: HyrymaN ($2.32 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+Rodik002: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc 3s]
+pedroabreu1: folds 
+MIKA983: folds 
+Rodik002: raises $0.04 to $0.06
+Puzlo10 joins the table at seat #1 
+HyrymaN: calls $0.04
+*** FLOP *** [3d As Ks]
+Rodik002: bets $0.08
+HyrymaN: folds 
+Uncalled bet ($0.08) returned to Rodik002
+Rodik002 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3d As Ks]
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) collected ($0.12)
+Seat 5: HyrymaN (big blind) folded on the Flop
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797053336:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:42:31 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($2.15 in chips) 
+Seat 4: Rodik002 ($3.73 in chips) 
+Seat 5: HyrymaN ($2.26 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+Puzlo10: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qc Jd]
+MIKA983: folds 
+Rodik002: raises $0.02 to $0.04
+HyrymaN: folds 
+pedroabreu1: raises $0.12 to $0.16
+Rodik002: folds 
+Uncalled bet ($0.12) returned to pedroabreu1
+pedroabreu1 collected $0.09 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 4: Rodik002 (button) folded before Flop
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #164797083474:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:43:03 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 1: Puzlo10 ($0.80 in chips) 
+Seat 2: MIKA983 ($2.15 in chips) 
+Seat 4: Rodik002 ($3.69 in chips) 
+Seat 5: HyrymaN ($2.25 in chips) 
+Seat 6: pedroabreu1 ($2.08 in chips) 
+pedroabreu1: posts small blind $0.01
+Puzlo10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9d 2h]
+MIKA983: folds 
+Rodik002: raises $0.03 to $0.05
+HyrymaN: folds 
+pedroabreu1: folds 
+Puzlo10: calls $0.03
+*** FLOP *** [Kh 4s Qs]
+Puzlo10: checks 
+Rodik002: bets $0.08
+Puzlo10: folds 
+Uncalled bet ($0.08) returned to Rodik002
+Rodik002 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kh 4s Qs]
+Seat 1: Puzlo10 (big blind) folded on the Flop
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 4: Rodik002 collected ($0.11)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797113093:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:43:33 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: Puzlo10 ($0.75 in chips) 
+Seat 2: MIKA983 ($2.15 in chips) 
+Seat 4: Rodik002 ($3.75 in chips) 
+Seat 5: HyrymaN ($2.25 in chips) 
+Seat 6: pedroabreu1 ($2.07 in chips) 
+Puzlo10: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c 5h]
+Rodik002: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+Puzlo10: raises $0.02 to $0.04
+MIKA983: folds 
+Uncalled bet ($0.02) returned to Puzlo10
+Puzlo10 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Puzlo10 (small blind) collected ($0.04)
+Seat 2: MIKA983 (big blind) folded before Flop
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797127730:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:43:48 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: Puzlo10 ($0.77 in chips) 
+Seat 2: MIKA983 ($2.13 in chips) 
+Seat 4: Rodik002 ($3.75 in chips) 
+Seat 5: HyrymaN ($2.25 in chips) 
+Seat 6: pedroabreu1 ($2.07 in chips) 
+MIKA983: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah 4h]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+Puzlo10: calls $0.06
+MIKA983: folds 
+Rodik002: raises $0.16 to $0.22
+pedroabreu1: folds 
+Puzlo10: calls $0.16
+*** FLOP *** [7h Td Th]
+Rodik002: checks 
+Puzlo10: checks 
+*** TURN *** [7h Td Th] [Ks]
+Rodik002: bets $0.30
+Puzlo10: calls $0.30
+*** RIVER *** [7h Td Th Ks] [8s]
+Rodik002: checks 
+Puzlo10: bets $0.25 and is all-in
+Rodik002: calls $0.25
+*** SHOW DOWN ***
+Puzlo10: shows [Js 9d] (a straight, Seven to Jack)
+Rodik002: shows [As Jh] (a pair of Tens)
+Puzlo10 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [7h Td Th Ks 8s]
+Seat 1: Puzlo10 (button) showed [Js 9d] and won ($1.55) with a straight, Seven to Jack
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 4: Rodik002 (big blind) showed [As Jh] and lost with a pair of Tens
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 folded before Flop
+
+
+
+PokerStars Hand #164797172106:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:44:35 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: Puzlo10 ($1.55 in chips) 
+Seat 2: MIKA983 ($2.12 in chips) 
+Seat 4: Rodik002 ($2.98 in chips) 
+Seat 6: pedroabreu1 ($2.01 in chips) 
+Rodik002: posts small blind $0.01
+HyrymaN: is sitting out 
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 3c]
+Puzlo10: folds 
+MIKA983: raises $0.04 to $0.06
+Rodik002: calls $0.05
+pedroabreu1: calls $0.04
+*** FLOP *** [8c 8s Ad]
+Rodik002: checks 
+pedroabreu1: checks 
+MIKA983: bets $0.08
+Rodik002: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.08) returned to MIKA983
+MIKA983 collected $0.17 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8c 8s Ad]
+Seat 1: Puzlo10 folded before Flop (didn't bet)
+Seat 2: MIKA983 (button) collected ($0.17)
+Seat 4: Rodik002 (small blind) folded on the Flop
+Seat 6: pedroabreu1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164797213860:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:45:18 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: Puzlo10 ($1.55 in chips) 
+Seat 2: MIKA983 ($2.23 in chips) 
+Seat 4: Rodik002 ($2.92 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+Puzlo10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh 9c]
+MIKA983: raises $0.05 to $0.07
+Rodik002: folds 
+pedroabreu1: folds 
+Puzlo10: calls $0.05
+*** FLOP *** [2s Qh 2d]
+Puzlo10: checks 
+MIKA983: bets $0.14
+Puzlo10: folds 
+Uncalled bet ($0.14) returned to MIKA983
+MIKA983 collected $0.14 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s Qh 2d]
+Seat 1: Puzlo10 (big blind) folded on the Flop
+Seat 2: MIKA983 collected ($0.14)
+Seat 4: Rodik002 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797235083:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:45:39 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($2.30 in chips) 
+Seat 4: Rodik002 ($2.92 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Puzlo10: is sitting out 
+Puzlo10 leaves the table
+MIKA983: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4c Th]
+pedroabreu1: folds 
+MIKA983: raises $0.02 to $0.04
+Rodik002: folds 
+Uncalled bet ($0.02) returned to MIKA983
+MIKA983 collected $0.04 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: MIKA983 (small blind) collected ($0.04)
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797266573:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:46:12 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 3: manyouman ($3.62 in chips) 
+Seat 4: Rodik002 ($2.90 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+manyouman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ks Ts]
+Rodik002: raises $0.02 to $0.04
+pedroabreu1: raises $0.02 to $0.06
+OllieR2007 joins the table at seat #1 
+manyouman: calls $0.04
+Rodik002: calls $0.02
+*** FLOP *** [Td Ad 2c]
+pedroabreu1: checks 
+manyouman: bets $0.09
+Rodik002: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.09) returned to manyouman
+manyouman collected $0.17 from pot
+manyouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Td Ad 2c]
+Seat 3: manyouman (big blind) collected ($0.17)
+Seat 4: Rodik002 (button) folded on the Flop
+Seat 6: pedroabreu1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #164797318702:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:47:06 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 3: manyouman ($3.73 in chips) 
+Seat 4: Rodik002 ($2.84 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+OllieR2007 will be allowed to play after the button
+MIKA983 will be allowed to play after the button
+manyouman: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3c 8h]
+pedroabreu1: folds 
+manyouman: folds 
+Uncalled bet ($0.01) returned to Rodik002
+Rodik002 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: manyouman (small blind) folded before Flop
+Seat 4: Rodik002 (big blind) collected ($0.02)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797333024:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:47:21 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 1: OllieR2007 ($0.80 in chips) 
+Seat 3: manyouman ($3.72 in chips) 
+Seat 4: Rodik002 ($2.85 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+Rodik002: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+OllieR2007: posts big blind $0.02
+MIKA983: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5d Qc]
+OllieR2007: checks 
+manyouman: folds 
+Rodik002: folds 
+manyouman leaves the table
+pedroabreu1: checks 
+*** FLOP *** [9c 7h Jh]
+pedroabreu1: checks 
+OllieR2007: bets $0.02
+pedroabreu1: folds 
+Uncalled bet ($0.02) returned to OllieR2007
+OllieR2007 collected $0.05 from pot
+OllieR2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c 7h Jh]
+Seat 1: OllieR2007 collected ($0.05)
+Seat 3: manyouman (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #164797373303:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:48:01 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 1: OllieR2007 ($0.83 in chips) 
+Seat 4: Rodik002 ($2.84 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+pedroabreu1: posts small blind $0.01
+OllieR2007: posts big blind $0.02
+MIKA983: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ts 5c]
+Rodik002: folds 
+Mandino47 joins the table at seat #3 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to OllieR2007
+OllieR2007 collected $0.02 from pot
+OllieR2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: OllieR2007 (big blind) collected ($0.02)
+Seat 4: Rodik002 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797381768:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:48:10 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 1: OllieR2007 ($0.84 in chips) 
+Seat 2: MIKA983 ($2.32 in chips) 
+Seat 4: Rodik002 ($2.84 in chips) 
+Seat 6: pedroabreu1 ($2 in chips) 
+OllieR2007: posts small blind $0.01
+MIKA983: posts big blind $0.02
+Mandino47: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As Ks]
+Rodik002: folds 
+pedroabreu1: raises $0.04 to $0.06
+OllieR2007: folds 
+MIKA983: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: OllieR2007 (small blind) folded before Flop
+Seat 2: MIKA983 (big blind) folded before Flop
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164797399662:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:48:28 ET
+Table 'Golson II' 6-max Seat #1 is the button
+Seat 1: OllieR2007 ($0.83 in chips) 
+Seat 2: MIKA983 ($2.30 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($2.84 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4h Qd]
+Rodik002: raises $0.04 to $0.06
+pedroabreu1: folds 
+OllieR2007: folds 
+MIKA983: calls $0.05
+Mandino47: folds 
+*** FLOP *** [Kd 5s Kh]
+MIKA983: checks 
+Rodik002: bets $0.10
+MIKA983: calls $0.10
+*** TURN *** [Kd 5s Kh] [3c]
+MIKA983: checks 
+Rodik002: bets $0.23
+MIKA983: calls $0.23
+*** RIVER *** [Kd 5s Kh 3c] [4d]
+MIKA983: checks 
+Rodik002: bets $0.54
+MIKA983: folds 
+Uncalled bet ($0.54) returned to Rodik002
+Rodik002 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Kd 5s Kh 3c 4d]
+Seat 1: OllieR2007 (button) folded before Flop (didn't bet)
+Seat 2: MIKA983 (small blind) folded on the River
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 4: Rodik002 collected ($0.77)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797450890:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:49:18 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 1: OllieR2007 ($0.83 in chips) 
+Seat 2: MIKA983 ($1.91 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.22 in chips) 
+Seat 6: pedroabreu1 ($2.03 in chips) 
+Mandino47: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jd Jh]
+pedroabreu1: raises $0.04 to $0.06
+OllieR2007: calls $0.06
+MIKA983: folds 
+Mandino47: folds 
+Rodik002: folds 
+*** FLOP *** [Kh 4h Js]
+pedroabreu1: bets $0.08
+OllieR2007: calls $0.08
+*** TURN *** [Kh 4h Js] [4c]
+pedroabreu1: checks 
+OllieR2007: bets $0.08
+pedroabreu1: raises $0.12 to $0.20
+OllieR2007: raises $0.49 to $0.69 and is all-in
+pedroabreu1: calls $0.49
+*** RIVER *** [Kh 4h Js 4c] [2c]
+*** SHOW DOWN ***
+pedroabreu1: shows [Jd Jh] (a full house, Jacks full of Fours)
+OllieR2007: shows [7d Qc] (a pair of Fours)
+pedroabreu1 collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.06 
+Board [Kh 4h Js 4c 2c]
+Seat 1: OllieR2007 showed [7d Qc] and lost with a pair of Fours
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: Mandino47 (small blind) folded before Flop
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 6: pedroabreu1 showed [Jd Jh] and won ($1.63) with a full house, Jacks full of Fours
+
+
+
+PokerStars Hand #164797517582:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:50:21 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: MIKA983 ($1.91 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.20 in chips) 
+Seat 6: pedroabreu1 ($2.83 in chips) 
+Rodik002: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As Ah]
+MIKA983: folds 
+Mandino47: folds 
+Rodik002: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164797538495:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:50:41 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($1.91 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.19 in chips) 
+Seat 6: pedroabreu1 ($2.84 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [As 3c]
+Mandino47: folds 
+Rodik002: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to MIKA983
+MIKA983 collected $0.02 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (big blind) collected ($0.02)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 4: Rodik002 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797553193:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:50:56 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($1.92 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.19 in chips) 
+Seat 6: pedroabreu1 ($2.83 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Jc]
+Rodik002: raises $0.04 to $0.06
+pedroabreu1: calls $0.06
+MIKA983: folds 
+Mandino47: folds 
+*** FLOP *** [Ts 8c 7h]
+Rodik002: checks 
+pedroabreu1: bets $0.08
+Rodik002: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 8c 7h]
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 4: Rodik002 folded on the Flop
+Seat 6: pedroabreu1 (button) collected ($0.14)
+
+
+
+PokerStars Hand #164797584782:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:51:28 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($1.91 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.13 in chips) 
+Seat 6: pedroabreu1 ($2.91 in chips) 
+Mandino47: posts small blind $0.01
+Rodik002: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Tc Ts]
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Mandino47: folds 
+Rodik002: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: Mandino47 (small blind) folded before Flop
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 6: pedroabreu1 collected ($0.05)
+
+
+
+PokerStars Hand #164797605625:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:51:49 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: MIKA983 ($1.91 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.11 in chips) 
+Seat 6: pedroabreu1 ($2.94 in chips) 
+Rodik002: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Kc As]
+MIKA983: folds 
+Mandino47: folds 
+Rodik002: folds 
+Uncalled bet ($0.01) returned to pedroabreu1
+pedroabreu1 collected $0.02 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #164797621662:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:52:05 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($1.91 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.10 in chips) 
+Seat 6: pedroabreu1 ($2.95 in chips) 
+HyrymaN will be allowed to play after the button
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Th Ac]
+Mandino47: raises $0.04 to $0.06
+Rodik002: folds 
+pedroabreu1: calls $0.05
+MIKA983: calls $0.04
+*** FLOP *** [9h 3c Jd]
+pedroabreu1: checks 
+MIKA983: checks 
+Mandino47: checks 
+*** TURN *** [9h 3c Jd] [As]
+pedroabreu1: checks 
+MIKA983: checks 
+Mandino47: checks 
+*** RIVER *** [9h 3c Jd As] [8s]
+pedroabreu1: bets $0.10
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.10) returned to pedroabreu1
+pedroabreu1 collected $0.17 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9h 3c Jd As 8s]
+Seat 2: MIKA983 (big blind) folded on the River
+Seat 3: Mandino47 folded on the River
+Seat 4: Rodik002 (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #164797673893:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:52:58 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($1.85 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.10 in chips) 
+Seat 6: pedroabreu1 ($3.06 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+HyrymaN: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3s 3c]
+Rodik002: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164797690784:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:53:15 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($1.84 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: Rodik002 ($3.10 in chips) 
+Seat 6: pedroabreu1 ($3.09 in chips) 
+Mandino47: posts small blind $0.01
+Rodik002: posts big blind $0.02
+HyrymaN: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s Ad]
+pedroabreu1: raises $0.06 to $0.08
+MIKA983: folds 
+Mandino47: raises $0.16 to $0.24
+Rodik002: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.16) returned to Mandino47
+Mandino47 collected $0.18 from pot
+Mandino47: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: Mandino47 (small blind) collected ($0.18)
+Seat 4: Rodik002 (big blind) folded before Flop
+Seat 6: pedroabreu1 folded before Flop
+
+
+
+PokerStars Hand #164797708741:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:53:33 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: MIKA983 ($1.84 in chips) 
+Seat 3: Mandino47 ($2.10 in chips) 
+Seat 4: Rodik002 ($3.08 in chips) 
+Seat 5: HyrymaN ($2.25 in chips) 
+Seat 6: pedroabreu1 ($3.01 in chips) 
+Rodik002: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh 9c]
+pedroabreu1: folds 
+MIKA983: folds 
+Mandino47: folds 
+Rodik002: folds 
+Uncalled bet ($0.01) returned to HyrymaN
+HyrymaN collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 (button) folded before Flop (didn't bet)
+Seat 4: Rodik002 (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797715902:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:53:41 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($1.84 in chips) 
+Seat 3: Mandino47 ($2.10 in chips) 
+Seat 4: Rodik002 ($3.07 in chips) 
+Seat 5: HyrymaN ($2.26 in chips) 
+Seat 6: pedroabreu1 ($3.01 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3d Tc]
+MIKA983: folds 
+Mandino47: folds 
+Rodik002: folds 
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to HyrymaN
+HyrymaN collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 4: Rodik002 (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) collected ($0.04)
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164797732105:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:53:59 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($1.84 in chips) 
+Seat 3: Mandino47 ($2.10 in chips) 
+Seat 4: Rodik002 ($3.07 in chips) 
+Seat 5: HyrymaN ($2.28 in chips) 
+Seat 6: pedroabreu1 ($2.99 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h 2s]
+Mandino47: folds 
+Rodik002: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to MIKA983
+MIKA983 collected $0.02 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (big blind) collected ($0.02)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797741659:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:54:09 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($1.85 in chips) 
+Seat 3: Mandino47 ($2.10 in chips) 
+Seat 4: Rodik002 ($3.07 in chips) 
+Seat 5: HyrymaN ($2.28 in chips) 
+Seat 6: pedroabreu1 ($2.98 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Js Ts]
+Rodik002: folds 
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 4: Rodik002 folded before Flop (didn't bet)
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164797762611:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:54:31 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($1.84 in chips) 
+Seat 3: Mandino47 ($2.08 in chips) 
+Seat 5: HyrymaN ($2.28 in chips) 
+Seat 6: pedroabreu1 ($3.01 in chips) 
+Mandino47: posts small blind $0.01
+Rodik002: is sitting out 
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ac 4h]
+pedroabreu1: folds 
+MIKA983: raises $0.02 to $0.04
+Mandino47: folds 
+HyrymaN: calls $0.02
+*** FLOP *** [5d 7d Kd]
+HyrymaN: checks 
+MIKA983: bets $0.09
+HyrymaN: calls $0.09
+*** TURN *** [5d 7d Kd] [Kh]
+HyrymaN: checks 
+Rodik002 leaves the table
+MIKA983: bets $0.26
+HyrymaN: calls $0.26
+*** RIVER *** [5d 7d Kd Kh] [9c]
+HyrymaN: checks 
+KoloSale joins the table at seat #4 
+MIKA983: bets $0.76
+HyrymaN: calls $0.76
+*** SHOW DOWN ***
+MIKA983: shows [Ad Jd] (a flush, Ace high)
+HyrymaN: mucks hand 
+MIKA983 collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.31 | Rake $0.08 
+Board [5d 7d Kd Kh 9c]
+Seat 2: MIKA983 (button) showed [Ad Jd] and won ($2.23) with a flush, Ace high
+Seat 3: Mandino47 (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) mucked [Ks 6s]
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797803001:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:55:16 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: MIKA983 ($2.92 in chips) 
+Seat 3: Mandino47 ($2.07 in chips) 
+Seat 5: HyrymaN ($2 in chips) 
+Seat 6: pedroabreu1 ($3.01 in chips) 
+KoloSale will be allowed to play after the button
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Ah Js]
+MIKA983: folds 
+Mandino47: folds 
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: calls $0.04
+*** FLOP *** [2s Qd 8d]
+HyrymaN: bets $0.08
+pedroabreu1: calls $0.08
+*** TURN *** [2s Qd 8d] [4s]
+HyrymaN: bets $0.14
+pedroabreu1: folds 
+Uncalled bet ($0.14) returned to HyrymaN
+HyrymaN collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [2s Qd 8d 4s]
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) collected ($0.27)
+Seat 6: pedroabreu1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #164797845693:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:56:12 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($2.92 in chips) 
+Seat 3: Mandino47 ($2.07 in chips) 
+Seat 5: HyrymaN ($2.13 in chips) 
+Seat 6: pedroabreu1 ($2.87 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+KoloSale: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [4s 3h]
+Mandino47: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to MIKA983
+MIKA983 collected $0.02 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (big blind) collected ($0.02)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164797860963:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:56:32 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($2.93 in chips) 
+Seat 3: Mandino47 ($2.07 in chips) 
+Seat 5: HyrymaN ($2.13 in chips) 
+Seat 6: pedroabreu1 ($2.86 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+KoloSale: sits out 
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [3h Td]
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.04) returned to HyrymaN
+HyrymaN collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 5: HyrymaN collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797873086:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:56:47 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($2.92 in chips) 
+Seat 3: Mandino47 ($2.05 in chips) 
+Seat 4: KoloSale ($2 in chips) 
+Seat 5: HyrymaN ($2.16 in chips) 
+Seat 6: pedroabreu1 ($2.86 in chips) 
+Mandino47: posts small blind $0.01
+KoloSale: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h Kh]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Mandino47: calls $0.05
+KoloSale: folds 
+*** FLOP *** [3d Ad Ts]
+Mandino47: checks 
+pedroabreu1: bets $0.08
+Mandino47: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.14 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3d Ad Ts]
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: Mandino47 (small blind) folded on the Flop
+Seat 4: KoloSale (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 collected ($0.14)
+
+
+
+PokerStars Hand #164797899561:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:57:22 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: MIKA983 ($2.92 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: KoloSale ($1.98 in chips) 
+Seat 5: HyrymaN ($2.16 in chips) 
+Seat 6: pedroabreu1 ($2.94 in chips) 
+KoloSale: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [5c 6c]
+pedroabreu1: folds 
+MIKA983: folds 
+Mandino47: folds 
+KoloSale: raises $0.04 to $0.06
+HyrymaN: calls $0.04
+*** FLOP *** [2s Ac 3s]
+KoloSale: bets $0.06
+HyrymaN: calls $0.06
+*** TURN *** [2s Ac 3s] [5s]
+KoloSale: bets $0.12
+HyrymaN: calls $0.12
+*** RIVER *** [2s Ac 3s 5s] [Jc]
+KoloSale: bets $0.54
+HyrymaN: calls $0.54
+*** SHOW DOWN ***
+KoloSale: shows [7s 6s] (a flush, Seven high)
+HyrymaN: mucks hand 
+KoloSale collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05 
+Board [2s Ac 3s 5s Jc]
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 (button) folded before Flop (didn't bet)
+Seat 4: KoloSale (small blind) showed [7s 6s] and won ($1.51) with a flush, Seven high
+Seat 5: HyrymaN (big blind) mucked [Ad Qc]
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164797955398:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:58:34 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($2.92 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: KoloSale ($2.71 in chips) 
+Seat 5: HyrymaN ($2 in chips) 
+Seat 6: pedroabreu1 ($2.94 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [9h 9c]
+MIKA983: folds 
+Mandino47: folds 
+KoloSale: folds 
+KoloSale leaves the table
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: calls $0.04
+*** FLOP *** [Jc Ts Kh]
+HyrymaN: checks 
+pedroabreu1: bets $0.08
+HyrymaN: folds 
+Uncalled bet ($0.08) returned to pedroabreu1
+pedroabreu1 collected $0.12 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc Ts Kh]
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 4: KoloSale (button) folded before Flop (didn't bet)
+Seat 5: HyrymaN (small blind) folded on the Flop
+Seat 6: pedroabreu1 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #164797991426:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:59:21 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($2.92 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 5: HyrymaN ($2 in chips) 
+Seat 6: pedroabreu1 ($3 in chips) 
+pedroabreu1: posts small blind $0.01
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Jh Qh]
+Mandino47: folds 
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.04 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: MIKA983 (big blind) folded before Flop
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #164798004413:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:59:38 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($2.90 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 5: HyrymaN ($2 in chips) 
+Seat 6: pedroabreu1 ($3.02 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qd 3h]
+HyrymaN: raises $0.04 to $0.06
+pedroabreu1: folds 
+THANATUZ joins the table at seat #4 
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.04) returned to HyrymaN
+HyrymaN collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 5: HyrymaN collected ($0.05)
+Seat 6: pedroabreu1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164798015948:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 16:59:53 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($2.89 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: THANATUZ ($2 in chips) 
+Seat 5: HyrymaN ($2.03 in chips) 
+Seat 6: pedroabreu1 ($3.02 in chips) 
+Mandino47: posts small blind $0.01
+THANATUZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Td Js]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Mandino47: folds 
+THANATUZ: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: Mandino47 (small blind) folded before Flop
+Seat 4: THANATUZ (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 collected ($0.05)
+
+
+
+PokerStars Hand #164798040776:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:00:24 ET
+Table 'Golson II' 6-max Seat #3 is the button
+Seat 2: MIKA983 ($2.89 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: THANATUZ ($1.98 in chips) 
+Seat 5: HyrymaN ($2.03 in chips) 
+Seat 6: pedroabreu1 ($3.05 in chips) 
+THANATUZ: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [2s Ah]
+pedroabreu1: folds 
+MIKA983: calls $0.02
+Mandino47: folds 
+THANATUZ: folds 
+HyrymaN: checks 
+*** FLOP *** [8h 4h Ts]
+HyrymaN: checks 
+MIKA983: checks 
+*** TURN *** [8h 4h Ts] [As]
+HyrymaN: checks 
+MIKA983: checks 
+*** RIVER *** [8h 4h Ts As] [8s]
+HyrymaN: checks 
+MIKA983: checks 
+*** SHOW DOWN ***
+HyrymaN: shows [Tc 2d] (two pair, Tens and Eights)
+MIKA983: mucks hand 
+HyrymaN collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 4h Ts As 8s]
+Seat 2: MIKA983 mucked [3s 3d]
+Seat 3: Mandino47 (button) folded before Flop (didn't bet)
+Seat 4: THANATUZ (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) showed [Tc 2d] and won ($0.05) with two pair, Tens and Eights
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #164798082935:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:01:15 ET
+Table 'Golson II' 6-max Seat #4 is the button
+Seat 2: MIKA983 ($2.87 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: THANATUZ ($1.97 in chips) 
+Seat 5: HyrymaN ($2.06 in chips) 
+Seat 6: pedroabreu1 ($3.05 in chips) 
+HyrymaN: posts small blind $0.01
+pedroabreu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [Qh 4s]
+MIKA983: folds 
+Mandino47: folds 
+THANATUZ: raises $0.04 to $0.06
+OllieR2007 is disconnected 
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.04) returned to THANATUZ
+THANATUZ collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 folded before Flop (didn't bet)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 4: THANATUZ (button) collected ($0.05)
+Seat 5: HyrymaN (small blind) folded before Flop
+Seat 6: pedroabreu1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #164798112345:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:01:48 ET
+Table 'Golson II' 6-max Seat #5 is the button
+Seat 2: MIKA983 ($2.87 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 4: THANATUZ ($2 in chips) 
+Seat 5: HyrymaN ($2.05 in chips) 
+Seat 6: pedroabreu1 ($3.03 in chips) 
+pedroabreu1: posts small blind $0.01
+OllieR2007 was removed from the table for failing to post
+MIKA983: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7h Qd]
+Mandino47: folds 
+THANATUZ: folds 
+HyrymaN: folds 
+pedroabreu1: folds 
+Uncalled bet ($0.01) returned to MIKA983
+THANATUZ leaves the table
+MIKA983 collected $0.02 from pot
+MIKA983: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (big blind) collected ($0.02)
+Seat 3: Mandino47 folded before Flop (didn't bet)
+Seat 4: THANATUZ folded before Flop (didn't bet)
+Seat 5: HyrymaN (button) folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #164798124063:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:02:00 ET
+Table 'Golson II' 6-max Seat #6 is the button
+Seat 2: MIKA983 ($2.88 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 5: HyrymaN ($2.05 in chips) 
+Seat 6: pedroabreu1 ($3.02 in chips) 
+MIKA983: posts small blind $0.01
+Mandino47: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [6h As]
+HyrymaN: folds 
+pedroabreu1: raises $0.04 to $0.06
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.04) returned to pedroabreu1
+pedroabreu1 collected $0.05 from pot
+pedroabreu1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MIKA983 (small blind) folded before Flop
+Seat 3: Mandino47 (big blind) folded before Flop
+Seat 5: HyrymaN folded before Flop (didn't bet)
+Seat 6: pedroabreu1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #164798143976:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/01/18 17:02:20 ET
+Table 'Golson II' 6-max Seat #2 is the button
+Seat 2: MIKA983 ($2.87 in chips) 
+Seat 3: Mandino47 ($2 in chips) 
+Seat 5: HyrymaN ($2.05 in chips) 
+Seat 6: pedroabreu1 ($3.05 in chips) 
+Mandino47: posts small blind $0.01
+HyrymaN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to pedroabreu1 [7c 8s]
+pedroabreu1: folds 
+MIKA983: folds 
+Mandino47: folds 
+Uncalled bet ($0.01) returned to HyrymaN
+HyrymaN collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MIKA983 (button) folded before Flop (didn't bet)
+Seat 3: Mandino47 (small blind) folded before Flop
+Seat 5: HyrymaN (big blind) collected ($0.02)
+Seat 6: pedroabreu1 folded before Flop (didn't bet)
+
+
+
