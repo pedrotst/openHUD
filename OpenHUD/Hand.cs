@@ -35,6 +35,8 @@ namespace OpenHud
             Console.WriteLine(date);
             Console.WriteLine(tableInfos);
             Console.WriteLine("Button: " + buttonSeat);
+            players.ForEach(p => p.Print());
+            Console.WriteLine();
         }
 
     }

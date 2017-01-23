@@ -57,14 +57,14 @@ namespace OpenHud
                 //get table Infos
                 curLine = strHand.Dequeue();
                 var tableInfos = curLine.Substring(0,curLine.IndexOf("#"));
-                regex = new Regex("-.*");
-                var buttonSeat = curLine.Substring(curLine.IndexOf("#")).Substring(0, curLine.IndexOf(" "));
+                regex = new Regex("#\\d*");
+                var buttonSeat = regex.Match(curLine).ToString().Substring(1);
 
 
                 //loop to get players in table
                 List<Player> players = new List<Player>();
                 curLine = strHand.Dequeue();
-                while(curLine.Substring(0, 4).CompareTo("Seat") == 0)
+                while(curLine.Substring(0, 4) == "Seat")
                 {
                     regex = new Regex(".*:");
                     var seat = regex.Match(curLine).ToString().Remove(0,4).Trim(':', ' ');
@@ -72,7 +72,9 @@ namespace OpenHud
                     var playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
                     regex = new Regex("\\(.*in");
                     var chips = regex.Match(curLine).ToString().Trim('(', '$');
-                    Console.WriteLine(seat, playerName, chips);
+                    chips = chips.Substring(0, chips.Length - 3);
+                    players.Add(new Player(seat, playerName, chips));
+
                     curLine = strHand.Dequeue();
                 }
 
