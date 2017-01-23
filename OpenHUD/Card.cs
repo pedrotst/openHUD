@@ -9,8 +9,12 @@ namespace OpenHud
     class Card
     {
         public enum Suits { Hearts = 'h', Spades = 's', Diamonds = 'd', Clubs = 'c'};
-        public enum Ranks { Deuce = '2', Three, Four, Five, Six, Seven,
-        Eight, Nine, Ten = 'T', Jack = 'J', Queen = 'Q', King = 'K', Ace = 'A' }
+
+        public enum Ranks {
+            Deuce = '2', Three, Four, Five, Six, Seven, Eight, Nine,
+            Ten = 'T', Jack = 'J', Queen = 'Q', King = 'K', Ace = 'A'
+        }
+
         private Tuple<Ranks, Suits> card;
 
         public Card(string card)
