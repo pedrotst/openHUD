@@ -28,49 +28,74 @@ namespace OpenHud
        private void parseHand(StreamReader file)
         {
 
-            var hand = getHand(file);
-            while (hand.Any())
+            var strHand = getHand(file);
+            Queue<Hand> hands = new Queue<Hand>();
+
+            while (strHand.Any())
             {
-                if (!hand.Any())
+                if (!strHand.Any())
                     return;
 
-                var fstLine = hand.First();
-                hand.RemoveAt(0);
+                var curLine = strHand.Dequeue();
 
                 //get hand number
                 var regex = new Regex("#\\d*:");
-                var handNo = regex.Match(fstLine).ToString().Trim('#', ':');
+                var handNo = regex.Match(curLine).ToString().Trim('#', ':', ' ');
 
                 //get poker type
                 regex = new Regex(":.*\\(");
-                var pokerType = regex.Match(fstLine).ToString().Trim(':', '(');
+                var pokerType = regex.Match(curLine).ToString().Trim(':', '(', ' ');
 
                 //get blinds value
                 regex = new Regex("\\(.*\\)");
-                var blinds = regex.Match(fstLine).ToString().Trim('(', ')');
+                var blinds = regex.Match(curLine).ToString().Trim('(', ')', ' ');
 
                 //get date
                 regex = new Regex("-.*");
-                var date = regex.Match(fstLine).ToString().Trim('-');
+                var date = regex.Match(curLine).ToString().Trim('-', ' ');
 
-                Console.WriteLine(handNo + pokerType + blinds + date);
+                //get table Infos
+                curLine = strHand.Dequeue();
+                var tableInfos = curLine.Substring(0,curLine.IndexOf("#"));
+                regex = new Regex("-.*");
+                var buttonSeat = curLine.Substring(curLine.IndexOf("#")).Substring(0, curLine.IndexOf(" "));
 
-                foreach (var line in hand)
+
+                //loop to get players in table
+                List<Player> players = new List<Player>();
+                curLine = strHand.Dequeue();
+                while(curLine.Substring(0, 4).CompareTo("Seat") == 0)
+                {
+                    regex = new Regex(".*:");
+                    var seat = regex.Match(curLine).ToString().Substring(0,4).Trim(':');
+                    regex = new Regex(":.*\\(");
+                    var playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
+                    regex = new Regex("\\(.*in");
+                    var chips = regex.Match(curLine).ToString().Trim('(', '$');
+                    Console.WriteLine(seat, playerName, chips);
+                    curLine = strHand.Dequeue();
+                }
+
+                Hand hand = new Hand(handNo, pokerType, blinds, date, tableInfos, buttonSeat, players);
+                hand.Print();
+                hands.Enqueue(hand);
+
+                foreach (var line in strHand)
                 {
                     //get game
                 }
-                hand = getHand(file);
+                strHand = getHand(file);
             }
 
         }
 
-        private List<string> getHand(StreamReader file)
+        private Queue<string> getHand(StreamReader file)
         {
-            List<string> buffer = new List<string>();
+            Queue<string> buffer = new Queue<string>();
             var line = file.ReadLine();
             while (!String.IsNullOrEmpty(line) && !line.Equals('\n') && !line.Equals("\r\n"))
             {
-                buffer.Add(line);
+                buffer.Enqueue(line);
                 line = file.ReadLine();
             }
 
