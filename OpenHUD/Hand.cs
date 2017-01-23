@@ -25,8 +25,10 @@ namespace OpenHud
             this.date = date;
             this.tableInfos = tableInfos;
             this.buttonSeat = buttonSeat;
-            
-
+            var card1 = new Card(cards.Substring(0,2));
+            var card2 = new Card(cards.Substring(3));
+            var cardPlayer = players.Find(p => p.name == cardsOwner);
+            cardPlayer.cards = new Card[] { card1, card2 };
             this.players = players;
         }
 

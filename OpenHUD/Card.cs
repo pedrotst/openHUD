@@ -8,18 +8,18 @@ namespace OpenHud
 {
     class Card
     {
-        public enum Suits { Heart, Spade, Diamond, Club};
-        private Tuple<int, Suits> card;
-
-        public Card(int number, Suits suit)
-        {
-            this.card = new Tuple<int, Suits>(number, suit);
-        }
+        public enum Suits { Hearts = 'h', Spades = 's', Diamonds = 'd', Clubs = 'c'};
+        public enum Ranks { Deuce = '2', Three, Four, Five, Six, Seven,
+        Eight, Nine, Ten = 'T', Jack = 'J', Queen = 'Q', King = 'K', Ace = 'A' }
+        private Tuple<Ranks, Suits> card;
 
         public Card(string card)
         {
-            var number = int.Parse(card.Substring(0));
-            this.card = new Tuple<int, Suits>(number, Suits.Club);
+            var cardArray = card.ToCharArray();
+            var cardCh = cardArray[0];
+            var cardSuit = cardArray[1];
+            this.card = new Tuple<Ranks, Suits>((Ranks) cardCh, (Suits)cardSuit);
         }
+
     }
 }

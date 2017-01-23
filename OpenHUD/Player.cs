@@ -10,9 +10,9 @@ namespace OpenHud
     class Player
     {
         private int seat;
-        private string name;
+        public string name { get; private set;}
         private double chips;
-        private Card[] cards = new Card[2];
+        public Card[] cards = new Card[2];
 
         public Player(string seat, string name, string chips)
         {
