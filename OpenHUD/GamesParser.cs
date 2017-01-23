@@ -80,7 +80,21 @@ namespace OpenHud
                     curLine = strHand.Dequeue();
                 }
 
-                Hand hand = new Hand(handNo, pokerType, blinds, date, tableInfos, buttonSeat, players);
+                //ignore lines until Hole Cards
+                while (curLine != "*** HOLE CARDS ***")
+                    curLine = strHand.Dequeue();
+
+                curLine = strHand.Dequeue();
+
+                //get cards dealt
+                regex = new Regex("to.*\\[");
+                var cardsOwner = regex.Match(curLine).ToString().Substring(3);
+                cardsOwner = cardsOwner.Remove(cardsOwner.Length - 2);
+
+                regex = new Regex("\\[.*\\]");
+                var cards = regex.Match(curLine).ToString().Trim('[', ']');
+
+                Hand hand = new Hand(handNo, pokerType, blinds, date, tableInfos, buttonSeat, players, cardsOwner, cards);
                 hand.Print();
                 hands.Enqueue(hand);
 

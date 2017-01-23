@@ -11,9 +11,15 @@ namespace OpenHud
         public enum Suits { Heart, Spade, Diamond, Club};
         private Tuple<int, Suits> card;
 
-        public Card(int card, Suits suit)
+        public Card(int number, Suits suit)
         {
-            this.card = new Tuple<int, Suits>(card, suit);
+            this.card = new Tuple<int, Suits>(number, suit);
+        }
+
+        public Card(string card)
+        {
+            var number = int.Parse(card.Substring(0));
+            this.card = new Tuple<int, Suits>(number, Suits.Club);
         }
     }
 }
