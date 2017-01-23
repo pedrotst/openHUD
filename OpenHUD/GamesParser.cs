@@ -67,7 +67,7 @@ namespace OpenHud
                 while(curLine.Substring(0, 4).CompareTo("Seat") == 0)
                 {
                     regex = new Regex(".*:");
-                    var seat = regex.Match(curLine).ToString().Substring(0,4).Trim(':');
+                    var seat = regex.Match(curLine).ToString().Remove(0,4).Trim(':', ' ');
                     regex = new Regex(":.*\\(");
                     var playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
                     regex = new Regex("\\(.*in");
