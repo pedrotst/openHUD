@@ -12,7 +12,7 @@ namespace OpenHud
         private int seat;
         public string name { get; private set;}
         private double chips;
-        public Card[] cards = new Card[2];
+        public Card[] cards;
 
         public Player(string seat, string name, string chips)
         {
