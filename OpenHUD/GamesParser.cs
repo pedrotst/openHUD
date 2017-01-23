@@ -57,8 +57,10 @@ namespace OpenHud
                 //get table Infos
                 curLine = strHand.Dequeue();
                 var tableInfos = curLine.Substring(0,curLine.IndexOf("#"));
+
+                //get button seat
                 regex = new Regex("#\\d*");
-                var buttonSeat = regex.Match(curLine).ToString().Remove(1);
+                var buttonSeat = regex.Match(curLine).ToString().Substring(1);
 
 
                 //loop to get players in table
