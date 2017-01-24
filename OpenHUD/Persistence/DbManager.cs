@@ -20,8 +20,8 @@ namespace OpenHud.Persistence
 
         public void populateHand(Hand hand)
         {
-            string query = "INSERT INTO HAND (Id, TableName, SmallBlind, BigBlind, Currency, PokerType, SeatNumber, DealerSeat)" +
-                "VALUES (@Id, @Tname, @BigBlind, @SmallBlind, @Currency, @Type, @Num, @Dealer)";
+            string query = "INSERT INTO HAND (Id, TableName, SmallBlind, BigBlind, Currency, PokerType, SeatNumber, DealerSeat, Timestamp)" +
+                "VALUES (@Id, @Tname, @BigBlind, @SmallBlind, @Currency, @Type, @Num, @Dealer, @TS)";
 
             using (connection = new SqlConnection(connectionString))
             using (SqlCommand command = new SqlCommand(query, connection))
@@ -35,6 +35,7 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@Type", hand.pokerType);
                 command.Parameters.AddWithValue("@Num", hand.maxSeat);
                 command.Parameters.AddWithValue("@Dealer", hand.buttonSeat);
+                command.Parameters.AddWithValue("@TS", hand.timestamp);
                 command.ExecuteScalar();
 
                 hand.players.ForEach(p => populatePlayer(p, hand.handNumber));

@@ -60,8 +60,12 @@ namespace OpenHud
                 var currency = regex.Match(blinds).ToString().Trim(' ');
 
                 //get date
-                regex = new Regex("-.*");
-                var date = regex.Match(curLine).ToString().Trim('-', ' ');
+                regex = new Regex("\\[.*\\]");
+                var date = regex.Match(curLine).ToString().Trim('[', ']');
+                if (date == "") {
+                    regex = new Regex("-.*");
+                    date = regex.Match(curLine).ToString().Trim('[', ']');
+                } 
 
                 //get table Name
                 curLine = strHand.Dequeue();

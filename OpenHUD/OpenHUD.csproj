@@ -63,16 +63,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="GamesParser.cs" />
+    <Compile Include="Model\Card.cs" />
+    <Compile Include="Controller\HandParser.cs" />
     <Compile Include="Persistence\DbManager.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="Model\Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Hand.cs" />
+    <Compile Include="Model\Hand.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6">
@@ -87,10 +89,16 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HandHistory.mdf" />
-    <Content Include="HandHistory_log.ldf">
-      <DependentUpon>HandHistory.mdf</DependentUpon>
+    <Content Include="Persistence\HandHistory.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Persistence\HandHistory_log.ldf">
+      <DependentUpon>HandHistory.mdf</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="View\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

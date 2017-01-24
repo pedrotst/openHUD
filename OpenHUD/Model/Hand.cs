@@ -14,7 +14,7 @@ namespace OpenHud
         public double smallBlind;
         public double bigBlind;
         public string currency;
-        public string date;
+        public DateTime timestamp;
         public string tableName;
         public string maxSeat;
         public string buttonSeat;
@@ -28,7 +28,7 @@ namespace OpenHud
             this.smallBlind = double.Parse(smallBlind, CultureInfo.InvariantCulture);
             this.bigBlind = double.Parse(bigBlind, CultureInfo.InvariantCulture);
             this.currency = currency;
-            this.date = date;
+            this.timestamp = DateTime.ParseExact(date, "yyyy/MM/dd HH:mm:ss ET", CultureInfo.InvariantCulture);
             this.tableName = tableName;
             this.maxSeat = maxSeat;
             this.buttonSeat = buttonSeat;
@@ -44,7 +44,7 @@ namespace OpenHud
             Console.WriteLine("----------------------- Hand #" + handNumber + " ----------------------- ");
             Console.WriteLine(pokerType);
             Console.WriteLine("Blinds: ${0}/${1}", smallBlind, bigBlind);
-            Console.WriteLine(date);
+            Console.WriteLine(timestamp);
             Console.WriteLine(tableName);
             Console.WriteLine(maxSeat + " Max");
             Console.WriteLine("Button: " + buttonSeat);
