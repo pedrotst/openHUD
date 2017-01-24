@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -119,7 +120,7 @@ namespace OpenHud
                 }
                 catch (SqlException e)
                 {
-                    Console.WriteLine("Hand already stored in Db");
+                    Console.WriteLine(e.Message);
                 }
 
                 foreach (var line in strHand)
