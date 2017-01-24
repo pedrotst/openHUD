@@ -9,10 +9,10 @@ namespace OpenHud
 {
     class Player
     {
-        private int seat;
+        public int seat;
         public string name { get; private set;}
-        private double chips;
-        public Card[] cards;
+        public double chips;
+        public Card[] cards = null;
 
         public Player(string seat, string name, string chips)
         {
@@ -23,7 +23,11 @@ namespace OpenHud
 
         public void Print()
         {
-            Console.WriteLine("Seat {0}: {1} (Chips: {2})", this.seat, this.name, this.chips);
+            Console.Write("Seat {0}: {1} (Chips: {2})", this.seat, this.name, this.chips);
+            if (cards == null)
+                Console.WriteLine();
+            else
+                Console.WriteLine("[{0}{1} {2}{3}]", cards[0].card.Item1, cards[0].card.Item2, cards[1].card.Item1, cards[0].card.Item2);
         }
     }
 }

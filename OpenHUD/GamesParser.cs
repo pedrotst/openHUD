@@ -115,7 +115,7 @@ namespace OpenHud
 
                 try
                 {
-                    db.populateHands(hand);
+                    db.populateHand(hand);
                     Console.WriteLine("Hand stored Sucessfully!");
                 }
                 catch (SqlException e)

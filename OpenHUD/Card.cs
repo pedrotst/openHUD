@@ -15,14 +15,14 @@ namespace OpenHud
             Ten = 'T', Jack = 'J', Queen = 'Q', King = 'K', Ace = 'A'
         }
 
-        private Tuple<Ranks, Suits> card;
+        public Tuple<char, char> card;
 
         public Card(string card)
         {
             var cardArray = card.ToCharArray();
             var cardCh = cardArray[0];
             var cardSuit = cardArray[1];
-            this.card = new Tuple<Ranks, Suits>((Ranks) cardCh, (Suits)cardSuit);
+            this.card = new Tuple<char, char>(cardCh, cardSuit);
         }
 
     }
