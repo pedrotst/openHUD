@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,20 +11,26 @@ namespace OpenHud
     {
         public double handNumber;
         public string pokerType;
-        public string blinds;
+        public double smallBlind;
+        public double bigBlind;
+        public string currency;
         public string date;
-        public string tableInfos;
+        public string tableName;
+        public string maxSeat;
         public string buttonSeat;
         public List<Player> players;
 
-        public Hand(string handNumber, string pokerType, string blinds, string date, string tableInfos, string buttonSeat, List<Player> players,
+        public Hand(string handNumber, string pokerType, string smallBlind, string bigBlind, string currency, string date, string tableName, string maxSeat, string buttonSeat, List<Player> players,
             string cardsOwner, string cards)
         {
             this.handNumber = double.Parse(handNumber);
             this.pokerType = pokerType;
-            this.blinds = blinds;
+            this.smallBlind = double.Parse(smallBlind, CultureInfo.InvariantCulture);
+            this.bigBlind = double.Parse(bigBlind, CultureInfo.InvariantCulture);
+            this.currency = currency;
             this.date = date;
-            this.tableInfos = tableInfos;
+            this.tableName = tableName;
+            this.maxSeat = maxSeat;
             this.buttonSeat = buttonSeat;
             var card1 = new Card(cards.Substring(0,2));
             var card2 = new Card(cards.Substring(3));
@@ -36,9 +43,10 @@ namespace OpenHud
         {
             Console.WriteLine("----------------------- Hand #" + handNumber + " ----------------------- ");
             Console.WriteLine(pokerType);
-            Console.WriteLine("Blinds: " + blinds);
+            Console.WriteLine("Blinds: ${0}/${1}", smallBlind, bigBlind);
             Console.WriteLine(date);
-            Console.WriteLine(tableInfos);
+            Console.WriteLine(tableName);
+            Console.WriteLine(maxSeat + " Max");
             Console.WriteLine("Button: " + buttonSeat);
             players.ForEach(p => p.Print());
             Console.WriteLine();

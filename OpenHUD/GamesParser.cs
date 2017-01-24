@@ -1,6 +1,7 @@
 ﻿using OpenHud.Persistence;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -49,15 +50,27 @@ namespace OpenHud
 
                 //get blinds value
                 regex = new Regex("\\(.*\\)");
-                var blinds = regex.Match(curLine).ToString().Trim('(', ')', ' ');
+                var blinds = regex.Match(curLine).ToString().Trim('(', ')');
+                regex = new Regex(".*\\/");
+                var smallBlind = regex.Match(blinds).ToString().Trim('/', ' ', '$');
+                regex = new Regex("\\/.* ");
+                var bigBlind = regex.Match(blinds).ToString().Trim('/', ' ', '$');
+                regex = new Regex(" .*");
+                var currency = regex.Match(blinds).ToString().Trim(' ');
 
                 //get date
                 regex = new Regex("-.*");
                 var date = regex.Match(curLine).ToString().Trim('-', ' ');
 
-                //get table Infos
+                //get table Name
                 curLine = strHand.Dequeue();
-                var tableInfos = curLine.Substring(0,curLine.IndexOf("#"));
+                regex = new Regex("\\'.*\\'");
+                var tableName = regex.Match(curLine).ToString().Trim('\'');
+
+                //get max Seat
+                regex = new Regex("\\' \\d*-max");
+                var maxSeat = regex.Match(curLine).ToString().Trim('\'', ' ');
+                maxSeat = maxSeat.Substring(0, maxSeat.Length - 4);
 
                 //get button seat
                 regex = new Regex("#\\d*");
@@ -95,12 +108,19 @@ namespace OpenHud
                 regex = new Regex("\\[.*\\]");
                 var cards = regex.Match(curLine).ToString().Trim('[', ']');
 
-                Hand hand = new Hand(handNo, pokerType, blinds, date, tableInfos, buttonSeat, players, cardsOwner, cards);
+                Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards);
                 hand.Print();
                 var db = new DbManager();
-                db.populateHands(hand);
 
-                hands.Enqueue(hand);
+                try
+                {
+                    db.populateHands(hand);
+                    Console.WriteLine("Hand stored Sucessfully!");
+                }
+                catch (SqlException e)
+                {
+                    Console.WriteLine("Hand already stored in Db");
+                }
 
                 foreach (var line in strHand)
                 {
