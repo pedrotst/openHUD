@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace OpenHud
 {
-    class GamesParser
+    class HandParser
     {
-        public GamesParser(string gamesFolder)
+        public HandParser(string gamesFolder)
         {
             string[] files = Directory.GetFiles(gamesFolder, "*", SearchOption.AllDirectories);
             foreach (var file in files) {

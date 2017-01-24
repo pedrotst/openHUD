@@ -10,7 +10,7 @@ namespace OpenHud
     {
         static void Main(string[] args)
         {
-            GamesParser fileParser = new GamesParser(@"..\..\hands_example");
+            HandParser fileParser = new HandParser(@"..\..\hands_example");
             Console.ReadLine();
         }
     }
