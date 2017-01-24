@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OpenHud.Persistence;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -96,6 +97,9 @@ namespace OpenHud
 
                 Hand hand = new Hand(handNo, pokerType, blinds, date, tableInfos, buttonSeat, players, cardsOwner, cards);
                 hand.Print();
+                var db = new DbManager();
+                db.populateHands(hand);
+
                 hands.Enqueue(hand);
 
                 foreach (var line in strHand)

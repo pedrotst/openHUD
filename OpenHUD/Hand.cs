@@ -8,18 +8,18 @@ namespace OpenHud
 {
     class Hand
     {
-        private string handNumber;
-        private string pokerType;
-        private string blinds;
-        private string date;
-        private string tableInfos;
-        private string buttonSeat;
-        private List<Player> players;
+        public double handNumber;
+        public string pokerType;
+        public string blinds;
+        public string date;
+        public string tableInfos;
+        public string buttonSeat;
+        public List<Player> players;
 
         public Hand(string handNumber, string pokerType, string blinds, string date, string tableInfos, string buttonSeat, List<Player> players,
             string cardsOwner, string cards)
         {
-            this.handNumber = handNumber;
+            this.handNumber = double.Parse(handNumber);
             this.pokerType = pokerType;
             this.blinds = blinds;
             this.date = date;
