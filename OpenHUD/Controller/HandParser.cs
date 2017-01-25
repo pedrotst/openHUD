@@ -23,115 +23,112 @@ namespace OpenHud
 
         private void parseFile(string fileName)
         {
+            Console.WriteLine("Reading Hands At {0}", fileName);
             var file = new StreamReader(fileName);
-            parseHand(file);
+            try
+            {
+                var strHand = getHand(file);
+                while (strHand.Any())
+                {
+                    parseHand(strHand);
+                    strHand = getHand(file);
+                }
+                Console.WriteLine("Sucess!\n");
+            }
+            catch (SqlException e)
+            {
+                Console.WriteLine(e.Message);
+            }
             file.Close();
         }
 
-       private void parseHand(StreamReader file)
+       private void parseHand(Queue<string> strHand)
         {
+            var curLine = strHand.Dequeue();
 
-            var strHand = getHand(file);
-            Queue<Hand> hands = new Queue<Hand>();
+            //get hand number
+            var regex = new Regex("#\\d*:");
+            var handNo = regex.Match(curLine).ToString().Trim('#', ':', ' ');
 
-            while (strHand.Any())
+            //get poker type
+            regex = new Regex(":.*\\(");
+            var pokerType = regex.Match(curLine).ToString().Trim(':', '(', ' ');
+
+            //get blinds value
+            regex = new Regex("\\(.*\\)");
+            var blinds = regex.Match(curLine).ToString().Trim('(', ')');
+            regex = new Regex(".*\\/");
+            var smallBlind = regex.Match(blinds).ToString().Trim('/', ' ', '$');
+            regex = new Regex("\\/.* ");
+            var bigBlind = regex.Match(blinds).ToString().Trim('/', ' ', '$');
+            regex = new Regex(" .*");
+            var currency = regex.Match(blinds).ToString().Trim(' ');
+
+            //get date
+            regex = new Regex("\\[.*\\]");
+            var date = regex.Match(curLine).ToString().Trim('[', ']');
+            if (date == "")
             {
-                if (!strHand.Any())
-                    return;
+                regex = new Regex("-.*");
+                date = regex.Match(curLine).ToString().Trim('[', ']', '-', ' ');
+            }
 
-                var curLine = strHand.Dequeue();
+            //get table Name
+            curLine = strHand.Dequeue();
+            regex = new Regex("\\'.*\\'");
+            var tableName = regex.Match(curLine).ToString().Trim('\'');
 
-                //get hand number
-                var regex = new Regex("#\\d*:");
-                var handNo = regex.Match(curLine).ToString().Trim('#', ':', ' ');
+            //get max Seat
+            regex = new Regex("\\' \\d*-max");
+            var maxSeat = regex.Match(curLine).ToString().Trim('\'', ' ');
+            maxSeat = maxSeat.Substring(0, maxSeat.Length - 4);
 
-                //get poker type
+            //get button seat
+            regex = new Regex("#\\d*");
+            var buttonSeat = regex.Match(curLine).ToString().Substring(1);
+
+
+            //loop to get players in table
+            List<Player> players = new List<Player>();
+            curLine = strHand.Dequeue();
+            while (curLine.Substring(0, 4) == "Seat")
+            {
+                regex = new Regex(".*:");
+                var seat = regex.Match(curLine).ToString().Remove(0, 4).Trim(':', ' ');
                 regex = new Regex(":.*\\(");
-                var pokerType = regex.Match(curLine).ToString().Trim(':', '(', ' ');
-
-                //get blinds value
-                regex = new Regex("\\(.*\\)");
-                var blinds = regex.Match(curLine).ToString().Trim('(', ')');
-                regex = new Regex(".*\\/");
-                var smallBlind = regex.Match(blinds).ToString().Trim('/', ' ', '$');
-                regex = new Regex("\\/.* ");
-                var bigBlind = regex.Match(blinds).ToString().Trim('/', ' ', '$');
-                regex = new Regex(" .*");
-                var currency = regex.Match(blinds).ToString().Trim(' ');
-
-                //get date
-                regex = new Regex("\\[.*\\]");
-                var date = regex.Match(curLine).ToString().Trim('[', ']');
-                if (date == "") {
-                    regex = new Regex("-.*");
-                    date = regex.Match(curLine).ToString().Trim('[', ']');
-                } 
-
-                //get table Name
-                curLine = strHand.Dequeue();
-                regex = new Regex("\\'.*\\'");
-                var tableName = regex.Match(curLine).ToString().Trim('\'');
-
-                //get max Seat
-                regex = new Regex("\\' \\d*-max");
-                var maxSeat = regex.Match(curLine).ToString().Trim('\'', ' ');
-                maxSeat = maxSeat.Substring(0, maxSeat.Length - 4);
-
-                //get button seat
-                regex = new Regex("#\\d*");
-                var buttonSeat = regex.Match(curLine).ToString().Substring(1);
-
-
-                //loop to get players in table
-                List<Player> players = new List<Player>();
-                curLine = strHand.Dequeue();
-                while(curLine.Substring(0, 4) == "Seat")
-                {
-                    regex = new Regex(".*:");
-                    var seat = regex.Match(curLine).ToString().Remove(0,4).Trim(':', ' ');
-                    regex = new Regex(":.*\\(");
-                    var playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
-                    regex = new Regex("\\(.*in");
-                    var chips = regex.Match(curLine).ToString().Trim('(', '$');
-                    chips = chips.Substring(0, chips.Length - 3);
-                    players.Add(new Player(seat, playerName, chips));
-
-                    curLine = strHand.Dequeue();
-                }
-
-                //ignore lines until Hole Cards
-                while (curLine != "*** HOLE CARDS ***")
-                    curLine = strHand.Dequeue();
+                var playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
+                regex = new Regex("\\(.*in");
+                var chips = regex.Match(curLine).ToString().Trim('(', '$');
+                chips = chips.Substring(0, chips.Length - 3);
+                players.Add(new Player(seat, playerName, chips));
 
                 curLine = strHand.Dequeue();
+            }
 
-                //get cards dealt
-                regex = new Regex("to.*\\[");
-                var cardsOwner = regex.Match(curLine).ToString().Substring(3);
-                cardsOwner = cardsOwner.Remove(cardsOwner.Length - 2);
+            //ignore lines until Hole Cards
+            while (curLine != "*** HOLE CARDS ***")
+                curLine = strHand.Dequeue();
 
-                regex = new Regex("\\[.*\\]");
-                var cards = regex.Match(curLine).ToString().Trim('[', ']');
+            curLine = strHand.Dequeue();
 
-                Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards);
-                hand.Print();
-                var db = new DbManager();
+            //get cards dealt
+            regex = new Regex("to.*\\[");
+            var cardsOwner = regex.Match(curLine).ToString().Substring(3);
+            cardsOwner = cardsOwner.Remove(cardsOwner.Length - 2);
 
-                try
-                {
-                    db.populateHand(hand);
-                    Console.WriteLine("Hand stored Sucessfully!");
-                }
-                catch (SqlException e)
-                {
-                    Console.WriteLine(e.Message);
-                }
+            regex = new Regex("\\[.*\\]");
+            var cards = regex.Match(curLine).ToString().Trim('[', ']');
 
-                foreach (var line in strHand)
-                {
-                    //get game
-                }
-                strHand = getHand(file);
+            Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards);
+            //hand.Print();
+            var db = new DbManager();
+
+            db.populateHand(hand);
+
+
+            foreach (var line in strHand)
+            {
+                //get game
             }
 
         }
