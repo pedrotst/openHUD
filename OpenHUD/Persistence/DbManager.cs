@@ -41,8 +41,8 @@ namespace OpenHud.Persistence
 
         public void populatePlayer(Player player, double handNumber)
         {
-            string query = "INSERT INTO Player (PlayerName, Seat, Hand, Chips, Card1Rank, Card1Suit, Card2Rank, Card2Suit)" +
-                "VALUES (@PlayerName, @Seat, @Hand, @Chips, @Card1Rank, @Card1Suit, @Card2Rank, @Card2Suit)";
+            string query = "INSERT INTO Player (PlayerName, Seat, Hand, Chips, Cards)" +
+                "VALUES (@PlayerName, @Seat, @Hand, @Chips, @Cards)";
 
             using (connection = new SqlConnection(connectionString))
             using (SqlCommand command = new SqlCommand(query, connection))
@@ -55,17 +55,11 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@Chips", player.chips);
                 if (player.cards != null)
                 {
-                    command.Parameters.AddWithValue("@Card1Rank", player.cards[0].card.Item1);
-                    command.Parameters.AddWithValue("@Card1Suit", player.cards[0].card.Item2);
-                    command.Parameters.AddWithValue("@Card2Rank", player.cards[1].card.Item1);
-                    command.Parameters.AddWithValue("@Card2Suit", player.cards[1].card.Item2);
+                    command.Parameters.AddWithValue("@Cards", player.cards);
                 }
                 else
                 {
-                    command.Parameters.AddWithValue("@Card1Rank", DBNull.Value);
-                    command.Parameters.AddWithValue("@Card1Suit", DBNull.Value);
-                    command.Parameters.AddWithValue("@Card2Rank", DBNull.Value);
-                    command.Parameters.AddWithValue("@Card2Suit", DBNull.Value);
+                    command.Parameters.AddWithValue("@Cards", DBNull.Value);
                 }
                 command.ExecuteScalar();
             }

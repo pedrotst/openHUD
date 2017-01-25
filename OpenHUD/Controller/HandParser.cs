@@ -16,7 +16,7 @@ namespace OpenHud
         public HandParser(string gamesFolder)
         {
             string[] files = Directory.GetFiles(gamesFolder, "*", SearchOption.AllDirectories);
-            Console.WriteLine("Reading Hands At {0}", gamesFolder);
+            Console.WriteLine("Reading Hands At {0}\n", gamesFolder);
             foreach (var file in files) {
                 parseFile(file);
             }
@@ -34,8 +34,9 @@ namespace OpenHud
                 {
                     parseHand(strHand);
                     strHand = getHand(file);
+                    Console.Write(".");
                 }
-                Console.WriteLine("Sucess!\n");
+                Console.WriteLine("\nSucess!\n");
             }
             catch (SqlException e)
             {
@@ -120,6 +121,7 @@ namespace OpenHud
 
             regex = new Regex("\\[.*\\]");
             var cards = regex.Match(curLine).ToString().Trim('[', ']');
+            cards = String.Join("", cards.Split(' '));
 
             Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards);
             //hand.Print();

@@ -32,24 +32,9 @@ namespace OpenHud
             this.tableName = tableName;
             this.maxSeat = maxSeat;
             this.buttonSeat = buttonSeat;
-            var card1 = new Card(cards.Substring(0,2));
-            var card2 = new Card(cards.Substring(3));
             var cardPlayer = players.Find(p => p.name == cardsOwner);
-            cardPlayer.cards = new Card[] { card1, card2 };
+            cardPlayer.cards = cards;
             this.players = players;
-        }
-
-        public void Print()
-        {
-            Console.WriteLine("----------------------- Hand #" + handNumber + " ----------------------- ");
-            Console.WriteLine(pokerType);
-            Console.WriteLine("Blinds: ${0}/${1}", smallBlind, bigBlind);
-            Console.WriteLine(timestamp);
-            Console.WriteLine(tableName);
-            Console.WriteLine(maxSeat + " Max");
-            Console.WriteLine("Button: " + buttonSeat);
-            players.ForEach(p => p.Print());
-            Console.WriteLine();
         }
 
     }
