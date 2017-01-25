@@ -20,8 +20,8 @@ namespace OpenHud.Persistence
 
         public void populateHand(Hand hand)
         {
-            string query = "INSERT INTO HAND (Id, TableInfo, DealerSeat, Timestamp)" +
-                "VALUES (@Id, @TableInfo, @Dealer, @TS)";
+            string query = "INSERT INTO HAND (Id, TableInfo, DealerSeat, Board, Timestamp)" +
+                "VALUES (@Id, @TableInfo, @Dealer, @Board, @Timestamp)";
 
             using (connection = new SqlConnection(connectionString))
             using (SqlCommand command = new SqlCommand(query, connection))
@@ -32,7 +32,8 @@ namespace OpenHud.Persistence
                     hand.bigBlind, hand.currency, hand.pokerType);
                 command.Parameters.AddWithValue("@TableInfo", tableNameId);
                 command.Parameters.AddWithValue("@Dealer", hand.buttonSeat);
-                command.Parameters.AddWithValue("@TS", hand.timestamp);
+                command.Parameters.AddWithValue("@Timestamp", hand.timestamp);
+                command.Parameters.AddWithValue("@Board", (Object) hand.board ?? DBNull.Value);
                 command.ExecuteScalar();
 
                 hand.players.ForEach(p => populatePlayer(p, hand.handNumber));
@@ -53,20 +54,14 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@Seat", player.seat);
                 command.Parameters.AddWithValue("@Hand", handNumber);
                 command.Parameters.AddWithValue("@Chips", player.chips);
-                if (player.cards != null)
-                {
-                    command.Parameters.AddWithValue("@Cards", player.cards);
-                }
-                else
-                {
-                    command.Parameters.AddWithValue("@Cards", DBNull.Value);
-                }
+                command.Parameters.AddWithValue("@Cards", (Object) player.cards ?? DBNull.Value);
                 command.ExecuteScalar();
             }
         }
 
         public int populatePlayerName(string name)
         {
+            // Only adds if its a new name, otherwise fetch its id
             string query = "IF EXISTS (SELECT * FROM PLAYERNAME WHERE Name = @Name)" +
                 " SELECT * FROM PLAYERNAME WHERE Name = @Name;" +
                 " ELSE BEGIN" +
@@ -87,6 +82,7 @@ namespace OpenHud.Persistence
         public int populateTableName(string name, string seatNumber, double smallBlind, double bigBlind, 
             string currency, string pokerType)
         {
+            // Only adds if its a new table, otherwise fetch its id
             string query = "IF EXISTS (SELECT * FROM TABLEINFO WHERE Name = @Name)" +
                 " SELECT * FROM TABLEINFO WHERE Name = @Name;" +
                 " ELSE BEGIN" +

@@ -121,10 +121,23 @@ namespace OpenHud
 
             regex = new Regex("\\[.*\\]");
             var cards = regex.Match(curLine).ToString().Trim('[', ']');
-            cards = String.Join("", cards.Split(' '));
+            cards = String.Join("", cards.Split(' ')); // remove blanks
 
-            Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards);
-            //hand.Print();
+            //ignore lines until Summary
+            while (curLine != "*** SUMMARY ***")
+                curLine = strHand.Dequeue();
+
+            curLine = strHand.Dequeue();// summary line
+            curLine = strHand.Dequeue();// board line (optional)
+            string board = null;
+            if (curLine.StartsWith("Board"))
+            {
+                regex = new Regex("\\[.*\\]");
+                board = regex.Match(curLine).ToString().Trim('[', ']');
+                board = String.Join("", board.Split(' ')); // remove blanks
+            }
+
+            Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards, board);
             var db = new DbManager();
 
             db.populateHand(hand);
