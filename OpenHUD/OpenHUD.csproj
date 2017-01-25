@@ -90,11 +90,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Persistence\HandHistory.mdf">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Persistence\HandHistory_log.ldf">
       <DependentUpon>HandHistory.mdf</DependentUpon>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup>

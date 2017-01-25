@@ -44,14 +44,15 @@ namespace OpenHud.Persistence
 
         public void populatePlayer(Player player, double handNumber)
         {
-            string query = "INSERT INTO Player (Name, Seat, Hand, Chips, Card1Rank, Card1Suit, Card2Rank, Card2Suit)" +
-                "VALUES (@Name, @Seat, @Hand, @Chips, @Card1Rank, @Card1Suit, @Card2Rank, @Card2Suit)";
+            string query = "INSERT INTO Player (Name_Id, Seat, Hand, Chips, Card1Rank, Card1Suit, Card2Rank, Card2Suit)" +
+                "VALUES (@Name_Id, @Seat, @Hand, @Chips, @Card1Rank, @Card1Suit, @Card2Rank, @Card2Suit)";
 
             using (connection = new SqlConnection(connectionString))
             using (SqlCommand command = new SqlCommand(query, connection))
             {
                 connection.Open();
-                command.Parameters.AddWithValue("@Name", player.name);
+                var playerNameId = populatePlayerName(player.name);
+                command.Parameters.AddWithValue("@Name_Id", playerNameId);
                 command.Parameters.AddWithValue("@Seat", player.seat);
                 command.Parameters.AddWithValue("@Hand", handNumber);
                 command.Parameters.AddWithValue("@Chips", player.chips);
@@ -71,6 +72,25 @@ namespace OpenHud.Persistence
                 }
                 command.ExecuteScalar();
             }
+        }
+
+        public int populatePlayerName(string name)
+        {
+            string query = "IF EXISTS (SELECT * FROM PLAYERNAME WHERE Name = @Name)" +
+                " SELECT * FROM PLAYERNAME WHERE Name = @Name;" +
+                " ELSE BEGIN" +
+                " INSERT INTO PlayerName (Name) OUTPUT INSERTED.Id VALUES (@Name); END";
+            
+            int insertedValue;
+            using (connection = new SqlConnection(connectionString))
+            using (SqlCommand command = new SqlCommand(query, connection))
+            {
+
+                connection.Open();
+                command.Parameters.AddWithValue("@Name", name);
+                insertedValue = (int)command.ExecuteScalar();
+            }
+            return insertedValue;
         }
 
     }
