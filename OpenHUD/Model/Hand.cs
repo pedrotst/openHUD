@@ -22,8 +22,7 @@ namespace OpenHud
         public List<Player> players;
 
         public Hand(string handNumber, string pokerType, string smallBlind, string bigBlind, string currency, 
-            string date, string tableName, string maxSeat, string buttonSeat, List<Player> players,
-            string cardsOwner, string cards, string board)
+            string date, string tableName, string maxSeat, string buttonSeat, List<Player> players, string board)
         {
             this.handNumber = double.Parse(handNumber);
             this.pokerType = pokerType;
@@ -35,8 +34,6 @@ namespace OpenHud
             this.maxSeat = maxSeat;
             this.buttonSeat = buttonSeat;
             this.board = board;
-            var cardPlayer = players.Find(p => p.name == cardsOwner);
-            cardPlayer.cards = cards;
             this.players = players;
         }
 

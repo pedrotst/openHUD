@@ -121,7 +121,7 @@ namespace OpenHud
 
             regex = new Regex("\\[.*\\]");
             var cards = regex.Match(curLine).ToString().Trim('[', ']');
-            cards = String.Join("", cards.Split(' ')); // remove blanks
+            setPlayerCards(players, cardsOwner, cards);
 
             //ignore lines until Summary
             while (curLine != "*** SUMMARY ***")
@@ -137,7 +137,24 @@ namespace OpenHud
                 board = String.Join("", board.Split(' ')); // remove blanks
             }
 
-            Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, cardsOwner, cards, board);
+            curLine = strHand.Dequeue();// seats summary
+            while (curLine.StartsWith("Seat"))
+            {
+                regex = new Regex("\\[.*\\]");
+                cards = regex.Match(curLine).ToString().Trim('[', ']');
+                if(cards != "")
+                {
+                    regex = new Regex(":.* \\[");
+                    cardsOwner = regex.Match(curLine).ToString().Trim(':', ']');
+                    cardsOwner = cardsOwner.Substring(0, cardsOwner.Length - 9);
+                    regex = new Regex("^[^\\(]*");
+                    cardsOwner = regex.Match(cardsOwner).ToString().Trim();
+                    setPlayerCards(players, cardsOwner, cards);
+                }
+                curLine = strHand.Any() ? strHand.Dequeue() : "";
+            }
+
+            Hand hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, board);
             var db = new DbManager();
 
             db.populateHand(hand);
@@ -164,6 +181,13 @@ namespace OpenHud
             file.ReadLine();
 
             return buffer;
+        }
+
+        private void setPlayerCards(List<Player> players, string cardsOwner, string cards)
+        {
+            var cardPlayer = players.Find(p => p.name == cardsOwner);
+            cards = String.Join("", cards.Split(' ')); // remove blanks
+            cardPlayer.cards = cards;
         }
 
  
