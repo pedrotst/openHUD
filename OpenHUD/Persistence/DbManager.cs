@@ -20,17 +20,17 @@ namespace OpenHud.Persistence
 
         public void populateHand(Hand hand)
         {
-            string query = "INSERT INTO HAND (Id, TableInfo, PokerType, DealerSeat, Timestamp)" +
-                "VALUES (@Id, @TableInfo, @Type, @Dealer, @TS)";
+            string query = "INSERT INTO HAND (Id, TableInfo, DealerSeat, Timestamp)" +
+                "VALUES (@Id, @TableInfo, @Dealer, @TS)";
 
             using (connection = new SqlConnection(connectionString))
             using (SqlCommand command = new SqlCommand(query, connection))
             {
                 connection.Open();
                 command.Parameters.AddWithValue("@Id", hand.handNumber);
-                var tableNameId = populateTableName(hand.tableName, hand.maxSeat, hand.smallBlind, hand.bigBlind, hand.currency);
+                var tableNameId = populateTableName(hand.tableName, hand.maxSeat, hand.smallBlind, 
+                    hand.bigBlind, hand.currency, hand.pokerType);
                 command.Parameters.AddWithValue("@TableInfo", tableNameId);
-                command.Parameters.AddWithValue("@Type", hand.pokerType);
                 command.Parameters.AddWithValue("@Dealer", hand.buttonSeat);
                 command.Parameters.AddWithValue("@TS", hand.timestamp);
                 command.ExecuteScalar();
@@ -84,12 +84,15 @@ namespace OpenHud.Persistence
             return insertedValue;
         }
 
-        public int populateTableName(string name, string seatNumber, double smallBlind, double bigBlind, string currency)
+        public int populateTableName(string name, string seatNumber, double smallBlind, double bigBlind, 
+            string currency, string pokerType)
         {
             string query = "IF EXISTS (SELECT * FROM TABLEINFO WHERE Name = @Name)" +
                 " SELECT * FROM TABLEINFO WHERE Name = @Name;" +
                 " ELSE BEGIN" +
-                " INSERT INTO TABLEINFO (Name, SeatNumber, SmallBlind, BigBlind, Currency) OUTPUT INSERTED.Id VALUES (@Name, @SeatNumber, @SmallBlind, @BigBlind, @Currency); END";
+                " INSERT INTO TABLEINFO (Name, SeatNumber, SmallBlind, BigBlind, Currency, PokerType) OUTPUT INSERTED.Id" +
+                " VALUES (@Name, @SeatNumber, @SmallBlind, @BigBlind, @Currency, @PokerType);" +
+                " END";
             
             int insertedValue;
             using (connection = new SqlConnection(connectionString))
@@ -102,6 +105,7 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@SmallBlind", smallBlind);
                 command.Parameters.AddWithValue("@BigBlind", bigBlind);
                 command.Parameters.AddWithValue("@Currency", currency);
+                command.Parameters.AddWithValue("@PokerType", pokerType);
                 insertedValue = (int)command.ExecuteScalar();
             }
             return insertedValue;
