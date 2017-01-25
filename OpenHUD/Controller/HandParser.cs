@@ -16,9 +16,11 @@ namespace OpenHud
         public HandParser(string gamesFolder)
         {
             string[] files = Directory.GetFiles(gamesFolder, "*", SearchOption.AllDirectories);
+            Console.WriteLine("Reading Hands At {0}", gamesFolder);
             foreach (var file in files) {
                 parseFile(file);
             }
+            Console.WriteLine("Hand Reading Completed!");
         }
 
         private void parseFile(string fileName)
