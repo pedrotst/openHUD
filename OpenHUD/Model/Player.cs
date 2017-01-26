@@ -13,6 +13,7 @@ namespace OpenHud.Model
         public string Name { get; private set;}
         public double Chips;
         public string Cards;
+        public List<PlayerAction> Actions;
 
         public Player(string seat, string name, string chips)
         {
@@ -20,6 +21,7 @@ namespace OpenHud.Model
             this.Name = name;
             this.Chips = double.Parse(chips, CultureInfo.InvariantCulture);
             Cards = null;
+            this.Actions = new List<PlayerAction>();
         }
     }
 }

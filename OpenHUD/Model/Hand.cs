@@ -18,8 +18,8 @@ namespace OpenHud.Model
         public string Board;
         public List<Player> Players;
 
-        public Hand(string handNumber, string pokerType, string smallBlind, string bigBlind, string currency, 
-            string date, string tableName, string maxSeat, string buttonSeat, List<Player> players, string board)
+        public Hand(string handNumber, string pokerType, string smallBlind, string bigBlind, string currency, string date, 
+            string tableName, string maxSeat, string buttonSeat, List<Player> players, string board)
         {
             this.HandNumber = double.Parse(handNumber);
             this.PokerType = pokerType;

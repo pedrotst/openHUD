@@ -90,7 +90,7 @@ namespace OpenHud.Controller
 
 
             //loop to get Players in table
-            var players = new List<Player>();
+            var players = new Dictionary<string, Player>();
             curLine = strHand.Dequeue();
             string playerName;
             while (curLine.Substring(0, 4) == "Seat")
@@ -102,11 +102,11 @@ namespace OpenHud.Controller
                 regex = new Regex("\\(.*in");
                 var chips = regex.Match(curLine).ToString().Trim('(', '$');
                 chips = chips.Substring(0, chips.Length - 3);
-                players.Add(new Player(seat, playerName, chips));
+                players.Add(playerName, new Player(seat, playerName, chips));
 
                 curLine = strHand.Dequeue();
             }
-            var actions = new List<PlayerAction>();
+            // initialize actions map with all players as keys and empty actions
 
             //get blinds
             regex = new Regex(".*:");
@@ -114,10 +114,13 @@ namespace OpenHud.Controller
             while (playerName != "")
             {
                 regex = new Regex(":[^\\$]*");
-                var action = regex.Match(curLine).ToString().Substring(2);
-                regex = new Regex("\\$.*");
-                var value = regex.Match(curLine).ToString().Trim('$');
-                actions.Add(new PlayerAction(action,  value, "Blinds",playerName));
+                var action = regex.Match(curLine).ToString().Trim().Substring(2);
+                if (action != "sits out" && action != "is sitting out")
+                {
+                    regex = new Regex("\\$.*");
+                    var value = regex.Match(curLine).ToString().Trim('$');
+                    players[playerName].Actions.Add(new PlayerAction(action, value, "Blinds"));
+                }
                 curLine = strHand.Dequeue();
                 regex = new Regex(".*:");
                 playerName = regex.Match(curLine).ToString().Trim(':');
@@ -171,7 +174,7 @@ namespace OpenHud.Controller
                 curLine = strHand.Any() ? strHand.Dequeue() : "";
             }
 
-            var hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players, board);
+            var hand = new Hand(handNo, pokerType, smallBlind, bigBlind, currency, date, tableName, maxSeat, buttonSeat, players.Values.ToList(), board);
             var db = new DbManager();
 
             db.PopulateHand(hand);
@@ -202,11 +205,10 @@ namespace OpenHud.Controller
             return buffer;
         }
 
-        private void SetPlayerCards(List<Player> players, string cardsOwner, string cards)
+        private void SetPlayerCards(Dictionary<string, Player> players, string cardsOwner, string cards)
         {
-            var cardPlayer = players.Find(p => p.Name == cardsOwner);
             cards = string.Join("", cards.Split(' ')); // remove blanks
-            cardPlayer.Cards = cards;
+            players[cardsOwner].Cards = cards;
         }
 
  
