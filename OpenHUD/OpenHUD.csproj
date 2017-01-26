@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Action.cs" />
     <Compile Include="Model\Card.cs" />
     <Compile Include="Controller\HandParser.cs" />
     <Compile Include="Persistence\DbManager.cs" />
