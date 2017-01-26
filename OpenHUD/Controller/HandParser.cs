@@ -1,4 +1,5 @@
-﻿using OpenHud.Persistence;
+﻿using OpenHud.Model;
+using OpenHud.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -94,12 +95,13 @@ namespace OpenHud
             //loop to get players in table
             List<Player> players = new List<Player>();
             curLine = strHand.Dequeue();
+            string playerName;
             while (curLine.Substring(0, 4) == "Seat")
             {
                 regex = new Regex(".*:");
                 var seat = regex.Match(curLine).ToString().Remove(0, 4).Trim(':', ' ');
                 regex = new Regex(":.*\\(");
-                var playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
+                playerName = regex.Match(curLine).ToString().Trim(' ', ':', '(');
                 regex = new Regex("\\(.*in");
                 var chips = regex.Match(curLine).ToString().Trim('(', '$');
                 chips = chips.Substring(0, chips.Length - 3);
@@ -107,6 +109,24 @@ namespace OpenHud
 
                 curLine = strHand.Dequeue();
             }
+            List<PlayerAction> actions = new List<PlayerAction>();
+
+            //get blinds
+            regex = new Regex(".*:");
+            playerName = regex.Match(curLine).ToString().Trim(':');
+            while (playerName != "")
+            {
+                regex = new Regex(":[^\\$]*");
+                var action = regex.Match(curLine).ToString().Substring(2);
+                regex = new Regex("\\$.*");
+                var value = regex.Match(curLine).ToString().Trim('$');
+                actions.Add(new PlayerAction(action,  value, "Blinds",playerName));
+                curLine = strHand.Dequeue();
+                regex = new Regex(".*:");
+                playerName = regex.Match(curLine).ToString().Trim(':');
+            }
+
+            
 
             //ignore lines until Hole Cards
             while (curLine != "*** HOLE CARDS ***")
