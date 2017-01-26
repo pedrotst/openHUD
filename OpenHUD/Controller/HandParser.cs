@@ -107,7 +107,6 @@ namespace OpenHud.Controller
 
                 curLine = strHand.Dequeue();
             }
-            // initialize actions map with all players as keys and empty actions
 
             //get blinds
             regex = new Regex(".*:");
@@ -144,9 +143,34 @@ namespace OpenHud.Controller
             var cards = regex.Match(curLine).ToString().Trim('[', ']');
             SetPlayerCards(players, cardsOwner, cards);
 
-            //ignore lines until Summary
+            curLine = strHand.Dequeue();
             while (curLine != "*** SUMMARY ***")
+            {
+                string stage = "??????";
+                if (curLine.StartsWith("***"))
+                {
+                    stage = curLine.Substring(4);
+                    stage = stage.Substring(0, stage.Length - 4);
+                }
+
+
+                //get actions
+                regex = new Regex(".*:");
+                playerName = regex.Match(curLine).ToString().Trim(':');
+
+                if(playerName != "")
+                {
+                    regex = new Regex(":[^\\$]*");
+                    var action = regex.Match(curLine).ToString().Trim().Substring(2);
+                    if (action != "sits out" && action != "is sitting out")
+                    {
+                        regex = new Regex("\\$\\d\\.\\d*");
+                        var value = regex.Match(curLine).ToString().Trim('$');
+                        players[playerName].Actions.Add(new PlayerAction(action, value, stage, actionNumber++));
+                    }
+                }
                 curLine = strHand.Dequeue();
+            }
 
             curLine = strHand.Dequeue();// summary line
             curLine = strHand.Dequeue();// Board line (optional)

@@ -73,7 +73,7 @@ namespace OpenHud.Persistence
                 _connection.Open();
                 command.Parameters.AddWithValue("@PlayerName", playerId);
                 command.Parameters.AddWithValue("@ActionName", playerAction.actionName);
-                command.Parameters.AddWithValue("@Value", playerAction.value);
+                command.Parameters.AddWithValue("@Value", (Object)playerAction.value ?? DBNull.Value);
                 command.Parameters.AddWithValue("@Stage", playerAction.stage);
                 command.Parameters.AddWithValue("@ActionNum", playerAction.actionNumber);
                 command.ExecuteScalar();
