@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OpenHud.Controller;
 
 namespace OpenHud
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            HandParser fileParser = new HandParser(@"../../hands_example");
+            var fileParser = new HandParser(@"../../hands_example");
             Console.ReadLine();
         }
     }

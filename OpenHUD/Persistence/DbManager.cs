@@ -5,97 +5,98 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 using System.Data.SqlClient;
+using OpenHud.Model;
 
 namespace OpenHud.Persistence
 {
     class DbManager
     {
-        SqlConnection connection;
-        string connectionString;
+        SqlConnection _connection;
+        internal string ConnectionString;
 
         public DbManager()
         {
-            connectionString = ConfigurationManager.ConnectionStrings["HandHistoryCS"].ConnectionString;
+            ConnectionString = ConfigurationManager.ConnectionStrings["HandHistoryCS"].ConnectionString;
         }
 
-        public void populateHand(Hand hand)
+        public void PopulateHand(Hand hand)
         {
-            string query = "INSERT INTO HAND (Id, TableInfo, DealerSeat, Board, Timestamp)" +
+            var query = "INSERT INTO HAND (Id, TableInfo, DealerSeat, Board, Timestamp)" +
                 "VALUES (@Id, @TableInfo, @Dealer, @Board, @Timestamp)";
 
-            using (connection = new SqlConnection(connectionString))
-            using (SqlCommand command = new SqlCommand(query, connection))
+            using (_connection = new SqlConnection(ConnectionString))
+            using (var command = new SqlCommand(query, _connection))
             {
-                connection.Open();
-                command.Parameters.AddWithValue("@Id", hand.handNumber);
-                var tableNameId = populateTableName(hand.tableName, hand.maxSeat, hand.smallBlind, 
-                    hand.bigBlind, hand.currency, hand.pokerType);
+                _connection.Open();
+                command.Parameters.AddWithValue("@Id", hand.HandNumber);
+                var tableNameId = PopulateTableName(hand.TableName, hand.MaxSeat, hand.SmallBlind, 
+                    hand.BigBlind, hand.Currency, hand.PokerType);
                 command.Parameters.AddWithValue("@TableInfo", tableNameId);
-                command.Parameters.AddWithValue("@Dealer", hand.buttonSeat);
-                command.Parameters.AddWithValue("@Timestamp", hand.timestamp);
-                command.Parameters.AddWithValue("@Board", (Object) hand.board ?? DBNull.Value);
+                command.Parameters.AddWithValue("@Dealer", hand.ButtonSeat);
+                command.Parameters.AddWithValue("@Timestamp", hand.Timestamp);
+                command.Parameters.AddWithValue("@Board", (Object) hand.Board ?? DBNull.Value);
                 command.ExecuteScalar();
 
-                hand.players.ForEach(p => populatePlayer(p, hand.handNumber));
+                hand.Players.ForEach(p => PopulatePlayer(p, hand.HandNumber));
             }
         }
 
-        public void populatePlayer(Player player, double handNumber)
+        public void PopulatePlayer(Player player, double handNumber)
         {
-            string query = "INSERT INTO Player (PlayerName, Seat, Hand, Chips, Cards)" +
+            var query = "INSERT INTO Player (PlayerName, Seat, Hand, Chips, Cards)" +
                 "VALUES (@PlayerName, @Seat, @Hand, @Chips, @Cards)";
 
-            using (connection = new SqlConnection(connectionString))
-            using (SqlCommand command = new SqlCommand(query, connection))
+            using (_connection = new SqlConnection(ConnectionString))
+            using (var command = new SqlCommand(query, _connection))
             {
-                connection.Open();
-                var playerNameId = populatePlayerName(player.name);
+                _connection.Open();
+                var playerNameId = PopulatePlayerName(player.Name);
                 command.Parameters.AddWithValue("@PlayerName", playerNameId);
-                command.Parameters.AddWithValue("@Seat", player.seat);
+                command.Parameters.AddWithValue("@Seat", player.Seat);
                 command.Parameters.AddWithValue("@Hand", handNumber);
-                command.Parameters.AddWithValue("@Chips", player.chips);
-                command.Parameters.AddWithValue("@Cards", (Object) player.cards ?? DBNull.Value);
+                command.Parameters.AddWithValue("@Chips", player.Chips);
+                command.Parameters.AddWithValue("@Cards", (Object) player.Cards ?? DBNull.Value);
                 command.ExecuteScalar();
             }
         }
 
-        public int populatePlayerName(string name)
+        public int PopulatePlayerName(string name)
         {
-            // Only adds if its a new name, otherwise fetch its id
-            string query = "IF EXISTS (SELECT * FROM PLAYERNAME WHERE Name = @Name)" +
-                " SELECT * FROM PLAYERNAME WHERE Name = @Name;" +
-                " ELSE BEGIN" +
-                " INSERT INTO PlayerName (Name) OUTPUT INSERTED.Id VALUES (@Name); END";
+            // Only adds if its a new Name, otherwise fetch its id
+            const string query = "IF EXISTS (SELECT * FROM PLAYERNAME WHERE Name = @Name)" +
+                                 " SELECT * FROM PLAYERNAME WHERE Name = @Name;" +
+                                 " ELSE BEGIN" +
+                                 " INSERT INTO PlayerName (Name) OUTPUT INSERTED.Id VALUES (@Name); END";
             
             int insertedValue;
-            using (connection = new SqlConnection(connectionString))
-            using (SqlCommand command = new SqlCommand(query, connection))
+            using (_connection = new SqlConnection(ConnectionString))
+            using (var command = new SqlCommand(query, _connection))
             {
 
-                connection.Open();
+                _connection.Open();
                 command.Parameters.AddWithValue("@Name", name);
                 insertedValue = (int)command.ExecuteScalar();
             }
             return insertedValue;
         }
 
-        public int populateTableName(string name, string seatNumber, double smallBlind, double bigBlind, 
+        public int PopulateTableName(string name, string seatNumber, double smallBlind, double bigBlind, 
             string currency, string pokerType)
         {
             // Only adds if its a new table, otherwise fetch its id
-            string query = "IF EXISTS (SELECT * FROM TABLEINFO WHERE Name = @Name)" +
-                " SELECT * FROM TABLEINFO WHERE Name = @Name;" +
-                " ELSE BEGIN" +
-                " INSERT INTO TABLEINFO (Name, SeatNumber, SmallBlind, BigBlind, Currency, PokerType) OUTPUT INSERTED.Id" +
-                " VALUES (@Name, @SeatNumber, @SmallBlind, @BigBlind, @Currency, @PokerType);" +
-                " END";
+            const string query = "IF EXISTS (SELECT * FROM TABLEINFO WHERE Name = @Name)" +
+                                 " SELECT * FROM TABLEINFO WHERE Name = @Name;" +
+                                 " ELSE BEGIN" +
+                                 " INSERT INTO TABLEINFO (Name, SeatNumber, SmallBlind, BigBlind, Currency, PokerType) OUTPUT INSERTED.Id" +
+                                 " VALUES (@Name, @SeatNumber, @SmallBlind, @BigBlind, @Currency, @PokerType);" +
+                                 " END";
             
             int insertedValue;
-            using (connection = new SqlConnection(connectionString))
-            using (SqlCommand command = new SqlCommand(query, connection))
+            using (_connection = new SqlConnection(ConnectionString))
+            using (var command = new SqlCommand(query, _connection))
             {
 
-                connection.Open();
+                _connection.Open();
                 command.Parameters.AddWithValue("@Name", name);
                 command.Parameters.AddWithValue("@SeatNumber", seatNumber);
                 command.Parameters.AddWithValue("@SmallBlind", smallBlind);

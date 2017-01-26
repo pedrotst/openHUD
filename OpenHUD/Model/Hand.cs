@@ -1,40 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace OpenHud
+namespace OpenHud.Model
 {
     class Hand
     {
-        public double handNumber;
-        public string pokerType;
-        public double smallBlind;
-        public double bigBlind;
-        public string currency;
-        public DateTime timestamp;
-        public string tableName;
-        public string maxSeat;
-        public string buttonSeat;
-        public string board;
-        public List<Player> players;
+        public double HandNumber;
+        public string PokerType;
+        public double SmallBlind;
+        public double BigBlind;
+        public string Currency;
+        public DateTime Timestamp;
+        public string TableName;
+        public string MaxSeat;
+        public string ButtonSeat;
+        public string Board;
+        public List<Player> Players;
 
         public Hand(string handNumber, string pokerType, string smallBlind, string bigBlind, string currency, 
             string date, string tableName, string maxSeat, string buttonSeat, List<Player> players, string board)
         {
-            this.handNumber = double.Parse(handNumber);
-            this.pokerType = pokerType;
-            this.smallBlind = double.Parse(smallBlind, CultureInfo.InvariantCulture);
-            this.bigBlind = double.Parse(bigBlind, CultureInfo.InvariantCulture);
-            this.currency = currency;
-            this.timestamp = DateTime.ParseExact(date, "yyyy/MM/dd HH:mm:ss ET", CultureInfo.InvariantCulture);
-            this.tableName = tableName;
-            this.maxSeat = maxSeat;
-            this.buttonSeat = buttonSeat;
-            this.board = board;
-            this.players = players;
+            this.HandNumber = double.Parse(handNumber);
+            this.PokerType = pokerType;
+            this.SmallBlind = double.Parse(smallBlind, CultureInfo.InvariantCulture);
+            this.BigBlind = double.Parse(bigBlind, CultureInfo.InvariantCulture);
+            this.Currency = currency;
+            this.Timestamp = DateTime.ParseExact(date, "yyyy/MM/dd HH:mm:ss ET", CultureInfo.InvariantCulture);
+            this.TableName = tableName;
+            this.MaxSeat = maxSeat;
+            this.ButtonSeat = buttonSeat;
+            this.Board = board;
+            this.Players = players;
         }
 
     }

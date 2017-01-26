@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenHud
+namespace OpenHud.Model
 {
     class Card
     {

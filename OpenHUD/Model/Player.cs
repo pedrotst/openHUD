@@ -5,21 +5,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenHud
+namespace OpenHud.Model
 {
     class Player
     {
-        public int seat;
-        public string name { get; private set;}
-        public double chips;
-        public string cards;
+        public int Seat;
+        public string Name { get; private set;}
+        public double Chips;
+        public string Cards;
 
         public Player(string seat, string name, string chips)
         {
-            this.seat = int.Parse(seat);
-            this.name = name;
-            this.chips = double.Parse(chips, CultureInfo.InvariantCulture);
-            cards = null;
+            this.Seat = int.Parse(seat);
+            this.Name = name;
+            this.Chips = double.Parse(chips, CultureInfo.InvariantCulture);
+            Cards = null;
         }
     }
 }
