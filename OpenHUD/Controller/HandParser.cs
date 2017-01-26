@@ -45,6 +45,7 @@ namespace OpenHud.Controller
 
        private void ParseHand(Queue<string> strHand)
         {
+            int actionNumber = 0;
             var curLine = strHand.Dequeue();
 
             //get hand number
@@ -119,14 +120,14 @@ namespace OpenHud.Controller
                 {
                     regex = new Regex("\\$.*");
                     var value = regex.Match(curLine).ToString().Trim('$');
-                    players[playerName].Actions.Add(new PlayerAction(action, value, "Blinds"));
+                    players[playerName].Actions.Add(new PlayerAction(action, value, "Pre-Flop", actionNumber++));
                 }
                 curLine = strHand.Dequeue();
                 regex = new Regex(".*:");
                 playerName = regex.Match(curLine).ToString().Trim(':');
             }
 
-            
+
 
             //ignore lines until Hole Cards
             while (curLine != "*** HOLE CARDS ***")
@@ -162,7 +163,7 @@ namespace OpenHud.Controller
             {
                 regex = new Regex("\\[.*\\]");
                 cards = regex.Match(curLine).ToString().Trim('[', ']');
-                if(cards != "")
+                if (cards != "")
                 {
                     regex = new Regex(":.* \\[");
                     cardsOwner = regex.Match(curLine).ToString().Trim(':', ']');

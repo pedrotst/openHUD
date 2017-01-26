@@ -64,8 +64,8 @@ namespace OpenHud.Persistence
 
         private void PopulateAction(int playerId, PlayerAction playerAction)
         {
-            var query = "INSERT INTO Action (Player, Name, Value, Stage, Last_Action)" +
-                "VALUES (@PlayerName, @ActionName, @Value, @Stage, @Last_Action)";
+            var query = "INSERT INTO Action (Player, Name, Value, Stage, ActionNum)" +
+                "VALUES (@PlayerName, @ActionName, @Value, @Stage, @ActionNum)";
 
             using (_connection = new SqlConnection(ConnectionString))
             using (var command = new SqlCommand(query, _connection))
@@ -75,7 +75,7 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@ActionName", playerAction.actionName);
                 command.Parameters.AddWithValue("@Value", playerAction.value);
                 command.Parameters.AddWithValue("@Stage", playerAction.stage);
-                command.Parameters.AddWithValue("@Last_Action", DBNull.Value);
+                command.Parameters.AddWithValue("@ActionNum", playerAction.actionNumber);
                 command.ExecuteScalar();
             }
         }

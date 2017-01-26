@@ -12,11 +12,13 @@ namespace OpenHud.Model
         public string actionName;
         public double? value = null;
         public string stage;
+        public int actionNumber;
 
-        public PlayerAction(string actionName, string value, string stage)
+        public PlayerAction(string actionName, string value, string stage, int actionNumber)
         {
             this.actionName = actionName;
             this.stage = stage;
+            this.actionNumber = actionNumber;
 
             double parsedValue;
             if(double.TryParse(value, NumberStyles.Any, CultureInfo.InvariantCulture, out parsedValue))
