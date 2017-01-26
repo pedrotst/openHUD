@@ -57,12 +57,12 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@Hand", handNumber);
                 command.Parameters.AddWithValue("@Chips", player.Chips);
                 command.Parameters.AddWithValue("@Cards", (Object) player.Cards ?? DBNull.Value);
-                int playerId = (int)command.ExecuteScalar();
+                long playerId = (long)command.ExecuteScalar();
                 player.Actions.ForEach(act => PopulateAction(playerId, act));
             }
         }
 
-        private void PopulateAction(int playerId, PlayerAction playerAction)
+        private void PopulateAction(long playerId, PlayerAction playerAction)
         {
             var query = "INSERT INTO Action (Player, Name, Value, Stage, ActionNum)" +
                 "VALUES (@PlayerName, @ActionName, @Value, @Stage, @ActionNum)";
@@ -100,7 +100,7 @@ namespace OpenHud.Persistence
             return insertedValue;
         }
 
-        public int PopulateTableName(string name, string seatNumber, double smallBlind, double bigBlind, 
+        public long PopulateTableName(string name, string seatNumber, double smallBlind, double bigBlind, 
             string currency, string pokerType)
         {
             // Only adds if its a new table, otherwise fetch its id
@@ -111,7 +111,7 @@ namespace OpenHud.Persistence
                                  " VALUES (@Name, @SeatNumber, @SmallBlind, @BigBlind, @Currency, @PokerType);" +
                                  " END";
             
-            int insertedValue;
+            long insertedValue;
             using (_connection = new SqlConnection(ConnectionString))
             using (var command = new SqlCommand(query, _connection))
             {
@@ -123,7 +123,7 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@BigBlind", bigBlind);
                 command.Parameters.AddWithValue("@Currency", currency);
                 command.Parameters.AddWithValue("@PokerType", pokerType);
-                insertedValue = (int)command.ExecuteScalar();
+                insertedValue = (long)command.ExecuteScalar();
             }
             return insertedValue;
         }
