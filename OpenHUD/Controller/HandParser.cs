@@ -157,7 +157,7 @@ namespace OpenHud.Controller
                     {
                         regex = new Regex("(shows|mucks|raises|folds|checks|bets|calls|collected|doesn\\'t show hand)");
                         var action = regex.Match(curLine).ToString().Trim();
-                        if (action != "sits out" && action != "is sitting out")
+                        if (action != "sits out" && action != "is sitting out" && action != "")
                         {
                             regex = new Regex("\\$\\d\\.\\d*");
                             var value = regex.Match(curLine).ToString().Trim('$');

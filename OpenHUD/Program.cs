@@ -12,6 +12,7 @@ namespace OpenHud
         private static void Main(string[] args)
         {
             var fileParser = new HandParser(@"../../hands_example");
+            // var fileParser = new HandParser(@"P:\Desv\PokerStars\HandHistory\pedroabreu1");
             Console.ReadLine();
         }
     }
