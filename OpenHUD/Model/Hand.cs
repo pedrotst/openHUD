@@ -6,7 +6,7 @@ namespace OpenHud.Model
 {
     class Hand
     {
-        public double HandNumber;
+        public long HandNumber;
         public string PokerType;
         public double SmallBlind;
         public double BigBlind;
@@ -21,7 +21,7 @@ namespace OpenHud.Model
         public Hand(string handNumber, string pokerType, string smallBlind, string bigBlind, string currency, string date, 
             string tableName, string maxSeat, string buttonSeat, List<Player> players, string board)
         {
-            this.HandNumber = double.Parse(handNumber);
+            this.HandNumber = long.Parse(handNumber);
             this.PokerType = pokerType;
             this.SmallBlind = double.Parse(smallBlind, CultureInfo.InvariantCulture);
             this.BigBlind = double.Parse(bigBlind, CultureInfo.InvariantCulture);

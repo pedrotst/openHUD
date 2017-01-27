@@ -25,21 +25,16 @@ namespace OpenHud.Controller
         {
             Console.WriteLine("Reading Hands At {0}", fileName);
             var file = new StreamReader(fileName);
-            try
+
+            var strHand = GetHand(file);
+            while (strHand.Any())
             {
-                var strHand = GetHand(file);
-                while (strHand.Any())
-                {
-                    ParseHand(strHand);
-                    strHand = GetHand(file);
-                    Console.Write(".");
-                }
-                Console.WriteLine("\nSucess!\n");
+                ParseHand(strHand);
+                strHand = GetHand(file);
+                Console.Write(".");
             }
-            catch (SqlException e)
-            {
-                Console.WriteLine(e.Message);
-            }
+            Console.WriteLine("\nSucess!\n");
+
             file.Close();
         }
 
@@ -111,6 +106,7 @@ namespace OpenHud.Controller
             //get blinds
             regex = new Regex(".*:");
             playerName = regex.Match(curLine).ToString().Trim(':');
+            string stage = "PRE-FLOP";
             while (playerName != "")
             {
                 regex = new Regex(":[^\\$]*");
@@ -119,7 +115,7 @@ namespace OpenHud.Controller
                 {
                     regex = new Regex("\\$.*");
                     var value = regex.Match(curLine).ToString().Trim('$');
-                    players[playerName].Actions.Add(new PlayerAction(action, value, "Pre-Flop", actionNumber++));
+                    players[playerName].Actions.Add(new PlayerAction(action, value, stage, actionNumber++));
                 }
                 curLine = strHand.Dequeue();
                 regex = new Regex(".*:");
@@ -144,29 +140,29 @@ namespace OpenHud.Controller
             SetPlayerCards(players, cardsOwner, cards);
 
             curLine = strHand.Dequeue();
+            //get actions
             while (curLine != "*** SUMMARY ***")
             {
-                string stage = "??????";
                 if (curLine.StartsWith("***"))
                 {
-                    stage = curLine.Substring(4);
-                    stage = stage.Substring(0, stage.Length - 4);
+                    regex = new Regex("\\*.*\\*");
+                    stage = regex.Match(curLine).ToString().Trim('*').Trim();
                 }
-
-
-                //get actions
-                regex = new Regex(".*:");
-                playerName = regex.Match(curLine).ToString().Trim(':');
-
-                if(playerName != "")
+                else
                 {
-                    regex = new Regex(":[^\\$]*");
-                    var action = regex.Match(curLine).ToString().Trim().Substring(2);
-                    if (action != "sits out" && action != "is sitting out")
+                    regex = new Regex("(.*:|.+?(?= collected))");
+                    playerName = regex.Match(curLine).ToString().Trim(':');
+
+                    if (playerName != "")
                     {
-                        regex = new Regex("\\$\\d\\.\\d*");
-                        var value = regex.Match(curLine).ToString().Trim('$');
-                        players[playerName].Actions.Add(new PlayerAction(action, value, stage, actionNumber++));
+                        regex = new Regex("(shows|mucks|raises|folds|checks|bets|calls|collected|doesn\\'t show hand)");
+                        var action = regex.Match(curLine).ToString().Trim();
+                        if (action != "sits out" && action != "is sitting out")
+                        {
+                            regex = new Regex("\\$\\d\\.\\d*");
+                            var value = regex.Match(curLine).ToString().Trim('$');
+                            players[playerName].Actions.Add(new PlayerAction(action, value, stage, actionNumber++));
+                        }
                     }
                 }
                 curLine = strHand.Dequeue();

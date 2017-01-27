@@ -41,7 +41,7 @@ namespace OpenHud.Persistence
             }
         }
 
-        public void PopulatePlayer(Player player, double handNumber)
+        public void PopulatePlayer(Player player, long handNumber)
         {
             var query = "INSERT INTO Player (PlayerName, Seat, Hand, Chips, Cards) " +
                 "OUTPUT INSERTED.Id " + 
@@ -58,19 +58,20 @@ namespace OpenHud.Persistence
                 command.Parameters.AddWithValue("@Chips", player.Chips);
                 command.Parameters.AddWithValue("@Cards", (Object) player.Cards ?? DBNull.Value);
                 long playerId = (long)command.ExecuteScalar();
-                player.Actions.ForEach(act => PopulateAction(playerId, act));
+                player.Actions.ForEach(act => PopulateAction(playerId, handNumber, act));
             }
         }
 
-        private void PopulateAction(long playerId, PlayerAction playerAction)
+        private void PopulateAction(long playerId, long handId, PlayerAction playerAction)
         {
-            var query = "INSERT INTO Action (Player, Name, Value, Stage, ActionNum)" +
-                "VALUES (@PlayerName, @ActionName, @Value, @Stage, @ActionNum)";
+            var query = "INSERT INTO Action (Hand, Player, Name, Value, Stage, ActionNum)" +
+                "VALUES (@Hand, @PlayerName, @ActionName, @Value, @Stage, @ActionNum)";
 
             using (_connection = new SqlConnection(ConnectionString))
             using (var command = new SqlCommand(query, _connection))
             {
                 _connection.Open();
+                command.Parameters.AddWithValue("@Hand", handId);
                 command.Parameters.AddWithValue("@PlayerName", playerId);
                 command.Parameters.AddWithValue("@ActionName", playerAction.actionName);
                 command.Parameters.AddWithValue("@Value", (Object)playerAction.value ?? DBNull.Value);
